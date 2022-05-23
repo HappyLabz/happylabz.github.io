@@ -1,3 +1,4 @@
 # Happy Labz Backtest Results
-* [Long Wallace One Backtests](longwallaceone.md)
-* [Short Wallace One Backtests](shortwallaceone.md)
+## ES
+* [Long Wallace One Backtests](longwallaceone_ES.md)
+* [Short Wallace One Backtests](shortwallaceone_ES.md)
