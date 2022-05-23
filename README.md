@@ -1,2 +1,2 @@
 # happylabz.github.io
-[link](happylabz.github.io/test.html)
+[link](test.html)
