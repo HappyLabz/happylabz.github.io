@@ -14,7 +14,7 @@ Percent Down: 84.62
 Total Points Moved Down: 16.75
 Potential Profit: 8375.00
 Total Points Ups: 10.00 Count Ups: 2
-Total Points Downs: -26.75 Count Downs: 11
+Total Points Downs: 26.75 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
@@ -47,7 +47,7 @@ Percent Down: 84.62
 Total Points Moved Down: 18.25
 Potential Profit: 9125.00
 Total Points Ups: 10.00 Count Ups: 2
-Total Points Downs: -28.25 Count Downs: 11
+Total Points Downs: 28.25 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
@@ -80,7 +80,7 @@ Percent Down: 84.62
 Total Points Moved Down: 13.50
 Potential Profit: 6750.00
 Total Points Ups: 14.75 Count Ups: 2
-Total Points Downs: -28.25 Count Downs: 11
+Total Points Downs: 28.25 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
@@ -113,7 +113,7 @@ Percent Down: 61.54
 Total Points Moved Down: 23.00
 Potential Profit: 11500.00
 Total Points Ups: 20.00 Count Ups: 5
-Total Points Downs: -43.00 Count Downs: 8
+Total Points Downs: 43.00 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
@@ -146,7 +146,7 @@ Percent Down: 61.54
 Total Points Moved Down: 27.75
 Potential Profit: 13875.00
 Total Points Ups: 19.50 Count Ups: 5
-Total Points Downs: -47.25 Count Downs: 8
+Total Points Downs: 47.25 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
@@ -179,7 +179,7 @@ Percent Down: 69.23
 Total Points Moved Down: 30.00
 Potential Profit: 15000.00
 Total Points Ups: 24.25 Count Ups: 4
-Total Points Downs: -54.25 Count Downs: 9
+Total Points Downs: 54.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
