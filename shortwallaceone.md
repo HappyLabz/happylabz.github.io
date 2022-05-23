@@ -1,3 +1,4 @@
+# Short Wallace One
 ### Test One
 * Sell when the price hits the middle line of the 20p 2std bollinger
 * Stoploss is 2 points
