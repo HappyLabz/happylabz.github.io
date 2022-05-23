@@ -1,2 +1,2 @@
 # Happy Labz Backtest Results
-[link](test.md)
+[Long Wallace One Backtests](longwallaceone.md)
