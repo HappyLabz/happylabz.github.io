@@ -1,2 +1,2 @@
 # happylabz.github.io
-[link](test.html)
+[link](test.md)
