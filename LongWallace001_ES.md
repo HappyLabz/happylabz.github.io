@@ -1,4 +1,4 @@
-# Long Wallace 001 (No VWAP condition)
+# Long Wallace 001
 
 - Symbol: ES
 - Time Period: 3/19/22 - 5/22/22
