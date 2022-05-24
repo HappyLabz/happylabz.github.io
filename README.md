@@ -8,7 +8,7 @@
 - [Long Wallace 001 (No VWAP)](LongWallace001_ES_NoVWAP.md)
 - [Short Wallace 001](ShortWallace001_ES.md)
 - [Short Wallace 001 (No VWAP)](ShortWallace001_ES_NoVWAP.md)
-- [Short Wallace 001 (No VWAP, Long Bias)](ShortWallace001_ES_N0VWAP_LongBias.md)
+- [Short Wallace 001 (No VWAP, Long Bias)](ShortWallace001_ES_NoVWAP_LongBias.md)
 
 ### Wallace 1231_002
 
