@@ -34,3 +34,8 @@
 
 - [Long Entry Wallace MJ 007](LongEntryWallaceMJ_007_ES.md)
 - [Short Entry Wallace MJ 007](ShortEntryWallaceMJ_007_ES.md)
+
+### Wallace 008
+
+- [Long Wallace 008](LongWallace008_ES.md)
+- [Short Wallace 008](ShortWallace008_ES.md)
