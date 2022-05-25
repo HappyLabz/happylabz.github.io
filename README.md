@@ -19,3 +19,8 @@
 - [Short Wallace 1231-002](ShortWallace1231_002.md)
 - [Short Wallace 1231-002 (No VWAP)](ShortWallace1231_002_ES_NoVWAP.md)
 - [Short Wallace 1231-002 (No VWAP, Long Bias)](ShortWallace1231_002_ES_NoVWAP_LongBias.md)
+
+### Wallace 1226_003
+
+- [Long Wallace 1226_003](LongWallace1226_003_ES.md)
+- [Short Wallace 1226_003](ShortWallace1226_003_ES.md)
