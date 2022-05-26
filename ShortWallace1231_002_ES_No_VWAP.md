@@ -1,4 +1,4 @@
-# Short Wallace 1231_002 
+# Short Wallace 1231_002 (No VWAP)
 - Symbol: ES
 - Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30
