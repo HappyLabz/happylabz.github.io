@@ -1,4 +1,7 @@
 # Happy Labz Backtest Results
+#### Key
+- One-Five: Buys on the open of the minute after indicator fires, sells open of bar after sell condition met
+- No VWAP: All vwap conditions are bypassed
 
 ## ES
 
@@ -15,18 +18,18 @@
 ### Wallace 1231_002
 
 - [Long Wallace 1231-002](LongWallace1231_002_ES.md)
-- [Long Wallace 1231-002 (No VWAP)](LongWallace1231_002_ES_No_VWAP).md)
+- [Long Wallace 1231-002 (No VWAP)](LongWallace1231_002_ES_No_VWAP.md)
 - [Long Wallace 1231-002 (No VWAP, Short Bias)](LongWallace1231_002_ES_NoVWAP_ShortBias.md)
 - [Short Wallace 1231-002](ShortWallace1231_002_ES.md)
-- [Short Wallace 1231-002 (No VWAP)](ShortWallace1231_002_ES_No_VWAP).md)
+- [Short Wallace 1231-002 (No VWAP)](ShortWallace1231_002_ES_No_VWAP.md)
 - [Short Wallace 1231-002 (No VWAP, Long Bias)](ShortWallace1231_002_ES_NoVWAP_LongBias.md)
 
 ### Wallace 1226_003
 
 - [Long Wallace 1226_003](LongWallace1226_003_ES.md)
-- [Long Wallace 1226_003 (No VWAP)](LongWallace1226_003_ES(No VWAP).md)
+- [Long Wallace 1226_003 (No VWAP)](LongWallace1226_003_ES_No VWAP).md)
 - [Short Wallace 1226_003](ShortWallace1226_003_ES.md)
-- [Short Wallace 1226_003 (No VWAP)](ShortWallace1226_003_ES(No VWAP).md)
+- [Short Wallace 1226_003 (No VWAP)](ShortWallace1226_003_ES_No VWAP).md)
 
 ### Wallace 004
 
