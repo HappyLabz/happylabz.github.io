@@ -27,9 +27,9 @@
 ### Wallace 1226_003
 
 - [Long Wallace 1226_003](LongWallace1226_003_ES.md)
-- [Long Wallace 1226_003 (No VWAP)](LongWallace1226_003_ES_No VWAP).md)
+- [Long Wallace 1226_003 (No VWAP)](LongWallace1226_003_ES_No VWAP.md)
 - [Short Wallace 1226_003](ShortWallace1226_003_ES.md)
-- [Short Wallace 1226_003 (No VWAP)](ShortWallace1226_003_ES_No VWAP).md)
+- [Short Wallace 1226_003 (No VWAP)](ShortWallace1226_003_ES_No VWAP.md)
 
 ### Wallace 004
 
