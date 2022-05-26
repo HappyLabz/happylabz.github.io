@@ -5,11 +5,11 @@
 ### Wallace 001
 
 - [Long Wallace 001](LongWallace001_ES.md)
-- [Long Wallace 001 (No VWAP)](LongWallace001_ES(No VWAP).md)
+- [Long Wallace 001 (No VWAP)](LongWallace001_ES(No_VWAP).md)
 - [Long Wallace 001 (No VWAP, Short Bias)](LongWallace001_ES_NoVWAP_ShortBias.md)
 - [Long Wallace 001 New Sell Times](LongWallace001_New.md)
 - [Short Wallace 001](ShortWallace001_ES.md)
-- [Short Wallace 001 (No VWAP)](ShortWallace001_ES_(No VWAP).md)
+- [Short Wallace 001 (No VWAP)](ShortWallace001_ES_(No_VWAP).md)
 - [Short Wallace 001 (No VWAP, Long Bias)](ShortWallace001_ES_NoVWAP_LongBias.md)
 
 ### Wallace 1231_002
