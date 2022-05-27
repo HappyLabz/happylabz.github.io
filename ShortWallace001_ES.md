@@ -4,6 +4,75 @@
 - Trading Period: 7:20-12:30
 
 ### Test One
+* Sell when price hits the middle line of the 20p bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Down: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: 2.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+
+
+</details>
+
+### Test Two
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 10.00
+Potential Profit: 5000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 10.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+
+
+</details>
+
+### Test Three
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 20.50
+Potential Profit: 10250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 20.50 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+
+
+</details>
+
+### Test Four
 * Sell when the price hits the middle line of the 20p bollinger
 * Stoploss is -2 points
 * Results:
@@ -26,53 +95,30 @@ Total Points Downs: 1.25 Count Downs: 1
 
 </details>
 
-### Test Two
+### Test Five
 * Sell when the price hits the middle line of the 20p bollinger
-* Stoploss is -3 points
+* Trailing Stop is -2 points
 * Results:
 ```
 Total Trades: 3
-Percent Up: 33.33
-Percent Down: 66.67
-Total Points Moved Down: 2.25
-Potential Profit: 1125.00
-Total Points Ups: 0.00 Count Ups: 1
-Total Points Downs: 2.25 Count Downs: 2
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -3.50
+Potential Profit: -1750.00
+Total Points Ups: 3.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:18:55		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
 
 
 </details>
 
-### Test Three
-* Sell when the price hits the middle line of the 20p bollinger
-* Stoploss is -5 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 33.33
-Percent Down: 66.67
-Total Points Moved Down: 2.25
-Potential Profit: 1125.00
-Total Points Ups: 0.00 Count Ups: 1
-Total Points Downs: 2.25 Count Downs: 2
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
-
-
-</details>
-
-### Test Four
+### Test Six
 * Sell when the price hits the lower line of the 20p 1std bollinger
 * Stoploss is -2 points
 * Results:
@@ -95,53 +141,30 @@ Total Points Downs: 4.75 Count Downs: 1
 
 </details>
 
-### Test Five
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is -3 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Down: 10.00
-Potential Profit: 5000.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 10.00 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
-
-
-</details>
-
-### Test Six
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is -5 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Down: 10.00
-Potential Profit: 5000.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 10.00 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
-
-
-</details>
-
 ### Test Seven
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is -2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -3.50
+Potential Profit: -1750.00
+Total Points Ups: 3.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:18:55		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
+
+
+</details>
+
+### Test Eight
 * Sell when the price hits the lower line of the 20p 2std bollinger
 * Stoploss is -2 points
 * Results:
@@ -164,54 +187,8 @@ Total Points Downs: 9.00 Count Downs: 1
 
 </details>
 
-### Test Eight
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is -3 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Down: 20.50
-Potential Profit: 10250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 20.50 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
-
-
-</details>
-
 ### Test Nine
 * Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is -5 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Down: 20.50
-Potential Profit: 10250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 20.50 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
-
-
-</details>
-
-### Test Ten
-* Sell when the price hits the middle line of the 20p bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -229,6 +206,29 @@ Total Points Downs: 0.00 Count Downs: 0
 <code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:10		Total Move Down: -0.00</code> <br />
 <code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:18:55		Total Move Down: -1.25</code> <br />
 <code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
+
+
+</details>
+
+### Test Ten
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is -3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Down: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: 2.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
 
 
 </details>
@@ -257,52 +257,29 @@ Total Points Downs: 2.25 Count Downs: 2
 </details>
 
 ### Test Twelve
-* Sell when the price hits the middle line of the 20p bollinger
-* Trailing Stop is -5 points
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 3
-Percent Up: 33.33
-Percent Down: 66.67
-Total Points Moved Down: 2.25
-Potential Profit: 1125.00
-Total Points Ups: 0.00 Count Ups: 1
-Total Points Downs: 2.25 Count Downs: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 10.00
+Potential Profit: 5000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 10.00 Count Downs: 3
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
 
 
 </details>
 
 ### Test Thirteen
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is -2 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -3.50
-Potential Profit: -1750.00
-Total Points Ups: 3.50 Count Ups: 3
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:10		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:18:55		Total Move Down: -1.25</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
-
-
-</details>
-
-### Test Fourteen
 * Sell when the price hits the lower line of the 20p 1std bollinger
 * Trailing Stop is -3 points
 * Results:
@@ -325,53 +302,30 @@ Total Points Downs: 8.25 Count Downs: 2
 
 </details>
 
-### Test Fifteen
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is -5 points
+### Test Fourteen
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 3
 Percent Up: 0.00
 Percent Down: 100.00
-Total Points Moved Down: 10.00
-Potential Profit: 5000.00
+Total Points Moved Down: 20.50
+Potential Profit: 10250.00
 Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 10.00 Count Downs: 3
+Total Points Downs: 20.50 Count Downs: 3
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
 
 
 </details>
 
-### Test Sixteen
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is -2 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -3.50
-Potential Profit: -1750.00
-Total Points Ups: 3.50 Count Ups: 3
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:10		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:18:55		Total Move Down: -1.25</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
-
-
-</details>
-
-### Test Seventeen
+### Test Fifteen
 * Sell when the price hits the lower line of the 20p 2std bollinger
 * Trailing Stop is -3 points
 * Results:
@@ -394,32 +348,9 @@ Total Points Downs: 15.75 Count Downs: 2
 
 </details>
 
-### Test Eighteen
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is -5 points
-* Results:
-```
-Total Trades: 3
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Down: 20.50
-Potential Profit: 10250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: 20.50 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
-<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
-<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
-
-
-</details>
-
-### Test Nineteen
-* Sell when price hits the middle line of the 20p bollinger
-* No Stoploss
+### Test Sixteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 3
@@ -440,9 +371,32 @@ Total Points Downs: 2.25 Count Downs: 2
 
 </details>
 
-### Test Twenty
+### Test Seventeen
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is -5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Down: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: 2.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:25:20		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+
+
+</details>
+
+### Test Eighteen
 * Sell when the price hits the lower line of the 20p 1std bollinger
-* No Stoploss
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 3
@@ -463,9 +417,55 @@ Total Points Downs: 10.00 Count Downs: 3
 
 </details>
 
+### Test Nineteen
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is -5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 10.00
+Potential Profit: 5000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 10.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:26:00		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+
+
+</details>
+
+### Test Twenty
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is -5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 20.50
+Potential Profit: 10250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 20.50 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-04-13 10:15:00		Out: 2022-04-13 10:33:25		Total Move Down: 4.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+
+
+</details>
+
 ### Test Twenty-One
 * Sell when the price hits the lower line of the 20p 2std bollinger
-* No Stoploss
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 3
