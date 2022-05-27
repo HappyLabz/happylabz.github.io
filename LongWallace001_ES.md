@@ -187,7 +187,7 @@ Total Points Downs: -10.25 Count Downs: 5
 
 ### Test Eight
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 6
@@ -213,7 +213,7 @@ Total Points Downs: -9.25 Count Downs: 3
 
 ### Test Nine
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 6
@@ -239,7 +239,7 @@ Total Points Downs: -16.50 Count Downs: 3
 
 ### Test Ten
 * Sell when the price hits the middle line of the 20p bollinger
-* Stoploss is 2 points
+* Trailing Stop is 2 points
 * Results:
 ```
 Total Trades: 6
@@ -265,7 +265,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Eleven
 * Sell when the price hits the middle line of the 20p bollinger
-* Stoploss is 3 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 6
@@ -291,7 +291,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Twelve
 * Sell when the price hits the middle line of the 20p bollinger
-* Stoploss is 5 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 6
@@ -317,7 +317,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirteen
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 2 points
+* Trailing Stop is 2 points
 * Results:
 ```
 Total Trades: 6
@@ -343,7 +343,7 @@ Total Points Downs: -2.50 Count Downs: 2
 
 ### Test Fourteen
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 3 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 6
@@ -395,7 +395,7 @@ Total Points Downs: -3.00 Count Downs: 1
 
 ### Test Sixteen
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Trailing Stop is 2 points
 * Results:
 ```
 Total Trades: 6
@@ -421,7 +421,7 @@ Total Points Downs: -3.75 Count Downs: 3
 
 ### Test Seventeen
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 6
@@ -447,7 +447,7 @@ Total Points Downs: -4.50 Count Downs: 3
 
 ### Test Eighteen
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 6
@@ -473,7 +473,7 @@ Total Points Downs: -7.50 Count Downs: 2
 
 ### Test Nineteen
 * Sell when price hits the middle line of the 20p bollinger
-* Stoploss is 2 points
+* No Stoploss
 * Results:
 ```
 Total Trades: 6
@@ -499,7 +499,7 @@ Total Points Downs: -4.00 Count Downs: 4
 
 ### Test Twenty
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 2 points
+* No Stoploss
 * Results:
 ```
 Total Trades: 6
@@ -525,7 +525,7 @@ Total Points Downs: -4.00 Count Downs: 4
 
 ### Test Twenty-One
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* No Stoploss
 * Results:
 ```
 Total Trades: 6
