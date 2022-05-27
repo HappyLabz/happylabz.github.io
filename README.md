@@ -40,10 +40,10 @@
 
 ### Wallace MJ 007
 
-- [Long Entry Wallace MJ 007 One-Five](LongEntryWallaceMJ_007_ES.md)
-- [Long Entry Wallace MJ 007 One-Five (No VWAP)](LongEntryWallaceMJ_007_ES_No_VWAP.md)
-- [Short Entry Wallace MJ 007 One-Five](ShortEntryWallaceMJ_007_ES.md)
-- [Short Entry Wallace MJ 007 One-Five (No VWAP)](ShortEntryWallaceMJ_007_ES_No_VWAP.md)
+- [Long Entry Wallace MJ 007 One-Five](LongEntryWallaceMJ007_ES.md)
+- [Long Entry Wallace MJ 007 One-Five (No VWAP)](LongEntryWallaceMJ007_ES_No_VWAP.md)
+- [Short Entry Wallace MJ 007 One-Five](ShortEntryWallaceMJ007_ES.md)
+- [Short Entry Wallace MJ 007 One-Five (No VWAP)](ShortEntryWallaceMJ007_ES_No_VWAP.md)
 
 ### Wallace 008
 
