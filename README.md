@@ -1,7 +1,7 @@
 # Happy Labz Backtest Results
 #### Key
 - One-Five: Buys on the open of the minute after indicator fires, sells open of bar after sell condition met
-- No VWAP: All vwap conditions are bypassed
+- No VWAP: All vwap conditions are bypassed 
 
 ## ES
 
@@ -27,28 +27,28 @@
 ### Wallace 1226_003
 
 - [Long Wallace 1226_003 One-Five](LongWallace1226_003_ES.md)
-- [Long Wallace 1226_003 One-Five(No VWAP)](LongWallace1226_003_ES_No VWAP.md)
+- [Long Wallace 1226_003 One-Five(No VWAP)](LongWallace1226_003_ES_No_VWAP.md)
 - [Short Wallace 1226_003 One-Five](ShortWallace1226_003_ES.md)
-- [Short Wallace 1226_003 One-Five (No VWAP)](ShortWallace1226_003_ES_No VWAP.md)
+- [Short Wallace 1226_003 One-Five (No VWAP)](ShortWallace1226_003_ES_No_VWAP.md)
 
 ### Wallace 004
 
 - [Long Wallace 004 One-Five](LongWallace004_ES.md)
-- [Long Wallace 004 One-Five (No VWAP)](LongWallace004_ES_No VWAP.md)
+- [Long Wallace 004 One-Five (No VWAP)](LongWallace004_ES_No_VWAP.md)
 - [Short Wallace 004 One-Five](ShortWallace004_ES.md)
-- [Short Wallace 004 One-Five (No VWAP)](ShortWallace004_ES_No VWAP.md)
+- [Short Wallace 004 One-Five (No VWAP)](ShortWallace004_ES_No_VWAP.md)
 
 
 ### Wallace MJ 007
 
 - [Long Entry Wallace MJ 007 One-Five](LongEntryWallaceMJ_007_ES.md)
-- [Long Entry Wallace MJ 007 One-Five (No VWAP)](LongEntryWallaceMJ_007_ES_No VWAP.md)
+- [Long Entry Wallace MJ 007 One-Five (No VWAP)](LongEntryWallaceMJ_007_ES_No_VWAP.md)
 - [Short Entry Wallace MJ 007 One-Five](ShortEntryWallaceMJ_007_ES.md)
-- [Short Entry Wallace MJ 007 One-Five (No VWAP)](ShortEntryWallaceMJ_007_ES_No VWAP.md)
+- [Short Entry Wallace MJ 007 One-Five (No VWAP)](ShortEntryWallaceMJ_007_ES_No_VWAP.md)
 
 ### Wallace 008
 
 - [Long Wallace 008 One-Five](LongWallace008_ES.md)
-- [Long Wallace 008 One-Five (No VWAP)](LongWallace008_ES_No VWAP.md)
+- [Long Wallace 008 One-Five (No VWAP)](LongWallace008_ES_No_VWAP.md)
 - [Short Wallace 008 One-Five](ShortWallace008_ES.md)
-- [Short Wallace 008 One-Five (No VWAP)](ShortWallace008_ES_No VWAP.md)
+- [Short Wallace 008 One-Five (No VWAP)](ShortWallace008_ES_No_VWAP.md)
