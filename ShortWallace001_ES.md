@@ -73,7 +73,7 @@ Total Points Downs: 2.25 Count Downs: 2
 </details>
 
 ### Test Four
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -96,7 +96,7 @@ Total Points Downs: 4.75 Count Downs: 1
 </details>
 
 ### Test Five
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Stoploss is -3 points
 * Results:
 ```
@@ -119,7 +119,7 @@ Total Points Downs: 10.00 Count Downs: 3
 </details>
 
 ### Test Six
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Stoploss is -5 points
 * Results:
 ```
@@ -142,7 +142,7 @@ Total Points Downs: 10.00 Count Downs: 3
 </details>
 
 ### Test Seven
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -165,7 +165,7 @@ Total Points Downs: 9.00 Count Downs: 1
 </details>
 
 ### Test Eight
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Stoploss is -3 points
 * Results:
 ```
@@ -188,7 +188,7 @@ Total Points Downs: 20.50 Count Downs: 3
 </details>
 
 ### Test Nine
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Stoploss is -5 points
 * Results:
 ```
@@ -280,7 +280,7 @@ Total Points Downs: 2.25 Count Downs: 2
 </details>
 
 ### Test Thirteen
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -303,7 +303,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Fourteen
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Trailing Stop is -3 points
 * Results:
 ```
@@ -326,7 +326,7 @@ Total Points Downs: 8.25 Count Downs: 2
 </details>
 
 ### Test Fifteen
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * Trailing Stop is -5 points
 * Results:
 ```
@@ -349,7 +349,7 @@ Total Points Downs: 10.00 Count Downs: 3
 </details>
 
 ### Test Sixteen
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -372,7 +372,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Seventeen
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Trailing Stop is -3 points
 * Results:
 ```
@@ -395,7 +395,7 @@ Total Points Downs: 15.75 Count Downs: 2
 </details>
 
 ### Test Eighteen
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * Trailing Stop is -5 points
 * Results:
 ```
@@ -441,7 +441,7 @@ Total Points Downs: 2.25 Count Downs: 2
 </details>
 
 ### Test Twenty
-* Sell when the price hits the upper line of the 20p 1std bollinger
+* Sell when the price hits the lower line of the 20p 1std bollinger
 * No Stoploss
 * Results:
 ```
@@ -464,7 +464,7 @@ Total Points Downs: 10.00 Count Downs: 3
 </details>
 
 ### Test Twenty-One
-* Sell when the price hits the upper line of the 20p 2std bollinger
+* Sell when the price hits the lower line of the 20p 2std bollinger
 * No Stoploss
 * Results:
 ```
