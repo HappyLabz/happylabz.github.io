@@ -3,6 +3,32 @@
 - Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30
 
+| Name | Win Percent | Profit |
+| ---- | ----------- | ------ |
+| Twenty-One | 100.00 | 10250.00 |
+| Twenty | 100.00 | 10250.00 |
+| Fourteen | 100.00 | 10250.00 |
+| Three | 100.00 | 10250.00 |
+| Fifteen | 66.67 | 6750.00 |
+| Nineteen | 100.00 | 5000.00 |
+| Eighteen | 100.00 | 5000.00 |
+| Twelve | 100.00 | 5000.00 |
+| Two | 100.00 | 5000.00 |
+| Thirteen | 66.67 | 3000.00 |
+| Eight | 33.33 | 3000.00 |
+| Seventeen | 66.67 | 1125.00 |
+| Sixteen | 66.67 | 1125.00 |
+| Ten | 66.67 | 1125.00 |
+| One | 66.67 | 1125.00 |
+| Six | 33.33 | 875.00 |
+| Eleven | 66.67 | -0.00 |
+| Four | 33.33 | -875.00 |
+| Nine | 0.00 | -1750.00 |
+| Seven | 0.00 | -1750.00 |
+| Five | 0.00 | -1750.00 |
+
+
+
 ### Test One
 * Sell when price hits the middle line of the 20p bollinger
 * No Stoploss
