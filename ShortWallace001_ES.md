@@ -5,7 +5,7 @@
 
 | Name | Win Percent | Profit |     | Name | Win Percent | Profit |
 | ---- | ----------- | ------ | --- | ---- | ----------- | ------ |
-| <tr><td colspan=3>Sorted By Profit</td> || <td colspan=3>  Sorted by Win Percent </td> </tr> |
+| Sorted By <br> Profit | | | | Sorted By <br> Win Percentage |||
 | Twenty-One | 100.00 | 10250.00 |     | Twenty-One | 100.00 | 10250.00 |
 | Twenty | 100.00 | 10250.00 |     | Twenty | 100.00 | 10250.00 |
 | Fourteen | 100.00 | 10250.00 |     | Fourteen | 100.00 | 10250.00 |

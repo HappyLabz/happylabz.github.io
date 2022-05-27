@@ -5,7 +5,7 @@
 
 | Name | Win Percent | Profit |     | Name | Win Percent | Profit |
 | ---- | ----------- | ------ | --- | ---- | ----------- | ------ |
-| <tr><td colspan=3>Sorted By Profit</td> || <td colspan=3>  Sorted by Win Percent </td> </tr> |
+| Sorted By <br> Profit | | | | Sorted By <br> Win Percentage |||
 | Three | 83.33 | 15500.00 |     | Seventeen | 100.00 | 6375.00 |
 | Fourteen | 50.00 | 6875.00 |     | Sixteen | 100.00 | 6375.00 |
 | Seventeen | 100.00 | 6375.00 |     | Ten | 100.00 | 6375.00 |
