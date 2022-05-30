@@ -66,3 +66,8 @@
 
 - [Long Wallace Doodle 010 One-Five](LongWallaceDoodle010_ES.md)
 - [Short Wallace Doodle 010 One-Five](ShortWallaceDoodle010_ES.md)
+
+### Wallace Doodle 011
+
+- [Long Wallace Doodle 011 One-Five](LongWallaceDoodle011_ES.md)
+- [Short Wallace Doodle 011 One-Five](ShortWallaceDoodle011_ES.md)
