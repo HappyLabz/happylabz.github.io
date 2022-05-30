@@ -1,18 +1,19 @@
 # Happy Labz Backtest Results
 #### Key
 - One-Five: Buys on the open of the minute after indicator fires, sells open of bar after sell condition met
-- No VWAP: All vwap conditions are bypassed 
+- Long Bias: Adds the condition Std Dev Channel Midline greater than VWAP Midline
+- Short Bias: Adds the condition Std Dev Channel Midline less than VWAP Midline
 
 ## ES
 
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_ES.md)
-- [Long Wallace 001 One-Five (No VWAP)](LongWallace001_ES_No_VWAP.md)
-- [Long Wallace 001 (No VWAP, Short Bias)](LongWallace001_ES_NoVWAP_ShortBias.md)
+- [Long Wallace 001 One-Five (Long Bias)](LongWallace001_ES_Long_Bias.md)
+- [Long Wallace 001 One-Five Short Bias](LongWallace001_ES_Short_Bias.md)
 - [Short Wallace 001 One-Five](ShortWallace001_ES.md)
-- [Short Wallace 001 One-Five (No VWAP)](ShortWallace001_ES_No_VWAP.md)
-- [Short Wallace 001 (No VWAP, Long Bias)](ShortWallace001_ES_NoVWAP_LongBias.md)
+- [Short Wallace 001 One-Five (Long Bias)](ShortWallace001_ES_Long_Bias.md)
+- [Short Wallace 001 One-Five Short Bias](ShortWallace001_ES_Short_Bias.md)
 
 ### Wallace 1231_002
 
