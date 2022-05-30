@@ -91,3 +91,10 @@
 - [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallaceDoodle013_ES_Short_Bias.md)
 - [Short Wallace Doodle 013 One-Five](ShortWallaceDoodle013_ES.md)
 - [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallaceDoodle013_ES_Long_Bias.md)
+
+### Wallace Doodle 014
+
+- [Long Wallace Doodle 014 One-Five](LongWallaceDoodle014_ES.md)
+- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallaceDoodle014_ES_Short_Bias.md)
+- [Short Wallace Doodle 014 One-Five](ShortWallaceDoodle014_ES.md)
+- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallaceDoodle014_ES_Long_Bias.md)
