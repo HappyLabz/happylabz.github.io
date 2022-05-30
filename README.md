@@ -60,13 +60,9 @@
 ### Wallace Doodle 0225_009
 
 - [Long Wallace Doodle 0225_009 One-Five](LongWallaceDoodle0225_009_ES.md)
-- [Long Wallace Doodle 0225_009 One-Five (No VWAP)](LongWallaceDoodle0225_009_ES_No_VWAP.md)
 - [Short Wallace Doodle 0225_009 One-Five](ShortWallaceDoodle0225_009_ES.md)
-- [Short Wallace Doodle 0225_009 One-Five (No VWAP)](ShortWallaceDoodle0225_009_ES_No_VWAP.md)
 
 ### Wallace Doodle 010
 
 - [Long Wallace Doodle 010 One-Five](LongWallaceDoodle010_ES.md)
-- [Long Wallace Doodle 010 One-Five (No VWAP)](LongWallaceDoodle010_ES_No_VWAP.md)
 - [Short Wallace Doodle 010 One-Five](ShortWallaceDoodle010_ES.md)
-- [Short Wallace Doodle 010 One-Five (No VWAP)](ShortWallaceDoodle010_ES_No_VWAP.md)
