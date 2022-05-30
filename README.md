@@ -41,12 +41,12 @@
 
 ### Wallace MJ 007
 
-- [Long Wallace MJ 007 One-Five](LongWallaceMJ_007_ES.md)
-- [Long Wallace MJ 007 One-Five (Long Bias)](LongWallaceMJ_007_ES_Long_Bias.md)
-- [Long Wallace MJ 007 One-Five (Short Bias)](LongWallaceMJ_007_ES_Short_Bias.md)
-- [Short Wallace MJ 007 One-Five](ShortWallaceMJ_007_ES.md)
-- [Short Wallace MJ 007 One-Five (Long Bias)](ShortWallaceMJ_007_ES_Long_Bias.md)
-- [Short Wallace MJ 007 One-Five (Short Bias)](ShortWallaceMJ_007_ES_Short_Bias.md)
+- [Long Wallace MJ 007 One-Five](LongWallaceMJ007_ES.md)
+- [Long Wallace MJ 007 One-Five (Long Bias)](LongWallaceMJ007_ES_Long_Bias.md)
+- [Long Wallace MJ 007 One-Five (Short Bias)](LongWallaceMJ007_ES_Short_Bias.md)
+- [Short Wallace MJ 007 One-Five](ShortWallaceMJ007_ES.md)
+- [Short Wallace MJ 007 One-Five (Long Bias)](ShortWallaceMJ007_ES_Long_Bias.md)
+- [Short Wallace MJ 007 One-Five (Short Bias)](ShortWallaceMJ007_ES_Short_Bias.md)
 
 ### Wallace 008
 
@@ -60,14 +60,20 @@
 ### Wallace Doodle 0225_009
 
 - [Long Wallace Doodle 0225_009 One-Five](LongWallaceDoodle0225_009_ES.md)
+- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallaceDoodle0225_009_ES_Short_Bias.md)
 - [Short Wallace Doodle 0225_009 One-Five](ShortWallaceDoodle0225_009_ES.md)
+- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallaceDoodle0225_009_ES_Long_Bias.md)
 
 ### Wallace Doodle 010
 
 - [Long Wallace Doodle 010 One-Five](LongWallaceDoodle010_ES.md)
+- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallaceDoodle010_ES_Short_Bias.md)
 - [Short Wallace Doodle 010 One-Five](ShortWallaceDoodle010_ES.md)
+- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallaceDoodle010_ES_Long_Bias.md)
 
 ### Wallace Doodle 011
 
 - [Long Wallace Doodle 011 One-Five](LongWallaceDoodle011_ES.md)
+- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallaceDoodle011_ES_Short_Bias.md)
 - [Short Wallace Doodle 011 One-Five](ShortWallaceDoodle011_ES.md)
+- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallaceDoodle011_ES_Long_Bias.md)
