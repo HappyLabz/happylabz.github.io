@@ -152,3 +152,13 @@
 
 - [Long Pointer 1226 One-Five](LongPointer1226_ES.md)
 - [Short Pointer1226 One-Five](ShortPointer1226_ES.md)
+
+### Pointer 1227
+
+- [Long Pointer 1227 One-Five](LongPointer1227_ES.md)
+- [Short Pointer1227 One-Five](ShortPointer1227_ES.md)
+
+### Pointer 1231
+
+- [Long Pointer 1231 One-Five](LongPointer1231_ES.md)
+- [Short Pointer1231 One-Five](ShortPointer1231_ES.md)
