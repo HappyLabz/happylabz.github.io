@@ -147,3 +147,8 @@
 - [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallaceDoodle022_ES_Short_Bias.md)
 - [Short Wallace Doodle 022 One-Five](ShortWallaceDoodle022_ES.md)
 - [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallaceDoodle022_ES_Long_Bias.md)
+
+### Pointer 1226
+
+- [Long Pointer 1226 One-Five](LongPointer1226_ES.md)
+- [Short Pointer1226 One-Five](ShortPointer1226_ES.md)
