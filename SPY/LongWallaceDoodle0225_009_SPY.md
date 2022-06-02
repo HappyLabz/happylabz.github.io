@@ -1,4 +1,4 @@
-# Short Wallace 001 (Short Bias)
+# Long Wallace Doodle 0225_009 
 - Symbol: SPY
 - Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30

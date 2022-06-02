@@ -1,4 +1,4 @@
-# Short Wallace 001 (Short Bias)
+# Short Wallace 004 (Long Bias)
 - Symbol: SPY
 - Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30
