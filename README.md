@@ -1,13 +1,9 @@
 # Happy Labz Backtest Results
 
-## AMZN
-[AMZN BACKTESTS](AMZN/README.md)
-
 
 ## ES
 [ES BACKTESTS](ES/README.md)
 
 
-## SPY
-[SPY BACKTESTS](SPY/README.md)
-
+## NQ
+[NQ BACKTESTS](NQ/README.md)
