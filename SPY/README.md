@@ -41,12 +41,12 @@
 
 ### Wallace MJ 007
 
-- [Long Wallace MJ 007 One-Five](LongWallaceMJ007_SPY.md)
-- [Long Wallace MJ 007 One-Five (Long Bias)](LongWallaceMJ007_SPY_Long_Bias.md)
-- [Long Wallace MJ 007 One-Five (Short Bias)](LongWallaceMJ007_SPY_Short_Bias.md)
-- [Short Wallace MJ 007 One-Five](ShortWallaceMJ007_SPY.md)
-- [Short Wallace MJ 007 One-Five (Long Bias)](ShortWallaceMJ007_SPY_Long_Bias.md)
-- [Short Wallace MJ 007 One-Five (Short Bias)](ShortWallaceMJ007_SPY_Short_Bias.md)
+- [Long Wallace MJ 007 One-Five](LongEntryWallaceMJ007_SPY.md)
+- [Long Wallace MJ 007 One-Five (Long Bias)](LongEntryWallaceMJ007_SPY_Long_Bias.md)
+- [Long Wallace MJ 007 One-Five (Short Bias)](LongEntryWallaceMJ007_SPY_Short_Bias.md)
+- [Short Wallace MJ 007 One-Five](ShortEntryWallaceMJ007_SPY.md)
+- [Short Wallace MJ 007 One-Five (Long Bias)](ShortEntryWallaceMJ007_SPY_Long_Bias.md)
+- [Short Wallace MJ 007 One-Five (Short Bias)](ShortEntryWallaceMJ007_SPY_Short_Bias.md)
 
 ### Wallace 008
 
