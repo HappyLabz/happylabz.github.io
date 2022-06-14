@@ -14,5 +14,8 @@
 ## AAPL
 [AAPL Backtests](AAPL/README.md)
 
+## AMZN
+[AMZN Backtests](AMZN/README.md)
+
 ## TSLA
 [TSLA BACKTESTS](TSLA/README.md)
