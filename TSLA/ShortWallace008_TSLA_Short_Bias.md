@@ -1,6 +1,6 @@
 # Short Wallace 008 (Short Bias)
 - Symbol: TSLA
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 5/10/21 - 6/02/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 8
 
