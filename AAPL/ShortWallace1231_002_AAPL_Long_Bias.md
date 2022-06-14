@@ -1,6 +1,6 @@
-# Long Wallace Doodle 011 
-- Symbol: AMZN
-- Date Range: 5/10/21 - 6/1/22
+# Short Wallace 1231_002 (Long Bias)
+- Symbol: AAPL
+- Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
