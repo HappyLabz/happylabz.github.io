@@ -10,12 +10,3 @@
 
 ## ES / NQ
 [ES / NQ Common Backtests](ES_NQ/README.md)
-
-## AAPL
-[AAPL Backtests](AAPL/README.md)
-
-## AMZN
-[AMZN Backtests](AMZN/README.md)
-
-## TSLA
-[TSLA BACKTESTS](TSLA/README.md)
