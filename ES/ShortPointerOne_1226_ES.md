@@ -7,8 +7,9 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Three | 73.68 | 41375.00 | 2177.63 |     | Three | 73.68 | 41375.00 | 2177.63 |
-| Thirty-Four | 52.63 | 41250.00 | 2171.05 |     | Two | 73.68 | 13125.00 | 690.79 |
+| Thirty-Five | 63.16 | 56500.00 | 2973.68 |     | Three | 73.68 | 41375.00 | 2177.63 |
+| Three | 73.68 | 41375.00 | 2177.63 |     | Two | 73.68 | 13125.00 | 690.79 |
+| Thirty-Four | 52.63 | 41250.00 | 2171.05 |     | Thirty-Five | 63.16 | 56500.00 | 2973.68 |
 | Five | 52.63 | 33750.00 | 1776.32 |     | One | 63.16 | 6250.00 | 328.95 |
 | Four | 52.63 | 21125.00 | 1111.84 |     | Twenty-Three | 57.89 | -10750.00 | -565.79 |
 | Two | 73.68 | 13125.00 | 690.79 |     | Nineteen | 57.89 | -15000.00 | -789.47 |
@@ -1330,7 +1331,7 @@ Total Points Downs: 1.25 Count Downs: 1
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -1360,6 +1361,45 @@ Total Points Downs: 99.25 Count Downs: 10
 <code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:10		Total Move Down: -6.25</code> <br />
 <code>In: 2022-05-04 11:31:00		Out: 2022-05-04 11:39:10		Total Move Down: 8.75</code> <br />
 <code>In: 2022-05-16 08:42:00		Out: 2022-05-16 08:41:10		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:23:10		Total Move Down: 25.50</code> <br />
+<code>In: 2022-05-19 11:41:00		Out: 2022-05-19 11:43:10		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-24 11:15:00		Out: 2022-05-24 11:23:10		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:09:10		Total Move Down: -0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 19
+Percent Up: 36.84
+Percent Down: 63.16
+Total Points Moved Down: 113.00
+Potential Profit: 56500.00
+Total Points Ups: 20.00 Count Ups: 7
+Total Points Downs: 133.00 Count Downs: 12
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-21 08:20:00		Out: 2022-03-21 08:20:10		Total Move Down: 2.25</code> <br />
+<code>In: 2022-03-23 08:24:00		Out: 2022-03-23 08:23:10		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:09:00		Out: 2022-03-24 08:11:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 08:52:00		Out: 2022-03-29 08:52:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-29 08:53:00		Out: 2022-03-29 08:52:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-31 09:03:00		Out: 2022-03-31 09:14:10		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-01 08:14:00		Out: 2022-04-01 08:19:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-04 11:57:00		Out: 2022-04-04 11:56:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:19:10		Total Move Down: 28.75</code> <br />
+<code>In: 2022-04-20 10:18:00		Out: 2022-04-20 10:27:10		Total Move Down: 3.75</code> <br />
+<code>In: 2022-04-25 09:53:00		Out: 2022-04-25 10:05:10		Total Move Down: 10.50</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:39:10		Total Move Down: 14.50</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:22:10		Total Move Down: 23.25</code> <br />
+<code>In: 2022-05-04 11:31:00		Out: 2022-05-04 11:39:10		Total Move Down: 8.75</code> <br />
+<code>In: 2022-05-16 08:42:00		Out: 2022-05-16 08:50:10		Total Move Down: -16.50</code> <br />
 <code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:23:10		Total Move Down: 25.50</code> <br />
 <code>In: 2022-05-19 11:41:00		Out: 2022-05-19 11:43:10		Total Move Down: 7.00</code> <br />
 <code>In: 2022-05-24 11:15:00		Out: 2022-05-24 11:23:10		Total Move Down: 5.00</code> <br />
