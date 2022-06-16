@@ -26,18 +26,19 @@
 | Fourteen | 100.00 | 1375.00 | 1375.00 |     | Fourteen | 100.00 | 1375.00 | 1375.00 |
 | Eight | 100.00 | 1375.00 | 1375.00 |     | Eight | 100.00 | 1375.00 | 1375.00 |
 | Two | 100.00 | 1375.00 | 1375.00 |     | Two | 100.00 | 1375.00 | 1375.00 |
-| Thirty-One | 100.00 | 500.00 | 500.00 |     | Thirty-One | 100.00 | 500.00 | 500.00 |
-| Thirty | 100.00 | 500.00 | 500.00 |     | Thirty | 100.00 | 500.00 | 500.00 |
-| Twenty-Five | 100.00 | 500.00 | 500.00 |     | Twenty-Five | 100.00 | 500.00 | 500.00 |
-| Twenty-Four | 100.00 | 500.00 | 500.00 |     | Twenty-Four | 100.00 | 500.00 | 500.00 |
-| Nineteen | 100.00 | 500.00 | 500.00 |     | Nineteen | 100.00 | 500.00 | 500.00 |
-| Eighteen | 100.00 | 500.00 | 500.00 |     | Eighteen | 100.00 | 500.00 | 500.00 |
-| Thirteen | 100.00 | 500.00 | 500.00 |     | Thirteen | 100.00 | 500.00 | 500.00 |
-| Twelve | 100.00 | 500.00 | 500.00 |     | Twelve | 100.00 | 500.00 | 500.00 |
-| Seven | 100.00 | 500.00 | 500.00 |     | Seven | 100.00 | 500.00 | 500.00 |
-| Six | 100.00 | 500.00 | 500.00 |     | Six | 100.00 | 500.00 | 500.00 |
-| Four | 100.00 | 500.00 | 500.00 |     | Four | 100.00 | 500.00 | 500.00 |
-| One | 100.00 | 500.00 | 500.00 |     | One | 100.00 | 500.00 | 500.00 |
+| Thirty-One | 100.00 | 1125.00 | 1125.00 |     | Thirty-One | 100.00 | 1125.00 | 1125.00 |
+| Thirty | 100.00 | 1125.00 | 1125.00 |     | Thirty | 100.00 | 1125.00 | 1125.00 |
+| Twenty-Five | 100.00 | 1125.00 | 1125.00 |     | Twenty-Five | 100.00 | 1125.00 | 1125.00 |
+| Twenty-Four | 100.00 | 1125.00 | 1125.00 |     | Twenty-Four | 100.00 | 1125.00 | 1125.00 |
+| Nineteen | 100.00 | 1125.00 | 1125.00 |     | Nineteen | 100.00 | 1125.00 | 1125.00 |
+| Eighteen | 100.00 | 1125.00 | 1125.00 |     | Eighteen | 100.00 | 1125.00 | 1125.00 |
+| Thirteen | 100.00 | 1125.00 | 1125.00 |     | Thirteen | 100.00 | 1125.00 | 1125.00 |
+| Twelve | 100.00 | 1125.00 | 1125.00 |     | Twelve | 100.00 | 1125.00 | 1125.00 |
+| Seven | 100.00 | 1125.00 | 1125.00 |     | Seven | 100.00 | 1125.00 | 1125.00 |
+| Six | 100.00 | 1125.00 | 1125.00 |     | Six | 100.00 | 1125.00 | 1125.00 |
+| Four | 100.00 | 1125.00 | 1125.00 |     | Four | 100.00 | 1125.00 | 1125.00 |
+| One | 100.00 | 1125.00 | 1125.00 |     | One | 100.00 | 1125.00 | 1125.00 |
+| Thirty-Four | 100.00 | 375.00 | 375.00 |     | Thirty-Four | 100.00 | 375.00 | 375.00 |
 | Eleven | 0.00 | -250.00 | -250.00 |     | Eleven | 0.00 | -250.00 | -250.00 |
 | Nine | 0.00 | -250.00 | -250.00 |     | Nine | 0.00 | -250.00 | -250.00 |
 
@@ -49,15 +50,15 @@
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -112,15 +113,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -154,15 +155,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -175,15 +176,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -280,15 +281,15 @@ Total Points Downs: -0.50 Count Downs: 1
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -301,15 +302,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -406,15 +407,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -427,15 +428,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -532,15 +533,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -553,15 +554,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -658,15 +659,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -679,15 +680,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 1.00
-Potential Profit: 500.00
-Total Points Ups: 1.00 Count Ups: 1
+Total Points Moved Up: 2.25
+Potential Profit: 1125.00
+Total Points Ups: 2.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:10		Total Move Up: 1.00</code> <br />
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:40:15		Total Move Up: 2.25</code> <br />
 
 
 </details>
@@ -730,6 +731,27 @@ Total Points Downs: 0.00 Count Downs: 0
 <details><summary>Trades</summary>
 
 <code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:44:15		Total Move Up: 8.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Four
+* Sell when the linear regression changes to negative slope
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.75
+Potential Profit: 375.00
+Total Points Ups: 0.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-27 11:40:00		Out: 2022-04-27 11:48:10		Total Move Up: 0.75</code> <br />
 
 
 </details>

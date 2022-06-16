@@ -177,3 +177,7 @@
 
 - [Long Pointer 006 (0219) One-Five](LongPointerSix_0219_NQ.md)
 - [Short Pointer 006 (0219) One-Five](ShortPointerSix_0219_NQ.md)
+
+### Golden 001
+- [Long Golden 001](LongGoldenOne_NQ.md)
+- [Short Golden 001](ShortGoldenOne_NQ.md)
