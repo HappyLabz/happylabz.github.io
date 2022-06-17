@@ -178,6 +178,61 @@
 - [Long Pointer 006 (0219) One-Five](LongPointerSix_0219_ES.md)
 - [Short Pointer 006 (0219) One-Five](ShortPointerSix_0219_ES.md)
 
+### Pointer 007 (0218)
+
+- [Long Pointer 007 (0218) One-Five](LongPointerSeven_0218_ES.md)
+- [Short Pointer 006 (0219) One-Five](ShortPointerSeven_0218_ES.md)
+
+### Pointer 008 (0317 1230)
+
+- [Long Pointer 008 (0317 1230) One-Five](LongPointerEight_03171230_ES.md)
+- [Short Pointer 008 (0317 1230) One-Five](ShortPointerEight_03171230_ES.md)
+
+### Pointer 009 (1226 1227 1230)
+
+- [Long Pointer 009 (1226 1227 1230) One-Five](LongPointerNine_122612271230_ES.md)
+- [Short Pointer 009 (1226 1227 1230) One-Five](ShortPointerNine_122612271230_ES.md)
+
+### Pointer 010 (1226 REV)
+
+- [Long Pointer 010 (1226) One-Five](LongPointerTen_1226REV_ES.md)
+- [Short Pointer 010 (1226) One-Five](ShortPointerTen_1226REV_ES.md)
+
+### Pointer 011 (1231 REV)
+
+- [Long Pointer 011 (1231 REV) One-Five](LongPointerEleven_1231REV_ES.md)
+- [Short Pointer 011 (1231 REV) One-Five](ShortPointerEleven_1231REV_ES.md)
+
+### Shepard 002 (1230 Waffles03)
+
+- [Long Shepard 002 (1230 Waffles03) One-Five](LongShepard002_1230Waffles03_ES.md)
+- [Short Shepard 002 (1230 Waffles03) One-Five](ShortShepard002_1230Waffles03_ES.md)
+
+### Shepard 003 (1230 Waffles02)
+
+- [Long Shepard 003 (1230 Waffles02) One-Five](LongShepard003_1230Waffles02_ES.md)
+- [Short Shepard 003 (1230 Waffles02) One-Five](ShortShepard003_1230Waffles02_ES.md)
+
+### Shepard 004 (1230 Waffles01)
+
+- [Long Shepard 004 (1230 Waffles01) One-Five](LongShepard004_1230Waffles01_ES.md)
+- [Short Shepard 004 (1230 Waffles01) One-Five](ShortShepard004_1230Waffles01_ES.md)
+
+### Shepard 005 (1225 Waffles03)
+
+- [Long Shepard 005 (1225 Waffles03) One-Five](LongShepard005_1225Waffles03_ES.md)
+- [Short Shepard 005 (1225 Waffles03) One-Five](ShortShepard005_1225Waffles03_ES.md)
+
+### Shepard 006 (1225 Waffles02)
+
+- [Long Shepard 006 (1225 Waffles02) One-Five](LongShepard006_1225Waffles02_ES.md)
+- [Short Shepard 006 (1225 Waffles02) One-Five](ShortShepard006_1225Waffles02_ES.md)
+
+### Shepard 007 (1225 Waffles01)
+
+- [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_ES.md)
+- [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_ES.md)
+
 ### Golden 001
 - [Long Golden 001](LongGoldenOne_ES.md)
 - [Short Golden 001](ShortGoldenOne_ES.md)
