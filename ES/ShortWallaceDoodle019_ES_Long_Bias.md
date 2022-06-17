@@ -7,9 +7,10 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Thirty-Four | 42.47 | 84375.00 | 1155.82 |     | One | 69.86 | -7500.00 | -102.74 |
-| Three | 64.38 | 66750.00 | 914.38 |     | Two | 68.49 | -625.00 | -8.56 |
-| Five | 47.95 | 39625.00 | 542.81 |     | Three | 64.38 | 66750.00 | 914.38 |
+| Thirty-Five | 61.64 | 138375.00 | 1895.55 |     | One | 69.86 | -7500.00 | -102.74 |
+| Thirty-Four | 42.47 | 84375.00 | 1155.82 |     | Two | 68.49 | -625.00 | -8.56 |
+| Three | 64.38 | 66750.00 | 914.38 |     | Three | 64.38 | 66750.00 | 914.38 |
+| Five | 47.95 | 39625.00 | 542.81 |     | Thirty-Five | 61.64 | 138375.00 | 1895.55 |
 | Twenty-Two | 41.10 | 875.00 | 11.99 |     | Eighteen | 50.68 | -17250.00 | -236.30 |
 | Two | 68.49 | -625.00 | -8.56 |     | Five | 47.95 | 39625.00 | 542.81 |
 | One | 69.86 | -7500.00 | -102.74 |     | Four | 47.95 | -10375.00 | -142.12 |
@@ -3112,7 +3113,7 @@ Total Points Downs: 15.00 Count Downs: 14
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -3200,6 +3201,99 @@ Total Points Downs: 228.50 Count Downs: 31
 <code>In: 2022-05-27 11:40:00		Out: 2022-05-27 11:43:10		Total Move Down: -0.00</code> <br />
 <code>In: 2022-05-27 11:46:00		Out: 2022-05-27 11:45:10		Total Move Down: -0.00</code> <br />
 <code>In: 2022-05-27 11:54:00		Out: 2022-05-27 11:53:10		Total Move Down: -0.50</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 73
+Percent Up: 38.36
+Percent Down: 61.64
+Total Points Moved Down: 276.75
+Potential Profit: 138375.00
+Total Points Ups: 153.00 Count Ups: 28
+Total Points Downs: 429.75 Count Downs: 45
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 07:27:00		Out: 2022-03-22 07:40:10		Total Move Down: -3.00</code> <br />
+<code>In: 2022-03-22 10:56:00		Out: 2022-03-22 11:09:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:04:00		Out: 2022-03-23 09:14:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-03-24 08:02:00		Out: 2022-03-24 08:11:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:11:10		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:08:00		Out: 2022-03-24 08:11:10		Total Move Down: 4.00</code> <br />
+<code>In: 2022-03-24 10:45:00		Out: 2022-03-24 10:50:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-24 10:49:00		Out: 2022-03-24 10:50:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 10:50:00		Out: 2022-03-24 10:50:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-25 11:55:00		Out: 2022-03-25 12:10:10		Total Move Down: 11.00</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:10:10		Total Move Down: 9.50</code> <br />
+<code>In: 2022-03-28 07:50:00		Out: 2022-03-28 07:58:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-04 08:03:00		Out: 2022-04-04 08:19:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-04 08:04:00		Out: 2022-04-04 08:19:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 08:47:00		Out: 2022-04-04 08:51:10		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-04 08:49:00		Out: 2022-04-04 08:51:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-04 08:51:00		Out: 2022-04-04 08:51:10		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-04 09:33:00		Out: 2022-04-04 09:46:10		Total Move Down: 5.75</code> <br />
+<code>In: 2022-04-04 10:52:00		Out: 2022-04-04 11:14:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-04-04 12:22:00		Out: 2022-04-04 12:35:10		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:24:00		Out: 2022-04-04 12:35:10		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:19:10		Total Move Down: 36.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:13:10		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-06 11:58:00		Out: 2022-04-06 12:13:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-08 09:12:00		Out: 2022-04-08 09:16:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-08 09:20:00		Out: 2022-04-08 09:38:10		Total Move Down: -1.50</code> <br />
+<code>In: 2022-04-08 09:21:00		Out: 2022-04-08 09:38:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-08 09:24:00		Out: 2022-04-08 09:38:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-04-13 12:08:00		Out: 2022-04-13 12:20:10		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-13 12:09:00		Out: 2022-04-13 12:20:10		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 12:10:00		Out: 2022-04-13 12:20:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-18 11:26:00		Out: 2022-04-18 11:32:10		Total Move Down: 4.25</code> <br />
+<code>In: 2022-04-19 08:17:00		Out: 2022-04-19 08:20:10		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 08:31:00		Out: 2022-04-19 08:37:10		Total Move Down: 2.25</code> <br />
+<code>In: 2022-04-19 08:40:00		Out: 2022-04-19 08:49:10		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 08:44:00		Out: 2022-04-19 08:49:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-25 11:11:00		Out: 2022-04-25 11:26:10		Total Move Down: -15.75</code> <br />
+<code>In: 2022-04-25 11:15:00		Out: 2022-04-25 11:26:10		Total Move Down: -14.50</code> <br />
+<code>In: 2022-04-27 10:54:00		Out: 2022-04-27 10:55:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:46:10		Total Move Down: 4.75</code> <br />
+<code>In: 2022-04-28 10:50:00		Out: 2022-04-28 10:52:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-28 11:12:00		Out: 2022-04-28 11:16:10		Total Move Down: 6.25</code> <br />
+<code>In: 2022-04-28 11:13:00		Out: 2022-04-28 11:16:10		Total Move Down: 4.25</code> <br />
+<code>In: 2022-04-28 11:26:00		Out: 2022-04-28 11:27:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-28 12:26:00		Out: 2022-04-28 12:39:10		Total Move Down: 18.25</code> <br />
+<code>In: 2022-05-03 10:03:00		Out: 2022-05-03 10:10:10		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:22:10		Total Move Down: 23.25</code> <br />
+<code>In: 2022-05-04 11:06:00		Out: 2022-05-04 11:22:10		Total Move Down: 34.00</code> <br />
+<code>In: 2022-05-04 11:29:00		Out: 2022-05-04 11:39:10		Total Move Down: 27.75</code> <br />
+<code>In: 2022-05-04 11:30:00		Out: 2022-05-04 11:39:10		Total Move Down: 25.50</code> <br />
+<code>In: 2022-05-04 11:31:00		Out: 2022-05-04 11:39:10		Total Move Down: 8.75</code> <br />
+<code>In: 2022-05-04 11:45:00		Out: 2022-05-04 11:59:10		Total Move Down: -39.00</code> <br />
+<code>In: 2022-05-04 11:46:00		Out: 2022-05-04 11:59:10		Total Move Down: -30.25</code> <br />
+<code>In: 2022-05-04 11:49:00		Out: 2022-05-04 11:59:10		Total Move Down: -11.00</code> <br />
+<code>In: 2022-05-11 07:45:00		Out: 2022-05-11 07:58:10		Total Move Down: 27.00</code> <br />
+<code>In: 2022-05-13 08:29:00		Out: 2022-05-13 08:31:10		Total Move Down: -1.50</code> <br />
+<code>In: 2022-05-16 11:26:00		Out: 2022-05-16 11:42:10		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-17 11:10:00		Out: 2022-05-17 11:23:10		Total Move Down: 35.50</code> <br />
+<code>In: 2022-05-17 11:11:00		Out: 2022-05-17 11:23:10		Total Move Down: 30.75</code> <br />
+<code>In: 2022-05-19 10:59:00		Out: 2022-05-19 11:09:10		Total Move Down: 11.50</code> <br />
+<code>In: 2022-05-23 08:06:00		Out: 2022-05-23 08:12:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-23 08:07:00		Out: 2022-05-23 08:12:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:52:10		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:28:10		Total Move Down: 10.25</code> <br />
+<code>In: 2022-05-24 11:14:00		Out: 2022-05-24 11:23:10		Total Move Down: 8.25</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:09:10		Total Move Down: 17.75</code> <br />
+<code>In: 2022-05-26 09:04:00		Out: 2022-05-26 09:09:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-05-26 11:24:00		Out: 2022-05-26 11:40:10		Total Move Down: 9.25</code> <br />
+<code>In: 2022-05-27 08:45:00		Out: 2022-05-27 08:58:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-27 11:18:00		Out: 2022-05-27 11:29:10		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-27 11:40:00		Out: 2022-05-27 11:43:10		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-27 11:46:00		Out: 2022-05-27 12:02:10		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-27 11:54:00		Out: 2022-05-27 12:02:10		Total Move Down: -3.00</code> <br />
 
 
 </details>

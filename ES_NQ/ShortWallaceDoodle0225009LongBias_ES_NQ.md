@@ -27,6 +27,7 @@
 | Ten | 0.00 | -1875.00 | -1875.00 |     | Ten | 0.00 | -1875.00 | -1875.00 |
 | Eight | 0.00 | -1875.00 | -1875.00 |     | Eight | 0.00 | -1875.00 | -1875.00 |
 | Six | 0.00 | -1875.00 | -1875.00 |     | Six | 0.00 | -1875.00 | -1875.00 |
+| Thirty-Five | 0.00 | -2250.00 | -2250.00 |     | Thirty-Five | 0.00 | -2250.00 | -2250.00 |
 | Twenty-Three | 0.00 | -2875.00 | -2875.00 |     | Twenty-Three | 0.00 | -2875.00 | -2875.00 |
 | Twenty-One | 0.00 | -2875.00 | -2875.00 |     | Twenty-One | 0.00 | -2875.00 | -2875.00 |
 | Nineteen | 0.00 | -2875.00 | -2875.00 |     | Nineteen | 0.00 | -2875.00 | -2875.00 |
@@ -36,11 +37,11 @@
 | Twenty-Two | 0.00 | -3750.00 | -3750.00 |     | Twenty-Two | 0.00 | -3750.00 | -3750.00 |
 | Twenty | 0.00 | -3750.00 | -3750.00 |     | Twenty | 0.00 | -3750.00 | -3750.00 |
 | Eighteen | 0.00 | -3750.00 | -3750.00 |     | Eighteen | 0.00 | -3750.00 | -3750.00 |
-| Five | 0.00 | -7125.00 | -7125.00 |     | Five | 0.00 | -7125.00 | -7125.00 |
-| Four | 0.00 | -7125.00 | -7125.00 |     | Four | 0.00 | -7125.00 | -7125.00 |
-| Three | 0.00 | -7125.00 | -7125.00 |     | Three | 0.00 | -7125.00 | -7125.00 |
-| Two | 0.00 | -7125.00 | -7125.00 |     | Two | 0.00 | -7125.00 | -7125.00 |
-| One | 0.00 | -7125.00 | -7125.00 |     | One | 0.00 | -7125.00 | -7125.00 |
+| Five | 0.00 | -8000.00 | -8000.00 |     | Five | 0.00 | -8000.00 | -8000.00 |
+| Four | 0.00 | -8000.00 | -8000.00 |     | Four | 0.00 | -8000.00 | -8000.00 |
+| Three | 0.00 | -8000.00 | -8000.00 |     | Three | 0.00 | -8000.00 | -8000.00 |
+| Two | 0.00 | -8000.00 | -8000.00 |     | Two | 0.00 | -8000.00 | -8000.00 |
+| One | 0.00 | -8000.00 | -8000.00 |     | One | 0.00 | -8000.00 | -8000.00 |
 
 ### Test One
 * Sell when price hits the middle line of the 20p bollinger
@@ -50,15 +51,15 @@
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -14.25
-Potential Profit: -7125.00
-Total Points Ups: 14.25 Count Ups: 1
+Total Points Moved Down: -16.00
+Potential Profit: -8000.00
+Total Points Ups: 16.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:26:00		Total Move Down: -14.25</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -71,15 +72,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -14.25
-Potential Profit: -7125.00
-Total Points Ups: 14.25 Count Ups: 1
+Total Points Moved Down: -16.00
+Potential Profit: -8000.00
+Total Points Ups: 16.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:26:00		Total Move Down: -14.25</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -92,15 +93,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -14.25
-Potential Profit: -7125.00
-Total Points Ups: 14.25 Count Ups: 1
+Total Points Moved Down: -16.00
+Potential Profit: -8000.00
+Total Points Ups: 16.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:26:00		Total Move Down: -14.25</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -113,15 +114,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -14.25
-Potential Profit: -7125.00
-Total Points Ups: 14.25 Count Ups: 1
+Total Points Moved Down: -16.00
+Potential Profit: -8000.00
+Total Points Ups: 16.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:26:00		Total Move Down: -14.25</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -134,15 +135,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -14.25
-Potential Profit: -7125.00
-Total Points Ups: 14.25 Count Ups: 1
+Total Points Moved Down: -16.00
+Potential Profit: -8000.00
+Total Points Ups: 16.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:26:00		Total Move Down: -14.25</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -736,7 +737,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -752,6 +753,27 @@ Total Points Downs: 0.00 Count Downs: 0
 <details><summary>Trades</summary>
 
 <code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -4.50
+Potential Profit: -2250.00
+Total Points Ups: 4.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:10		Total Move Down: -4.50</code> <br />
 
 
 </details>

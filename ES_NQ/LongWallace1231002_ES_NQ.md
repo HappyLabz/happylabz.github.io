@@ -27,6 +27,7 @@
 | Fifteen | 100.00 | 2250.00 | 2250.00 |     | Fifteen | 100.00 | 2250.00 | 2250.00 |
 | Twenty-Three | 100.00 | 1500.00 | 1500.00 |     | Twenty-Three | 100.00 | 1500.00 | 1500.00 |
 | Twenty-One | 100.00 | 1500.00 | 1500.00 |     | Twenty-One | 100.00 | 1500.00 | 1500.00 |
+| Thirty-Five | 0.00 | -250.00 | -250.00 |     | Thirty-Five | 0.00 | -250.00 | -250.00 |
 | Thirty-Four | 0.00 | -250.00 | -250.00 |     | Thirty-Four | 0.00 | -250.00 | -250.00 |
 | Eleven | 0.00 | -1000.00 | -1000.00 |     | Eleven | 0.00 | -1000.00 | -1000.00 |
 | Nine | 0.00 | -1000.00 | -1000.00 |     | Nine | 0.00 | -1000.00 | -1000.00 |
@@ -736,7 +737,28 @@ Total Points Downs: -2.75 Count Downs: 1
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to negative slope
+* Sell when the linear regression slope is negative
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -0.50
+Potential Profit: -250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -0.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-17 11:25:00		Out: 2022-05-17 11:34:10		Total Move Up: -0.50</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to negative
 * No Stoploss
 * Results:
 ```

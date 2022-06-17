@@ -16,13 +16,14 @@
 | Twenty-Nine | 66.67 | 13125.00 | 2187.50 |     | Thirty-Two | 66.67 | 21125.00 | 3520.83 |
 | Thirty | 66.67 | 12375.00 | 2062.50 |     | Thirty-One | 66.67 | 15000.00 | 2500.00 |
 | Twenty-Eight | 66.67 | 10750.00 | 1791.67 |     | Twenty-Nine | 66.67 | 13125.00 | 2187.50 |
-| Thirty-Four | 50.00 | 9250.00 | 1541.67 |     | Thirty | 66.67 | 12375.00 | 2062.50 |
-| Twenty-Five | 83.33 | 4625.00 | 770.83 |     | Twenty-Eight | 66.67 | 10750.00 | 1791.67 |
-| One | 83.33 | 4625.00 | 770.83 |     | Two | 66.67 | 2750.00 | 458.33 |
-| Two | 66.67 | 2750.00 | 458.33 |     | Nineteen | 66.67 | 0.00 | 0.00 |
-| Twenty-Four | 83.33 | 2000.00 | 333.33 |     | Eighteen | 66.67 | -1375.00 | -229.17 |
-| Nineteen | 66.67 | 0.00 | 0.00 |     | Twenty-Six | 66.67 | -2000.00 | -333.33 |
-| Twenty-Seven | 50.00 | -125.00 | -20.83 |     | Thirty-Three | 50.00 | 13750.00 | 2291.67 |
+| Thirty-Five | 50.00 | 9250.00 | 1541.67 |     | Thirty | 66.67 | 12375.00 | 2062.50 |
+| Thirty-Four | 50.00 | 9250.00 | 1541.67 |     | Twenty-Eight | 66.67 | 10750.00 | 1791.67 |
+| Twenty-Five | 83.33 | 4625.00 | 770.83 |     | Two | 66.67 | 2750.00 | 458.33 |
+| One | 83.33 | 4625.00 | 770.83 |     | Nineteen | 66.67 | 0.00 | 0.00 |
+| Two | 66.67 | 2750.00 | 458.33 |     | Eighteen | 66.67 | -1375.00 | -229.17 |
+| Twenty-Four | 83.33 | 2000.00 | 333.33 |     | Twenty-Six | 66.67 | -2000.00 | -333.33 |
+| Nineteen | 66.67 | 0.00 | 0.00 |     | Thirty-Three | 50.00 | 13750.00 | 2291.67 |
+| Twenty-Seven | 50.00 | -125.00 | -20.83 |     | Thirty-Five | 50.00 | 9250.00 | 1541.67 |
 | Eighteen | 66.67 | -1375.00 | -229.17 |     | Thirty-Four | 50.00 | 9250.00 | 1541.67 |
 | Twenty-Three | 50.00 | -1500.00 | -250.00 |     | Twenty-Seven | 50.00 | -125.00 | -20.83 |
 | Twenty-Six | 66.67 | -2000.00 | -333.33 |     | Twenty-Three | 50.00 | -1500.00 | -250.00 |
@@ -901,7 +902,33 @@ Total Points Downs: -13.25 Count Downs: 3
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to negative slope
+* Sell when the linear regression slope is negative
+* No Stoploss
+* Results:
+```
+Total Trades: 6
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: 18.50
+Potential Profit: 9250.00
+Total Points Ups: 25.50 Count Ups: 3
+Total Points Downs: -7.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-07 09:52:00		Out: 2022-04-07 10:21:00		Total Move Up: 23.50</code> <br />
+<code>In: 2022-04-22 10:44:00		Out: 2022-04-22 10:49:10		Total Move Up: -1.00</code> <br />
+<code>In: 2022-04-29 08:15:00		Out: 2022-04-29 08:14:10		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-02 11:46:00		Out: 2022-05-02 11:49:10		Total Move Up: -1.50</code> <br />
+<code>In: 2022-05-17 11:25:00		Out: 2022-05-17 11:33:10		Total Move Up: 0.00</code> <br />
+<code>In: 2022-05-25 10:15:00		Out: 2022-05-25 10:19:10		Total Move Up: 2.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to negative
 * No Stoploss
 * Results:
 ```

@@ -7,11 +7,12 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Twenty-Seven | 85.71 | 23875.00 | 1705.36 |     | Nineteen | 92.86 | 13250.00 | 946.43 |
-| Twenty | 85.71 | 23875.00 | 1705.36 |     | Eighteen | 92.86 | 12875.00 | 919.64 |
-| Twenty-Six | 85.71 | 23375.00 | 1669.64 |     | Twenty-Five | 92.86 | 11125.00 | 794.64 |
-| Twenty-Eight | 71.43 | 23000.00 | 1642.86 |     | Twenty-Four | 92.86 | 10625.00 | 758.93 |
-| Fourteen | 78.57 | 21625.00 | 1544.64 |     | One | 92.86 | 7375.00 | 526.79 |
+| Thirty-Five | 85.71 | 34125.00 | 2437.50 |     | Nineteen | 92.86 | 13250.00 | 946.43 |
+| Twenty-Seven | 85.71 | 23875.00 | 1705.36 |     | Eighteen | 92.86 | 12875.00 | 919.64 |
+| Twenty | 85.71 | 23875.00 | 1705.36 |     | Twenty-Five | 92.86 | 11125.00 | 794.64 |
+| Twenty-Six | 85.71 | 23375.00 | 1669.64 |     | Twenty-Four | 92.86 | 10625.00 | 758.93 |
+| Twenty-Eight | 71.43 | 23000.00 | 1642.86 |     | One | 92.86 | 7375.00 | 526.79 |
+| Fourteen | 78.57 | 21625.00 | 1544.64 |     | Thirty-Five | 85.71 | 34125.00 | 2437.50 |
 | Twenty-Two | 64.29 | 21250.00 | 1517.86 |     | Twenty-Seven | 85.71 | 23875.00 | 1705.36 |
 | Thirty-Four | 57.14 | 20375.00 | 1455.36 |     | Twenty | 85.71 | 23875.00 | 1705.36 |
 | Thirty-Three | 71.43 | 19625.00 | 1401.79 |     | Twenty-Six | 85.71 | 23375.00 | 1669.64 |
@@ -1165,7 +1166,7 @@ Total Points Downs: -11.25 Count Downs: 4
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to negative slope
+* Sell when the linear regression slope is negative
 * No Stoploss
 * Results:
 ```
@@ -1191,6 +1192,40 @@ Total Points Downs: -6.75 Count Downs: 6
 <code>In: 2022-05-13 07:48:00		Out: 2022-05-13 07:47:10		Total Move Up: -0.25</code> <br />
 <code>In: 2022-05-16 07:40:00		Out: 2022-05-16 07:39:10		Total Move Up: -1.25</code> <br />
 <code>In: 2022-05-16 11:54:00		Out: 2022-05-16 11:53:10		Total Move Up: 1.50</code> <br />
+<code>In: 2022-05-23 09:36:00		Out: 2022-05-23 09:44:10		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-23 10:24:00		Out: 2022-05-23 10:43:10		Total Move Up: 9.50</code> <br />
+<code>In: 2022-05-27 10:30:00		Out: 2022-05-27 10:33:10		Total Move Up: 0.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 14
+Percent Up: 85.71
+Percent Down: 14.29
+Total Points Moved Up: 68.25
+Potential Profit: 34125.00
+Total Points Ups: 74.00 Count Ups: 12
+Total Points Downs: -5.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 07:50:00		Out: 2022-03-23 08:05:10		Total Move Up: 6.75</code> <br />
+<code>In: 2022-04-07 11:22:00		Out: 2022-04-07 11:28:10		Total Move Up: 8.00</code> <br />
+<code>In: 2022-04-08 08:27:00		Out: 2022-04-08 08:35:10		Total Move Up: 3.50</code> <br />
+<code>In: 2022-04-18 11:14:00		Out: 2022-04-18 11:15:10		Total Move Up: 1.50</code> <br />
+<code>In: 2022-04-19 09:35:00		Out: 2022-04-19 09:55:10		Total Move Up: -1.50</code> <br />
+<code>In: 2022-04-25 11:07:00		Out: 2022-04-25 11:25:10		Total Move Up: 25.75</code> <br />
+<code>In: 2022-05-03 09:35:00		Out: 2022-05-03 09:43:10		Total Move Up: 4.25</code> <br />
+<code>In: 2022-05-03 09:36:00		Out: 2022-05-03 09:43:10		Total Move Up: 4.50</code> <br />
+<code>In: 2022-05-13 07:48:00		Out: 2022-05-13 07:58:10		Total Move Up: 5.75</code> <br />
+<code>In: 2022-05-16 07:40:00		Out: 2022-05-16 07:44:10		Total Move Up: -4.25</code> <br />
+<code>In: 2022-05-16 11:54:00		Out: 2022-05-16 12:01:10		Total Move Up: 2.50</code> <br />
 <code>In: 2022-05-23 09:36:00		Out: 2022-05-23 09:44:10		Total Move Up: 2.00</code> <br />
 <code>In: 2022-05-23 10:24:00		Out: 2022-05-23 10:43:10		Total Move Up: 9.50</code> <br />
 <code>In: 2022-05-27 10:30:00		Out: 2022-05-27 10:33:10		Total Move Up: 0.00</code> <br />

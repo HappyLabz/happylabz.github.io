@@ -35,12 +35,13 @@
 | Six | 100.00 | 625.00 | 625.00 |     | Six | 100.00 | 625.00 | 625.00 |
 | Four | 100.00 | 625.00 | 625.00 |     | Four | 100.00 | 625.00 | 625.00 |
 | One | 100.00 | 625.00 | 625.00 |     | One | 100.00 | 625.00 | 625.00 |
+| Thirty-Five | 100.00 | 250.00 | 250.00 |     | Thirty-Five | 100.00 | 250.00 | 250.00 |
 | Twenty-Three | 0.00 | -125.00 | -125.00 |     | Twenty-Three | 0.00 | -125.00 | -125.00 |
 | Ten | 0.00 | -1250.00 | -1250.00 |     | Ten | 0.00 | -1250.00 | -1250.00 |
 | Sixteen | 0.00 | -1750.00 | -1750.00 |     | Sixteen | 0.00 | -1750.00 | -1750.00 |
 | Twenty-Two | 0.00 | -2500.00 | -2500.00 |     | Twenty-Two | 0.00 | -2500.00 | -2500.00 |
-| Five | 0.00 | -3125.00 | -3125.00 |     | Five | 0.00 | -3125.00 | -3125.00 |
-| Three | 0.00 | -3125.00 | -3125.00 |     | Three | 0.00 | -3125.00 | -3125.00 |
+| Five | 0.00 | -3250.00 | -3250.00 |     | Five | 0.00 | -3250.00 | -3250.00 |
+| Three | 0.00 | -3250.00 | -3250.00 |     | Three | 0.00 | -3250.00 | -3250.00 |
 
 ### Test One
 * Sell when price hits the middle line of the 20p bollinger
@@ -92,15 +93,15 @@ Total Points Downs: 2.75 Count Downs: 1
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -6.25
-Potential Profit: -3125.00
-Total Points Ups: 6.25 Count Ups: 1
+Total Points Moved Down: -6.50
+Potential Profit: -3250.00
+Total Points Ups: 6.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:52:00		Total Move Down: -6.25</code> <br />
+<code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:51:55		Total Move Down: -6.50</code> <br />
 
 
 </details>
@@ -134,15 +135,15 @@ Total Points Downs: 1.25 Count Downs: 1
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -6.25
-Potential Profit: -3125.00
-Total Points Ups: 6.25 Count Ups: 1
+Total Points Moved Down: -6.50
+Potential Profit: -3250.00
+Total Points Ups: 6.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:52:00		Total Move Down: -6.25</code> <br />
+<code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:51:55		Total Move Down: -6.50</code> <br />
 
 
 </details>
@@ -736,7 +737,7 @@ Total Points Downs: 1.25 Count Downs: 1
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -752,6 +753,27 @@ Total Points Downs: 1.25 Count Downs: 1
 <details><summary>Trades</summary>
 
 <code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:22:10		Total Move Down: 1.25</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 0.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 10:22:00		Out: 2022-03-25 10:30:10		Total Move Down: 0.50</code> <br />
 
 
 </details>

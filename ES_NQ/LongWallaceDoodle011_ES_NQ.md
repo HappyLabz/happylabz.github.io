@@ -7,6 +7,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Thirty-Five | 100.00 | 36250.00 | 36250.00 |     | Thirty-Five | 100.00 | 36250.00 | 36250.00 |
 | Twenty-Eight | 100.00 | 16125.00 | 16125.00 |     | Twenty-Eight | 100.00 | 16125.00 | 16125.00 |
 | Twenty-Two | 100.00 | 16125.00 | 16125.00 |     | Twenty-Two | 100.00 | 16125.00 | 16125.00 |
 | Three | 100.00 | 16125.00 | 16125.00 |     | Three | 100.00 | 16125.00 | 16125.00 |
@@ -736,7 +737,7 @@ Total Points Downs: -4.00 Count Downs: 1
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to negative slope
+* Sell when the linear regression slope is negative
 * No Stoploss
 * Results:
 ```
@@ -752,6 +753,27 @@ Total Points Downs: 0.00 Count Downs: 0
 <details><summary>Trades</summary>
 
 <code>In: 2022-05-04 11:36:00		Out: 2022-05-04 11:36:10		Total Move Up: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 72.50
+Potential Profit: 36250.00
+Total Points Ups: 72.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-04 11:36:00		Out: 2022-05-04 11:57:10		Total Move Up: 72.50</code> <br />
 
 
 </details>

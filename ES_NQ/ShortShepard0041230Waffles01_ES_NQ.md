@@ -1,0 +1,2004 @@
+# ShortShepard004 1230Waffles01  
+- Symbol: ES_NQ
+- Date Range: 3/19/22 - 5/22/22
+- Trading Period: 7:20-12:30
+- Number of Trades: 36
+
+| Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
+| ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
+| Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Five | 63.89 | 106125.00 | 2947.92 |     | Three | 77.78 | 48750.00 | 1354.17 |
+| Thirty-Five | 58.33 | 58125.00 | 1614.58 |     | Two | 72.22 | 26000.00 | 722.22 |
+| Thirty-Four | 58.33 | 58125.00 | 1614.58 |     | One | 66.67 | 16000.00 | 444.44 |
+| Four | 63.89 | 55750.00 | 1548.61 |     | Five | 63.89 | 106125.00 | 2947.92 |
+| Three | 77.78 | 48750.00 | 1354.17 |     | Four | 63.89 | 55750.00 | 1548.61 |
+| Two | 72.22 | 26000.00 | 722.22 |     | Twelve | 63.89 | 5000.00 | 138.89 |
+| One | 66.67 | 16000.00 | 444.44 |     | Nineteen | 61.11 | 9250.00 | 256.94 |
+| Twenty-Three | 52.78 | 10250.00 | 284.72 |     | Thirteen | 61.11 | 7375.00 | 204.86 |
+| Nineteen | 61.11 | 9250.00 | 256.94 |     | Eighteen | 61.11 | 5500.00 | 152.78 |
+| Thirty-Three | 52.78 | 8250.00 | 229.17 |     | Twenty | 61.11 | 3125.00 | 86.81 |
+| Thirty-Two | 52.78 | 8250.00 | 229.17 |     | Thirty-Five | 58.33 | 58125.00 | 1614.58 |
+| Thirty-One | 52.78 | 8250.00 | 229.17 |     | Thirty-Four | 58.33 | 58125.00 | 1614.58 |
+| Thirty | 52.78 | 8250.00 | 229.17 |     | Twenty-One | 58.33 | 6000.00 | 166.67 |
+| Twenty-Nine | 52.78 | 8250.00 | 229.17 |     | Fifteen | 55.56 | 4750.00 | 131.94 |
+| Twenty-Eight | 52.78 | 8250.00 | 229.17 |     | Six | 55.56 | 1250.00 | 34.72 |
+| Twenty-Seven | 52.78 | 8250.00 | 229.17 |     | Fourteen | 55.56 | -7375.00 | -204.86 |
+| Twenty-Six | 52.78 | 8250.00 | 229.17 |     | Twenty-Three | 52.78 | 10250.00 | 284.72 |
+| Twenty-Five | 52.78 | 8250.00 | 229.17 |     | Thirty-Three | 52.78 | 8250.00 | 229.17 |
+| Twenty-Four | 52.78 | 8250.00 | 229.17 |     | Thirty-Two | 52.78 | 8250.00 | 229.17 |
+| Thirteen | 61.11 | 7375.00 | 204.86 |     | Thirty-One | 52.78 | 8250.00 | 229.17 |
+| Seventeen | 47.22 | 7125.00 | 197.92 |     | Thirty | 52.78 | 8250.00 | 229.17 |
+| Twenty-One | 58.33 | 6000.00 | 166.67 |     | Twenty-Nine | 52.78 | 8250.00 | 229.17 |
+| Eighteen | 61.11 | 5500.00 | 152.78 |     | Twenty-Eight | 52.78 | 8250.00 | 229.17 |
+| Twelve | 63.89 | 5000.00 | 138.89 |     | Twenty-Seven | 52.78 | 8250.00 | 229.17 |
+| Fifteen | 55.56 | 4750.00 | 131.94 |     | Twenty-Six | 52.78 | 8250.00 | 229.17 |
+| Nine | 47.22 | 3750.00 | 104.17 |     | Twenty-Five | 52.78 | 8250.00 | 229.17 |
+| Seven | 50.00 | 3500.00 | 97.22 |     | Twenty-Four | 52.78 | 8250.00 | 229.17 |
+| Twenty | 61.11 | 3125.00 | 86.81 |     | Eight | 52.78 | 750.00 | 20.83 |
+| Eleven | 41.67 | 2375.00 | 65.97 |     | Sixteen | 52.78 | -2500.00 | -69.44 |
+| Six | 55.56 | 1250.00 | 34.72 |     | Seven | 50.00 | 3500.00 | 97.22 |
+| Eight | 52.78 | 750.00 | 20.83 |     | Twenty-Two | 50.00 | -3500.00 | -97.22 |
+| Ten | 41.67 | 125.00 | 3.47 |     | Seventeen | 47.22 | 7125.00 | 197.92 |
+| Sixteen | 52.78 | -2500.00 | -69.44 |     | Nine | 47.22 | 3750.00 | 104.17 |
+| Twenty-Two | 50.00 | -3500.00 | -97.22 |     | Eleven | 41.67 | 2375.00 | 65.97 |
+| Fourteen | 55.56 | -7375.00 | -204.86 |     | Ten | 41.67 | 125.00 | 3.47 |
+
+### Test One
+* Sell when price hits the middle line of the 20p bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Down: 32.00
+Potential Profit: 16000.00
+Total Points Ups: 32.25 Count Ups: 12
+Total Points Downs: 64.25 Count Downs: 24
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:55		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:53:25		Total Move Down: -6.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:35:20		Total Move Down: -2.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:40:20		Total Move Down: 7.00</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:20		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:21:25		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:55:05		Total Move Down: 5.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:44:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:15:00		Total Move Down: -8.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:57:50		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:50		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:58:25		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:39:10		Total Move Down: -7.00</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:39:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Two
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 27.78
+Percent Down: 72.22
+Total Points Moved Down: 52.00
+Potential Profit: 26000.00
+Total Points Ups: 44.25 Count Ups: 10
+Total Points Downs: 96.25 Count Downs: 26
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:21:40		Total Move Down: -1.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:00:20		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:07:20		Total Move Down: 5.25</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:57:10		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:42:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:42:30		Total Move Down: 12.75</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:42:30		Total Move Down: 7.25</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:28:35		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 12:02:10		Total Move Down: -9.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:02:10		Total Move Down: 4.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:44:50		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:25:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:20		Total Move Down: 9.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:17:35		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:41:55		Total Move Down: -12.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:10:15		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 12:10:15		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 11:01:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:45:25		Total Move Down: -9.25</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:45:25		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:39:15		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Three
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 22.22
+Percent Down: 77.78
+Total Points Moved Down: 97.50
+Potential Profit: 48750.00
+Total Points Ups: 81.00 Count Ups: 8
+Total Points Downs: 178.50 Count Downs: 28
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:23:10		Total Move Down: 2.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:58:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:55		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:16:55		Total Move Down: -7.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:42:50		Total Move Down: 2.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:08:20		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:48:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:57:55		Total Move Down: -5.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:43:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:53:05		Total Move Down: 21.25</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:53:05		Total Move Down: 15.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:32:20		Total Move Down: 2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 12:02:55		Total Move Down: -11.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:23:55		Total Move Down: -8.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:47:35		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:28:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:08:05		Total Move Down: 16.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:19:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:22:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:41:55		Total Move Down: -12.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:13:30		Total Move Down: 9.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:14:05		Total Move Down: 9.75</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 12:14:05		Total Move Down: 8.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 11:05:00		Total Move Down: 1.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:52:55		Total Move Down: -12.25</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 12:03:55		Total Move Down: -23.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:22:50		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:42:05		Total Move Down: 2.00</code> <br />
+
+
+</details>
+
+### Test Four
+* Sell when the price hits the middle line of the 1std VWAP
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 36.11
+Percent Down: 63.89
+Total Points Moved Down: 111.50
+Potential Profit: 55750.00
+Total Points Ups: 108.75 Count Ups: 13
+Total Points Downs: 220.25 Count Downs: 23
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:41:55		Total Move Down: -5.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:10:55		Total Move Down: 8.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:10:55		Total Move Down: 6.00</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:58:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:38:55		Total Move Down: 4.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:16:55		Total Move Down: -7.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:57:55		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:08:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 10:00:55		Total Move Down: 2.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:57:55		Total Move Down: -5.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:55:55		Total Move Down: 7.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:51:55		Total Move Down: -7.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:43:25		Total Move Down: 14.25</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:43:25		Total Move Down: 8.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:45:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 12:02:55		Total Move Down: -11.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:23:55		Total Move Down: -8.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:56:55		Total Move Down: 21.50</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:57:15		Total Move Down: 21.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:53:55		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:20:20		Total Move Down: 17.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:20:20		Total Move Down: 3.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:31:55		Total Move Down: 11.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:47:55		Total Move Down: 8.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:41:55		Total Move Down: -12.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:13:30		Total Move Down: 9.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:24:40		Total Move Down: 21.75</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 12:24:40		Total Move Down: 20.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 11:17:55		Total Move Down: -10.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:52:55		Total Move Down: -12.25</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 12:03:55		Total Move Down: -23.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:41:55		Total Move Down: 6.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:56:55		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:56:55		Total Move Down: -4.75</code> <br />
+
+
+</details>
+
+### Test Five
+* Sell when the price hits the lower line of the 1std VWAP
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 36.11
+Percent Down: 63.89
+Total Points Moved Down: 212.25
+Potential Profit: 106125.00
+Total Points Ups: 108.75 Count Ups: 13
+Total Points Downs: 321.00 Count Downs: 23
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:41:55		Total Move Down: -5.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:13:35		Total Move Down: 14.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:13:35		Total Move Down: 12.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:58:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:38:55		Total Move Down: 4.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:05:40		Total Move Down: 4.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:16:55		Total Move Down: -7.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:57:55		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:09:40		Total Move Down: 17.25</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 10:00:55		Total Move Down: 2.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:57:55		Total Move Down: -5.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:55:55		Total Move Down: 7.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:51:55		Total Move Down: -7.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:58:15		Total Move Down: 24.75</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:58:15		Total Move Down: 19.25</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:46:55		Total Move Down: 9.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 12:02:55		Total Move Down: -11.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:23:55		Total Move Down: -8.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:56:55		Total Move Down: 21.50</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 08:04:30		Total Move Down: 36.50</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:53:55		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:34:05		Total Move Down: 32.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:34:05		Total Move Down: 18.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:31:55		Total Move Down: 11.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:47:55		Total Move Down: 8.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:41:55		Total Move Down: -12.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:20:25		Total Move Down: 19.75</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:25:55		Total Move Down: 21.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 12:26:55		Total Move Down: 19.50</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 11:17:55		Total Move Down: -10.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:52:55		Total Move Down: -12.25</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 12:03:55		Total Move Down: -23.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:41:55		Total Move Down: 6.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:56:55		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:56:55		Total Move Down: -4.75</code> <br />
+
+
+</details>
+
+### Test Six
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 44.44
+Percent Down: 55.56
+Total Points Moved Down: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 35.75 Count Ups: 16
+Total Points Downs: 38.25 Count Downs: 20
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:32:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:00		Total Move Down: -6.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:30		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:35		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Seven
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Down: 7.00
+Potential Profit: 3500.00
+Total Points Ups: 28.50 Count Ups: 18
+Total Points Downs: 35.50 Count Downs: 18
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:48:45		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:31:40		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:30		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:34:00		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:05		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:30		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:15		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Eight
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 1.50
+Potential Profit: 750.00
+Total Points Ups: 48.25 Count Ups: 17
+Total Points Downs: 49.75 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:30		Total Move Down: -3.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:56:50		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:32:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:37:45		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:25:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:00		Total Move Down: -6.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:30		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:35		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:31:15		Total Move Down: -0.50</code> <br />
+
+
+</details>
+
+### Test Nine
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 52.78
+Percent Down: 47.22
+Total Points Moved Down: 7.50
+Potential Profit: 3750.00
+Total Points Ups: 35.00 Count Ups: 19
+Total Points Downs: 42.50 Count Downs: 17
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:05		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:48:45		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:33:35		Total Move Down: 3.25</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:31:40		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:30		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:34:00		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:50		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:05		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:30		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:15		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:31:15		Total Move Down: -0.50</code> <br />
+
+
+</details>
+
+### Test Ten
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 58.33
+Percent Down: 41.67
+Total Points Moved Down: 0.25
+Potential Profit: 125.00
+Total Points Ups: 59.25 Count Ups: 21
+Total Points Downs: 59.50 Count Downs: 15
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:30		Total Move Down: -3.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:44:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:56:50		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:34:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:48:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:32:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:37:45		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:28:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:40		Total Move Down: -7.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:00		Total Move Down: -6.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:30		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:35		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:14:30		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:31:15		Total Move Down: -0.50</code> <br />
+
+
+</details>
+
+### Test Eleven
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Trailing Stop is -2 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 58.33
+Percent Down: 41.67
+Total Points Moved Down: 4.75
+Potential Profit: 2375.00
+Total Points Ups: 38.50 Count Ups: 21
+Total Points Downs: 43.25 Count Downs: 15
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:05		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:36:50		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:48:45		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:31:20		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:33:35		Total Move Down: 3.25</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:31:40		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:30		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:50		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:34:00		Total Move Down: -2.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:28:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:50		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:25		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:20		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:05		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:30		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:15		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:13:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:30:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:31:15		Total Move Down: -0.50</code> <br />
+
+
+</details>
+
+### Test Twelve
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 36.11
+Percent Down: 63.89
+Total Points Moved Down: 10.00
+Potential Profit: 5000.00
+Total Points Ups: 38.00 Count Ups: 13
+Total Points Downs: 48.00 Count Downs: 23
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:10		Total Move Down: -3.50</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:05		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:57:50		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:50:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:39:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Thirteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 38.89
+Percent Down: 61.11
+Total Points Moved Down: 14.75
+Potential Profit: 7375.00
+Total Points Ups: 29.75 Count Ups: 14
+Total Points Downs: 44.50 Count Downs: 22
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:25:45		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:57:50		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:15		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:35		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Fourteen
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 44.44
+Percent Down: 55.56
+Total Points Moved Down: -14.75
+Potential Profit: -7375.00
+Total Points Ups: 66.25 Count Ups: 16
+Total Points Downs: 51.50 Count Downs: 20
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:14:35		Total Move Down: -4.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:57:00		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:10		Total Move Down: -3.50</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:39:00		Total Move Down: -5.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:25:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:05		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:00:00		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:50:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:43:10		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:36:00		Total Move Down: -1.75</code> <br />
+
+
+</details>
+
+### Test Fifteen
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 44.44
+Percent Down: 55.56
+Total Points Moved Down: 9.50
+Potential Profit: 4750.00
+Total Points Ups: 44.00 Count Ups: 16
+Total Points Downs: 53.50 Count Downs: 20
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:30		Total Move Down: -3.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:52:40		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:25:45		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:37:05		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:50		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:58:30		Total Move Down: 3.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:15		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:35		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:36:00		Total Move Down: -1.75</code> <br />
+
+
+</details>
+
+### Test Sixteen
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: -5.00
+Potential Profit: -2500.00
+Total Points Ups: 78.25 Count Ups: 17
+Total Points Downs: 73.25 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:14:35		Total Move Down: -4.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:48:25		Total Move Down: -3.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:55		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:57:00		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:42:50		Total Move Down: 2.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:48:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:10		Total Move Down: -3.50</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:39:00		Total Move Down: -5.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:28:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:09:35		Total Move Down: -9.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:05		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:00:00		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:50:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:25:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:43:10		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:22:50		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:36:00		Total Move Down: -1.75</code> <br />
+
+
+</details>
+
+### Test Seventeen
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Trailing Stop is -3 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 52.78
+Percent Down: 47.22
+Total Points Moved Down: 14.25
+Potential Profit: 7125.00
+Total Points Ups: 47.50 Count Ups: 19
+Total Points Downs: 61.75 Count Downs: 17
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:30		Total Move Down: -3.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:37:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:55		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:52:40		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:34:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:20		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:39:40		Total Move Down: 2.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:35		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:25:45		Total Move Down: -3.25</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:00		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:37:05		Total Move Down: -3.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:50		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:25		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:30		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:58:30		Total Move Down: 3.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:49:15		Total Move Down: -3.00</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:35		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:35:25		Total Move Down: -5.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:14:30		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:36:00		Total Move Down: -1.75</code> <br />
+
+
+</details>
+
+### Test Eighteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 38.89
+Percent Down: 61.11
+Total Points Moved Down: 11.00
+Potential Profit: 5500.00
+Total Points Ups: 46.25 Count Ups: 14
+Total Points Downs: 57.25 Count Downs: 22
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:40:45		Total Move Down: -6.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:35:20		Total Move Down: -2.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:40:20		Total Move Down: 7.00</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:20		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:55:05		Total Move Down: 5.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:20		Total Move Down: -9.75</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:57:50		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:26:45		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:39:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Nineteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 38.89
+Percent Down: 61.11
+Total Points Moved Down: 18.50
+Potential Profit: 9250.00
+Total Points Ups: 38.75 Count Ups: 14
+Total Points Downs: 57.25 Count Downs: 22
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:30		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:10		Total Move Down: 1.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:50:50		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:40		Total Move Down: 3.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:50		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:40:20		Total Move Down: 7.00</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:20		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:35:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:55:05		Total Move Down: 5.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:29:45		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:03:50		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:21:25		Total Move Down: 4.25</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:15:40		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:57:50		Total Move Down: 7.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:24:45		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:39:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:20		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:50		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Twenty
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 38.89
+Percent Down: 61.11
+Total Points Moved Down: 6.25
+Potential Profit: 3125.00
+Total Points Ups: 67.75 Count Ups: 14
+Total Points Downs: 74.00 Count Downs: 22
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:15:30		Total Move Down: -6.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:00:20		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:40:45		Total Move Down: -6.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:42:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:42:30		Total Move Down: 12.75</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:42:30		Total Move Down: 7.25</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:43:05		Total Move Down: -7.25</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:02:10		Total Move Down: 4.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:25:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:20		Total Move Down: -9.75</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:22:45		Total Move Down: -7.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:00:15		Total Move Down: -4.75</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:26:45		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:45:25		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:39:15		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-One
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 41.67
+Percent Down: 58.33
+Total Points Moved Down: 12.00
+Potential Profit: 6000.00
+Total Points Ups: 58.50 Count Ups: 15
+Total Points Downs: 70.50 Count Downs: 21
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:15:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:06:10		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:33:25		Total Move Down: 2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:56:55		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:30:30		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:37:35		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:50		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:42:30		Total Move Down: 12.75</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:42:30		Total Move Down: 7.25</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:39:00		Total Move Down: -5.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:57:55		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:30:45		Total Move Down: 4.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:25:20		Total Move Down: 1.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:03:50		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:23:20		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:59:20		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:24:45		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:41:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:45		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:29:40		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:39:15		Total Move Down: 1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Two
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Down: -7.00
+Potential Profit: -3500.00
+Total Points Ups: 99.00 Count Ups: 18
+Total Points Downs: 92.00 Count Downs: 18
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:15:30		Total Move Down: -6.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:58:55		Total Move Down: -1.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:55		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 12:06:35		Total Move Down: -6.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:42:50		Total Move Down: 2.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:48:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:40:45		Total Move Down: -6.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:43:25		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:53:05		Total Move Down: 21.25</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:47:40		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:43:05		Total Move Down: -7.25</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:04:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:28:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:09:40		Total Move Down: -13.00</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:20		Total Move Down: -9.75</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:22:45		Total Move Down: -7.00</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:35		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 12:00:15		Total Move Down: -4.75</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:26:45		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:51:15		Total Move Down: -9.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:22:50		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:42:05		Total Move Down: 2.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Three
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Trailing Stop is -5 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 20.50
+Potential Profit: 10250.00
+Total Points Ups: 66.00 Count Ups: 17
+Total Points Downs: 86.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:15:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:07:40		Total Move Down: 6.75</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:07:40		Total Move Down: 4.25</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:44:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:10:30		Total Move Down: 3.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:55		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:56:55		Total Move Down: -3.75</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:42:50		Total Move Down: 2.00</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:30		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:48:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:35:50		Total Move Down: -4.00</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:33:25		Total Move Down: 3.00</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:33:15		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:45:45		Total Move Down: 10.00</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:45:45		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:19:40		Total Move Down: -5.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:39:00		Total Move Down: -5.75</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:57:55		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:34:00		Total Move Down: 9.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:37:20		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:28:05		Total Move Down: 3.50</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:30		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:03:50		Total Move Down: -4.25</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:25:15		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:16:45		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:35		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:59:20		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:25		Total Move Down: -6.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:24:45		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:41:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:22:50		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:33:15		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:42:05		Total Move Down: 2.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Four
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Five
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Six
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Seven
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Eight
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Nine
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-One
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Two
+* Sell when the price hits the lower line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Three
+* Sell when the price hits the lower line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 36
+Percent Up: 47.22
+Percent Down: 52.78
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 12.00 Count Ups: 17
+Total Points Downs: 28.50 Count Downs: 19
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:12:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:05:15		Total Move Down: -0.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:06:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:09:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:03:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:47:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:28:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:06:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:31:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:28:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:26:15		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:39:15		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:40:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:17:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 11:54:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:27:15		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:36:15		Total Move Down: 3.00</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:24:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:07:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:08:15		Total Move Down: 1.75</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:02:15		Total Move Down: 1.00</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:18:15		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:12:15		Total Move Down: -2.25</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:12:15		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:56:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:57:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:48:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:07:15		Total Move Down: 5.00</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:23:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:15		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:12:15		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:27:15		Total Move Down: -0.25</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:27:15		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Four
+* Sell when the linear regression slope is positive
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 41.67
+Percent Down: 58.33
+Total Points Moved Down: 116.25
+Potential Profit: 58125.00
+Total Points Ups: 35.50 Count Ups: 15
+Total Points Downs: 151.75 Count Downs: 21
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:15:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:15:10		Total Move Down: 7.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:17:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:10:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:48:10		Total Move Down: -1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:36:10		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:20:10		Total Move Down: 28.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:39:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:44:10		Total Move Down: 5.75</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:47:10		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:47:10		Total Move Down: 3.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:10		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:03:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:40:10		Total Move Down: 10.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:42:10		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:30:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:23:10		Total Move Down: 17.75</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:23:10		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:10		Total Move Down: -8.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:29:10		Total Move Down: 6.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:19:10		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:24:10		Total Move Down: 21.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:59:10		Total Move Down: 3.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:59:10		Total Move Down: 2.25</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:10		Total Move Down: -3.75</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:10:10		Total Move Down: -8.75</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:24:10		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:20:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:41:10		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:30:10		Total Move Down: 0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 36
+Percent Up: 41.67
+Percent Down: 58.33
+Total Points Moved Down: 116.25
+Potential Profit: 58125.00
+Total Points Ups: 35.50 Count Ups: 15
+Total Points Downs: 151.75 Count Downs: 21
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-22 12:12:00		Out: 2022-03-22 12:13:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-23 09:05:00		Out: 2022-03-23 09:15:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-03-23 09:06:00		Out: 2022-03-23 09:15:10		Total Move Down: 7.50</code> <br />
+<code>In: 2022-03-24 10:29:00		Out: 2022-03-24 10:29:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-03-24 11:09:00		Out: 2022-03-24 11:17:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-03-28 08:03:00		Out: 2022-03-28 08:10:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-03-29 11:47:00		Out: 2022-03-29 11:48:10		Total Move Down: -1.50</code> <br />
+<code>In: 2022-04-04 12:28:00		Out: 2022-04-04 12:36:10		Total Move Down: 0.25</code> <br />
+<code>In: 2022-04-06 11:06:00		Out: 2022-04-06 11:20:10		Total Move Down: 28.50</code> <br />
+<code>In: 2022-04-08 09:31:00		Out: 2022-04-08 09:39:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-04-13 09:28:00		Out: 2022-04-13 09:34:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-13 10:26:00		Out: 2022-04-13 10:44:10		Total Move Down: 5.75</code> <br />
+<code>In: 2022-04-19 12:22:00		Out: 2022-04-19 12:22:10		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-25 07:39:00		Out: 2022-04-25 07:47:10		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-25 07:40:00		Out: 2022-04-25 07:47:10		Total Move Down: 3.75</code> <br />
+<code>In: 2022-04-28 08:17:00		Out: 2022-04-28 08:18:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-28 11:33:00		Out: 2022-04-28 11:33:10		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 11:54:00		Out: 2022-04-28 12:03:10		Total Move Down: 2.75</code> <br />
+<code>In: 2022-04-28 12:27:00		Out: 2022-04-28 12:40:10		Total Move Down: 10.75</code> <br />
+<code>In: 2022-05-02 07:36:00		Out: 2022-05-02 07:42:10		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-03 10:24:00		Out: 2022-05-03 10:30:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-05-04 11:07:00		Out: 2022-05-04 11:23:10		Total Move Down: 17.75</code> <br />
+<code>In: 2022-05-04 11:08:00		Out: 2022-05-04 11:23:10		Total Move Down: 4.00</code> <br />
+<code>In: 2022-05-12 08:02:00		Out: 2022-05-12 08:04:10		Total Move Down: -8.50</code> <br />
+<code>In: 2022-05-13 09:18:00		Out: 2022-05-13 09:29:10		Total Move Down: 6.75</code> <br />
+<code>In: 2022-05-16 11:12:00		Out: 2022-05-16 11:19:10		Total Move Down: -2.50</code> <br />
+<code>In: 2022-05-17 11:12:00		Out: 2022-05-17 11:24:10		Total Move Down: 21.25</code> <br />
+<code>In: 2022-05-19 11:56:00		Out: 2022-05-19 11:59:10		Total Move Down: 3.25</code> <br />
+<code>In: 2022-05-19 11:57:00		Out: 2022-05-19 11:59:10		Total Move Down: 2.25</code> <br />
+<code>In: 2022-05-24 10:48:00		Out: 2022-05-24 10:51:10		Total Move Down: -3.75</code> <br />
+<code>In: 2022-05-25 11:07:00		Out: 2022-05-25 11:10:10		Total Move Down: -8.75</code> <br />
+<code>In: 2022-05-25 11:23:00		Out: 2022-05-25 11:24:10		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-25 11:34:00		Out: 2022-05-25 11:34:10		Total Move Down: -1.25</code> <br />
+<code>In: 2022-05-26 10:12:00		Out: 2022-05-26 10:20:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-26 11:27:00		Out: 2022-05-26 11:41:10		Total Move Down: 8.50</code> <br />
+<code>In: 2022-05-27 11:27:00		Out: 2022-05-27 11:30:10		Total Move Down: 0.75</code> <br />
+
+
+</details>

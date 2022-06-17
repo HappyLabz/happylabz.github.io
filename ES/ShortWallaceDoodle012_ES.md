@@ -10,8 +10,9 @@
 | One | 85.71 | 6250.00 | 892.86 |     | One | 85.71 | 6250.00 | 892.86 |
 | Five | 71.43 | 4750.00 | 678.57 |     | Five | 71.43 | 4750.00 | 678.57 |
 | Twenty | 57.14 | 4750.00 | 678.57 |     | Eighteen | 71.43 | 2750.00 | 392.86 |
-| Twenty-Three | 42.86 | 4000.00 | 571.43 |     | Two | 71.43 | -250.00 | -35.71 |
-| Twenty-Two | 42.86 | 3375.00 | 482.14 |     | Twenty | 57.14 | 4750.00 | 678.57 |
+| Thirty-Five | 57.14 | 4250.00 | 607.14 |     | Two | 71.43 | -250.00 | -35.71 |
+| Twenty-Three | 42.86 | 4000.00 | 571.43 |     | Twenty | 57.14 | 4750.00 | 678.57 |
+| Twenty-Two | 42.86 | 3375.00 | 482.14 |     | Thirty-Five | 57.14 | 4250.00 | 607.14 |
 | Eighteen | 71.43 | 2750.00 | 392.86 |     | Nineteen | 57.14 | 1250.00 | 178.57 |
 | Thirty-Four | 28.57 | 2750.00 | 392.86 |     | Three | 57.14 | -5875.00 | -839.29 |
 | Fourteen | 42.86 | 2375.00 | 339.29 |     | Twenty-Three | 42.86 | 4000.00 | 571.43 |
@@ -934,7 +935,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -956,6 +957,33 @@ Total Points Downs: 15.25 Count Downs: 2
 <code>In: 2022-04-29 10:39:00		Out: 2022-04-29 10:50:10		Total Move Down: 13.75</code> <br />
 <code>In: 2022-05-11 11:27:00		Out: 2022-05-11 11:26:10		Total Move Down: -6.50</code> <br />
 <code>In: 2022-05-16 08:41:00		Out: 2022-05-16 08:40:10		Total Move Down: -1.50</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 42.86
+Percent Down: 57.14
+Total Points Moved Down: 8.50
+Potential Profit: 4250.00
+Total Points Ups: 20.25 Count Ups: 3
+Total Points Downs: 28.75 Count Downs: 4
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 11:51:00		Out: 2022-03-23 11:52:10		Total Move Down: 1.50</code> <br />
+<code>In: 2022-04-14 10:38:00		Out: 2022-04-14 10:57:10		Total Move Down: -6.00</code> <br />
+<code>In: 2022-04-18 10:13:00		Out: 2022-04-18 10:22:10		Total Move Down: 6.25</code> <br />
+<code>In: 2022-04-26 11:23:00		Out: 2022-04-26 11:27:10		Total Move Down: -0.25</code> <br />
+<code>In: 2022-04-29 10:39:00		Out: 2022-04-29 10:50:10		Total Move Down: 13.75</code> <br />
+<code>In: 2022-05-11 11:27:00		Out: 2022-05-11 11:32:10		Total Move Down: 7.25</code> <br />
+<code>In: 2022-05-16 08:41:00		Out: 2022-05-16 08:50:10		Total Move Down: -14.00</code> <br />
 
 
 </details>

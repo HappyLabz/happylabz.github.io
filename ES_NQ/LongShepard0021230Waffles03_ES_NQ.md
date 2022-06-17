@@ -1,0 +1,849 @@
+# LongShepard002 1230Waffles03  
+- Symbol: ES_NQ
+- Date Range: 3/19/22 - 5/22/22
+- Trading Period: 7:20-12:30
+- Number of Trades: 3
+
+| Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
+| ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
+| Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Twenty-Seven | 100.00 | 4000.00 | 1333.33 |     | Twenty-Seven | 100.00 | 4000.00 | 1333.33 |
+| Twenty-Six | 100.00 | 4000.00 | 1333.33 |     | Twenty-Six | 100.00 | 4000.00 | 1333.33 |
+| Twenty-One | 100.00 | 4000.00 | 1333.33 |     | Twenty-One | 100.00 | 4000.00 | 1333.33 |
+| Twenty | 100.00 | 4000.00 | 1333.33 |     | Twenty | 100.00 | 4000.00 | 1333.33 |
+| Fifteen | 100.00 | 4000.00 | 1333.33 |     | Fifteen | 100.00 | 4000.00 | 1333.33 |
+| Fourteen | 100.00 | 4000.00 | 1333.33 |     | Fourteen | 100.00 | 4000.00 | 1333.33 |
+| Two | 100.00 | 4000.00 | 1333.33 |     | Two | 100.00 | 4000.00 | 1333.33 |
+| Seventeen | 100.00 | 2875.00 | 958.33 |     | Seventeen | 100.00 | 2875.00 | 958.33 |
+| Twenty-Five | 66.67 | 2250.00 | 750.00 |     | Twenty-Five | 66.67 | 2250.00 | 750.00 |
+| Twenty-Four | 66.67 | 2250.00 | 750.00 |     | Twenty-Four | 66.67 | 2250.00 | 750.00 |
+| Nineteen | 66.67 | 2250.00 | 750.00 |     | Nineteen | 66.67 | 2250.00 | 750.00 |
+| Eighteen | 66.67 | 2250.00 | 750.00 |     | Eighteen | 66.67 | 2250.00 | 750.00 |
+| Thirteen | 66.67 | 2250.00 | 750.00 |     | Thirteen | 66.67 | 2250.00 | 750.00 |
+| Twelve | 66.67 | 2250.00 | 750.00 |     | Twelve | 66.67 | 2250.00 | 750.00 |
+| One | 66.67 | 2250.00 | 750.00 |     | One | 66.67 | 2250.00 | 750.00 |
+| Eight | 66.67 | 2125.00 | 708.33 |     | Eight | 66.67 | 2125.00 | 708.33 |
+| Six | 66.67 | 1500.00 | 500.00 |     | Six | 66.67 | 1500.00 | 500.00 |
+| Twenty-Eight | 66.67 | 1375.00 | 458.33 |     | Twenty-Eight | 66.67 | 1375.00 | 458.33 |
+| Three | 66.67 | 1375.00 | 458.33 |     | Three | 66.67 | 1375.00 | 458.33 |
+| Seven | 66.67 | 1250.00 | 416.67 |     | Seven | 66.67 | 1250.00 | 416.67 |
+| Nine | 66.67 | 1000.00 | 333.33 |     | Nine | 66.67 | 1000.00 | 333.33 |
+| Twenty-Three | 33.33 | 875.00 | 291.67 |     | Eleven | 66.67 | -125.00 | -41.67 |
+| Eleven | 66.67 | -125.00 | -41.67 |     | Twenty-Three | 33.33 | 875.00 | 291.67 |
+| Thirty-Five | 33.33 | -625.00 | -208.33 |     | Thirty-Five | 33.33 | -625.00 | -208.33 |
+| Thirty-Four | 33.33 | -625.00 | -208.33 |     | Thirty-Four | 33.33 | -625.00 | -208.33 |
+| Sixteen | 33.33 | -625.00 | -208.33 |     | Sixteen | 33.33 | -625.00 | -208.33 |
+| Thirty-Two | 33.33 | -2875.00 | -958.33 |     | Thirty-Two | 33.33 | -2875.00 | -958.33 |
+| Thirty | 33.33 | -2875.00 | -958.33 |     | Thirty | 33.33 | -2875.00 | -958.33 |
+| Five | 33.33 | -2875.00 | -958.33 |     | Five | 33.33 | -2875.00 | -958.33 |
+| Four | 33.33 | -2875.00 | -958.33 |     | Four | 33.33 | -2875.00 | -958.33 |
+| Twenty-Two | 33.33 | -3000.00 | -1000.00 |     | Twenty-Two | 33.33 | -3000.00 | -1000.00 |
+| Ten | 0.00 | -3125.00 | -1041.67 |     | Twenty-Nine | 33.33 | -4000.00 | -1333.33 |
+| Twenty-Nine | 33.33 | -4000.00 | -1333.33 |     | Thirty-Three | 33.33 | -4875.00 | -1625.00 |
+| Thirty-Three | 33.33 | -4875.00 | -1625.00 |     | Thirty-One | 33.33 | -4875.00 | -1625.00 |
+| Thirty-One | 33.33 | -4875.00 | -1625.00 |     | Ten | 0.00 | -3125.00 | -1041.67 |
+
+### Test One
+* Sell when price hits the middle line of the 20p bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Two
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Three
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 2.75
+Potential Profit: 1375.00
+Total Points Ups: 7.25 Count Ups: 2
+Total Points Downs: -4.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:07:50		Total Move Up: 1.75</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Four
+* Sell when the price hits the middle line of the 1std VWAP
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -5.75
+Potential Profit: -2875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -9.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:19:55		Total Move Up: -5.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Five
+* Sell when the price hits the upper line of the 1std VWAP
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -5.75
+Potential Profit: -2875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -9.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:19:55		Total Move Up: -5.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Six
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 3.00
+Potential Profit: 1500.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:39:45		Total Move Up: -2.25</code> <br />
+
+
+</details>
+
+### Test Seven
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 3.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:10:00		Total Move Up: 0.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Eight
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.25
+Potential Profit: 2125.00
+Total Points Ups: 6.50 Count Ups: 2
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:39:45		Total Move Up: -2.25</code> <br />
+
+
+</details>
+
+### Test Nine
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 2.00
+Potential Profit: 1000.00
+Total Points Ups: 3.25 Count Ups: 2
+Total Points Downs: -1.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:10:00		Total Move Up: 0.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:43:25		Total Move Up: -1.25</code> <br />
+
+
+</details>
+
+### Test Ten
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -6.25
+Potential Profit: -3125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -6.25 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:20:45		Total Move Up: -1.75</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:52:10		Total Move Up: -2.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:39:45		Total Move Up: -2.25</code> <br />
+
+
+</details>
+
+### Test Eleven
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is 2 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: -0.25
+Potential Profit: -125.00
+Total Points Ups: 1.00 Count Ups: 2
+Total Points Downs: -1.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:10:00		Total Move Up: 0.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:50		Total Move Up: 1.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:43:25		Total Move Up: -1.25</code> <br />
+
+
+</details>
+
+### Test Twelve
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Thirteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Fourteen
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Fifteen
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Sixteen
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -1.25
+Potential Profit: -625.00
+Total Points Ups: 5.50 Count Ups: 1
+Total Points Downs: -6.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:21:35		Total Move Up: -3.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:52:50		Total Move Up: -3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Seventeen
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is 3 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.75
+Potential Profit: 2875.00
+Total Points Ups: 5.75 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:20:10		Total Move Up: 0.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:51:05		Total Move Up: 0.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Eighteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Nineteen
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Twenty
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Twenty-One
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Two
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -6.00
+Potential Profit: -3000.00
+Total Points Ups: 5.50 Count Ups: 1
+Total Points Downs: -11.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:22:30		Total Move Up: -5.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:54:30		Total Move Up: -6.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Three
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is 5 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: 1.75
+Potential Profit: 875.00
+Total Points Ups: 5.50 Count Ups: 1
+Total Points Downs: -3.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:20:35		Total Move Up: -1.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:52:10		Total Move Up: -2.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Four
+* Sell when the price hits the middle line of the 20p bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Five
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.50
+Potential Profit: 2250.00
+Total Points Ups: 5.25 Count Ups: 2
+Total Points Downs: -0.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:11:35		Total Move Up: 2.00</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:40:55		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Twenty-Six
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Seven
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:13:00		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:50:15		Total Move Up: 3.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:44:25		Total Move Up: 1.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Eight
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 2.75
+Potential Profit: 1375.00
+Total Points Ups: 7.25 Count Ups: 2
+Total Points Downs: -4.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:07:50		Total Move Up: 1.75</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Twenty-Nine
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -8.00
+Potential Profit: -4000.00
+Total Points Ups: 5.50 Count Ups: 1
+Total Points Downs: -13.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:22:40		Total Move Up: -6.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:58:55		Total Move Up: -7.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:48:50		Total Move Up: 5.50</code> <br />
+
+
+</details>
+
+### Test Thirty
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -5.75
+Potential Profit: -2875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -9.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:19:55		Total Move Up: -5.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Thirty-One
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -13.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:22:40		Total Move Up: -6.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:58:55		Total Move Up: -7.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Two
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -5.75
+Potential Profit: -2875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -9.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:36:55		Total Move Up: -4.50</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 12:19:55		Total Move Up: -5.00</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Three
+* Sell when the price hits the upper line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: -13.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:22:40		Total Move Up: -6.25</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:58:55		Total Move Up: -7.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 10:08:55		Total Move Up: 3.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Four
+* Sell when the linear regression slope is negative
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -1.25
+Potential Profit: -625.00
+Total Points Ups: 1.75 Count Ups: 1
+Total Points Downs: -3.00 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:16:10		Total Move Up: 1.75</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:52:10		Total Move Up: -2.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:39:10		Total Move Up: -0.75</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Up: -1.25
+Potential Profit: -625.00
+Total Points Ups: 1.75 Count Ups: 1
+Total Points Downs: -3.00 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-22 10:07:00		Out: 2022-04-22 10:16:10		Total Move Up: 1.75</code> <br />
+<code>In: 2022-05-18 11:50:00		Out: 2022-05-18 11:52:10		Total Move Up: -2.25</code> <br />
+<code>In: 2022-05-25 09:39:00		Out: 2022-05-25 09:39:10		Total Move Up: -0.75</code> <br />
+
+
+</details>

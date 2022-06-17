@@ -7,6 +7,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Thirty-Five | 40.00 | 4875.00 | 975.00 |     | Thirty-Five | 40.00 | 4875.00 | 975.00 |
 | Thirty-Four | 20.00 | 3875.00 | 775.00 |     | Five | 40.00 | -1500.00 | -300.00 |
 | Five | 40.00 | -1500.00 | -300.00 |     | Four | 40.00 | -6750.00 | -1350.00 |
 | Thirteen | 20.00 | -2500.00 | -500.00 |     | Three | 40.00 | -10750.00 | -2150.00 |
@@ -868,7 +869,7 @@ Total Points Downs: 0.25 Count Downs: 1
 </details>
 
 ### Test Thirty-Four
-* Sell when the linear regression changes to positive slope
+* Sell when the linear regression slope is positive
 * No Stoploss
 * Results:
 ```
@@ -888,6 +889,31 @@ Total Points Downs: 15.00 Count Downs: 1
 <code>In: 2022-04-06 10:43:00		Out: 2022-04-06 10:42:10		Total Move Down: -1.00</code> <br />
 <code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:10		Total Move Down: -3.25</code> <br />
 <code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:55:10		Total Move Down: -1.50</code> <br />
+
+
+</details>
+
+### Test Thirty-Five
+* Sell when the linear regression slope changes to positive
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 60.00
+Percent Down: 40.00
+Total Points Moved Down: 9.75
+Potential Profit: 4875.00
+Total Points Ups: 7.75 Count Ups: 3
+Total Points Downs: 17.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:04:00		Out: 2022-03-23 09:14:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 10:26:00		Out: 2022-04-06 10:31:10		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-06 10:43:00		Out: 2022-04-06 10:48:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:12:10		Total Move Down: -1.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:05:10		Total Move Down: -4.25</code> <br />
 
 
 </details>
