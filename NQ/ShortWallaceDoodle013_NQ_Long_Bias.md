@@ -7,41 +7,41 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Five | 60.00 | 288750.00 | 19250.00 |     | One | 80.00 | 119375.00 | 7958.33 |
-| Thirty-Five | 73.33 | 286000.00 | 19066.67 |     | Thirty-Five | 73.33 | 286000.00 | 19066.67 |
-| Three | 60.00 | 253250.00 | 16883.33 |     | Two | 66.67 | 152625.00 | 10175.00 |
-| Four | 60.00 | 218625.00 | 14575.00 |     | Five | 60.00 | 288750.00 | 19250.00 |
-| Two | 66.67 | 152625.00 | 10175.00 |     | Three | 60.00 | 253250.00 | 16883.33 |
-| One | 80.00 | 119375.00 | 7958.33 |     | Four | 60.00 | 218625.00 | 14575.00 |
-| Thirty-Four | 33.33 | 36125.00 | 2408.33 |     | Thirty-Four | 33.33 | 36125.00 | 2408.33 |
-| Twenty-Nine | 13.33 | -63750.00 | -4250.00 |     | Twenty-Nine | 13.33 | -63750.00 | -4250.00 |
-| Twenty-Seven | 13.33 | -63750.00 | -4250.00 |     | Twenty-Seven | 13.33 | -63750.00 | -4250.00 |
-| Twenty-Five | 13.33 | -63750.00 | -4250.00 |     | Twenty-Five | 13.33 | -63750.00 | -4250.00 |
-| Thirty-Three | 13.33 | -66125.00 | -4408.33 |     | Thirty-Three | 13.33 | -66125.00 | -4408.33 |
-| Thirty-Two | 13.33 | -66125.00 | -4408.33 |     | Thirty-Two | 13.33 | -66125.00 | -4408.33 |
-| Thirty-One | 13.33 | -66125.00 | -4408.33 |     | Thirty-One | 13.33 | -66125.00 | -4408.33 |
-| Thirty | 13.33 | -66125.00 | -4408.33 |     | Thirty | 13.33 | -66125.00 | -4408.33 |
-| Twenty-Eight | 13.33 | -66125.00 | -4408.33 |     | Twenty-Eight | 13.33 | -66125.00 | -4408.33 |
-| Twenty-Six | 13.33 | -66125.00 | -4408.33 |     | Twenty-Six | 13.33 | -66125.00 | -4408.33 |
-| Twenty-Four | 13.33 | -66125.00 | -4408.33 |     | Twenty-Four | 13.33 | -66125.00 | -4408.33 |
-| Seventeen | 13.33 | -66125.00 | -4408.33 |     | Seventeen | 13.33 | -66125.00 | -4408.33 |
-| Fifteen | 13.33 | -66125.00 | -4408.33 |     | Fifteen | 13.33 | -66125.00 | -4408.33 |
-| Thirteen | 13.33 | -66125.00 | -4408.33 |     | Thirteen | 13.33 | -66125.00 | -4408.33 |
-| Eleven | 13.33 | -66125.00 | -4408.33 |     | Eleven | 13.33 | -66125.00 | -4408.33 |
-| Nine | 13.33 | -66125.00 | -4408.33 |     | Nine | 13.33 | -66125.00 | -4408.33 |
-| Seven | 13.33 | -66125.00 | -4408.33 |     | Seven | 13.33 | -66125.00 | -4408.33 |
-| Twenty-Three | 13.33 | -67625.00 | -4508.33 |     | Twenty-Three | 13.33 | -67625.00 | -4508.33 |
-| Twenty-One | 13.33 | -67625.00 | -4508.33 |     | Twenty-One | 13.33 | -67625.00 | -4508.33 |
-| Nineteen | 13.33 | -67625.00 | -4508.33 |     | Nineteen | 13.33 | -67625.00 | -4508.33 |
-| Sixteen | 6.67 | -74500.00 | -4966.67 |     | Sixteen | 6.67 | -74500.00 | -4966.67 |
-| Fourteen | 6.67 | -74500.00 | -4966.67 |     | Fourteen | 6.67 | -74500.00 | -4966.67 |
-| Twelve | 6.67 | -74500.00 | -4966.67 |     | Twelve | 6.67 | -74500.00 | -4966.67 |
-| Ten | 6.67 | -74500.00 | -4966.67 |     | Ten | 6.67 | -74500.00 | -4966.67 |
-| Eight | 6.67 | -74500.00 | -4966.67 |     | Eight | 6.67 | -74500.00 | -4966.67 |
-| Six | 6.67 | -74500.00 | -4966.67 |     | Six | 6.67 | -74500.00 | -4966.67 |
-| Twenty-Two | 6.67 | -76000.00 | -5066.67 |     | Twenty-Two | 6.67 | -76000.00 | -5066.67 |
-| Twenty | 6.67 | -76000.00 | -5066.67 |     | Twenty | 6.67 | -76000.00 | -5066.67 |
-| Eighteen | 6.67 | -76000.00 | -5066.67 |     | Eighteen | 6.67 | -76000.00 | -5066.67 |
+| Five | 60.00 | 301375.00 | 20091.67 |     | Twenty-Nine | 86.67 | 34750.00 | 2316.67 |
+| Thirty-Five | 80.00 | 298625.00 | 19908.33 |     | Twenty-Seven | 86.67 | 34750.00 | 2316.67 |
+| Four | 60.00 | 232500.00 | 15500.00 |     | Twenty-Five | 86.67 | 34750.00 | 2316.67 |
+| Three | 66.67 | 208875.00 | 13925.00 |     | Thirty-Two | 86.67 | 25750.00 | 1716.67 |
+| Two | 66.67 | 149500.00 | 9966.67 |     | Thirty | 86.67 | 25750.00 | 1716.67 |
+| One | 80.00 | 120625.00 | 8041.67 |     | Thirty-Five | 80.00 | 298625.00 | 19908.33 |
+| Thirty-Four | 60.00 | 107250.00 | 7150.00 |     | One | 80.00 | 120625.00 | 8041.67 |
+| Twenty-Two | 46.67 | 38375.00 | 2558.33 |     | Thirty-Three | 73.33 | 5625.00 | 375.00 |
+| Twenty-Nine | 86.67 | 34750.00 | 2316.67 |     | Thirty-One | 73.33 | 5625.00 | 375.00 |
+| Twenty-Seven | 86.67 | 34750.00 | 2316.67 |     | Twenty-Eight | 73.33 | 5625.00 | 375.00 |
+| Twenty-Five | 86.67 | 34750.00 | 2316.67 |     | Twenty-Six | 73.33 | 5625.00 | 375.00 |
+| Thirty-Two | 86.67 | 25750.00 | 1716.67 |     | Twenty-Four | 73.33 | 5625.00 | 375.00 |
+| Thirty | 86.67 | 25750.00 | 1716.67 |     | Three | 66.67 | 208875.00 | 13925.00 |
+| Sixteen | 46.67 | 25750.00 | 1716.67 |     | Two | 66.67 | 149500.00 | 9966.67 |
+| Twenty | 46.67 | 15875.00 | 1058.33 |     | Five | 60.00 | 301375.00 | 20091.67 |
+| Eleven | 60.00 | 12125.00 | 808.33 |     | Four | 60.00 | 232500.00 | 15500.00 |
+| Nine | 60.00 | 12125.00 | 808.33 |     | Thirty-Four | 60.00 | 107250.00 | 7150.00 |
+| Seven | 60.00 | 12125.00 | 808.33 |     | Eleven | 60.00 | 12125.00 | 808.33 |
+| Fourteen | 46.67 | 11250.00 | 750.00 |     | Nine | 60.00 | 12125.00 | 808.33 |
+| Twenty-Three | 60.00 | 8750.00 | 583.33 |     | Seven | 60.00 | 12125.00 | 808.33 |
+| Twenty-One | 60.00 | 8750.00 | 583.33 |     | Twenty-Three | 60.00 | 8750.00 | 583.33 |
+| Nineteen | 60.00 | 8750.00 | 583.33 |     | Twenty-One | 60.00 | 8750.00 | 583.33 |
+| Seventeen | 53.33 | 7750.00 | 516.67 |     | Nineteen | 60.00 | 8750.00 | 583.33 |
+| Fifteen | 53.33 | 7750.00 | 516.67 |     | Seventeen | 53.33 | 7750.00 | 516.67 |
+| Thirteen | 53.33 | 7750.00 | 516.67 |     | Fifteen | 53.33 | 7750.00 | 516.67 |
+| Thirty-Three | 73.33 | 5625.00 | 375.00 |     | Thirteen | 53.33 | 7750.00 | 516.67 |
+| Thirty-One | 73.33 | 5625.00 | 375.00 |     | Ten | 53.33 | -18875.00 | -1258.33 |
+| Twenty-Eight | 73.33 | 5625.00 | 375.00 |     | Eight | 53.33 | -18875.00 | -1258.33 |
+| Twenty-Six | 73.33 | 5625.00 | 375.00 |     | Six | 53.33 | -18875.00 | -1258.33 |
+| Twenty-Four | 73.33 | 5625.00 | 375.00 |     | Twenty-Two | 46.67 | 38375.00 | 2558.33 |
+| Twelve | 46.67 | -125.00 | -8.33 |     | Sixteen | 46.67 | 25750.00 | 1716.67 |
+| Eighteen | 46.67 | -375.00 | -25.00 |     | Twenty | 46.67 | 15875.00 | 1058.33 |
+| Ten | 53.33 | -18875.00 | -1258.33 |     | Fourteen | 46.67 | 11250.00 | 750.00 |
+| Eight | 53.33 | -18875.00 | -1258.33 |     | Twelve | 46.67 | -125.00 | -8.33 |
+| Six | 53.33 | -18875.00 | -1258.33 |     | Eighteen | 46.67 | -375.00 | -25.00 |
 
 ### Test One
 * Sell when price hits the middle line of the 20p bollinger
@@ -51,29 +51,29 @@
 Total Trades: 15
 Percent Up: 20.00
 Percent Down: 80.00
-Total Points Moved Down: 238.75
-Potential Profit: 119375.00
-Total Points Ups: 68.25 Count Ups: 3
-Total Points Downs: 307.00 Count Downs: 12
+Total Points Moved Down: 241.25
+Potential Profit: 120625.00
+Total Points Ups: 62.75 Count Ups: 3
+Total Points Downs: 304.00 Count Downs: 12
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:31:25		Total Move Down: 12.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:04:30		Total Move Down: 20.00</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:42:55		Total Move Down: 15.50</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:06:05		Total Move Down: 49.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:06:05		Total Move Down: 39.50</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:08:05		Total Move Down: -7.00</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:00		Total Move Down: -43.00</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:40:35		Total Move Down: -18.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:43:30		Total Move Down: 22.75</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:06:50		Total Move Down: 18.75</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:17:30		Total Move Down: 17.25</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:46:20		Total Move Down: 6.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:21:15		Total Move Down: 44.75</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:18:20		Total Move Down: 49.00</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:40		Total Move Down: 10.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:31:30		Total Position Time: 08:30		Total Move Down: 12.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:04:35		Total Position Time: 01:35		Total Move Down: 21.50</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:42:55		Total Position Time: 04:55		Total Move Down: 15.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:06:05		Total Position Time: 02:05		Total Move Down: 49.75</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:06:05		Total Position Time: 01:05		Total Move Down: 39.50</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:08:05		Total Position Time: 11:05		Total Move Down: -7.00</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:40		Total Position Time: 29:40		Total Move Down: -38.00</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:41:20		Total Position Time: 14:20		Total Move Down: -17.75</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:43:30		Total Position Time: 02:30		Total Move Down: 22.75</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:06:40		Total Position Time: 03:40		Total Move Down: 10.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:17:30		Total Position Time: 10:30		Total Move Down: 17.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:47:10		Total Position Time: 11:10		Total Move Down: 6.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:21:30		Total Position Time: 04:30		Total Move Down: 47.50</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:18:20		Total Position Time: 05:20		Total Move Down: 49.00</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:05:45		Total Position Time: 01:45		Total Move Down: 12.25</code> <br />
 
 
 </details>
@@ -86,29 +86,29 @@ Total Points Downs: 307.00 Count Downs: 12
 Total Trades: 15
 Percent Up: 33.33
 Percent Down: 66.67
-Total Points Moved Down: 305.25
-Potential Profit: 152625.00
-Total Points Ups: 162.50 Count Ups: 5
-Total Points Downs: 467.75 Count Downs: 10
+Total Points Moved Down: 299.00
+Potential Profit: 149500.00
+Total Points Ups: 140.75 Count Ups: 5
+Total Points Downs: 439.75 Count Downs: 10
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:43:00		Total Move Down: 11.50</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:00		Total Move Down: -84.50</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:45:10		Total Move Down: 25.25</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:07:30		Total Move Down: 79.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:07:30		Total Move Down: 69.50</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:13:30		Total Move Down: -0.50</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:00		Total Move Down: -43.00</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:43:30		Total Move Down: -3.00</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:06:20		Total Move Down: 8.75</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:07:20		Total Move Down: 61.50</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:00		Total Move Down: -31.50</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:48:25		Total Move Down: 30.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:26:40		Total Move Down: 59.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:20:20		Total Move Down: 71.00</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:40		Total Move Down: 50.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:43:00		Total Position Time: 20:00		Total Move Down: 11.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:55		Total Position Time: 29:55		Total Move Down: -82.25</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:45:10		Total Position Time: 07:10		Total Move Down: 25.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:07:25		Total Position Time: 03:25		Total Move Down: 72.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:07:25		Total Position Time: 02:25		Total Move Down: 62.25</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:13:30		Total Position Time: 16:30		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:55		Total Position Time: 29:55		Total Move Down: -41.25</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:43:45		Total Position Time: 16:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:06:20		Total Position Time: 25:20		Total Move Down: 8.75</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:07:20		Total Position Time: 04:20		Total Move Down: 61.50</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:55		Total Position Time: 29:55		Total Move Down: -16.75</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:48:25		Total Position Time: 12:25		Total Move Down: 30.75</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:26:40		Total Position Time: 09:40		Total Move Down: 59.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:20:20		Total Position Time: 07:20		Total Move Down: 71.00</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:35		Total Position Time: 02:35		Total Move Down: 37.25</code> <br />
 
 
 </details>
@@ -119,31 +119,31 @@ Total Points Downs: 467.75 Count Downs: 10
 * Results:
 ```
 Total Trades: 15
-Percent Up: 40.00
-Percent Down: 60.00
-Total Points Moved Down: 506.50
-Potential Profit: 253250.00
-Total Points Ups: 204.50 Count Ups: 6
-Total Points Downs: 711.00 Count Downs: 9
+Percent Up: 33.33
+Percent Down: 66.67
+Total Points Moved Down: 417.75
+Potential Profit: 208875.00
+Total Points Ups: 176.75 Count Ups: 5
+Total Points Downs: 594.50 Count Downs: 10
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:52:00		Total Move Down: -8.50</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:00		Total Move Down: -84.50</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:54:30		Total Move Down: 54.50</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:09:40		Total Move Down: 129.50</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:09:40		Total Move Down: 119.25</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:21:05		Total Move Down: 44.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:00		Total Move Down: -43.00</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:53:05		Total Move Down: 38.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:00		Total Move Down: -3.50</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:07:40		Total Move Down: 96.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:00		Total Move Down: -31.50</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:00		Total Move Down: -33.50</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:46:00		Total Move Down: 118.75</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:00		Total Move Down: 45.00</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:55		Total Move Down: 64.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:43:10		Total Position Time: 20:10		Total Move Down: 16.75</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:55		Total Position Time: 29:55		Total Move Down: -82.25</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:53:40		Total Position Time: 15:40		Total Move Down: 41.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:08:25		Total Position Time: 04:25		Total Move Down: 101.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:08:25		Total Position Time: 03:25		Total Move Down: 91.25</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:20:25		Total Position Time: 23:25		Total Move Down: 32.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:55		Total Position Time: 29:55		Total Move Down: -41.25</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:52:00		Total Position Time: 25:00		Total Move Down: 16.00</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:55		Total Position Time: 29:55		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:07:40		Total Position Time: 04:40		Total Move Down: 96.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:55		Total Position Time: 29:55		Total Move Down: -16.75</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:55		Total Position Time: 29:55		Total Move Down: -31.25</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:32:40		Total Position Time: 15:40		Total Move Down: 90.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:55		Total Position Time: 29:55		Total Move Down: 56.00</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:45		Total Position Time: 02:45		Total Move Down: 53.00</code> <br />
 
 
 </details>
@@ -156,29 +156,29 @@ Total Points Downs: 711.00 Count Downs: 9
 Total Trades: 15
 Percent Up: 40.00
 Percent Down: 60.00
-Total Points Moved Down: 437.25
-Potential Profit: 218625.00
-Total Points Ups: 204.50 Count Ups: 6
-Total Points Downs: 641.75 Count Downs: 9
+Total Points Moved Down: 465.00
+Potential Profit: 232500.00
+Total Points Ups: 191.00 Count Ups: 6
+Total Points Downs: 656.00 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:52:00		Total Move Down: -8.50</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:00		Total Move Down: -84.50</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:53:40		Total Move Down: 41.25</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:08:10		Total Move Down: 96.50</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:08:10		Total Move Down: 86.25</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:25:35		Total Move Down: 71.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:00		Total Move Down: -43.00</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:56:00		Total Move Down: 35.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:00		Total Move Down: -3.50</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:20:50		Total Move Down: 117.75</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:00		Total Move Down: -31.50</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:00		Total Move Down: -33.50</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:36:50		Total Move Down: 110.75</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:00		Total Move Down: 45.00</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:35		Total Move Down: 37.25</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:52:55		Total Position Time: 29:55		Total Move Down: -14.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:55		Total Position Time: 29:55		Total Move Down: -82.25</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:53:40		Total Position Time: 15:40		Total Move Down: 41.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:08:10		Total Position Time: 04:10		Total Move Down: 96.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:08:10		Total Position Time: 03:10		Total Move Down: 86.25</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:25:35		Total Position Time: 28:35		Total Move Down: 71.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:55		Total Position Time: 29:55		Total Move Down: -41.25</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:56:55		Total Position Time: 29:55		Total Move Down: 38.50</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:55		Total Position Time: 29:55		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:20:50		Total Position Time: 17:50		Total Move Down: 117.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:55		Total Position Time: 29:55		Total Move Down: -16.75</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:55		Total Position Time: 29:55		Total Move Down: -31.25</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:36:50		Total Position Time: 19:50		Total Move Down: 110.75</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:55		Total Position Time: 29:55		Total Move Down: 56.00</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:06:35		Total Position Time: 02:35		Total Move Down: 37.25</code> <br />
 
 
 </details>
@@ -191,29 +191,29 @@ Total Points Downs: 641.75 Count Downs: 9
 Total Trades: 15
 Percent Up: 40.00
 Percent Down: 60.00
-Total Points Moved Down: 577.50
-Potential Profit: 288750.00
-Total Points Ups: 204.50 Count Ups: 6
-Total Points Downs: 782.00 Count Downs: 9
+Total Points Moved Down: 602.75
+Potential Profit: 301375.00
+Total Points Ups: 191.00 Count Ups: 6
+Total Points Downs: 793.75 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:52:00		Total Move Down: -8.50</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:00		Total Move Down: -84.50</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:56:30		Total Move Down: 60.75</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:13:00		Total Move Down: 146.00</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:13:00		Total Move Down: 135.75</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:26:00		Total Move Down: 64.25</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:00		Total Move Down: -43.00</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:56:00		Total Move Down: 35.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:00		Total Move Down: -3.50</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:32:00		Total Move Down: 103.75</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:00		Total Move Down: -31.50</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:00		Total Move Down: -33.50</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:46:00		Total Move Down: 118.75</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:00		Total Move Down: 45.00</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:07:00		Total Move Down: 72.50</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:52:55		Total Position Time: 29:55		Total Move Down: -14.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:32:55		Total Position Time: 29:55		Total Move Down: -82.25</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:56:30		Total Position Time: 18:30		Total Move Down: 60.75</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:13:00		Total Position Time: 09:00		Total Move Down: 146.00</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:13:00		Total Position Time: 08:00		Total Move Down: 135.75</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:26:55		Total Position Time: 29:55		Total Move Down: 79.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:35:55		Total Position Time: 29:55		Total Move Down: -41.25</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:56:55		Total Position Time: 29:55		Total Move Down: 38.50</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 11:10:55		Total Position Time: 29:55		Total Move Down: -5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:32:55		Total Position Time: 29:55		Total Move Down: 86.50</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:36:55		Total Position Time: 29:55		Total Move Down: -16.75</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 09:05:55		Total Position Time: 29:55		Total Move Down: -31.25</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:46:55		Total Position Time: 29:55		Total Move Down: 118.50</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:42:55		Total Position Time: 29:55		Total Move Down: 56.00</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:07:00		Total Position Time: 03:00		Total Move Down: 72.50</code> <br />
 
 
 </details>
@@ -224,31 +224,31 @@ Total Points Downs: 782.00 Count Downs: 9
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: -37.75
+Potential Profit: -18875.00
+Total Points Ups: 78.00 Count Ups: 7
+Total Points Downs: 40.25 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:35		Total Position Time: 00:35		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:00		Total Position Time: 02:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -259,31 +259,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 24.25
+Potential Profit: 12125.00
+Total Points Ups: 21.00 Count Ups: 6
+Total Points Downs: 45.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:15		Total Position Time: 00:15		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -294,31 +294,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: -37.75
+Potential Profit: -18875.00
+Total Points Ups: 78.00 Count Ups: 7
+Total Points Downs: 40.25 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:35		Total Position Time: 00:35		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:00		Total Position Time: 02:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -329,31 +329,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 24.25
+Potential Profit: 12125.00
+Total Points Ups: 21.00 Count Ups: 6
+Total Points Downs: 45.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:15		Total Position Time: 00:15		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -364,31 +364,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: -37.75
+Potential Profit: -18875.00
+Total Points Ups: 78.00 Count Ups: 7
+Total Points Downs: 40.25 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:35		Total Position Time: 00:35		Total Move Down: 1.00</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:00		Total Position Time: 02:00		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -399,31 +399,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 24.25
+Potential Profit: 12125.00
+Total Points Ups: 21.00 Count Ups: 6
+Total Points Downs: 45.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:15		Total Position Time: 00:15		Total Move Down: -4.50</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -434,31 +434,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: -0.25
+Potential Profit: -125.00
+Total Points Ups: 80.00 Count Ups: 8
+Total Points Downs: 79.75 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:40:05		Total Position Time: 02:05		Total Move Down: 0.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:06:05		Total Position Time: 02:05		Total Move Down: 49.75</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -469,31 +469,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: 15.50
+Potential Profit: 7750.00
+Total Points Ups: 29.25 Count Ups: 7
+Total Points Downs: 44.75 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -504,31 +504,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: 22.50
+Potential Profit: 11250.00
+Total Points Ups: 80.00 Count Ups: 8
+Total Points Downs: 102.50 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:40:05		Total Position Time: 02:05		Total Move Down: 0.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:07:25		Total Position Time: 03:25		Total Move Down: 72.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -539,31 +539,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: 15.50
+Potential Profit: 7750.00
+Total Points Ups: 29.25 Count Ups: 7
+Total Points Downs: 44.75 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -574,31 +574,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -149.00
-Potential Profit: -74500.00
-Total Points Ups: 152.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: 51.50
+Potential Profit: 25750.00
+Total Points Ups: 80.00 Count Ups: 8
+Total Points Downs: 131.50 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:40:05		Total Position Time: 02:05		Total Move Down: 0.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:08:25		Total Position Time: 04:25		Total Move Down: 101.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:35		Total Position Time: 00:35		Total Move Down: -13.00</code> <br />
 
 
 </details>
@@ -609,31 +609,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 46.67
+Percent Down: 53.33
+Total Points Moved Down: 15.50
+Potential Profit: 7750.00
+Total Points Ups: 29.25 Count Ups: 7
+Total Points Downs: 44.75 Count Downs: 8
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:15		Total Position Time: 00:15		Total Move Down: -0.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:15		Total Position Time: 00:15		Total Move Down: -1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -644,31 +644,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -152.00
-Potential Profit: -76000.00
-Total Points Ups: 155.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: -0.75
+Potential Profit: -375.00
+Total Points Ups: 95.50 Count Ups: 8
+Total Points Downs: 94.75 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:25:10		Total Position Time: 02:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:42:55		Total Position Time: 04:55		Total Move Down: 15.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:06:05		Total Position Time: 02:05		Total Move Down: 49.75</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:58:30		Total Position Time: 01:30		Total Move Down: -13.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:37:20		Total Position Time: 01:20		Total Move Down: -6.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:40		Total Position Time: 00:40		Total Move Down: -20.25</code> <br />
 
 
 </details>
@@ -679,31 +679,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -135.25
-Potential Profit: -67625.00
-Total Points Ups: 145.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 17.50
+Potential Profit: 8750.00
+Total Points Ups: 29.75 Count Ups: 6
+Total Points Downs: 47.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:24:25		Total Position Time: 01:25		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:55		Total Position Time: 00:55		Total Move Down: -2.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -714,31 +714,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -152.00
-Potential Profit: -76000.00
-Total Points Ups: 155.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: 31.75
+Potential Profit: 15875.00
+Total Points Ups: 95.50 Count Ups: 8
+Total Points Downs: 127.25 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:25:10		Total Position Time: 02:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:45:10		Total Position Time: 07:10		Total Move Down: 25.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:07:25		Total Position Time: 03:25		Total Move Down: 72.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:58:30		Total Position Time: 01:30		Total Move Down: -13.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:37:20		Total Position Time: 01:20		Total Move Down: -6.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:40		Total Position Time: 00:40		Total Move Down: -20.25</code> <br />
 
 
 </details>
@@ -749,31 +749,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -135.25
-Potential Profit: -67625.00
-Total Points Ups: 145.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 17.50
+Potential Profit: 8750.00
+Total Points Ups: 29.75 Count Ups: 6
+Total Points Downs: 47.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:24:25		Total Position Time: 01:25		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:55		Total Position Time: 00:55		Total Move Down: -2.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -784,31 +784,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 93.33
-Percent Down: 6.67
-Total Points Moved Down: -152.00
-Potential Profit: -76000.00
-Total Points Ups: 155.25 Count Ups: 14
-Total Points Downs: 3.25 Count Downs: 1
+Percent Up: 53.33
+Percent Down: 46.67
+Total Points Moved Down: 76.75
+Potential Profit: 38375.00
+Total Points Ups: 95.50 Count Ups: 8
+Total Points Downs: 172.25 Count Downs: 7
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Move Down: -10.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:25:10		Total Position Time: 02:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:53:40		Total Position Time: 15:40		Total Move Down: 41.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:08:25		Total Position Time: 04:25		Total Move Down: 101.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:58:30		Total Position Time: 01:30		Total Move Down: -13.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:08:05		Total Position Time: 02:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:37:20		Total Position Time: 01:20		Total Move Down: -6.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:40		Total Position Time: 00:40		Total Move Down: -20.25</code> <br />
 
 
 </details>
@@ -819,31 +819,31 @@ Total Points Downs: 3.25 Count Downs: 1
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -135.25
-Potential Profit: -67625.00
-Total Points Ups: 145.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 17.50
+Potential Profit: 8750.00
+Total Points Ups: 29.75 Count Ups: 6
+Total Points Downs: 47.25 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:20		Total Move Down: -2.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:35		Total Move Down: -13.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:24:25		Total Position Time: 01:25		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:20		Total Position Time: 00:20		Total Move Down: -12.75</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:55		Total Position Time: 00:55		Total Move Down: -2.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:15		Total Position Time: 00:15		Total Move Down: -0.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:20		Total Position Time: 00:20		Total Move Down: -3.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:45		Total Position Time: 00:45		Total Move Down: -0.00</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:15		Total Position Time: 00:15		Total Move Down: 0.50</code> <br />
 
 
 </details>
@@ -854,31 +854,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 26.67
+Percent Down: 73.33
+Total Points Moved Down: 11.25
+Potential Profit: 5625.00
+Total Points Ups: 55.25 Count Ups: 4
+Total Points Downs: 66.50 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:20		Total Position Time: 00:20		Total Move Down: -9.00</code> <br />
 
 
 </details>
@@ -889,31 +889,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -127.50
-Potential Profit: -63750.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 14.50 Count Downs: 2
+Percent Up: 13.33
+Percent Down: 86.67
+Total Points Moved Down: 69.50
+Potential Profit: 34750.00
+Total Points Ups: 12.50 Count Ups: 2
+Total Points Downs: 82.00 Count Downs: 13
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:15		Total Move Down: 11.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:10		Total Position Time: 00:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:10		Total Position Time: 00:10		Total Move Down: 5.50</code> <br />
 
 
 </details>
@@ -924,31 +924,31 @@ Total Points Downs: 14.50 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 26.67
+Percent Down: 73.33
+Total Points Moved Down: 11.25
+Potential Profit: 5625.00
+Total Points Ups: 55.25 Count Ups: 4
+Total Points Downs: 66.50 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:20		Total Position Time: 00:20		Total Move Down: -9.00</code> <br />
 
 
 </details>
@@ -959,31 +959,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -127.50
-Potential Profit: -63750.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 14.50 Count Downs: 2
+Percent Up: 13.33
+Percent Down: 86.67
+Total Points Moved Down: 69.50
+Potential Profit: 34750.00
+Total Points Ups: 12.50 Count Ups: 2
+Total Points Downs: 82.00 Count Downs: 13
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:15		Total Move Down: 11.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:10		Total Position Time: 00:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:10		Total Position Time: 00:10		Total Move Down: 5.50</code> <br />
 
 
 </details>
@@ -994,31 +994,31 @@ Total Points Downs: 14.50 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 26.67
+Percent Down: 73.33
+Total Points Moved Down: 11.25
+Potential Profit: 5625.00
+Total Points Ups: 55.25 Count Ups: 4
+Total Points Downs: 66.50 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:20		Total Position Time: 00:20		Total Move Down: -9.00</code> <br />
 
 
 </details>
@@ -1029,31 +1029,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -127.50
-Potential Profit: -63750.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 14.50 Count Downs: 2
+Percent Up: 13.33
+Percent Down: 86.67
+Total Points Moved Down: 69.50
+Potential Profit: 34750.00
+Total Points Ups: 12.50 Count Ups: 2
+Total Points Downs: 82.00 Count Downs: 13
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:15		Total Move Down: 11.25</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:10		Total Position Time: 00:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:10		Total Position Time: 00:10		Total Move Down: 5.50</code> <br />
 
 
 </details>
@@ -1064,31 +1064,31 @@ Total Points Downs: 14.50 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 13.33
+Percent Down: 86.67
+Total Points Moved Down: 51.50
+Potential Profit: 25750.00
+Total Points Ups: 12.50 Count Ups: 2
+Total Points Downs: 64.00 Count Downs: 13
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:15		Total Position Time: 00:15		Total Move Down: 10.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:10		Total Position Time: 00:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:10		Total Position Time: 00:10		Total Move Down: 5.50</code> <br />
 
 
 </details>
@@ -1099,31 +1099,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 26.67
+Percent Down: 73.33
+Total Points Moved Down: 11.25
+Potential Profit: 5625.00
+Total Points Ups: 55.25 Count Ups: 4
+Total Points Downs: 66.50 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:20		Total Position Time: 00:20		Total Move Down: -9.00</code> <br />
 
 
 </details>
@@ -1134,31 +1134,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 13.33
+Percent Down: 86.67
+Total Points Moved Down: 51.50
+Potential Profit: 25750.00
+Total Points Ups: 12.50 Count Ups: 2
+Total Points Downs: 64.00 Count Downs: 13
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:15		Total Position Time: 00:15		Total Move Down: 5.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:15		Total Position Time: 00:15		Total Move Down: 9.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:15		Total Position Time: 00:15		Total Move Down: 10.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:10		Total Position Time: 00:10		Total Move Down: 10.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:10		Total Position Time: 00:10		Total Move Down: 5.50</code> <br />
 
 
 </details>
@@ -1169,31 +1169,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 86.67
-Percent Down: 13.33
-Total Points Moved Down: -132.25
-Potential Profit: -66125.00
-Total Points Ups: 142.00 Count Ups: 13
-Total Points Downs: 9.75 Count Downs: 2
+Percent Up: 26.67
+Percent Down: 73.33
+Total Points Moved Down: 11.25
+Potential Profit: 5625.00
+Total Points Ups: 55.25 Count Ups: 4
+Total Points Downs: 66.50 Count Downs: 11
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:15		Total Move Down: -6.25</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:15		Total Move Down: -0.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:15		Total Move Down: -0.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:04:15		Total Move Down: -1.00</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:15		Total Move Down: -12.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:25		Total Move Down: 6.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:40:15		Total Move Down: -10.00</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:15		Total Move Down: -40.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:15		Total Move Down: -7.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:15		Total Move Down: -9.75</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:15		Total Move Down: -12.00</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:15		Total Move Down: 3.25</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:15		Total Move Down: -24.75</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:10		Total Position Time: 00:10		Total Move Down: 2.50</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:10		Total Position Time: 00:10		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:10		Total Position Time: 00:10		Total Move Down: 11.25</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:10		Total Position Time: 00:10		Total Move Down: 16.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:05:10		Total Position Time: 00:10		Total Move Down: 15.00</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:10		Total Position Time: 00:10		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:10		Total Position Time: 00:10		Total Move Down: 1.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:10		Total Position Time: 00:10		Total Move Down: -10.25</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Position Time: 00:10		Total Move Down: 5.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:45		Total Position Time: 00:45		Total Move Down: -33.75</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:10		Total Position Time: 00:10		Total Move Down: 4.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:10		Total Position Time: 00:10		Total Move Down: 0.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:10		Total Position Time: 00:10		Total Move Down: 2.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:10		Total Position Time: 00:10		Total Move Down: 6.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:20		Total Position Time: 00:20		Total Move Down: -9.00</code> <br />
 
 
 </details>
@@ -1204,31 +1204,31 @@ Total Points Downs: 9.75 Count Downs: 2
 * Results:
 ```
 Total Trades: 15
-Percent Up: 66.67
-Percent Down: 33.33
-Total Points Moved Down: 72.25
-Potential Profit: 36125.00
-Total Points Ups: 129.25 Count Ups: 10
-Total Points Downs: 201.50 Count Downs: 5
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Down: 214.50
+Potential Profit: 107250.00
+Total Points Ups: 14.00 Count Ups: 6
+Total Points Downs: 228.50 Count Downs: 9
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:22:10		Total Move Down: -6.75</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:02:10		Total Move Down: 2.25</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:37:10		Total Move Down: 1.00</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:03:10		Total Move Down: -6.25</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:19:10		Total Move Down: 180.50</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:56:10		Total Move Down: -14.75</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:05:10		Total Move Down: -7.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:26:10		Total Move Down: 12.50</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Move Down: 5.25</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:02:10		Total Move Down: -28.00</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:06:10		Total Move Down: -12.25</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:35:10		Total Move Down: -11.25</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:16:10		Total Move Down: -11.75</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:12:10		Total Move Down: -4.50</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:03:10		Total Move Down: -26.00</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:23:05		Total Position Time: 00:05		Total Move Down: 0.75</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:03:05		Total Position Time: 00:05		Total Move Down: 1.00</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:38:05		Total Position Time: 00:05		Total Move Down: 4.50</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:04:05		Total Position Time: 00:05		Total Move Down: -2.25</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:20:05		Total Position Time: 15:05		Total Move Down: 176.25</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 11:57:05		Total Position Time: 00:05		Total Move Down: -2.00</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:06:05		Total Position Time: 00:05		Total Move Down: -0.75</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:27:05		Total Position Time: 00:05		Total Move Down: -0.50</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:42:05		Total Position Time: 01:05		Total Move Down: 17.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:03:05		Total Position Time: 00:05		Total Move Down: 12.00</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:07:05		Total Position Time: 00:05		Total Move Down: 8.25</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:36:05		Total Position Time: 00:05		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:17:05		Total Position Time: 00:05		Total Move Down: -4.00</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:13:05		Total Position Time: 00:05		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:04:05		Total Position Time: 00:05		Total Move Down: 6.00</code> <br />
 
 
 </details>
@@ -1239,31 +1239,31 @@ Total Points Downs: 201.50 Count Downs: 5
 * Results:
 ```
 Total Trades: 15
-Percent Up: 26.67
-Percent Down: 73.33
-Total Points Moved Down: 572.00
-Potential Profit: 286000.00
-Total Points Ups: 88.25 Count Ups: 4
-Total Points Downs: 660.25 Count Downs: 11
+Percent Up: 20.00
+Percent Down: 80.00
+Total Points Moved Down: 597.25
+Potential Profit: 298625.00
+Total Points Ups: 76.50 Count Ups: 3
+Total Points Downs: 673.75 Count Downs: 12
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:34:10		Total Move Down: 7.00</code> <br />
-<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:08:10		Total Move Down: -5.50</code> <br />
-<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:49:10		Total Move Down: 23.25</code> <br />
-<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:19:10		Total Move Down: 190.75</code> <br />
-<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:19:10		Total Move Down: 180.50</code> <br />
-<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:14:10		Total Move Down: -16.00</code> <br />
-<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:12:10		Total Move Down: -4.75</code> <br />
-<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:35:10		Total Move Down: -62.00</code> <br />
-<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:41:10		Total Move Down: 5.25</code> <br />
-<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:16:10		Total Move Down: 46.25</code> <br />
-<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:18:10		Total Move Down: 12.75</code> <br />
-<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:52:10		Total Move Down: 21.50</code> <br />
-<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:29:10		Total Move Down: 54.50</code> <br />
-<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:23:10		Total Move Down: 53.50</code> <br />
-<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:09:10		Total Move Down: 65.00</code> <br />
+<code>In: 2022-03-23 08:23:00		Out: 2022-03-23 08:35:05		Total Position Time: 12:05		Total Move Down: 17.00</code> <br />
+<code>In: 2022-03-24 08:03:00		Out: 2022-03-24 08:09:05		Total Position Time: 06:05		Total Move Down: 19.00</code> <br />
+<code>In: 2022-03-30 07:38:00		Out: 2022-03-30 07:50:05		Total Position Time: 12:05		Total Move Down: 27.00</code> <br />
+<code>In: 2022-04-06 11:04:00		Out: 2022-04-06 11:20:05		Total Position Time: 16:05		Total Move Down: 186.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:20:05		Total Position Time: 15:05		Total Move Down: 176.25</code> <br />
+<code>In: 2022-04-06 11:57:00		Out: 2022-04-06 12:15:05		Total Position Time: 18:05		Total Move Down: -15.25</code> <br />
+<code>In: 2022-04-13 08:06:00		Out: 2022-04-13 08:13:05		Total Position Time: 07:05		Total Move Down: -6.50</code> <br />
+<code>In: 2022-04-25 07:27:00		Out: 2022-04-25 07:36:05		Total Position Time: 09:05		Total Move Down: -54.75</code> <br />
+<code>In: 2022-04-28 10:41:00		Out: 2022-04-28 10:42:05		Total Position Time: 01:05		Total Move Down: 17.25</code> <br />
+<code>In: 2022-05-04 11:03:00		Out: 2022-05-04 11:17:05		Total Position Time: 14:05		Total Move Down: 66.50</code> <br />
+<code>In: 2022-05-16 11:07:00		Out: 2022-05-16 11:19:05		Total Position Time: 12:05		Total Move Down: 2.50</code> <br />
+<code>In: 2022-05-23 08:36:00		Out: 2022-05-23 08:53:05		Total Position Time: 17:05		Total Move Down: 12.25</code> <br />
+<code>In: 2022-05-24 09:17:00		Out: 2022-05-24 09:30:05		Total Position Time: 13:05		Total Move Down: 61.25</code> <br />
+<code>In: 2022-05-24 11:13:00		Out: 2022-05-24 11:24:05		Total Position Time: 11:05		Total Move Down: 56.25</code> <br />
+<code>In: 2022-05-25 11:04:00		Out: 2022-05-25 11:10:05		Total Position Time: 06:05		Total Move Down: 32.00</code> <br />
 
 
 </details>
