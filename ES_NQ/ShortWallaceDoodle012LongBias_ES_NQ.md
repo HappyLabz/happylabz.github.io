@@ -7,17 +7,17 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Thirty-Three | 0.00 | -375.00 | -375.00 |     | Thirty-Three | 0.00 | -375.00 | -375.00 |
-| Thirty-Two | 0.00 | -375.00 | -375.00 |     | Thirty-Two | 0.00 | -375.00 | -375.00 |
-| Thirty-One | 0.00 | -375.00 | -375.00 |     | Thirty-One | 0.00 | -375.00 | -375.00 |
-| Thirty | 0.00 | -375.00 | -375.00 |     | Thirty | 0.00 | -375.00 | -375.00 |
-| Twenty-Nine | 0.00 | -375.00 | -375.00 |     | Twenty-Nine | 0.00 | -375.00 | -375.00 |
-| Twenty-Eight | 0.00 | -375.00 | -375.00 |     | Twenty-Eight | 0.00 | -375.00 | -375.00 |
-| Twenty-Seven | 0.00 | -375.00 | -375.00 |     | Twenty-Seven | 0.00 | -375.00 | -375.00 |
-| Twenty-Six | 0.00 | -375.00 | -375.00 |     | Twenty-Six | 0.00 | -375.00 | -375.00 |
-| Twenty-Five | 0.00 | -375.00 | -375.00 |     | Twenty-Five | 0.00 | -375.00 | -375.00 |
-| Twenty-Four | 0.00 | -375.00 | -375.00 |     | Twenty-Four | 0.00 | -375.00 | -375.00 |
-| Thirty-Four | 0.00 | -500.00 | -500.00 |     | Thirty-Four | 0.00 | -500.00 | -500.00 |
+| Thirty-Four | 0.00 | -125.00 | -125.00 |     | Thirty-Four | 0.00 | -125.00 | -125.00 |
+| Thirty-Three | 0.00 | -500.00 | -500.00 |     | Thirty-Three | 0.00 | -500.00 | -500.00 |
+| Thirty-Two | 0.00 | -500.00 | -500.00 |     | Thirty-Two | 0.00 | -500.00 | -500.00 |
+| Thirty-One | 0.00 | -500.00 | -500.00 |     | Thirty-One | 0.00 | -500.00 | -500.00 |
+| Thirty | 0.00 | -500.00 | -500.00 |     | Thirty | 0.00 | -500.00 | -500.00 |
+| Twenty-Nine | 0.00 | -500.00 | -500.00 |     | Twenty-Nine | 0.00 | -500.00 | -500.00 |
+| Twenty-Eight | 0.00 | -500.00 | -500.00 |     | Twenty-Eight | 0.00 | -500.00 | -500.00 |
+| Twenty-Seven | 0.00 | -500.00 | -500.00 |     | Twenty-Seven | 0.00 | -500.00 | -500.00 |
+| Twenty-Six | 0.00 | -500.00 | -500.00 |     | Twenty-Six | 0.00 | -500.00 | -500.00 |
+| Twenty-Five | 0.00 | -500.00 | -500.00 |     | Twenty-Five | 0.00 | -500.00 | -500.00 |
+| Twenty-Four | 0.00 | -500.00 | -500.00 |     | Twenty-Four | 0.00 | -500.00 | -500.00 |
 | Eleven | 0.00 | -1000.00 | -1000.00 |     | Eleven | 0.00 | -1000.00 | -1000.00 |
 | Nine | 0.00 | -1000.00 | -1000.00 |     | Nine | 0.00 | -1000.00 | -1000.00 |
 | Seven | 0.00 | -1000.00 | -1000.00 |     | Seven | 0.00 | -1000.00 | -1000.00 |
@@ -59,7 +59,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Position Time: 29:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -80,7 +80,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Position Time: 29:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -101,7 +101,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Position Time: 29:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -122,7 +122,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Position Time: 29:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -143,7 +143,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Move Down: -16.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:25:55		Total Position Time: 29:55		Total Move Down: -16.00</code> <br />
 
 
 </details>
@@ -164,7 +164,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Position Time: 04:40		Total Move Down: -3.75</code> <br />
 
 
 </details>
@@ -185,7 +185,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Position Time: 02:10		Total Move Down: -2.00</code> <br />
 
 
 </details>
@@ -206,7 +206,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Position Time: 04:40		Total Move Down: -3.75</code> <br />
 
 
 </details>
@@ -227,7 +227,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Position Time: 02:10		Total Move Down: -2.00</code> <br />
 
 
 </details>
@@ -248,7 +248,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Move Down: -3.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:40		Total Position Time: 04:40		Total Move Down: -3.75</code> <br />
 
 
 </details>
@@ -269,7 +269,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Move Down: -2.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:58:10		Total Position Time: 02:10		Total Move Down: -2.00</code> <br />
 
 
 </details>
@@ -290,7 +290,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -311,7 +311,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Position Time: 04:00		Total Move Down: -2.75</code> <br />
 
 
 </details>
@@ -332,7 +332,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -353,7 +353,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Position Time: 04:00		Total Move Down: -2.75</code> <br />
 
 
 </details>
@@ -374,7 +374,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -395,7 +395,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Move Down: -2.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:00:00		Total Position Time: 04:00		Total Move Down: -2.75</code> <br />
 
 
 </details>
@@ -416,7 +416,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Position Time: 10:50		Total Move Down: -7.50</code> <br />
 
 
 </details>
@@ -437,7 +437,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -458,7 +458,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Position Time: 10:50		Total Move Down: -7.50</code> <br />
 
 
 </details>
@@ -479,7 +479,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -500,7 +500,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Move Down: -7.50</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:50		Total Position Time: 10:50		Total Move Down: -7.50</code> <br />
 
 
 </details>
@@ -521,7 +521,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Move Down: -5.75</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:01:10		Total Position Time: 05:10		Total Move Down: -5.75</code> <br />
 
 
 </details>
@@ -529,216 +529,6 @@ Total Points Downs: 0.00 Count Downs: 0
 ### Test Twenty-Four
 * Sell when the price hits the middle line of the 20p bollinger
 * Stoploss is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Twenty-Five
-* Sell when the price hits the middle line of the 20p bollinger
-* Trailing Stop is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Twenty-Six
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Twenty-Seven
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Twenty-Eight
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Twenty-Nine
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Thirty
-* Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Thirty-One
-* Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Thirty-Two
-* Sell when the price hits the lower line of the 1std VWAP
-* Stoploss is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Thirty-Three
-* Sell when the price hits the lower line of the 1std VWAP
-* Trailing Stop is 10 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:15		Total Move Down: -0.75</code> <br />
-
-
-</details>
-
-### Test Thirty-Four
-* Sell when the linear regression slope is positive
-* No Stoploss
 * Results:
 ```
 Total Trades: 1
@@ -752,7 +542,217 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Move Down: -1.00</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Five
+* Sell when the price hits the middle line of the 20p bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Six
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Seven
+* Sell when the price hits the lower line of the 20p 1std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Eight
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Twenty-Nine
+* Sell when the price hits the lower line of the 20p 2std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty-One
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Two
+* Sell when the price hits the lower line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Three
+* Sell when the price hits the lower line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -1.00
+Potential Profit: -500.00
+Total Points Ups: 1.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:10		Total Position Time: 00:10		Total Move Down: -1.00</code> <br />
+
+
+</details>
+
+### Test Thirty-Four
+* Sell when the linear regression slope is positive
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Down: -0.25
+Potential Profit: -125.00
+Total Points Ups: 0.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 11:56:05		Total Position Time: 00:05		Total Move Down: -0.25</code> <br />
 
 
 </details>
@@ -773,7 +773,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:10		Total Move Down: -4.50</code> <br />
+<code>In: 2022-05-13 11:56:00		Out: 2022-05-13 12:06:05		Total Position Time: 10:05		Total Move Down: -4.50</code> <br />
 
 
 </details>

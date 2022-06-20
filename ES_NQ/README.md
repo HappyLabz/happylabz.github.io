@@ -203,15 +203,24 @@
 - [Long Pointer 011 (1231 REV) One-Five](LongPointerEleven1231REV_ES_NQ.md)
 - [Short Pointer 011 (1231 REV) One-Five](ShortPointerEleven1231REV_ES_NQ.md)
 
+### Shepard 001 (1230 ROT TEO)
+
+- [Long Shepard 001 (1230 ROT TEO) One-Five](LongShepard0011230ROTTEO_ES_NQ.md)
+- [Short Shepard 001 (1230 ROT TEO) One-Five](ShortShepard0011230ROTTEO_ES_NQ.md)
+
 ### Shepard 002 (1230 Waffles03)
 
 - [Long Shepard 002 (1230 Waffles03) One-Five](LongShepard0021230Waffles03_ES_NQ.md)
+- [Long Shepard 002 (1230 Waffles03 NB) One-Five](LongShepard0021230Waffles03NB_ES_NQ.md)
 - [Short Shepard 002 (1230 Waffles03) One-Five](ShortShepard0021230Waffles03_ES_NQ.md)
+- [Short Shepard 002 (1230 Waffles03 NB) One-Five](ShortShepard0021230Waffles03NB_ES_NQ.md)
 
 ### Shepard 003 (1230 Waffles02)
 
 - [Long Shepard 003 (1230 Waffles02) One-Five](LongShepard0031230Waffles02_ES_NQ.md)
+- [Long Shepard 003 (1230 Waffles02 NB) One-Five](LongShepard0031230Waffles02NB_ES_NQ.md)
 - [Short Shepard 003 (1230 Waffles02) One-Five](ShortShepard0031230Waffles02_ES_NQ.md)
+- [Short Shepard 003 (1230 Waffles02 NB) One-Five](ShortShepard0031230Waffles02NB_ES_NQ.md)
 
 ### Shepard 004 (1230 Waffles01)
 
