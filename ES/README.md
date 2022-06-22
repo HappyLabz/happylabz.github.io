@@ -2,6 +2,10 @@
 
 ## ES
 
+### Golden 001
+- [Long Golden 001](LongGoldenOne_ES.md)
+- [Short Golden 001](ShortGoldenOne_ES.md)
+
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_ES.md)

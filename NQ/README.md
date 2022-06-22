@@ -2,6 +2,10 @@
 
 ## NQ
 
+### Golden 001
+- [Long Golden 001](LongGoldenOne_NQ.md)
+- [Short Golden 001](ShortGoldenOne_NQ.md)
+
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_NQ.md)
@@ -232,7 +236,3 @@
 
 - [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_NQ.md)
 - [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_NQ.md)
-
-### Golden 001
-- [Long Golden 001](LongGoldenOne_NQ.md)
-- [Short Golden 001](ShortGoldenOne_NQ.md)
