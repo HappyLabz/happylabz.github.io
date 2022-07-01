@@ -6,6 +6,11 @@
 - [Long Golden 001](LongGoldenOne_NQ.md)
 - [Short Golden 001](ShortGoldenOne_NQ.md)
 
+### Golden 002
+- [Long Golden 002](LongGoldenTwo_NQ.md)
+- [Short Golden 002](ShortGoldenTwo_NQ.md)
+
+
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_NQ.md)
