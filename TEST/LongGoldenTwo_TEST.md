@@ -9,8 +9,8 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Thirty-Six | 50.00 | 13125.00 | 6562.50 |     | Thirty-Six | 50.00 | 13125.00 | 6562.50 |
-| Thirty-Five | 0.00 | -6500.00 | -3250.00 |     | Thirty-Five | 0.00 | -6500.00 | -3250.00 |
+| Thirty-Five | 50.00 | 3500.00 | 1750.00 |     | Thirty-Five | 50.00 | 3500.00 | 1750.00 |
+| Thirty-Six | 50.00 | 1000.00 | 500.00 |     | Thirty-Six | 50.00 | 1000.00 | 500.00 |
 
 ### Test Thirty-Five
 * Sell when the linear regression slope changes to negative
@@ -18,18 +18,18 @@
 * Results:
 ```
 Total Trades: 2
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -13.00
-Potential Profit: -6500.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -13.00 Count Downs: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: 7.00
+Potential Profit: 3500.00
+Total Points Ups: 10.00 Count Ups: 1
+Total Points Downs: -3.00 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-07-05 07:39:00		Out: 2022-07-05 07:44:05		Total Position Time: 05:05		Total Move Up: -8.75		Total to Date: -8.75</code> <br />
-<code>In: 2022-07-05 08:59:00		Out: 2022-07-05 09:04:05		Total Position Time: 05:05		Total Move Up: -4.25		Total to Date: -13.00</code> <br />
+<code>In: 2022-07-01 06:46:00		Out: 2022-07-01 06:55:05		Total Position Time: 09:05		Total Move Up: 10.00		Total to Date: 10.00</code> <br />
+<code>In: 2022-07-01 11:05:00		Out: 2022-07-01 11:09:05		Total Position Time: 04:05		Total Move Up: -3.00		Total to Date: 7.00</code> <br />
 
 
 </details>
@@ -42,16 +42,16 @@ Total Points Downs: -13.00 Count Downs: 2
 Total Trades: 2
 Percent Up: 50.00
 Percent Down: 50.00
-Total Points Moved Up: 26.25
-Potential Profit: 13125.00
-Total Points Ups: 55.75 Count Ups: 1
-Total Points Downs: -29.50 Count Downs: 1
+Total Points Moved Up: 2.00
+Potential Profit: 1000.00
+Total Points Ups: 26.00 Count Ups: 1
+Total Points Downs: -24.00 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-07-05 07:39:00		Out: 2022-07-05 08:06:05		Total Position Time: 27:05		Total Move Up: -29.50		Total to Date: -29.50</code> <br />
-<code>In: 2022-07-05 08:59:00		Out: 2022-07-05 12:31:00		Total Position Time: 212:00		Total Move Up: 55.75		Total to Date: 26.25</code> <br />
+<code>In: 2022-07-01 06:46:00		Out: 2022-07-01 07:20:05		Total Position Time: 34:05		Total Move Up: -24.00		Total to Date: -24.00</code> <br />
+<code>In: 2022-07-01 11:05:00		Out: 2022-07-01 12:31:00		Total Position Time: 86:00		Total Move Up: 26.00		Total to Date: 2.00</code> <br />
 
 
 </details>
