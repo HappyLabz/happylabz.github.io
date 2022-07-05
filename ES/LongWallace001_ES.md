@@ -3,6 +3,7 @@
 - Date Range: 3/18/22 - 6/24/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 3
+
 ![Plot](LongWallace001ES.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |

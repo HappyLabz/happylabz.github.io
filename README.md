@@ -4,6 +4,8 @@
 ## ES
 [ES BACKTESTS](ES/README.md)
 
+## ES Today
+[ES TODAY](TEST/README.md)
 
 ## NQ
 [NQ BACKTESTS](NQ/README.md)
