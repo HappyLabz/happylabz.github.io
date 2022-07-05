@@ -1,6 +1,6 @@
 # Short Pointer Four (1226 1230) 
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 3/18/22 - 6/24/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 19
 ![Plot](ShortPointerFour(12261230)ES.png)

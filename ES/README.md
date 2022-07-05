@@ -240,7 +240,3 @@
 
 - [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_ES.md)
 - [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_ES.md)
-
-### Golden 001
-- [Long Golden 001](LongGoldenOne_ES.md)
-- [Short Golden 001](ShortGoldenOne_ES.md)

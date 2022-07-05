@@ -1,6 +1,6 @@
 # Long Wallace EW Doodle 018 
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 3/18/22 - 6/24/22
 - Trading Period: 7:20-12:30
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |

@@ -1,6 +1,6 @@
 # Short Pointer Nine (1226 1227 1230) 
 - Symbol: NQ
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 3/18/22 - 6/24/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 27
 ![Plot](ShortPointerNine(122612271230)NQ.png)

@@ -1,6 +1,6 @@
 # Short Wallace Doodle 0225_009 (Long Bias)
 - Symbol: NQ
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 3/18/22 - 6/24/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 2
 ![Plot](ShortWallaceDoodle0225_009NQ(LongBias).png)
