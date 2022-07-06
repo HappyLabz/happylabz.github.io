@@ -215,6 +215,11 @@
 - [Long Pointer 011 (1231 REV) One-Five](LongPointerEleven_1231REV_TEST.md)
 - [Short Pointer 011 (1231 REV) One-Five](ShortPointerEleven_1231REV_TEST.md)
 
+### Shepard 001 (1230 ROT TEO)
+
+- [Long Shepard 001 (1230 ROT TEO) One-Five](LongShepard001_1230ROTTEO_TEST.md)
+- [Short Shepard 001 (1230 ROT TEO) One-Five](ShortShepard001_1230ROTTEO_TEST.md)
+
 ### Shepard 002 (1230 Waffles03)
 
 - [Long Shepard 002 (1230 Waffles03) One-Five](LongShepard002_1230Waffles03_TEST.md)
