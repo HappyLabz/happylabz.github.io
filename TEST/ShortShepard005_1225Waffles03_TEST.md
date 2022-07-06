@@ -10,13 +10,13 @@
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
 | Sixty-Six | 71.43 | 12875.00 | 1839.29 |     | Sixty-Six | 71.43 | 12875.00 | 1839.29 |
-| Three | 71.43 | 11250.00 | 1607.14 |     | Three | 71.43 | 11250.00 | 1607.14 |
+| Two | 71.43 | 11250.00 | 1607.14 |     | Two | 71.43 | 11250.00 | 1607.14 |
 | Fifty-Eight | 71.43 | 11125.00 | 1589.29 |     | Fifty-Eight | 71.43 | 11125.00 | 1589.29 |
 | Fifty-Six | 71.43 | 5125.00 | 732.14 |     | Fifty-Six | 71.43 | 5125.00 | 732.14 |
-| One | 71.43 | 5125.00 | 732.14 |     | One | 71.43 | 5125.00 | 732.14 |
+| Zero | 71.43 | 5125.00 | 732.14 |     | Zero | 71.43 | 5125.00 | 732.14 |
 | Sixty-Four | 71.43 | 3375.00 | 482.14 |     | Sixty-Four | 71.43 | 3375.00 | 482.14 |
 | Forty-Two | 57.14 | 3250.00 | 464.29 |     | Forty-Two | 57.14 | 3250.00 | 464.29 |
-| Two | 57.14 | 3000.00 | 428.57 |     | Two | 57.14 | 3000.00 | 428.57 |
+| One | 57.14 | 3000.00 | 428.57 |     | One | 57.14 | 3000.00 | 428.57 |
 | Fifty-Seven | 57.14 | 2875.00 | 410.71 |     | Fifty-Seven | 57.14 | 2875.00 | 410.71 |
 | Sixty-Five | 57.14 | 2375.00 | 339.29 |     | Sixty-Five | 57.14 | 2375.00 | 339.29 |
 | Eight | 57.14 | 2000.00 | 285.71 |     | Eight | 57.14 | 2000.00 | 285.71 |
@@ -44,7 +44,7 @@
 | Thirty-Three | 42.86 | -2375.00 | -339.29 |     | Forty-Nine | 28.57 | -4500.00 | -642.86 |
 | Fourteen | 14.29 | -2875.00 | -410.71 |     | Sixty-Seven | 28.57 | -8875.00 | -1267.86 |
 | Thirty-One | 14.29 | -3125.00 | -446.43 |     | Fifty-Nine | 28.57 | -11875.00 | -1696.43 |
-| Fifty-One | 14.29 | -3500.00 | -500.00 |     | Four | 28.57 | -14500.00 | -2071.43 |
+| Fifty-One | 14.29 | -3500.00 | -500.00 |     | Three | 28.57 | -14500.00 | -2071.43 |
 | Ten | 14.29 | -4000.00 | -571.43 |     | Fifteen | 14.29 | 250.00 | 35.71 |
 | Eleven | 14.29 | -4125.00 | -589.29 |     | Seventy-Two | 14.29 | -2000.00 | -285.71 |
 | Twenty-Five | 28.57 | -4250.00 | -607.14 |     | Fourteen | 14.29 | -2875.00 | -410.71 |
@@ -65,31 +65,31 @@
 | Fifty-Nine | 28.57 | -11875.00 | -1696.43 |     | Forty-Three | 14.29 | -13375.00 | -1910.71 |
 | Twenty-Nine | 0.00 | -12375.00 | -1767.86 |     | Sixty-One | 14.29 | -14250.00 | -2035.71 |
 | Twenty-Eight | 0.00 | -12375.00 | -1767.86 |     | Sixty | 14.29 | -16750.00 | -2392.86 |
-| Forty-Three | 14.29 | -13375.00 | -1910.71 |     | Six | 14.29 | -16750.00 | -2392.86 |
+| Forty-Three | 14.29 | -13375.00 | -1910.71 |     | Five | 14.29 | -16750.00 | -2392.86 |
 | Sixty-One | 14.29 | -14250.00 | -2035.71 |     | Sixty-Three | 14.29 | -17625.00 | -2517.86 |
-| Four | 28.57 | -14500.00 | -2071.43 |     | Seventy-One | 14.29 | -19000.00 | -2714.29 |
+| Three | 28.57 | -14500.00 | -2071.43 |     | Seventy-One | 14.29 | -19000.00 | -2714.29 |
 | Sixty | 14.29 | -16750.00 | -2392.86 |     | Fifty-Five | 14.29 | -19000.00 | -2714.29 |
-| Six | 14.29 | -16750.00 | -2392.86 |     | Thirty-Nine | 14.29 | -19000.00 | -2714.29 |
+| Five | 14.29 | -16750.00 | -2392.86 |     | Thirty-Nine | 14.29 | -19000.00 | -2714.29 |
 | Sixty-Three | 14.29 | -17625.00 | -2517.86 |     | Twenty-Three | 14.29 | -19000.00 | -2714.29 |
-| Forty-Five | 0.00 | -18625.00 | -2660.71 |     | Eight | 14.29 | -19000.00 | -2714.29 |
-| Forty-Four | 0.00 | -18625.00 | -2660.71 |     | Five | 14.29 | -19250.00 | -2750.00 |
+| Forty-Five | 0.00 | -18625.00 | -2660.71 |     | Seven | 14.29 | -19000.00 | -2714.29 |
+| Forty-Four | 0.00 | -18625.00 | -2660.71 |     | Four | 14.29 | -19250.00 | -2750.00 |
 | Seventy-One | 14.29 | -19000.00 | -2714.29 |     | Sixty-Two | 14.29 | -20750.00 | -2964.29 |
 | Fifty-Five | 14.29 | -19000.00 | -2714.29 |     | Seventy | 14.29 | -22125.00 | -3160.71 |
 | Thirty-Nine | 14.29 | -19000.00 | -2714.29 |     | Fifty-Four | 14.29 | -22125.00 | -3160.71 |
 | Twenty-Three | 14.29 | -19000.00 | -2714.29 |     | Thirty-Eight | 14.29 | -22125.00 | -3160.71 |
-| Eight | 14.29 | -19000.00 | -2714.29 |     | Twenty-Two | 14.29 | -22125.00 | -3160.71 |
-| Five | 14.29 | -19250.00 | -2750.00 |     | Seven | 14.29 | -22125.00 | -3160.71 |
+| Seven | 14.29 | -19000.00 | -2714.29 |     | Twenty-Two | 14.29 | -22125.00 | -3160.71 |
+| Four | 14.29 | -19250.00 | -2750.00 |     | Six | 14.29 | -22125.00 | -3160.71 |
 | Sixty-Two | 14.29 | -20750.00 | -2964.29 |     | Thirteen | 0.00 | -7750.00 | -1107.14 |
 | Seventy | 14.29 | -22125.00 | -3160.71 |     | Twelve | 0.00 | -7750.00 | -1107.14 |
 | Fifty-Four | 14.29 | -22125.00 | -3160.71 |     | Twenty-Nine | 0.00 | -12375.00 | -1767.86 |
 | Thirty-Eight | 14.29 | -22125.00 | -3160.71 |     | Twenty-Eight | 0.00 | -12375.00 | -1767.86 |
 | Twenty-Two | 14.29 | -22125.00 | -3160.71 |     | Forty-Five | 0.00 | -18625.00 | -2660.71 |
-| Seven | 14.29 | -22125.00 | -3160.71 |     | Forty-Four | 0.00 | -18625.00 | -2660.71 |
+| Six | 14.29 | -22125.00 | -3160.71 |     | Forty-Four | 0.00 | -18625.00 | -2660.71 |
 
 ## NO STOPLOSS
 
-### Test One
-* Sell when the price hits the lower line of the 20p 1std bollinger
+### Test Zero
+* Sell when price hits the middle line of the 20p bollinger
 * No Stoploss
 * Results:
 ```
@@ -115,8 +115,8 @@ Total Points Downs: 17.50 Count Downs: 5
 
 </details>
 
-### Test Two
-* Sell when the price hits the lower line of the 20p 2std bollinger
+### Test One
+* Sell when the price hits the upper line of the 20p 1std bollinger
 * No Stoploss
 * Results:
 ```
@@ -142,8 +142,8 @@ Total Points Downs: 20.00 Count Downs: 4
 
 </details>
 
-### Test Three
-* Sell when the price hits the middle line of the 1std VWAP
+### Test Two
+* Sell when the price hits the upper line of the 20p 2std bollinger
 * No Stoploss
 * Results:
 ```
@@ -169,8 +169,8 @@ Total Points Downs: 41.00 Count Downs: 5
 
 </details>
 
-### Test Four
-* Sell when the price hits the lower line of the 1std VWAP
+### Test Three
+* Sell when price hits the middle line of the 50p bollinger
 * No Stoploss
 * Results:
 ```
@@ -196,8 +196,8 @@ Total Points Downs: 13.50 Count Downs: 2
 
 </details>
 
-### Test Five
-* Sell when the linear regression slope is positive
+### Test Four
+* Sell when the price hits the upper line of the 50p 1std bollinger
 * No Stoploss
 * Results:
 ```
@@ -223,8 +223,8 @@ Total Points Downs: 13.50 Count Downs: 1
 
 </details>
 
-### Test Six
-* Sell when the linear regression slope changes to positive
+### Test Five
+* Sell when the price hits the upper line of the 50p 2std bollinger
 * No Stoploss
 * Results:
 ```
@@ -250,8 +250,8 @@ Total Points Downs: 18.50 Count Downs: 1
 
 </details>
 
-### Test Seven
-* Sell when the bias changes to positive
+### Test Six
+* Sell when the price hits the middle line of the 1std VWAP
 * No Stoploss
 * Results:
 ```
@@ -277,8 +277,8 @@ Total Points Downs: 7.75 Count Downs: 1
 
 </details>
 
-### Test Eight
-* Sell when the STDEV slope changes to positive
+### Test Seven
+* Sell when the price hits the upper line of the 1std VWAP
 * No Stoploss
 * Results:
 ```
@@ -304,8 +304,10 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## STOPLOSS OF 2
+
 ### Test Eight
-* Sell when the price hits the lower line of the 20p 1std bollinger
+* Sell when price hits the middle line of the 20p bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -331,10 +333,8 @@ Total Points Downs: 13.25 Count Downs: 4
 
 </details>
 
-## STOPLOSS OF 2
-
 ### Test Nine
-* Sell when the price hits the lower line of the 20p 2std bollinger
+* Sell when the price hits the upper line of the 20p 1std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -361,7 +361,7 @@ Total Points Downs: 3.00 Count Downs: 1
 </details>
 
 ### Test Ten
-* Sell when the price hits the middle line of the 1std VWAP
+* Sell when the price hits the upper line of the 20p 2std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -388,7 +388,7 @@ Total Points Downs: 4.75 Count Downs: 1
 </details>
 
 ### Test Eleven
-* Sell when the price hits the lower line of the 1std VWAP
+* Sell when price hits the middle line of the 50p bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -415,7 +415,7 @@ Total Points Downs: 5.50 Count Downs: 1
 </details>
 
 ### Test Twelve
-* Sell when the linear regression slope is positive
+* Sell when the price hits the upper line of the 50p 1std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -442,7 +442,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Thirteen
-* Sell when the linear regression slope changes to positive
+* Sell when the price hits the upper line of the 50p 2std bollinger
 * Stoploss is -2 points
 * Results:
 ```
@@ -469,7 +469,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Fourteen
-* Sell when the bias changes to positive
+* Sell when the price hits the middle line of the 1std VWAP
 * Stoploss is -2 points
 * Results:
 ```
@@ -496,7 +496,7 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Fifteen
-* Sell when the STDEV slope changes to positive
+* Sell when the price hits the upper line of the 1std VWAP
 * Stoploss is -2 points
 * Results:
 ```
@@ -522,8 +522,10 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 2
+
 ### Test Sixten
-* Sell when the price hits the lower line of the 20p 1std bollinger
+* Sell when price hits the middle line of the 20p bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -550,7 +552,7 @@ Total Points Downs: 7.00 Count Downs: 2
 </details>
 
 ### Test Seventeen
-* Sell when the price hits the lower line of the 20p 2std bollinger
+* Sell when the price hits the upper line of the 20p 1std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -576,10 +578,8 @@ Total Points Downs: 4.50 Count Downs: 2
 
 </details>
 
-## TRAIL STOP OF 2
-
 ### Test Eighteen
-* Sell when the price hits the middle line of the 1std VWAP
+* Sell when the price hits the upper line of the 20p 2std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -606,7 +606,7 @@ Total Points Downs: 4.50 Count Downs: 2
 </details>
 
 ### Test Nineteen
-* Sell when the price hits the lower line of the 1std VWAP
+* Sell when price hits the middle line of the 50p bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -633,7 +633,7 @@ Total Points Downs: 6.75 Count Downs: 2
 </details>
 
 ### Test Twenty
-* Sell when the linear regression slope is positive
+* Sell when the price hits the upper line of the 50p 1std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -660,7 +660,7 @@ Total Points Downs: 4.50 Count Downs: 2
 </details>
 
 ### Test Twenty-One
-* Sell when the linear regression slope changes to positive
+* Sell when the price hits the upper line of the 50p 2std bollinger
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -687,7 +687,7 @@ Total Points Downs: 4.50 Count Downs: 2
 </details>
 
 ### Test Twenty-Two
-* Sell when the bias changes to positive
+* Sell when the price hits the middle line of the 1std VWAP
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -714,7 +714,7 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Twenty-Three
-* Sell when the STDEV slope changes to positive
+* Sell when the price hits the upper line of the 1std VWAP
 * Trailing Stop is -2 points
 * Results:
 ```
@@ -740,9 +740,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## STOPLOSS OF 3
+
 ### Test Twenty-Four
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -768,8 +770,8 @@ Total Points Downs: 13.25 Count Downs: 4
 </details>
 
 ### Test Twenty-Five
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -795,8 +797,8 @@ Total Points Downs: 7.00 Count Downs: 2
 </details>
 
 ### Test Twenty-Six
-* Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -821,11 +823,9 @@ Total Points Downs: 11.25 Count Downs: 2
 
 </details>
 
-## STOPLOSS OF 3
-
 ### Test twenty-Seven
-* Sell when the price hits the lower line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -851,8 +851,8 @@ Total Points Downs: 5.50 Count Downs: 1
 </details>
 
 ### Test Twenty-Eight
-* Sell when the linear regression slope is positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -878,8 +878,8 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Twenty-Nine
-* Sell when the linear regression slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -905,8 +905,8 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Thirty
-* Sell when the bias changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -932,8 +932,8 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Thirty-One
-* Sell when the STDEV slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -958,9 +958,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 3
+
 ### Test Thirty-Two
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -986,8 +988,8 @@ Total Points Downs: 10.50 Count Downs: 3
 </details>
 
 ### Test Thirty-Three
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1013,8 +1015,8 @@ Total Points Downs: 4.75 Count Downs: 3
 </details>
 
 ### Test Thirty-Four
-* Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1040,8 +1042,8 @@ Total Points Downs: 4.75 Count Downs: 3
 </details>
 
 ### Test Thirty-Five
-* Sell when the price hits the lower line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1066,11 +1068,9 @@ Total Points Downs: 8.00 Count Downs: 3
 
 </details>
 
-## TRAIL STOP OF 3
-
 ### Test Thirty-Six
-* Sell when the linear regression slope is positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1096,8 +1096,8 @@ Total Points Downs: 4.75 Count Downs: 3
 </details>
 
 ### Test Thirty-Seven
-* Sell when the linear regression slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1123,8 +1123,8 @@ Total Points Downs: 4.75 Count Downs: 3
 </details>
 
 ### Test Thirty-Eight
-* Sell when the bias changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1150,8 +1150,8 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Thirty-Nine
-* Sell when the STDEV slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Trailing Stop is -3 points
 * Results:
 ```
 Total Trades: 7
@@ -1176,9 +1176,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## STOPLOSS OF 5
+
 ### Test Forty
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1204,8 +1206,8 @@ Total Points Downs: 13.25 Count Downs: 4
 </details>
 
 ### Test Forty-One
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1231,8 +1233,8 @@ Total Points Downs: 11.00 Count Downs: 3
 </details>
 
 ### Test Forty-Two
-* Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1258,8 +1260,8 @@ Total Points Downs: 21.00 Count Downs: 4
 </details>
 
 ### Test Forty-Three
-* Sell when the price hits the lower line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1285,8 +1287,8 @@ Total Points Downs: 5.50 Count Downs: 1
 </details>
 
 ### Test Forty-Four
-* Sell when the linear regression slope is positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1311,11 +1313,9 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-## STOPLOSS OF 5
-
 ### Test Forty-Five
-* Sell when the linear regression slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1341,8 +1341,8 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Forty-Six
-* Sell when the bias changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1368,8 +1368,8 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Forty-Seven
-* Sell when the STDEV slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1394,9 +1394,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 5
+
 ### Test Forty-Eight
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1422,8 +1424,8 @@ Total Points Downs: 13.25 Count Downs: 4
 </details>
 
 ### Test Forty-Nine
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1449,8 +1451,8 @@ Total Points Downs: 3.25 Count Downs: 2
 </details>
 
 ### Test Fifty
-* Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1476,8 +1478,8 @@ Total Points Downs: 0.25 Count Downs: 1
 </details>
 
 ### Test Fifty-One
-* Sell when the price hits the lower line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1503,8 +1505,8 @@ Total Points Downs: 5.50 Count Downs: 1
 </details>
 
 ### Test Fifty-Two
-* Sell when the linear regression slope is positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1530,8 +1532,8 @@ Total Points Downs: 0.25 Count Downs: 1
 </details>
 
 ### Test Fifty-Three
-* Sell when the linear regression slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1556,11 +1558,9 @@ Total Points Downs: 0.25 Count Downs: 1
 
 </details>
 
-## TRAIL STOP OF 5
-
 ### Test Fifty-Four
-* Sell when the bias changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1586,8 +1586,8 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Fifty-Five
-* Sell when the STDEV slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Trailing Stop is -5 points
 * Results:
 ```
 Total Trades: 7
@@ -1612,9 +1612,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## STOPLOSS OF 10
+
 ### Test Fifty-Six
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1640,8 +1642,8 @@ Total Points Downs: 17.50 Count Downs: 5
 </details>
 
 ### Test Fifty-Seven
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1667,8 +1669,8 @@ Total Points Downs: 20.00 Count Downs: 4
 </details>
 
 ### Test Fifty-Eight
-* Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1694,8 +1696,8 @@ Total Points Downs: 41.00 Count Downs: 5
 </details>
 
 ### Test Fifty-Nine
-* Sell when the price hits the lower line of the 1std VWAP
-* Stoploss is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1721,8 +1723,8 @@ Total Points Downs: 13.50 Count Downs: 2
 </details>
 
 ### Test Sixty
-* Sell when the linear regression slope is positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1748,8 +1750,8 @@ Total Points Downs: 13.50 Count Downs: 1
 </details>
 
 ### Test Sixty-One
-* Sell when the linear regression slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1775,8 +1777,8 @@ Total Points Downs: 18.50 Count Downs: 1
 </details>
 
 ### Test Sixty-Two
-* Sell when the bias changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1801,11 +1803,9 @@ Total Points Downs: 7.75 Count Downs: 1
 
 </details>
 
-## STOPLOSS OF 10
-
 ### Test Sixty-Three
-* Sell when the STDEV slope changes to positive
-* Stoploss is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1830,9 +1830,11 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 10
+
 ### Test Sixty-Four
-* Sell when the price hits the lower line of the 20p 1std bollinger
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 20p bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1858,8 +1860,8 @@ Total Points Downs: 17.50 Count Downs: 5
 </details>
 
 ### Test Sixty-Five
-* Sell when the price hits the lower line of the 20p 2std bollinger
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1885,8 +1887,8 @@ Total Points Downs: 20.00 Count Downs: 4
 </details>
 
 ### Test Sixty-Six
-* Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1912,8 +1914,8 @@ Total Points Downs: 41.00 Count Downs: 5
 </details>
 
 ### Test Sixty-Seven
-* Sell when the price hits the lower line of the 1std VWAP
-* Trailing Stop is -2 points
+* Sell when price hits the middle line of the 50p bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1939,8 +1941,8 @@ Total Points Downs: 13.50 Count Downs: 2
 </details>
 
 ### Test Sixty-Eight
-* Sell when the linear regression slope is positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1966,8 +1968,8 @@ Total Points Downs: 13.50 Count Downs: 1
 </details>
 
 ### Test Sixty-Nine
-* Sell when the linear regression slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -1993,8 +1995,8 @@ Total Points Downs: 18.50 Count Downs: 1
 </details>
 
 ### Test Seventy
-* Sell when the bias changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -2020,8 +2022,8 @@ Total Points Downs: 7.75 Count Downs: 1
 </details>
 
 ### Test Seventy-One
-* Sell when the STDEV slope changes to positive
-* Trailing Stop is -2 points
+* Sell when the price hits the upper line of the 1std VWAP
+* Trailing Stop is -10 points
 * Results:
 ```
 Total Trades: 7
@@ -2046,10 +2048,10 @@ Total Points Downs: 14.00 Count Downs: 1
 
 </details>
 
-## TRAIL STOP OF 10
+## SPECIAL EXIT CONDITIONS 
 
 ### Test Seventy-Two
-* Sell when the linear regression slope is positive
+* Sell when the linear regression slope is negative
 * No Stoploss
 * Results:
 ```
@@ -2076,7 +2078,7 @@ Total Points Downs: 0.25 Count Downs: 1
 </details>
 
 ### Test Seventy-Three
-* Sell when the linear regression slope changes to positive
+* Sell when the linear regression slope changes to negative
 * No Stoploss
 * Results:
 ```
@@ -2103,7 +2105,7 @@ Total Points Downs: 3.50 Count Downs: 3
 </details>
 
 ### Test Seventy-Four
-* Sell when the bias changes to positive
+* Sell when the bias changes to negative
 * No Stoploss
 * Results:
 ```
@@ -2130,7 +2132,7 @@ Total Points Downs: 3.50 Count Downs: 3
 </details>
 
 ### Test Seventy-Five
-* Sell when the STDEV slope changes to positive
+* Sell when the STDEV slope changes to negative
 * No Stoploss
 * Results:
 ```
@@ -2155,5 +2157,3 @@ Total Points Downs: 3.50 Count Downs: 3
 
 
 </details>
-
-## SPECIAL EXIT CONDITIONS 

@@ -12,35 +12,35 @@
 | Seventy | 100.00 | 4000.00 | 4000.00 |     | Seventy | 100.00 | 4000.00 | 4000.00 |
 | Sixty-Two | 100.00 | 4000.00 | 4000.00 |     | Sixty-Two | 100.00 | 4000.00 | 4000.00 |
 | Forty-Six | 100.00 | 4000.00 | 4000.00 |     | Forty-Six | 100.00 | 4000.00 | 4000.00 |
-| Seven | 100.00 | 4000.00 | 4000.00 |     | Seven | 100.00 | 4000.00 | 4000.00 |
+| Six | 100.00 | 4000.00 | 4000.00 |     | Six | 100.00 | 4000.00 | 4000.00 |
 | Sixty-Eight | 100.00 | 3375.00 | 3375.00 |     | Sixty-Eight | 100.00 | 3375.00 | 3375.00 |
 | Sixty | 100.00 | 3375.00 | 3375.00 |     | Sixty | 100.00 | 3375.00 | 3375.00 |
 | Forty-Four | 100.00 | 3375.00 | 3375.00 |     | Forty-Four | 100.00 | 3375.00 | 3375.00 |
-| Five | 100.00 | 3375.00 | 3375.00 |     | Five | 100.00 | 3375.00 | 3375.00 |
+| Four | 100.00 | 3375.00 | 3375.00 |     | Four | 100.00 | 3375.00 | 3375.00 |
 | Seventy-One | 100.00 | 3250.00 | 3250.00 |     | Seventy-One | 100.00 | 3250.00 | 3250.00 |
 | Sixty-Nine | 100.00 | 3250.00 | 3250.00 |     | Sixty-Nine | 100.00 | 3250.00 | 3250.00 |
 | Sixty-Three | 100.00 | 3250.00 | 3250.00 |     | Sixty-Three | 100.00 | 3250.00 | 3250.00 |
 | Sixty-One | 100.00 | 3250.00 | 3250.00 |     | Sixty-One | 100.00 | 3250.00 | 3250.00 |
 | Forty-Seven | 100.00 | 3250.00 | 3250.00 |     | Forty-Seven | 100.00 | 3250.00 | 3250.00 |
 | Forty-Five | 100.00 | 3250.00 | 3250.00 |     | Forty-Five | 100.00 | 3250.00 | 3250.00 |
-| Eight | 100.00 | 3250.00 | 3250.00 |     | Eight | 100.00 | 3250.00 | 3250.00 |
-| Six | 100.00 | 3250.00 | 3250.00 |     | Six | 100.00 | 3250.00 | 3250.00 |
+| Seven | 100.00 | 3250.00 | 3250.00 |     | Seven | 100.00 | 3250.00 | 3250.00 |
+| Five | 100.00 | 3250.00 | 3250.00 |     | Five | 100.00 | 3250.00 | 3250.00 |
 | Sixty-Six | 100.00 | 3125.00 | 3125.00 |     | Sixty-Six | 100.00 | 3125.00 | 3125.00 |
 | Fifty-Eight | 100.00 | 3125.00 | 3125.00 |     | Fifty-Eight | 100.00 | 3125.00 | 3125.00 |
 | Forty-Two | 100.00 | 3125.00 | 3125.00 |     | Forty-Two | 100.00 | 3125.00 | 3125.00 |
-| Three | 100.00 | 3125.00 | 3125.00 |     | Three | 100.00 | 3125.00 | 3125.00 |
+| Two | 100.00 | 3125.00 | 3125.00 |     | Two | 100.00 | 3125.00 | 3125.00 |
 | Sixty-Seven | 100.00 | 2875.00 | 2875.00 |     | Sixty-Seven | 100.00 | 2875.00 | 2875.00 |
 | Fifty-Nine | 100.00 | 2875.00 | 2875.00 |     | Fifty-Nine | 100.00 | 2875.00 | 2875.00 |
 | Forty-Three | 100.00 | 2875.00 | 2875.00 |     | Forty-Three | 100.00 | 2875.00 | 2875.00 |
-| Four | 100.00 | 2875.00 | 2875.00 |     | Four | 100.00 | 2875.00 | 2875.00 |
+| Three | 100.00 | 2875.00 | 2875.00 |     | Three | 100.00 | 2875.00 | 2875.00 |
 | Sixty-Five | 100.00 | 2000.00 | 2000.00 |     | Sixty-Five | 100.00 | 2000.00 | 2000.00 |
 | Fifty-Seven | 100.00 | 2000.00 | 2000.00 |     | Fifty-Seven | 100.00 | 2000.00 | 2000.00 |
 | Forty-One | 100.00 | 2000.00 | 2000.00 |     | Forty-One | 100.00 | 2000.00 | 2000.00 |
-| Two | 100.00 | 2000.00 | 2000.00 |     | Two | 100.00 | 2000.00 | 2000.00 |
+| One | 100.00 | 2000.00 | 2000.00 |     | One | 100.00 | 2000.00 | 2000.00 |
 | Sixty-Four | 100.00 | 1875.00 | 1875.00 |     | Sixty-Four | 100.00 | 1875.00 | 1875.00 |
 | Fifty-Six | 100.00 | 1875.00 | 1875.00 |     | Fifty-Six | 100.00 | 1875.00 | 1875.00 |
 | Forty | 100.00 | 1875.00 | 1875.00 |     | Forty | 100.00 | 1875.00 | 1875.00 |
-| One | 100.00 | 1875.00 | 1875.00 |     | One | 100.00 | 1875.00 | 1875.00 |
+| Zero | 100.00 | 1875.00 | 1875.00 |     | Zero | 100.00 | 1875.00 | 1875.00 |
 | Seventy-Five | 100.00 | 875.00 | 875.00 |     | Seventy-Five | 100.00 | 875.00 | 875.00 |
 | Seventy-Four | 100.00 | 875.00 | 875.00 |     | Seventy-Four | 100.00 | 875.00 | 875.00 |
 | Seventy-Three | 100.00 | 875.00 | 875.00 |     | Seventy-Three | 100.00 | 875.00 | 875.00 |
@@ -88,7 +88,7 @@
 
 ## NO STOPLOSS
 
-### Test One
+### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
 * No Stoploss
 * Results:
@@ -109,7 +109,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Two
+### Test One
 * Sell when the price hits the upper line of the 20p 1std bollinger
 * No Stoploss
 * Results:
@@ -130,7 +130,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Three
+### Test Two
 * Sell when the price hits the upper line of the 20p 2std bollinger
 * No Stoploss
 * Results:
@@ -151,7 +151,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Four
+### Test Three
 * Sell when price hits the middle line of the 50p bollinger
 * No Stoploss
 * Results:
@@ -172,7 +172,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Five
+### Test Four
 * Sell when the price hits the upper line of the 50p 1std bollinger
 * No Stoploss
 * Results:
@@ -193,7 +193,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Six
+### Test Five
 * Sell when the price hits the upper line of the 50p 2std bollinger
 * No Stoploss
 * Results:
@@ -214,7 +214,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Seven
+### Test Six
 * Sell when the price hits the middle line of the 1std VWAP
 * No Stoploss
 * Results:
@@ -235,7 +235,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Eight
+### Test Seven
 * Sell when the price hits the upper line of the 1std VWAP
 * No Stoploss
 * Results:
@@ -255,6 +255,8 @@ Total Points Downs: 0.00 Count Downs: 0
 
 
 </details>
+
+## STOPLOSS OF 2
 
 ### Test Eight
 * Sell when price hits the middle line of the 20p bollinger
@@ -276,8 +278,6 @@ Total Points Downs: -2.00 Count Downs: 1
 
 
 </details>
-
-## STOPLOSS OF 2
 
 ### Test Nine
 * Sell when the price hits the upper line of the 20p 1std bollinger
@@ -426,6 +426,8 @@ Total Points Downs: -2.00 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 2
+
 ### Test Sixten
 * Sell when price hits the middle line of the 20p bollinger
 * Trailing Stop is 2 points
@@ -467,8 +469,6 @@ Total Points Downs: 0.00 Count Downs: 0
 
 
 </details>
-
-## TRAIL STOP OF 2
 
 ### Test Eighteen
 * Sell when the price hits the upper line of the 20p 2std bollinger
@@ -596,9 +596,11 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
+## STOPLOSS OF 3
+
 ### Test Twenty-Four
 * Sell when price hits the middle line of the 20p bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -619,7 +621,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Twenty-Five
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -640,7 +642,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Twenty-Six
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -659,11 +661,9 @@ Total Points Downs: -2.75 Count Downs: 1
 
 </details>
 
-## STOPLOSS OF 3
-
 ### Test twenty-Seven
 * Sell when price hits the middle line of the 50p bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -684,7 +684,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Twenty-Eight
 * Sell when the price hits the upper line of the 50p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -705,7 +705,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Twenty-Nine
 * Sell when the price hits the upper line of the 50p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -726,7 +726,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Thirty
 * Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -747,7 +747,7 @@ Total Points Downs: -2.75 Count Downs: 1
 
 ### Test Thirty-One
 * Sell when the price hits the upper line of the 1std VWAP
-* Stoploss is 2 points
+* Stoploss is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -766,9 +766,11 @@ Total Points Downs: -2.75 Count Downs: 1
 
 </details>
 
+## TRAIL STOP OF 3
+
 ### Test Thirty-Two
 * Sell when price hits the middle line of the 20p bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -789,7 +791,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Three
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -810,7 +812,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Four
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -831,7 +833,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Five
 * Sell when price hits the middle line of the 50p bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -850,11 +852,9 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-## TRAIL STOP OF 3
-
 ### Test Thirty-Six
 * Sell when the price hits the upper line of the 50p 1std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -875,7 +875,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Seven
 * Sell when the price hits the upper line of the 50p 2std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -896,7 +896,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Eight
 * Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -917,7 +917,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Thirty-Nine
 * Sell when the price hits the upper line of the 1std VWAP
-* Trailing Stop is 2 points
+* Trailing Stop is 3 points
 * Results:
 ```
 Total Trades: 1
@@ -936,9 +936,11 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
+## STOPLOSS OF 5
+
 ### Test Forty
 * Sell when price hits the middle line of the 20p bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -959,7 +961,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-One
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -980,7 +982,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-Two
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1001,7 +1003,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-Three
 * Sell when price hits the middle line of the 50p bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1022,7 +1024,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-Four
 * Sell when the price hits the upper line of the 50p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1041,11 +1043,9 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-## STOPLOSS OF 5
-
 ### Test Forty-Five
 * Sell when the price hits the upper line of the 50p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1066,7 +1066,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-Six
 * Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1087,7 +1087,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Forty-Seven
 * Sell when the price hits the upper line of the 1std VWAP
-* Stoploss is 2 points
+* Stoploss is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1106,9 +1106,11 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
+## TRAIL STOP OF 5
+
 ### Test Forty-Eight
 * Sell when price hits the middle line of the 20p bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1129,7 +1131,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Forty-Nine
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1150,7 +1152,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Fifty
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1171,7 +1173,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Fifty-One
 * Sell when price hits the middle line of the 50p bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1192,7 +1194,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Fifty-Two
 * Sell when the price hits the upper line of the 50p 1std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1213,7 +1215,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Fifty-Three
 * Sell when the price hits the upper line of the 50p 2std bollinger
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1232,11 +1234,9 @@ Total Points Downs: -2.00 Count Downs: 1
 
 </details>
 
-## TRAIL STOP OF 5
-
 ### Test Fifty-Four
 * Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1257,7 +1257,7 @@ Total Points Downs: -2.00 Count Downs: 1
 
 ### Test Fifty-Five
 * Sell when the price hits the upper line of the 1std VWAP
-* Trailing Stop is 2 points
+* Trailing Stop is 5 points
 * Results:
 ```
 Total Trades: 1
@@ -1276,9 +1276,11 @@ Total Points Downs: -2.00 Count Downs: 1
 
 </details>
 
+## STOPLOSS OF 10
+
 ### Test Fifty-Six
 * Sell when price hits the middle line of the 20p bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1299,7 +1301,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Fifty-Seven
 * Sell when the price hits the upper line of the 20p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1320,7 +1322,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Fifty-Eight
 * Sell when the price hits the upper line of the 20p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1341,7 +1343,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Fifty-Nine
 * Sell when price hits the middle line of the 50p bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1362,7 +1364,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Sixty
 * Sell when the price hits the upper line of the 50p 1std bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1383,7 +1385,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Sixty-One
 * Sell when the price hits the upper line of the 50p 2std bollinger
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1404,7 +1406,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test Sixty-Two
 * Sell when the price hits the middle line of the 1std VWAP
-* Stoploss is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1422,180 +1424,10 @@ Total Points Downs: 0.00 Count Downs: 0
 
 
 </details>
-
-## STOPLOSS OF 10
 
 ### Test Sixty-Three
 * Sell when the price hits the upper line of the 1std VWAP
-* Stoploss is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 6.50
-Potential Profit: 3250.00
-Total Points Ups: 6.50 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:55		Total Position Time: 29:55		Total Move Up: 6.50		Total to Date: 6.50</code> <br />
-
-
-</details>
-
-### Test Sixty-Four
-* Sell when price hits the middle line of the 20p bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 3.75
-Potential Profit: 1875.00
-Total Points Ups: 3.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:08:15		Total Position Time: 04:15		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
-
-
-</details>
-
-### Test Sixty-Five
-* Sell when the price hits the upper line of the 20p 1std bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 4.00
-Potential Profit: 2000.00
-Total Points Ups: 4.00 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:16:40		Total Position Time: 12:40		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
-
-
-</details>
-
-### Test Sixty-Six
-* Sell when the price hits the upper line of the 20p 2std bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 6.25
-Potential Profit: 3125.00
-Total Points Ups: 6.25 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:20:35		Total Position Time: 16:35		Total Move Up: 6.25		Total to Date: 6.25</code> <br />
-
-
-</details>
-
-### Test Sixty-Seven
-* Sell when price hits the middle line of the 50p bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 5.75
-Potential Profit: 2875.00
-Total Points Ups: 5.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:27:20		Total Position Time: 23:20		Total Move Up: 5.75		Total to Date: 5.75</code> <br />
-
-
-</details>
-
-### Test Sixty-Eight
-* Sell when the price hits the upper line of the 50p 1std bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 6.75
-Potential Profit: 3375.00
-Total Points Ups: 6.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:05		Total Position Time: 29:05		Total Move Up: 6.75		Total to Date: 6.75</code> <br />
-
-
-</details>
-
-### Test Sixty-Nine
-* Sell when the price hits the upper line of the 50p 2std bollinger
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 6.50
-Potential Profit: 3250.00
-Total Points Ups: 6.50 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:55		Total Position Time: 29:55		Total Move Up: 6.50		Total to Date: 6.50</code> <br />
-
-
-</details>
-
-### Test Seventy
-* Sell when the price hits the middle line of the 1std VWAP
-* Trailing Stop is 2 points
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 8.00
-Potential Profit: 4000.00
-Total Points Ups: 8.00 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:10		Total Position Time: 29:10		Total Move Up: 8.00		Total to Date: 8.00</code> <br />
-
-
-</details>
-
-### Test Seventy-One
-* Sell when the price hits the upper line of the 1std VWAP
-* Trailing Stop is 2 points
+* Stoploss is 10 points
 * Results:
 ```
 Total Trades: 1
@@ -1616,8 +1448,178 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ## TRAIL STOP OF 10
 
-### Test Seventy-Two
+### Test Sixty-Four
+* Sell when price hits the middle line of the 20p bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 3.75
+Potential Profit: 1875.00
+Total Points Ups: 3.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:08:15		Total Position Time: 04:15		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+
+
+</details>
+
+### Test Sixty-Five
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 4.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:16:40		Total Position Time: 12:40		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
+
+
+</details>
+
+### Test Sixty-Six
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 6.25
+Potential Profit: 3125.00
+Total Points Ups: 6.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:20:35		Total Position Time: 16:35		Total Move Up: 6.25		Total to Date: 6.25</code> <br />
+
+
+</details>
+
+### Test Sixty-Seven
+* Sell when price hits the middle line of the 50p bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.75
+Potential Profit: 2875.00
+Total Points Ups: 5.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:27:20		Total Position Time: 23:20		Total Move Up: 5.75		Total to Date: 5.75</code> <br />
+
+
+</details>
+
+### Test Sixty-Eight
 * Sell when the price hits the upper line of the 50p 1std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 6.75
+Potential Profit: 3375.00
+Total Points Ups: 6.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:05		Total Position Time: 29:05		Total Move Up: 6.75		Total to Date: 6.75</code> <br />
+
+
+</details>
+
+### Test Sixty-Nine
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 6.50
+Potential Profit: 3250.00
+Total Points Ups: 6.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:55		Total Position Time: 29:55		Total Move Up: 6.50		Total to Date: 6.50</code> <br />
+
+
+</details>
+
+### Test Seventy
+* Sell when the price hits the middle line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 8.00
+Potential Profit: 4000.00
+Total Points Ups: 8.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:10		Total Position Time: 29:10		Total Move Up: 8.00		Total to Date: 8.00</code> <br />
+
+
+</details>
+
+### Test Seventy-One
+* Sell when the price hits the upper line of the 1std VWAP
+* Trailing Stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 6.50
+Potential Profit: 3250.00
+Total Points Ups: 6.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-05 08:04:00		Out: 2022-07-05 08:33:55		Total Position Time: 29:55		Total Move Up: 6.50		Total to Date: 6.50</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Two
+* Sell when the linear regression slope is negative
 * No Stoploss
 * Results:
 ```
@@ -1638,7 +1640,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Seventy-Three
-* Sell when the price hits the upper line of the 50p 2std bollinger
+* Sell when the linear regression slope changes to negative
 * No Stoploss
 * Results:
 ```
@@ -1659,7 +1661,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Seventy-Four
-* Sell when the price hits the middle line of the 1std VWAP
+* Sell when the bias changes to negative
 * No Stoploss
 * Results:
 ```
@@ -1680,7 +1682,7 @@ Total Points Downs: 0.00 Count Downs: 0
 </details>
 
 ### Test Seventy-Five
-* Sell when the price hits the upper line of the 1std VWAP
+* Sell when the STDEV slope changes to negative
 * No Stoploss
 * Results:
 ```
@@ -1699,5 +1701,3 @@ Total Points Downs: 0.00 Count Downs: 0
 
 
 </details>
-
-## SPECIAL EXIT CONDITIONS 
