@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](ShortPointerSeven(0218)TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

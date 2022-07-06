@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](LongShepard002(1230Waffles03)TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

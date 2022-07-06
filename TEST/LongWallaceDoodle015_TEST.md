@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](LongWallaceDoodle015TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

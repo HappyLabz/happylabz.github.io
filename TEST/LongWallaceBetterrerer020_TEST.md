@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](LongWallaceBetterrerer020TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

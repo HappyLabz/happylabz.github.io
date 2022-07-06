@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](ShortWallace001TEST(ShortBias).png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

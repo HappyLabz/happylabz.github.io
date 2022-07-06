@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](ShortEntryWallaceMJ007TEST(LongBias).png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

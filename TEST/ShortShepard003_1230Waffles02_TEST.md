@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](ShortShepard003(1230Waffles02)TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

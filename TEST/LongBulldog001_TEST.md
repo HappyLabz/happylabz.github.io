@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](LongBulldog001TEST.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

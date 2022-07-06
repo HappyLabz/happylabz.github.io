@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](ShortWallaceDoodle012TEST(LongBias).png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

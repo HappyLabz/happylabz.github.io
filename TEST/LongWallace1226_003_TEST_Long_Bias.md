@@ -5,3 +5,37 @@
 - Number of Trades: 0
 ![Plot](LongWallace1226_003TEST(LongBias).png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
