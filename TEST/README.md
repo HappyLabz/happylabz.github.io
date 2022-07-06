@@ -10,6 +10,10 @@
 - [Long Golden 002](LongGoldenTwo_TEST.md)
 - [Short Golden 002](ShortGoldenTwo_TEST.md)
 
+### Golden 003
+- [Long Golden 003](LongGoldenThree_TEST.md)
+- [Short Golden 003](ShortGoldenThree_TEST.md)
+
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_TEST.md)
