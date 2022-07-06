@@ -3,6 +3,7 @@
 - Date Range: 3/19/22 - 5/22/22
 - Trading Period: 7:20-12:30
 - Number of Trades: 2
+
 ![Plot](ShortPointerSix(0219)TEST.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
