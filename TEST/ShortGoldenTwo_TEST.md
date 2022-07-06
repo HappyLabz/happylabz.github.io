@@ -9,8 +9,8 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Thirty-Seven | 66.67 | 6125.00 | 2041.67 |     | Thirty-Five | 100.00 | 5250.00 | 1750.00 |
-| Thirty-Five | 100.00 | 5250.00 | 1750.00 |     | Thirty-Seven | 66.67 | 6125.00 | 2041.67 |
+| Thirty-Five | 100.00 | 5250.00 | 1750.00 |     | Thirty-Five | 100.00 | 5250.00 | 1750.00 |
+| Thirty-Seven | 66.67 | -1250.00 | -416.67 |     | Thirty-Seven | 66.67 | -1250.00 | -416.67 |
 | Thirty-Six | 0.00 | -25500.00 | -8500.00 |     | Thirty-Six | 0.00 | -25500.00 | -8500.00 |
 
 ### Test Thirty-Five
@@ -67,17 +67,17 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 3
 Percent Up: 33.33
 Percent Down: 66.67
-Total Points Moved Down: 12.25
-Potential Profit: 6125.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: 12.50 Count Downs: 2
+Total Points Moved Down: -2.50
+Potential Profit: -1250.00
+Total Points Ups: 4.25 Count Ups: 1
+Total Points Downs: 1.75 Count Downs: 2
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-07-01 07:20:00		Out: 2022-07-01 08:02:05		Total Position Time: 42:05		Total Move Down: 6.25		Total to Date: -6.25</code> <br />
-<code>In: 2022-07-05 06:46:00		Out: 2022-07-05 06:53:05		Total Position Time: 07:05		Total Move Down: 6.25		Total to Date: -12.50</code> <br />
-<code>In: 2022-07-05 08:05:00		Out: 2022-07-05 08:37:05		Total Position Time: 32:05		Total Move Down: -0.25		Total to Date: -12.25</code> <br />
+<code>In: 2022-07-01 07:20:00		Out: 2022-07-01 07:58:05		Total Position Time: 38:05		Total Move Down: 1.50		Total to Date: -1.50</code> <br />
+<code>In: 2022-07-05 06:46:00		Out: 2022-07-05 06:47:05		Total Position Time: 01:05		Total Move Down: 0.25		Total to Date: -1.75</code> <br />
+<code>In: 2022-07-05 08:05:00		Out: 2022-07-05 08:34:05		Total Position Time: 29:05		Total Move Down: -4.25		Total to Date: 2.50</code> <br />
 
 
 </details>
