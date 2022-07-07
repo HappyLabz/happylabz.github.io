@@ -10,6 +10,10 @@
 - [Long Golden 002](LongGoldenTwo_ES.md)
 - [Short Golden 002](ShortGoldenTwo_ES.md)
 
+### Golden 003
+- [Long Golden 003](LongGolden003_ES.md)
+- [Short Golden 003](ShortGolden003_ES.md)
+
 ### Wallace 001
 
 - [Long Wallace 001 One-Five](LongWallace001_ES.md)
@@ -210,6 +214,11 @@
 
 - [Long Pointer 011 (1231 REV) One-Five](LongPointerEleven_1231REV_ES.md)
 - [Short Pointer 011 (1231 REV) One-Five](ShortPointerEleven_1231REV_ES.md)
+
+### Shepard 001 (1230 ROT TEO)
+
+- [Long Shepard 001 (1230 ROT TEO) One-Five](LongShepard001_1230ROTTEO_ES.md)
+- [Short Shepard 001 (1230 ROT TEO) One-Five](ShortShepard001_1230ROTTEO_ES.md)
 
 ### Shepard 002 (1230 Waffles03)
 
