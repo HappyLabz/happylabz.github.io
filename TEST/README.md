@@ -243,7 +243,9 @@
 ### Shepard 006 (1225 Waffles02)
 
 - [Long Shepard 006 (1225 Waffles02) One-Five](LongShepard006_1225Waffles02_TEST.md)
+- [Long Shepard 006 (1225 Waffles02 BIAS SWITCH) One-Five](LongShepard006_1225Waffles02_TEST_Bias_Switch.md)
 - [Short Shepard 006 (1225 Waffles02) One-Five](ShortShepard006_1225Waffles02_TEST.md)
+- [Short Shepard 006 (1225 Waffles02 BIAS SWITCH) One-Five](ShortShepard006_1225Waffles02_TEST_Bias_Switch.md)
 
 ### Shepard 007 (1225 Waffles01)
 
@@ -253,12 +255,16 @@
 ### Bulldog 001
 
 - [Long Bulldog 001 One-Five](LongBulldog001_TEST.md)
+- [Long Bulldog 001 One-Five](LongBulldog001_TEST_Bias_Switch.md)
 - [Short Bulldog 001 One-Five](ShortBulldog001_TEST.md)
+- [Short Bulldog 001 One-Five](ShortBulldog001_TEST_Bias_Switch.md)
 
 ### Bulldog 002
 
 - [Long Bulldog 002 One-Five](LongBulldog002_TEST.md)
+- [Long Bulldog 002 One-Five](LongBulldog002_TEST_Bias_Switch.md)
 - [Short Bulldog 002 One-Five](ShortBulldog002_TEST.md)
+- [Short Bulldog 002 One-Five](ShortBulldog002_TEST_Bias_Switch.md)
 
 ### Bulldog 003
 
