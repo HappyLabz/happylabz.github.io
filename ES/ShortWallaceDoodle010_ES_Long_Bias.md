@@ -1,6 +1,6 @@
 # Short Wallace Doodle 010 (Long Bias)
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 03/18/2022 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 1
 
@@ -9,10 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Seventy-Five | 0.00 | -375.00 | -375.00 |     | Seventy-Five | 0.00 | -375.00 | -375.00 |
-| Seventy-Four | 0.00 | -375.00 | -375.00 |     | Seventy-Four | 0.00 | -375.00 | -375.00 |
-| Seventy-Three | 0.00 | -375.00 | -375.00 |     | Seventy-Three | 0.00 | -375.00 | -375.00 |
-| Seventy-Two | 0.00 | -375.00 | -375.00 |     | Seventy-Two | 0.00 | -375.00 | -375.00 |
+| Seventy-Two | 100.00 | 375.00 | 375.00 |     | Seventy-Two | 100.00 | 375.00 | 375.00 |
 | Twenty-One | 0.00 | -375.00 | -375.00 |     | Twenty-One | 0.00 | -375.00 | -375.00 |
 | Twenty | 0.00 | -375.00 | -375.00 |     | Twenty | 0.00 | -375.00 | -375.00 |
 | Nineteen | 0.00 | -375.00 | -375.00 |     | Nineteen | 0.00 | -375.00 | -375.00 |
@@ -58,6 +55,8 @@
 | Forty-Six | 0.00 | -2875.00 | -2875.00 |     | Forty-Six | 0.00 | -2875.00 | -2875.00 |
 | Two | 0.00 | -2875.00 | -2875.00 |     | Two | 0.00 | -2875.00 | -2875.00 |
 | One | 0.00 | -2875.00 | -2875.00 |     | One | 0.00 | -2875.00 | -2875.00 |
+| Seventy-Five | 0.00 | -3625.00 | -3625.00 |     | Seventy-Five | 0.00 | -3625.00 | -3625.00 |
+| Seventy-Four | 0.00 | -3625.00 | -3625.00 |     | Seventy-Four | 0.00 | -3625.00 | -3625.00 |
 | Seventy-One | 0.00 | -3625.00 | -3625.00 |     | Seventy-One | 0.00 | -3625.00 | -3625.00 |
 | Seventy | 0.00 | -3625.00 | -3625.00 |     | Seventy | 0.00 | -3625.00 | -3625.00 |
 | Fifty-Five | 0.00 | -3625.00 | -3625.00 |     | Fifty-Five | 0.00 | -3625.00 | -3625.00 |
@@ -83,6 +82,7 @@
 | Fifty-Eight | 0.00 | -4000.00 | -4000.00 |     | Fifty-Eight | 0.00 | -4000.00 | -4000.00 |
 | Fifty-Seven | 0.00 | -4000.00 | -4000.00 |     | Fifty-Seven | 0.00 | -4000.00 | -4000.00 |
 | Fifty-Six | 0.00 | -4000.00 | -4000.00 |     | Fifty-Six | 0.00 | -4000.00 | -4000.00 |
+| Seventy-Three | 0.00 | -4500.00 | -4500.00 |     | Seventy-Three | 0.00 | -4500.00 | -4500.00 |
 | Sixty-Three | 0.00 | -5000.00 | -5000.00 |     | Sixty-Three | 0.00 | -5000.00 | -5000.00 |
 | Sixty-Two | 0.00 | -5000.00 | -5000.00 |     | Sixty-Two | 0.00 | -5000.00 | -5000.00 |
 
@@ -1624,17 +1624,17 @@ Total Points Downs: 0.00 Count Downs: 0
 * Results:
 ```
 Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 0.75
+Potential Profit: 375.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 0.75 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:05:10		Total Position Time: 00:10		Total Move Down: -0.75		Total to Date: -0.75</code> <br />
+<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:06:05		Total Position Time: 01:05		Total Move Down: 0.75		Total to Date: 0.75</code> <br />
 
 
 </details>
@@ -1647,15 +1647,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Down: -9.00
+Potential Profit: -4500.00
+Total Points Ups: 9.00 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:05:10		Total Position Time: 00:10		Total Move Down: -0.75		Total to Date: -0.75</code> <br />
+<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:19:05		Total Position Time: 14:05		Total Move Down: -9.00		Total to Date: -9.00</code> <br />
 
 
 </details>
@@ -1668,15 +1668,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Down: -7.25
+Potential Profit: -3625.00
+Total Points Ups: 7.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:05:10		Total Position Time: 00:10		Total Move Down: -0.75		Total to Date: -0.75</code> <br />
+<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:34:55		Total Position Time: 29:55		Total Move Down: -7.25		Total to Date: -7.25</code> <br />
 
 
 </details>
@@ -1689,15 +1689,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Down: -0.75
-Potential Profit: -375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Down: -7.25
+Potential Profit: -3625.00
+Total Points Ups: 7.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:05:10		Total Position Time: 00:10		Total Move Down: -0.75		Total to Date: -0.75</code> <br />
+<code>In: 2022-06-02 08:05:00		Out: 2022-06-02 08:34:55		Total Position Time: 29:55		Total Move Down: -7.25		Total to Date: -7.25</code> <br />
 
 
 </details>

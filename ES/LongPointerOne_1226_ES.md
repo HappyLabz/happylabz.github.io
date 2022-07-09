@@ -1,6 +1,6 @@
 # Long Pointer One (1226) 
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 03/18/2022 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 2
 
@@ -11,10 +11,6 @@
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
 | Twenty-Six | 50.00 | -750.00 | -375.00 |     | Twenty-Six | 50.00 | -750.00 | -375.00 |
 | Twenty-Five | 50.00 | -750.00 | -375.00 |     | Twenty-Five | 50.00 | -750.00 | -375.00 |
-| Seventy-Five | 50.00 | -1250.00 | -625.00 |     | Seventy-Five | 50.00 | -1250.00 | -625.00 |
-| Seventy-Four | 50.00 | -1250.00 | -625.00 |     | Seventy-Four | 50.00 | -1250.00 | -625.00 |
-| Seventy-Three | 50.00 | -1250.00 | -625.00 |     | Seventy-Three | 50.00 | -1250.00 | -625.00 |
-| Seventy-Two | 50.00 | -1250.00 | -625.00 |     | Seventy-Two | 50.00 | -1250.00 | -625.00 |
 | Forty-Two | 50.00 | -1500.00 | -750.00 |     | Forty-Two | 50.00 | -1500.00 | -750.00 |
 | Forty-One | 50.00 | -1500.00 | -750.00 |     | Forty-One | 50.00 | -1500.00 | -750.00 |
 | Twenty-Four | 50.00 | -1875.00 | -937.50 |     | Twenty-Four | 50.00 | -1875.00 | -937.50 |
@@ -48,16 +44,18 @@
 | Seventeen | 0.00 | -2875.00 | -1437.50 |     | Seventy-One | 50.00 | -6250.00 | -3125.00 |
 | Sixten | 0.00 | -2875.00 | -1437.50 |     | Seventy | 50.00 | -6250.00 | -3125.00 |
 | Forty-Eight | 50.00 | -3375.00 | -1687.50 |     | Sixty-Nine | 50.00 | -6250.00 | -3125.00 |
-| Fifty-Eight | 50.00 | -3750.00 | -1875.00 |     | Sixty-Eight | 50.00 | -6250.00 | -3125.00 |
-| Fifty-Seven | 50.00 | -3750.00 | -1875.00 |     | Sixty-Seven | 50.00 | -6250.00 | -3125.00 |
-| Thirty-Nine | 0.00 | -4000.00 | -2000.00 |     | Zero | 50.00 | -6875.00 | -3437.50 |
-| Thirty-Eight | 0.00 | -4000.00 | -2000.00 |     | Seven | 50.00 | -7125.00 | -3562.50 |
-| Thirty-Seven | 0.00 | -4000.00 | -2000.00 |     | Six | 50.00 | -7125.00 | -3562.50 |
-| Thirty-Six | 0.00 | -4000.00 | -2000.00 |     | Five | 50.00 | -7125.00 | -3562.50 |
-| Thirty-Five | 0.00 | -4000.00 | -2000.00 |     | Four | 50.00 | -7125.00 | -3562.50 |
-| Thirty-Four | 0.00 | -4000.00 | -2000.00 |     | Three | 50.00 | -7125.00 | -3562.50 |
-| Thirty-Three | 0.00 | -4000.00 | -2000.00 |     | Fifteen | 0.00 | -2375.00 | -1187.50 |
-| Thirty-Two | 0.00 | -4000.00 | -2000.00 |     | Fourteen | 0.00 | -2375.00 | -1187.50 |
+| Seventy-Two | 0.00 | -3500.00 | -1750.00 |     | Sixty-Eight | 50.00 | -6250.00 | -3125.00 |
+| Fifty-Eight | 50.00 | -3750.00 | -1875.00 |     | Sixty-Seven | 50.00 | -6250.00 | -3125.00 |
+| Fifty-Seven | 50.00 | -3750.00 | -1875.00 |     | Zero | 50.00 | -6875.00 | -3437.50 |
+| Thirty-Nine | 0.00 | -4000.00 | -2000.00 |     | Seventy-Five | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Eight | 0.00 | -4000.00 | -2000.00 |     | Seventy-Four | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Seven | 0.00 | -4000.00 | -2000.00 |     | Seven | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Six | 0.00 | -4000.00 | -2000.00 |     | Six | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Five | 0.00 | -4000.00 | -2000.00 |     | Five | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Four | 0.00 | -4000.00 | -2000.00 |     | Four | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Three | 0.00 | -4000.00 | -2000.00 |     | Three | 50.00 | -7125.00 | -3562.50 |
+| Thirty-Two | 0.00 | -4000.00 | -2000.00 |     | Fifteen | 0.00 | -2375.00 | -1187.50 |
+| Seventy-Three | 0.00 | -4250.00 | -2125.00 |     | Fourteen | 0.00 | -2375.00 | -1187.50 |
 | Fifty-Five | 0.00 | -4625.00 | -2312.50 |     | Thirteen | 0.00 | -2375.00 | -1187.50 |
 | Fifty-Four | 0.00 | -4625.00 | -2312.50 |     | Twelve | 0.00 | -2375.00 | -1187.50 |
 | Fifty-Three | 0.00 | -4625.00 | -2312.50 |     | Eleven | 0.00 | -2375.00 | -1187.50 |
@@ -72,14 +70,16 @@
 | Sixty | 50.00 | -5125.00 | -2562.50 |     | Eighteen | 0.00 | -2875.00 | -1437.50 |
 | Fifty-Nine | 50.00 | -5125.00 | -2562.50 |     | Seventeen | 0.00 | -2875.00 | -1437.50 |
 | Two | 50.00 | -5750.00 | -2875.00 |     | Sixten | 0.00 | -2875.00 | -1437.50 |
-| One | 50.00 | -5750.00 | -2875.00 |     | Thirty-Nine | 0.00 | -4000.00 | -2000.00 |
-| Sixty-Four | 50.00 | -6000.00 | -3000.00 |     | Thirty-Eight | 0.00 | -4000.00 | -2000.00 |
-| Seventy-One | 50.00 | -6250.00 | -3125.00 |     | Thirty-Seven | 0.00 | -4000.00 | -2000.00 |
-| Seventy | 50.00 | -6250.00 | -3125.00 |     | Thirty-Six | 0.00 | -4000.00 | -2000.00 |
-| Sixty-Nine | 50.00 | -6250.00 | -3125.00 |     | Thirty-Five | 0.00 | -4000.00 | -2000.00 |
-| Sixty-Eight | 50.00 | -6250.00 | -3125.00 |     | Thirty-Four | 0.00 | -4000.00 | -2000.00 |
-| Sixty-Seven | 50.00 | -6250.00 | -3125.00 |     | Thirty-Three | 0.00 | -4000.00 | -2000.00 |
-| Zero | 50.00 | -6875.00 | -3437.50 |     | Thirty-Two | 0.00 | -4000.00 | -2000.00 |
+| One | 50.00 | -5750.00 | -2875.00 |     | Seventy-Two | 0.00 | -3500.00 | -1750.00 |
+| Sixty-Four | 50.00 | -6000.00 | -3000.00 |     | Thirty-Nine | 0.00 | -4000.00 | -2000.00 |
+| Seventy-One | 50.00 | -6250.00 | -3125.00 |     | Thirty-Eight | 0.00 | -4000.00 | -2000.00 |
+| Seventy | 50.00 | -6250.00 | -3125.00 |     | Thirty-Seven | 0.00 | -4000.00 | -2000.00 |
+| Sixty-Nine | 50.00 | -6250.00 | -3125.00 |     | Thirty-Six | 0.00 | -4000.00 | -2000.00 |
+| Sixty-Eight | 50.00 | -6250.00 | -3125.00 |     | Thirty-Five | 0.00 | -4000.00 | -2000.00 |
+| Sixty-Seven | 50.00 | -6250.00 | -3125.00 |     | Thirty-Four | 0.00 | -4000.00 | -2000.00 |
+| Zero | 50.00 | -6875.00 | -3437.50 |     | Thirty-Three | 0.00 | -4000.00 | -2000.00 |
+| Seventy-Five | 50.00 | -7125.00 | -3562.50 |     | Thirty-Two | 0.00 | -4000.00 | -2000.00 |
+| Seventy-Four | 50.00 | -7125.00 | -3562.50 |     | Seventy-Three | 0.00 | -4250.00 | -2125.00 |
 | Seven | 50.00 | -7125.00 | -3562.50 |     | Fifty-Five | 0.00 | -4625.00 | -2312.50 |
 | Six | 50.00 | -7125.00 | -3562.50 |     | Fifty-Four | 0.00 | -4625.00 | -2312.50 |
 | Five | 50.00 | -7125.00 | -3562.50 |     | Fifty-Three | 0.00 | -4625.00 | -2312.50 |
@@ -1696,18 +1696,18 @@ Total Points Downs: -12.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 2
-Percent Up: 50.00
-Percent Down: 50.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: -2.75 Count Downs: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -7.00
+Potential Profit: -3500.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -7.00 Count Downs: 2
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:23:10		Total Position Time: 00:10		Total Move Up: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:50:10		Total Position Time: 00:10		Total Move Up: -2.75		Total to Date: -2.50</code> <br />
+<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:24:05		Total Position Time: 01:05		Total Move Up: -1.25		Total to Date: -1.25</code> <br />
+<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:51:05		Total Position Time: 01:05		Total Move Up: -5.75		Total to Date: -7.00</code> <br />
 
 
 </details>
@@ -1718,18 +1718,18 @@ Total Points Downs: -2.75 Count Downs: 1
 * Results:
 ```
 Total Trades: 2
-Percent Up: 50.00
-Percent Down: 50.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: -2.75 Count Downs: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -8.50
+Potential Profit: -4250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -8.50 Count Downs: 2
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:23:10		Total Position Time: 00:10		Total Move Up: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:50:10		Total Position Time: 00:10		Total Move Up: -2.75		Total to Date: -2.50</code> <br />
+<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:24:05		Total Position Time: 01:05		Total Move Up: -1.25		Total to Date: -1.25</code> <br />
+<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:56:05		Total Position Time: 06:05		Total Move Up: -7.25		Total to Date: -8.50</code> <br />
 
 
 </details>
@@ -1742,16 +1742,16 @@ Total Points Downs: -2.75 Count Downs: 1
 Total Trades: 2
 Percent Up: 50.00
 Percent Down: 50.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: -2.75 Count Downs: 1
+Total Points Moved Up: -14.25
+Potential Profit: -7125.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -14.25 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:23:10		Total Position Time: 00:10		Total Move Up: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:50:10		Total Position Time: 00:10		Total Move Up: -2.75		Total to Date: -2.50</code> <br />
+<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:52:55		Total Position Time: 29:55		Total Move Up: 0.00		Total to Date: 0.00</code> <br />
+<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 11:19:55		Total Position Time: 29:55		Total Move Up: -14.25		Total to Date: -14.25</code> <br />
 
 
 </details>
@@ -1764,16 +1764,16 @@ Total Points Downs: -2.75 Count Downs: 1
 Total Trades: 2
 Percent Up: 50.00
 Percent Down: 50.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: -2.75 Count Downs: 1
+Total Points Moved Up: -14.25
+Potential Profit: -7125.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -14.25 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:23:10		Total Position Time: 00:10		Total Move Up: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 10:50:10		Total Position Time: 00:10		Total Move Up: -2.75		Total to Date: -2.50</code> <br />
+<code>In: 2022-04-06 09:23:00		Out: 2022-04-06 09:52:55		Total Position Time: 29:55		Total Move Up: 0.00		Total to Date: 0.00</code> <br />
+<code>In: 2022-06-16 10:50:00		Out: 2022-06-16 11:19:55		Total Position Time: 29:55		Total Move Up: -14.25		Total to Date: -14.25</code> <br />
 
 
 </details>

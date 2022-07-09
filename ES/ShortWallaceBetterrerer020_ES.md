@@ -1,6 +1,6 @@
 # Short Wallace Betterrerer 020 
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 03/18/2022 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 5
 
@@ -10,22 +10,24 @@
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
 | Forty-Seven | 80.00 | 38375.00 | 7675.00 |     | Seventy | 100.00 | 30000.00 | 6000.00 |
-| Seventy-One | 80.00 | 37375.00 | 7475.00 |     | Sixty-Two | 100.00 | 30000.00 | 6000.00 |
-| Fifty-Five | 80.00 | 37375.00 | 7475.00 |     | Fifty-Four | 100.00 | 30000.00 | 6000.00 |
-| Thirty-Nine | 80.00 | 37375.00 | 7475.00 |     | Thirty-Eight | 100.00 | 30000.00 | 6000.00 |
-| Twenty-Three | 80.00 | 37375.00 | 7475.00 |     | Twenty-Two | 100.00 | 30000.00 | 6000.00 |
-| Seven | 80.00 | 37375.00 | 7475.00 |     | Six | 100.00 | 30000.00 | 6000.00 |
-| Sixty-Three | 80.00 | 35625.00 | 7125.00 |     | Sixty | 100.00 | 22750.00 | 4550.00 |
-| Fifteen | 60.00 | 30625.00 | 6125.00 |     | Four | 100.00 | 22750.00 | 4550.00 |
-| Thirty-One | 60.00 | 30250.00 | 6050.00 |     | Fifty-Nine | 100.00 | 15750.00 | 3150.00 |
-| Seventy | 100.00 | 30000.00 | 6000.00 |     | Three | 100.00 | 15750.00 | 3150.00 |
-| Sixty-Two | 100.00 | 30000.00 | 6000.00 |     | Forty-Seven | 80.00 | 38375.00 | 7675.00 |
-| Fifty-Four | 100.00 | 30000.00 | 6000.00 |     | Seventy-One | 80.00 | 37375.00 | 7475.00 |
-| Thirty-Eight | 100.00 | 30000.00 | 6000.00 |     | Fifty-Five | 80.00 | 37375.00 | 7475.00 |
-| Twenty-Two | 100.00 | 30000.00 | 6000.00 |     | Thirty-Nine | 80.00 | 37375.00 | 7475.00 |
-| Six | 100.00 | 30000.00 | 6000.00 |     | Twenty-Three | 80.00 | 37375.00 | 7475.00 |
-| Twenty-Nine | 80.00 | 28000.00 | 5600.00 |     | Seven | 80.00 | 37375.00 | 7475.00 |
-| Forty-Five | 80.00 | 27000.00 | 5400.00 |     | Sixty-Three | 80.00 | 35625.00 | 7125.00 |
+| Seventy-Five | 80.00 | 37750.00 | 7550.00 |     | Sixty-Two | 100.00 | 30000.00 | 6000.00 |
+| Seventy-One | 80.00 | 37375.00 | 7475.00 |     | Fifty-Four | 100.00 | 30000.00 | 6000.00 |
+| Fifty-Five | 80.00 | 37375.00 | 7475.00 |     | Thirty-Eight | 100.00 | 30000.00 | 6000.00 |
+| Thirty-Nine | 80.00 | 37375.00 | 7475.00 |     | Twenty-Two | 100.00 | 30000.00 | 6000.00 |
+| Twenty-Three | 80.00 | 37375.00 | 7475.00 |     | Six | 100.00 | 30000.00 | 6000.00 |
+| Seven | 80.00 | 37375.00 | 7475.00 |     | Sixty | 100.00 | 22750.00 | 4550.00 |
+| Sixty-Three | 80.00 | 35625.00 | 7125.00 |     | Four | 100.00 | 22750.00 | 4550.00 |
+| Seventy-Four | 80.00 | 33875.00 | 6775.00 |     | Fifty-Nine | 100.00 | 15750.00 | 3150.00 |
+| Fifteen | 60.00 | 30625.00 | 6125.00 |     | Three | 100.00 | 15750.00 | 3150.00 |
+| Thirty-One | 60.00 | 30250.00 | 6050.00 |     | Forty-Seven | 80.00 | 38375.00 | 7675.00 |
+| Seventy | 100.00 | 30000.00 | 6000.00 |     | Seventy-Five | 80.00 | 37750.00 | 7550.00 |
+| Sixty-Two | 100.00 | 30000.00 | 6000.00 |     | Seventy-One | 80.00 | 37375.00 | 7475.00 |
+| Fifty-Four | 100.00 | 30000.00 | 6000.00 |     | Fifty-Five | 80.00 | 37375.00 | 7475.00 |
+| Thirty-Eight | 100.00 | 30000.00 | 6000.00 |     | Thirty-Nine | 80.00 | 37375.00 | 7475.00 |
+| Twenty-Two | 100.00 | 30000.00 | 6000.00 |     | Twenty-Three | 80.00 | 37375.00 | 7475.00 |
+| Six | 100.00 | 30000.00 | 6000.00 |     | Seven | 80.00 | 37375.00 | 7475.00 |
+| Twenty-Nine | 80.00 | 28000.00 | 5600.00 |     | Sixty-Three | 80.00 | 35625.00 | 7125.00 |
+| Forty-Five | 80.00 | 27000.00 | 5400.00 |     | Seventy-Four | 80.00 | 33875.00 | 6775.00 |
 | Five | 80.00 | 26000.00 | 5200.00 |     | Twenty-Nine | 80.00 | 28000.00 | 5600.00 |
 | Forty-Six | 80.00 | 24875.00 | 4975.00 |     | Forty-Five | 80.00 | 27000.00 | 5400.00 |
 | Sixty-One | 80.00 | 24250.00 | 4850.00 |     | Five | 80.00 | 26000.00 | 5200.00 |
@@ -38,12 +40,14 @@
 | Forty-Four | 80.00 | 17625.00 | 3525.00 |     | Two | 80.00 | 17375.00 | 3475.00 |
 | Fifty-Eight | 80.00 | 17375.00 | 3475.00 |     | Twenty-Six | 80.00 | 16750.00 | 3350.00 |
 | Two | 80.00 | 17375.00 | 3475.00 |     | Forty-Two | 80.00 | 15750.00 | 3150.00 |
-| Twenty-Six | 80.00 | 16750.00 | 3350.00 |     | Fifty-Two | 80.00 | 12875.00 | 2575.00 |
-| Fifty-Nine | 100.00 | 15750.00 | 3150.00 |     | twenty-Seven | 80.00 | 11625.00 | 2325.00 |
-| Three | 100.00 | 15750.00 | 3150.00 |     | Forty-Three | 80.00 | 10625.00 | 2125.00 |
-| Forty-Two | 80.00 | 15750.00 | 3150.00 |     | Fifty | 80.00 | 10000.00 | 2000.00 |
-| Sixty-Nine | 60.00 | 15500.00 | 3100.00 |     | Twenty-Five | 80.00 | 9000.00 | 1800.00 |
-| Fifty-Two | 80.00 | 12875.00 | 2575.00 |     | Sixty-Seven | 80.00 | 8750.00 | 1750.00 |
+| Twenty-Six | 80.00 | 16750.00 | 3350.00 |     | Seventy-Three | 80.00 | 13000.00 | 2600.00 |
+| Fifty-Nine | 100.00 | 15750.00 | 3150.00 |     | Fifty-Two | 80.00 | 12875.00 | 2575.00 |
+| Three | 100.00 | 15750.00 | 3150.00 |     | Seventy-Two | 80.00 | 12625.00 | 2525.00 |
+| Forty-Two | 80.00 | 15750.00 | 3150.00 |     | twenty-Seven | 80.00 | 11625.00 | 2325.00 |
+| Sixty-Nine | 60.00 | 15500.00 | 3100.00 |     | Forty-Three | 80.00 | 10625.00 | 2125.00 |
+| Seventy-Three | 80.00 | 13000.00 | 2600.00 |     | Fifty | 80.00 | 10000.00 | 2000.00 |
+| Fifty-Two | 80.00 | 12875.00 | 2575.00 |     | Twenty-Five | 80.00 | 9000.00 | 1800.00 |
+| Seventy-Two | 80.00 | 12625.00 | 2525.00 |     | Sixty-Seven | 80.00 | 8750.00 | 1750.00 |
 | twenty-Seven | 80.00 | 11625.00 | 2325.00 |     | Fifty-Seven | 80.00 | 8750.00 | 1750.00 |
 | Forty-Three | 80.00 | 10625.00 | 2125.00 |     | One | 80.00 | 8750.00 | 1750.00 |
 | Fifty | 80.00 | 10000.00 | 2000.00 |     | Fifty-One | 80.00 | 8000.00 | 1600.00 |
@@ -56,32 +60,28 @@
 | Forty-One | 80.00 | 8000.00 | 1600.00 |     | Forty-Eight | 80.00 | 4375.00 | 875.00 |
 | Sixty-Six | 60.00 | 6250.00 | 1250.00 |     | Forty | 80.00 | 3750.00 | 750.00 |
 | Sixty-Five | 80.00 | 6125.00 | 1225.00 |     | Sixty-Four | 80.00 | 1875.00 | 375.00 |
-| Fifty-Six | 80.00 | 5000.00 | 1000.00 |     | Seventy-Five | 80.00 | 750.00 | 150.00 |
-| Zero | 80.00 | 5000.00 | 1000.00 |     | Seventy-Four | 80.00 | 750.00 | 150.00 |
-| Forty-Nine | 80.00 | 4750.00 | 950.00 |     | Seventy-Three | 80.00 | 750.00 | 150.00 |
-| Twenty-Four | 80.00 | 4750.00 | 950.00 |     | Fifteen | 60.00 | 30625.00 | 6125.00 |
-| Thirty-Seven | 60.00 | 4500.00 | 900.00 |     | Thirty-One | 60.00 | 30250.00 | 6050.00 |
-| Forty-Eight | 80.00 | 4375.00 | 875.00 |     | Fourteen | 60.00 | 21125.00 | 4225.00 |
-| Forty | 80.00 | 3750.00 | 750.00 |     | Thirty | 60.00 | 20750.00 | 4150.00 |
-| Thirty-Four | 60.00 | 3750.00 | 750.00 |     | Sixty-Nine | 60.00 | 15500.00 | 3100.00 |
-| Thirty-Two | 60.00 | 3750.00 | 750.00 |     | Sixty-Eight | 60.00 | 9125.00 | 1825.00 |
-| Thirty-Six | 60.00 | 3250.00 | 650.00 |     | Sixty-Six | 60.00 | 6250.00 | 1250.00 |
-| Nine | 40.00 | 3000.00 | 600.00 |     | Thirty-Seven | 60.00 | 4500.00 | 900.00 |
-| Thirty-Three | 60.00 | 2750.00 | 550.00 |     | Thirty-Four | 60.00 | 3750.00 | 750.00 |
-| Thirty-Five | 60.00 | 2250.00 | 450.00 |     | Thirty-Two | 60.00 | 3750.00 | 750.00 |
-| Sixten | 40.00 | 2000.00 | 400.00 |     | Thirty-Six | 60.00 | 3250.00 | 650.00 |
-| Sixty-Four | 80.00 | 1875.00 | 375.00 |     | Thirty-Three | 60.00 | 2750.00 | 550.00 |
-| Eleven | 40.00 | 1875.00 | 375.00 |     | Thirty-Five | 60.00 | 2250.00 | 450.00 |
-| Seventy-Five | 80.00 | 750.00 | 150.00 |     | Seventy-Two | 60.00 | -125.00 | -25.00 |
-| Seventy-Four | 80.00 | 750.00 | 150.00 |     | Nine | 40.00 | 3000.00 | 600.00 |
-| Seventy-Three | 80.00 | 750.00 | 150.00 |     | Sixten | 40.00 | 2000.00 | 400.00 |
-| Twenty-One | 20.00 | 750.00 | 150.00 |     | Eleven | 40.00 | 1875.00 | 375.00 |
-| Twenty | 20.00 | 750.00 | 150.00 |     | Eight | 40.00 | -0.00 | -0.00 |
-| Nineteen | 20.00 | 750.00 | 150.00 |     | Twenty-One | 20.00 | 750.00 | 150.00 |
-| Eighteen | 20.00 | 750.00 | 150.00 |     | Twenty | 20.00 | 750.00 | 150.00 |
-| Seventeen | 20.00 | 750.00 | 150.00 |     | Nineteen | 20.00 | 750.00 | 150.00 |
-| Eight | 40.00 | -0.00 | -0.00 |     | Eighteen | 20.00 | 750.00 | 150.00 |
-| Seventy-Two | 60.00 | -125.00 | -25.00 |     | Seventeen | 20.00 | 750.00 | 150.00 |
+| Fifty-Six | 80.00 | 5000.00 | 1000.00 |     | Fifteen | 60.00 | 30625.00 | 6125.00 |
+| Zero | 80.00 | 5000.00 | 1000.00 |     | Thirty-One | 60.00 | 30250.00 | 6050.00 |
+| Forty-Nine | 80.00 | 4750.00 | 950.00 |     | Fourteen | 60.00 | 21125.00 | 4225.00 |
+| Twenty-Four | 80.00 | 4750.00 | 950.00 |     | Thirty | 60.00 | 20750.00 | 4150.00 |
+| Thirty-Seven | 60.00 | 4500.00 | 900.00 |     | Sixty-Nine | 60.00 | 15500.00 | 3100.00 |
+| Forty-Eight | 80.00 | 4375.00 | 875.00 |     | Sixty-Eight | 60.00 | 9125.00 | 1825.00 |
+| Forty | 80.00 | 3750.00 | 750.00 |     | Sixty-Six | 60.00 | 6250.00 | 1250.00 |
+| Thirty-Four | 60.00 | 3750.00 | 750.00 |     | Thirty-Seven | 60.00 | 4500.00 | 900.00 |
+| Thirty-Two | 60.00 | 3750.00 | 750.00 |     | Thirty-Four | 60.00 | 3750.00 | 750.00 |
+| Thirty-Six | 60.00 | 3250.00 | 650.00 |     | Thirty-Two | 60.00 | 3750.00 | 750.00 |
+| Nine | 40.00 | 3000.00 | 600.00 |     | Thirty-Six | 60.00 | 3250.00 | 650.00 |
+| Thirty-Three | 60.00 | 2750.00 | 550.00 |     | Thirty-Three | 60.00 | 2750.00 | 550.00 |
+| Thirty-Five | 60.00 | 2250.00 | 450.00 |     | Thirty-Five | 60.00 | 2250.00 | 450.00 |
+| Sixten | 40.00 | 2000.00 | 400.00 |     | Nine | 40.00 | 3000.00 | 600.00 |
+| Sixty-Four | 80.00 | 1875.00 | 375.00 |     | Sixten | 40.00 | 2000.00 | 400.00 |
+| Eleven | 40.00 | 1875.00 | 375.00 |     | Eleven | 40.00 | 1875.00 | 375.00 |
+| Twenty-One | 20.00 | 750.00 | 150.00 |     | Eight | 40.00 | -0.00 | -0.00 |
+| Twenty | 20.00 | 750.00 | 150.00 |     | Twenty-One | 20.00 | 750.00 | 150.00 |
+| Nineteen | 20.00 | 750.00 | 150.00 |     | Twenty | 20.00 | 750.00 | 150.00 |
+| Eighteen | 20.00 | 750.00 | 150.00 |     | Nineteen | 20.00 | 750.00 | 150.00 |
+| Seventeen | 20.00 | 750.00 | 150.00 |     | Eighteen | 20.00 | 750.00 | 150.00 |
+| Eight | 40.00 | -0.00 | -0.00 |     | Seventeen | 20.00 | 750.00 | 150.00 |
 | Thirteen | 20.00 | -375.00 | -75.00 |     | Thirteen | 20.00 | -375.00 | -75.00 |
 | Ten | 20.00 | -1125.00 | -225.00 |     | Ten | 20.00 | -1125.00 | -225.00 |
 | Twelve | 20.00 | -1625.00 | -325.00 |     | Twelve | 20.00 | -1625.00 | -325.00 |
@@ -1912,21 +1912,21 @@ Total Points Downs: 81.75 Count Downs: 4
 * Results:
 ```
 Total Trades: 5
-Percent Up: 40.00
-Percent Down: 60.00
-Total Points Moved Down: -0.25
-Potential Profit: -125.00
-Total Points Ups: 1.00 Count Ups: 2
-Total Points Downs: 0.75 Count Downs: 3
+Percent Up: 20.00
+Percent Down: 80.00
+Total Points Moved Down: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 25.75 Count Downs: 4
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 11:57:30		Total Position Time: 00:30		Total Move Down: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:36:30		Total Position Time: 00:30		Total Move Down: 0.25		Total to Date: 0.50</code> <br />
-<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:18:10		Total Position Time: 00:10		Total Move Down: -1.00		Total to Date: -0.50</code> <br />
-<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:08:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: -0.25</code> <br />
-<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:37:20		Total Position Time: 08:20		Total Move Down: -0.00		Total to Date: -0.25</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:12:05		Total Position Time: 15:05		Total Move Down: 5.50		Total to Date: 5.50</code> <br />
+<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:37:05		Total Position Time: 01:05		Total Move Down: 0.50		Total to Date: 6.00</code> <br />
+<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:19:05		Total Position Time: 01:05		Total Move Down: -0.50		Total to Date: 5.50</code> <br />
+<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:37:55		Total Position Time: 29:55		Total Move Down: 17.75		Total to Date: 23.25</code> <br />
+<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:30:05		Total Position Time: 01:05		Total Move Down: 2.00		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -1939,19 +1939,19 @@ Total Points Downs: 0.75 Count Downs: 3
 Total Trades: 5
 Percent Up: 20.00
 Percent Down: 80.00
-Total Points Moved Down: 1.50
-Potential Profit: 750.00
-Total Points Ups: 1.00 Count Ups: 1
-Total Points Downs: 2.50 Count Downs: 4
+Total Points Moved Down: 26.00
+Potential Profit: 13000.00
+Total Points Ups: 6.75 Count Ups: 1
+Total Points Downs: 32.75 Count Downs: 4
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 11:57:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:36:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.25</code> <br />
-<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:18:10		Total Position Time: 00:10		Total Move Down: -1.00		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:08:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.50</code> <br />
-<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:29:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.50</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:12:05		Total Position Time: 15:05		Total Move Down: 5.50		Total to Date: 5.50</code> <br />
+<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:50:05		Total Position Time: 14:05		Total Move Down: -6.75		Total to Date: -1.25</code> <br />
+<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:30:05		Total Position Time: 12:05		Total Move Down: 8.25		Total to Date: 7.00</code> <br />
+<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:37:55		Total Position Time: 29:55		Total Move Down: 17.75		Total to Date: 24.75</code> <br />
+<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:39:05		Total Position Time: 10:05		Total Move Down: 1.25		Total to Date: 26.00</code> <br />
 
 
 </details>
@@ -1964,19 +1964,19 @@ Total Points Downs: 2.50 Count Downs: 4
 Total Trades: 5
 Percent Up: 20.00
 Percent Down: 80.00
-Total Points Moved Down: 1.50
-Potential Profit: 750.00
-Total Points Ups: 1.00 Count Ups: 1
-Total Points Downs: 2.50 Count Downs: 4
+Total Points Moved Down: 67.75
+Potential Profit: 33875.00
+Total Points Ups: 7.00 Count Ups: 1
+Total Points Downs: 74.75 Count Downs: 4
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 11:57:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:36:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.25</code> <br />
-<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:18:10		Total Position Time: 00:10		Total Move Down: -1.00		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:08:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.50</code> <br />
-<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:29:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.50</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:05:05		Total Position Time: 08:05		Total Move Down: 5.75		Total to Date: 5.75</code> <br />
+<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 11:05:55		Total Position Time: 29:55		Total Move Down: -7.00		Total to Date: -1.25</code> <br />
+<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:47:55		Total Position Time: 29:55		Total Move Down: 22.25		Total to Date: 21.00</code> <br />
+<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:37:55		Total Position Time: 29:55		Total Move Down: 17.75		Total to Date: 38.75</code> <br />
+<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:58:55		Total Position Time: 29:55		Total Move Down: 29.00		Total to Date: 67.75</code> <br />
 
 
 </details>
@@ -1989,19 +1989,19 @@ Total Points Downs: 2.50 Count Downs: 4
 Total Trades: 5
 Percent Up: 20.00
 Percent Down: 80.00
-Total Points Moved Down: 1.50
-Potential Profit: 750.00
-Total Points Ups: 1.00 Count Ups: 1
-Total Points Downs: 2.50 Count Downs: 4
+Total Points Moved Down: 75.50
+Potential Profit: 37750.00
+Total Points Ups: 7.00 Count Ups: 1
+Total Points Downs: 82.50 Count Downs: 4
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 11:57:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.25</code> <br />
-<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 10:36:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.25</code> <br />
-<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:18:10		Total Position Time: 00:10		Total Move Down: -1.00		Total to Date: 0.25</code> <br />
-<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:08:10		Total Position Time: 00:10		Total Move Down: 0.25		Total to Date: 0.50</code> <br />
-<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:29:10		Total Position Time: 00:10		Total Move Down: 1.00		Total to Date: 1.50</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:26:55		Total Position Time: 29:55		Total Move Down: 15.25		Total to Date: 15.25</code> <br />
+<code>In: 2022-04-06 10:36:00		Out: 2022-04-06 11:05:55		Total Position Time: 29:55		Total Move Down: -7.00		Total to Date: 8.25</code> <br />
+<code>In: 2022-05-24 09:18:00		Out: 2022-05-24 09:43:05		Total Position Time: 25:05		Total Move Down: 20.50		Total to Date: 28.75</code> <br />
+<code>In: 2022-06-09 10:08:00		Out: 2022-06-09 10:37:55		Total Position Time: 29:55		Total Move Down: 17.75		Total to Date: 46.50</code> <br />
+<code>In: 2022-06-10 12:29:00		Out: 2022-06-10 12:58:55		Total Position Time: 29:55		Total Move Down: 29.00		Total to Date: 75.50</code> <br />
 
 
 </details>

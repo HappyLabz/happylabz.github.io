@@ -1,6 +1,6 @@
 # Short Wallace 1231_002 (Short Bias)
 - Symbol: ES
-- Date Range: 3/19/22 - 5/22/22
+- Date Range: 03/18/2022 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 1
 
@@ -9,6 +9,8 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Seventy-Five | 100.00 | 3125.00 | 3125.00 |     | Seventy-Five | 100.00 | 3125.00 | 3125.00 |
+| Seventy-Four | 100.00 | 3125.00 | 3125.00 |     | Seventy-Four | 100.00 | 3125.00 | 3125.00 |
 | Seventy-One | 100.00 | 3125.00 | 3125.00 |     | Seventy-One | 100.00 | 3125.00 | 3125.00 |
 | Seventy | 100.00 | 3125.00 | 3125.00 |     | Seventy | 100.00 | 3125.00 | 3125.00 |
 | Sixty-Three | 100.00 | 3125.00 | 3125.00 |     | Sixty-Three | 100.00 | 3125.00 | 3125.00 |
@@ -55,8 +57,6 @@
 | Fifty-Nine | 100.00 | 375.00 | 375.00 |     | Fifty-Nine | 100.00 | 375.00 | 375.00 |
 | Forty-Three | 100.00 | 375.00 | 375.00 |     | Forty-Three | 100.00 | 375.00 | 375.00 |
 | Three | 100.00 | 375.00 | 375.00 |     | Three | 100.00 | 375.00 | 375.00 |
-| Seventy-Five | 0.00 | -125.00 | -125.00 |     | Seventy-Five | 0.00 | -125.00 | -125.00 |
-| Seventy-Four | 0.00 | -125.00 | -125.00 |     | Seventy-Four | 0.00 | -125.00 | -125.00 |
 | Seventy-Three | 0.00 | -125.00 | -125.00 |     | Seventy-Three | 0.00 | -125.00 | -125.00 |
 | Seventy-Two | 0.00 | -125.00 | -125.00 |     | Seventy-Two | 0.00 | -125.00 | -125.00 |
 | Twenty-One | 0.00 | -125.00 | -125.00 |     | Twenty-One | 0.00 | -125.00 | -125.00 |
@@ -1634,7 +1634,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:34:10		Total Position Time: 00:10		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
+<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:35:05		Total Position Time: 01:05		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
 
 
 </details>
@@ -1655,7 +1655,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:34:10		Total Position Time: 00:10		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
+<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:35:05		Total Position Time: 01:05		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
 
 
 </details>
@@ -1666,17 +1666,17 @@ Total Points Downs: 0.00 Count Downs: 0
 * Results:
 ```
 Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.25
-Potential Profit: -125.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 6.25
+Potential Profit: 3125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 6.25 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:34:10		Total Position Time: 00:10		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
+<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 12:03:55		Total Position Time: 29:55		Total Move Down: 6.25		Total to Date: 6.25</code> <br />
 
 
 </details>
@@ -1687,17 +1687,17 @@ Total Points Downs: 0.00 Count Downs: 0
 * Results:
 ```
 Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Down: -0.25
-Potential Profit: -125.00
-Total Points Ups: 0.25 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 6.25
+Potential Profit: 3125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 6.25 Count Downs: 1
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 11:34:10		Total Position Time: 00:10		Total Move Down: -0.25		Total to Date: -0.25</code> <br />
+<code>In: 2022-03-25 11:34:00		Out: 2022-03-25 12:03:55		Total Position Time: 29:55		Total Move Down: 6.25		Total to Date: 6.25</code> <br />
 
 
 </details>
