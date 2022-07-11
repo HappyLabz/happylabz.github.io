@@ -269,3 +269,13 @@
 
 - [Long Bulldog 004 One-Five](LongBulldog004_ES.md)
 - [Short Bulldog 004 One-Five](ShortBulldog004_ES.md)
+
+### Bulldog 005
+
+- [Long Bulldog 005 One-Five](LongBulldog005_ES.md)
+- [Short Bulldog 005 One-Five](ShortBulldog005_ES.md)
+
+### Bulldog 006
+
+- [Long Bulldog 006 One-Five](LongBulldog006_ES.md)
+- [Short Bulldog 006 One-Five](ShortBulldog006_ES.md)
