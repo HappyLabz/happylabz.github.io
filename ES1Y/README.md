@@ -43,6 +43,11 @@
 - [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_ES1Y.md)
 - [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_ES1Y.md)
 
+### Bulldog 003
+
+- [Long Bulldog 003 One-Five](LongBulldog003_ES1Y.md)
+- [Short Bulldog 003 One-Five](ShortBulldog003_ES1Y.md)
+
 ### Bulldog 005
 
 - [Long Bulldog 005 One-Five](LongBulldog005_ES1Y.md)

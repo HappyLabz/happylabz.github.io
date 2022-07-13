@@ -2,17 +2,6 @@
 
 ## ES Five Minute Bars
 
-### Golden 001
-- [Long Golden 001](LongGoldenOne_ES90d5m.md)
-- [Short Golden 001](ShortGoldenOne_ES90d5m.md)
-
-### Golden 002
-- [Long Golden 002](LongGoldenTwo_ES90d5m.md)
-- [Short Golden 002](ShortGoldenTwo_ES90d5m.md)
-
-### Golden 003
-- [Long Golden 003](LongGolden003_ES90d5m.md)
-- [Short Golden 003](ShortGolden003_ES90d5m.md)
 
 ### Wallace 001
 
