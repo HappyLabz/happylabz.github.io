@@ -5,9 +5,14 @@
 - Number of Trades: 0
 
 ![Plot](ShortWallace1231_002ES90d5m(ShortBias).png)
+## NO STOPLOSS
 
 
 
 
 
 
+
+
+
+## SPECIAL EXIT CONDITIONS 

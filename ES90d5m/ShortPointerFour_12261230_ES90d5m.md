@@ -5,9 +5,14 @@
 - Number of Trades: 0
 
 ![Plot](ShortPointerFour(12261230)ES90d5m.png)
+## NO STOPLOSS
 
 
 
 
 
 
+
+
+
+## SPECIAL EXIT CONDITIONS 

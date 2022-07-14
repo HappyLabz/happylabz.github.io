@@ -15,8 +15,11 @@
 | Six | 100.00 | 21750.00 | 7250.00 |     | Six | 100.00 | 21750.00 | 7250.00 |
 | Zero | 66.67 | 15375.00 | 5125.00 |     | Zero | 66.67 | 15375.00 | 5125.00 |
 | Five | 66.67 | 13625.00 | 4541.67 |     | Five | 66.67 | 13625.00 | 4541.67 |
-| Two | 33.33 | 4500.00 | 1500.00 |     | Two | 33.33 | 4500.00 | 1500.00 |
+| Two | 33.33 | 4500.00 | 1500.00 |     | Seventy-Three | 66.67 | 2000.00 | 666.67 |
+| Seventy-Three | 66.67 | 2000.00 | 666.67 |     | Two | 33.33 | 4500.00 | 1500.00 |
 | One | 33.33 | -1625.00 | -541.67 |     | One | 33.33 | -1625.00 | -541.67 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -198,6 +201,31 @@ Total Points Downs: 0.00 Count Downs: 0
 <code>In: 2022-04-18 08:25:00		Out: 2022-04-18 10:35:45		Total Position Time: 130:45		Total Move Up: 14.00		Total to Date: 14.00</code> <br />
 <code>In: 2022-05-12 09:00:00		Out: 2022-05-12 12:50:00		Total Position Time: 230:00		Total Move Up: 9.00		Total to Date: 23.00</code> <br />
 <code>In: 2022-05-25 09:35:00		Out: 2022-05-25 11:02:15		Total Position Time: 87:15		Total Move Up: 23.25		Total to Date: 46.25</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 8.25 Count Ups: 2
+Total Points Downs: -4.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-18 08:25:00		Out: 2022-04-18 08:34:05		Total Position Time: 09:05		Total Move Up: -4.25		Total to Date: -4.25</code> <br />
+<code>In: 2022-05-12 09:00:00		Out: 2022-05-12 09:14:05		Total Position Time: 14:05		Total Move Up: 3.00		Total to Date: -1.25</code> <br />
+<code>In: 2022-05-25 09:35:00		Out: 2022-05-25 09:52:05		Total Position Time: 17:05		Total Move Up: 5.25		Total to Date: 4.00</code> <br />
 
 
 </details>

@@ -17,6 +17,9 @@
 | Five | 80.00 | 22875.00 | 4575.00 |     | Five | 80.00 | 22875.00 | 4575.00 |
 | Six | 80.00 | 21625.00 | 4325.00 |     | Six | 80.00 | 21625.00 | 4325.00 |
 | Zero | 80.00 | 20875.00 | 4175.00 |     | Zero | 80.00 | 20875.00 | 4175.00 |
+| Seventy-Three | 40.00 | 7625.00 | 1525.00 |     | Seventy-Three | 40.00 | 7625.00 | 1525.00 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -214,6 +217,33 @@ Total Points Downs: -6.25 Count Downs: 1
 <code>In: 2022-05-03 11:40:00		Out: 2022-05-03 11:59:45		Total Position Time: 19:45		Total Move Up: 22.25		Total to Date: 29.25</code> <br />
 <code>In: 2022-05-13 11:15:00		Out: 2022-05-13 12:14:40		Total Position Time: 59:40		Total Move Up: 36.50		Total to Date: 65.75</code> <br />
 <code>In: 2022-06-27 11:00:00		Out: 2022-06-27 12:50:00		Total Position Time: 110:00		Total Move Up: 4.00		Total to Date: 69.75</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 40.00
+Percent Down: 60.00
+Total Points Moved Up: 15.25
+Potential Profit: 7625.00
+Total Points Ups: 24.50 Count Ups: 2
+Total Points Downs: -9.25 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-20 11:45:00		Out: 2022-04-20 11:58:00		Total Position Time: 13:00		Total Move Up: -6.25		Total to Date: -6.25</code> <br />
+<code>In: 2022-04-27 12:10:00		Out: 2022-04-27 12:18:00		Total Position Time: 08:00		Total Move Up: -2.75		Total to Date: -9.00</code> <br />
+<code>In: 2022-05-03 11:40:00		Out: 2022-05-03 11:51:05		Total Position Time: 11:05		Total Move Up: 9.00		Total to Date: 0.00</code> <br />
+<code>In: 2022-05-13 11:15:00		Out: 2022-05-13 11:32:05		Total Position Time: 17:05		Total Move Up: 15.50		Total to Date: 15.50</code> <br />
+<code>In: 2022-06-27 11:00:00		Out: 2022-06-27 11:12:05		Total Position Time: 12:05		Total Move Up: -0.25		Total to Date: 15.25</code> <br />
 
 
 </details>

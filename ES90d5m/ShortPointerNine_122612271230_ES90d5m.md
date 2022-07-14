@@ -17,6 +17,9 @@
 | One | 100.00 | 24500.00 | 4900.00 |     | One | 100.00 | 24500.00 | 4900.00 |
 | Six | 100.00 | 22500.00 | 4500.00 |     | Six | 100.00 | 22500.00 | 4500.00 |
 | Zero | 100.00 | 19250.00 | 3850.00 |     | Zero | 100.00 | 19250.00 | 3850.00 |
+| Seventy-Three | 100.00 | 8250.00 | 1650.00 |     | Seventy-Three | 100.00 | 8250.00 | 1650.00 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -214,6 +217,33 @@ Total Points Downs: 70.00 Count Downs: 5
 <code>In: 2022-06-10 11:25:00		Out: 2022-06-10 12:50:00		Total Position Time: 85:00		Total Move Down: 15.00		Total to Date: 43.25</code> <br />
 <code>In: 2022-06-27 08:30:00		Out: 2022-06-27 09:34:15		Total Position Time: 64:15		Total Move Down: 23.00		Total to Date: 66.25</code> <br />
 <code>In: 2022-07-07 12:25:00		Out: 2022-07-07 12:50:00		Total Position Time: 25:00		Total Move Down: 3.75		Total to Date: 70.00</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 16.50 Count Downs: 5
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-06 10:55:00		Out: 2022-04-06 10:58:05		Total Position Time: 03:05		Total Move Down: 4.50		Total to Date: 4.50</code> <br />
+<code>In: 2022-04-20 10:50:00		Out: 2022-04-20 10:53:05		Total Position Time: 03:05		Total Move Down: 2.25		Total to Date: 6.75</code> <br />
+<code>In: 2022-06-10 11:25:00		Out: 2022-06-10 11:28:05		Total Position Time: 03:05		Total Move Down: 4.50		Total to Date: 11.25</code> <br />
+<code>In: 2022-06-27 08:30:00		Out: 2022-06-27 08:34:05		Total Position Time: 04:05		Total Move Down: 4.00		Total to Date: 15.25</code> <br />
+<code>In: 2022-07-07 12:25:00		Out: 2022-07-07 12:28:05		Total Position Time: 03:05		Total Move Down: 1.25		Total to Date: 16.50</code> <br />
 
 
 </details>

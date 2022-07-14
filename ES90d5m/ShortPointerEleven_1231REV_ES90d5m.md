@@ -9,7 +9,8 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Zero | 66.67 | 15375.00 | 5125.00 |     | Zero | 66.67 | 15375.00 | 5125.00 |
+| Zero | 66.67 | 15375.00 | 5125.00 |     | Seventy-Three | 100.00 | 10000.00 | 3333.33 |
+| Seventy-Three | 100.00 | 10000.00 | 3333.33 |     | Zero | 66.67 | 15375.00 | 5125.00 |
 | Seven | 33.33 | -3125.00 | -1041.67 |     | Seven | 33.33 | -3125.00 | -1041.67 |
 | Six | 33.33 | -3125.00 | -1041.67 |     | Six | 33.33 | -3125.00 | -1041.67 |
 | Five | 33.33 | -3125.00 | -1041.67 |     | Five | 33.33 | -3125.00 | -1041.67 |
@@ -17,6 +18,8 @@
 | Three | 33.33 | -3125.00 | -1041.67 |     | Three | 33.33 | -3125.00 | -1041.67 |
 | Two | 33.33 | -3125.00 | -1041.67 |     | Two | 33.33 | -3125.00 | -1041.67 |
 | One | 33.33 | -3125.00 | -1041.67 |     | One | 33.33 | -3125.00 | -1041.67 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -198,6 +201,31 @@ Total Points Downs: 3.25 Count Downs: 1
 <code>In: 2022-04-07 12:20:00		Out: 2022-04-07 12:50:00		Total Position Time: 30:00		Total Move Down: -0.00		Total to Date: 0.00</code> <br />
 <code>In: 2022-04-25 11:55:00		Out: 2022-04-25 12:50:00		Total Position Time: 55:00		Total Move Down: -9.50		Total to Date: -9.50</code> <br />
 <code>In: 2022-05-27 12:30:00		Out: 2022-05-27 12:50:00		Total Position Time: 20:00		Total Move Down: 3.25		Total to Date: -6.25</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 20.00
+Potential Profit: 10000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 20.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-07 12:20:00		Out: 2022-04-07 12:24:05		Total Position Time: 04:05		Total Move Down: 5.00		Total to Date: 5.00</code> <br />
+<code>In: 2022-04-25 11:55:00		Out: 2022-04-25 12:01:05		Total Position Time: 06:05		Total Move Down: 14.00		Total to Date: 19.00</code> <br />
+<code>In: 2022-05-27 12:30:00		Out: 2022-05-27 12:34:05		Total Position Time: 04:05		Total Move Down: 1.00		Total to Date: 20.00</code> <br />
 
 
 </details>

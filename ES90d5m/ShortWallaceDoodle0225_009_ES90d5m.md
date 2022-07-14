@@ -9,14 +9,17 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Seven | 50.00 | 6500.00 | 3250.00 |     | Seven | 50.00 | 6500.00 | 3250.00 |
-| Five | 50.00 | 6500.00 | 3250.00 |     | Five | 50.00 | 6500.00 | 3250.00 |
-| Four | 50.00 | 6500.00 | 3250.00 |     | Four | 50.00 | 6500.00 | 3250.00 |
+| Seven | 50.00 | 6500.00 | 3250.00 |     | Seventy-Three | 100.00 | 6000.00 | 3000.00 |
+| Five | 50.00 | 6500.00 | 3250.00 |     | Seven | 50.00 | 6500.00 | 3250.00 |
+| Four | 50.00 | 6500.00 | 3250.00 |     | Five | 50.00 | 6500.00 | 3250.00 |
+| Seventy-Three | 100.00 | 6000.00 | 3000.00 |     | Four | 50.00 | 6500.00 | 3250.00 |
 | Two | 50.00 | 5625.00 | 2812.50 |     | Two | 50.00 | 5625.00 | 2812.50 |
 | Three | 50.00 | 4625.00 | 2312.50 |     | Three | 50.00 | 4625.00 | 2312.50 |
 | One | 50.00 | 2750.00 | 1375.00 |     | One | 50.00 | 2750.00 | 1375.00 |
 | Six | 50.00 | 2500.00 | 1250.00 |     | Six | 50.00 | 2500.00 | 1250.00 |
 | Zero | 50.00 | 2125.00 | 1062.50 |     | Zero | 50.00 | 2125.00 | 1062.50 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -190,6 +193,30 @@ Total Points Downs: 21.50 Count Downs: 1
 
 <code>In: 2022-03-28 12:00:00		Out: 2022-03-28 12:50:00		Total Position Time: 50:00		Total Move Down: -8.50		Total to Date: -8.50</code> <br />
 <code>In: 2022-06-10 12:00:00		Out: 2022-06-10 12:50:00		Total Position Time: 50:00		Total Move Down: 21.50		Total to Date: 13.00</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 12.00
+Potential Profit: 6000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 12.00 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-28 12:00:00		Out: 2022-03-28 12:10:00		Total Position Time: 10:00		Total Move Down: 3.00		Total to Date: 3.00</code> <br />
+<code>In: 2022-06-10 12:00:00		Out: 2022-06-10 12:04:05		Total Position Time: 04:05		Total Move Down: 9.00		Total to Date: 12.00</code> <br />
 
 
 </details>

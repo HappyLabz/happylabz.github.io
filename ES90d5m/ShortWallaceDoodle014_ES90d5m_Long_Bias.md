@@ -9,14 +9,17 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Seven | 66.67 | 62875.00 | 5239.58 |     | Zero | 75.00 | 39375.00 | 3281.25 |
-| Four | 66.67 | 62375.00 | 5197.92 |     | Seven | 66.67 | 62875.00 | 5239.58 |
-| Two | 66.67 | 55125.00 | 4593.75 |     | Four | 66.67 | 62375.00 | 5197.92 |
+| Seven | 66.67 | 62875.00 | 5239.58 |     | Seventy-Three | 83.33 | 48875.00 | 4072.92 |
+| Four | 66.67 | 62375.00 | 5197.92 |     | Zero | 75.00 | 39375.00 | 3281.25 |
+| Two | 66.67 | 55125.00 | 4593.75 |     | Seven | 66.67 | 62875.00 | 5239.58 |
+| Seventy-Three | 83.33 | 48875.00 | 4072.92 |     | Four | 66.67 | 62375.00 | 5197.92 |
 | Six | 66.67 | 42625.00 | 3552.08 |     | Two | 66.67 | 55125.00 | 4593.75 |
 | Zero | 75.00 | 39375.00 | 3281.25 |     | Six | 66.67 | 42625.00 | 3552.08 |
 | One | 66.67 | 36250.00 | 3020.83 |     | One | 66.67 | 36250.00 | 3020.83 |
 | Three | 66.67 | 34500.00 | 2875.00 |     | Three | 66.67 | 34500.00 | 2875.00 |
 | Five | 58.33 | -16125.00 | -1343.75 |     | Five | 58.33 | -16125.00 | -1343.75 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -270,6 +273,40 @@ Total Points Downs: 197.25 Count Downs: 8
 <code>In: 2022-05-31 09:05:00		Out: 2022-05-31 12:50:00		Total Position Time: 225:00		Total Move Down: 18.50		Total to Date: 133.75</code> <br />
 <code>In: 2022-07-05 11:40:00		Out: 2022-07-05 12:50:00		Total Position Time: 70:00		Total Move Down: -13.00		Total to Date: 120.75</code> <br />
 <code>In: 2022-07-06 11:45:00		Out: 2022-07-06 12:50:00		Total Position Time: 65:00		Total Move Down: 5.00		Total to Date: 125.75</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 12
+Percent Up: 16.67
+Percent Down: 83.33
+Total Points Moved Down: 97.75
+Potential Profit: 48875.00
+Total Points Ups: 1.00 Count Ups: 2
+Total Points Downs: 98.75 Count Downs: 10
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-29 12:10:00		Out: 2022-03-29 12:18:00		Total Position Time: 08:00		Total Move Down: -0.50		Total to Date: -0.50</code> <br />
+<code>In: 2022-04-06 11:05:00		Out: 2022-04-06 11:12:05		Total Position Time: 07:05		Total Move Down: 24.00		Total to Date: 23.50</code> <br />
+<code>In: 2022-04-07 12:15:00		Out: 2022-04-07 12:20:05		Total Position Time: 05:05		Total Move Down: 6.25		Total to Date: 29.75</code> <br />
+<code>In: 2022-04-20 10:45:00		Out: 2022-04-20 10:49:05		Total Position Time: 04:05		Total Move Down: -0.50		Total to Date: 29.25</code> <br />
+<code>In: 2022-04-25 11:35:00		Out: 2022-04-25 11:45:05		Total Position Time: 10:05		Total Move Down: 7.00		Total to Date: 36.25</code> <br />
+<code>In: 2022-05-04 11:05:00		Out: 2022-05-04 11:11:05		Total Position Time: 06:05		Total Move Down: 15.00		Total to Date: 51.25</code> <br />
+<code>In: 2022-05-04 12:15:00		Out: 2022-05-04 12:22:00		Total Position Time: 07:00		Total Move Down: 4.00		Total to Date: 55.25</code> <br />
+<code>In: 2022-05-19 08:50:00		Out: 2022-05-19 09:09:05		Total Position Time: 19:05		Total Move Down: 7.00		Total to Date: 62.25</code> <br />
+<code>In: 2022-05-19 12:05:00		Out: 2022-05-19 12:14:00		Total Position Time: 09:00		Total Move Down: 18.25		Total to Date: 80.50</code> <br />
+<code>In: 2022-05-31 09:05:00		Out: 2022-05-31 09:11:05		Total Position Time: 06:05		Total Move Down: 5.50		Total to Date: 86.00</code> <br />
+<code>In: 2022-07-05 11:40:00		Out: 2022-07-05 11:50:05		Total Position Time: 10:05		Total Move Down: 6.25		Total to Date: 92.25</code> <br />
+<code>In: 2022-07-06 11:45:00		Out: 2022-07-06 11:58:00		Total Position Time: 13:00		Total Move Down: 5.50		Total to Date: 97.75</code> <br />
 
 
 </details>

@@ -13,10 +13,13 @@
 | Six | 100.00 | 15000.00 | 5000.00 |     | Six | 100.00 | 15000.00 | 5000.00 |
 | Two | 100.00 | 15000.00 | 5000.00 |     | Two | 100.00 | 15000.00 | 5000.00 |
 | Zero | 100.00 | 15000.00 | 5000.00 |     | Zero | 100.00 | 15000.00 | 5000.00 |
+| Seventy-Three | 66.67 | 4750.00 | 1583.33 |     | Seventy-Three | 66.67 | 4750.00 | 1583.33 |
 | Seven | 66.67 | 4750.00 | 1583.33 |     | Seven | 66.67 | 4750.00 | 1583.33 |
 | Five | 66.67 | 4750.00 | 1583.33 |     | Five | 66.67 | 4750.00 | 1583.33 |
 | Four | 66.67 | 4750.00 | 1583.33 |     | Four | 66.67 | 4750.00 | 1583.33 |
 | Three | 66.67 | 3750.00 | 1250.00 |     | Three | 66.67 | 3750.00 | 1250.00 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -198,6 +201,31 @@ Total Points Downs: -13.50 Count Downs: 1
 <code>In: 2022-03-23 10:30:00		Out: 2022-03-23 12:50:00		Total Position Time: 140:00		Total Move Up: 1.00		Total to Date: 1.00</code> <br />
 <code>In: 2022-03-30 08:15:00		Out: 2022-03-30 12:50:00		Total Position Time: 275:00		Total Move Up: -13.50		Total to Date: -12.50</code> <br />
 <code>In: 2022-04-20 11:55:00		Out: 2022-04-20 12:50:00		Total Position Time: 55:00		Total Move Up: 22.00		Total to Date: 9.50</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 9.50
+Potential Profit: 4750.00
+Total Points Ups: 10.75 Count Ups: 2
+Total Points Downs: -1.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 10:30:00		Out: 2022-03-23 10:39:05		Total Position Time: 09:05		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-03-30 08:15:00		Out: 2022-03-30 08:29:05		Total Position Time: 14:05		Total Move Up: -1.25		Total to Date: 2.50</code> <br />
+<code>In: 2022-04-20 11:55:00		Out: 2022-04-20 12:06:00		Total Position Time: 11:00		Total Move Up: 7.00		Total to Date: 9.50</code> <br />
 
 
 </details>

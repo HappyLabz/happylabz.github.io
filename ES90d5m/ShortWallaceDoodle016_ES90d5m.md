@@ -5,9 +5,14 @@
 - Number of Trades: 0
 
 ![Plot](ShortWallaceDoodle016ES90d5m.png)
+## NO STOPLOSS
 
 
 
 
 
 
+
+
+
+## SPECIAL EXIT CONDITIONS 
