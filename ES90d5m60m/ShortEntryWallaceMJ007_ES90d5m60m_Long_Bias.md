@@ -13,10 +13,10 @@
 | Four | 100.00 | 29000.00 | 14500.00 |     | Four | 100.00 | 29000.00 | 14500.00 |
 | One | 100.00 | 22250.00 | 11125.00 |     | One | 100.00 | 22250.00 | 11125.00 |
 | Six | 100.00 | 21000.00 | 10500.00 |     | Six | 100.00 | 21000.00 | 10500.00 |
+| Five | 100.00 | 20625.00 | 10312.50 |     | Five | 100.00 | 20625.00 | 10312.50 |
+| Two | 100.00 | 20625.00 | 10312.50 |     | Two | 100.00 | 20625.00 | 10312.50 |
 | Three | 100.00 | 16125.00 | 8062.50 |     | Three | 100.00 | 16125.00 | 8062.50 |
 | Zero | 100.00 | 12375.00 | 6187.50 |     | Zero | 100.00 | 12375.00 | 6187.50 |
-| Five | 50.00 | 11875.00 | 5937.50 |     | Five | 50.00 | 11875.00 | 5937.50 |
-| Two | 50.00 | 11875.00 | 5937.50 |     | Two | 50.00 | 11875.00 | 5937.50 |
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -68,18 +68,18 @@ Total Points Downs: 44.50 Count Downs: 2
 * Results:
 ```
 Total Trades: 2
-Percent Up: 50.00
-Percent Down: 50.00
-Total Points Moved Down: 23.75
-Potential Profit: 11875.00
-Total Points Ups: 1.75 Count Ups: 1
-Total Points Downs: 25.50 Count Downs: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 41.25
+Potential Profit: 20625.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 41.25 Count Downs: 2
 ```
 
 <details><summary>Trades</summary>
 
 <code>In: 2022-05-19 08:55:00		Out: 2022-05-19 09:55:55		Total Position Time: 60:55		Total Move Down: 25.50		Total to Date: 25.50</code> <br />
-<code>In: 2022-05-19 12:10:00		Out: 2022-05-20 06:40:55		Total Position Time: 1110:55		Total Move Down: -1.75		Total to Date: 23.75</code> <br />
+<code>In: 2022-05-19 12:10:00		Out: 2022-05-19 12:46:00		Total Position Time: 36:00		Total Move Down: 15.75		Total to Date: 41.25</code> <br />
 
 
 </details>
@@ -134,18 +134,18 @@ Total Points Downs: 58.00 Count Downs: 2
 * Results:
 ```
 Total Trades: 2
-Percent Up: 50.00
-Percent Down: 50.00
-Total Points Moved Down: 23.75
-Potential Profit: 11875.00
-Total Points Ups: 1.75 Count Ups: 1
-Total Points Downs: 25.50 Count Downs: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 41.25
+Potential Profit: 20625.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 41.25 Count Downs: 2
 ```
 
 <details><summary>Trades</summary>
 
 <code>In: 2022-05-19 08:55:00		Out: 2022-05-19 09:55:55		Total Position Time: 60:55		Total Move Down: 25.50		Total to Date: 25.50</code> <br />
-<code>In: 2022-05-19 12:10:00		Out: 2022-05-20 06:40:55		Total Position Time: 1110:55		Total Move Down: -1.75		Total to Date: 23.75</code> <br />
+<code>In: 2022-05-19 12:10:00		Out: 2022-05-19 12:46:00		Total Position Time: 36:00		Total Move Down: 15.75		Total to Date: 41.25</code> <br />
 
 
 </details>
