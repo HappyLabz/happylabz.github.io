@@ -11,12 +11,15 @@
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
 | Five | 80.00 | 26875.00 | 5375.00 |     | Six | 100.00 | 23125.00 | 4625.00 |
 | Six | 100.00 | 23125.00 | 4625.00 |     | Zero | 100.00 | 18625.00 | 3725.00 |
-| Seven | 80.00 | 21250.00 | 4250.00 |     | Five | 80.00 | 26875.00 | 5375.00 |
-| Two | 80.00 | 21125.00 | 4225.00 |     | Seven | 80.00 | 21250.00 | 4250.00 |
-| Four | 80.00 | 20875.00 | 4175.00 |     | Two | 80.00 | 21125.00 | 4225.00 |
-| Zero | 100.00 | 18625.00 | 3725.00 |     | Four | 80.00 | 20875.00 | 4175.00 |
-| One | 80.00 | 14500.00 | 2900.00 |     | One | 80.00 | 14500.00 | 2900.00 |
-| Three | 80.00 | 14375.00 | 2875.00 |     | Three | 80.00 | 14375.00 | 2875.00 |
+| Seven | 80.00 | 21250.00 | 4250.00 |     | Seventy-Three | 100.00 | 8250.00 | 1650.00 |
+| Two | 80.00 | 21125.00 | 4225.00 |     | Five | 80.00 | 26875.00 | 5375.00 |
+| Four | 80.00 | 20875.00 | 4175.00 |     | Seven | 80.00 | 21250.00 | 4250.00 |
+| Zero | 100.00 | 18625.00 | 3725.00 |     | Two | 80.00 | 21125.00 | 4225.00 |
+| One | 80.00 | 14500.00 | 2900.00 |     | Four | 80.00 | 20875.00 | 4175.00 |
+| Three | 80.00 | 14375.00 | 2875.00 |     | One | 80.00 | 14500.00 | 2900.00 |
+| Seventy-Three | 100.00 | 8250.00 | 1650.00 |     | Three | 80.00 | 14375.00 | 2875.00 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -214,6 +217,33 @@ Total Points Downs: 53.25 Count Downs: 4
 <code>In: 2022-06-10 11:25:00		Out: 2022-06-10 12:25:55		Total Position Time: 60:55		Total Move Down: -10.75		Total to Date: 17.50</code> <br />
 <code>In: 2022-06-27 08:30:00		Out: 2022-06-27 09:30:55		Total Position Time: 60:55		Total Move Down: 19.75		Total to Date: 37.25</code> <br />
 <code>In: 2022-07-07 12:25:00		Out: 2022-07-07 12:46:00		Total Position Time: 21:00		Total Move Down: 5.25		Total to Date: 42.50</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 16.50
+Potential Profit: 8250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 16.50 Count Downs: 5
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-06 10:55:00		Out: 2022-04-06 10:58:05		Total Position Time: 03:05		Total Move Down: 4.50		Total to Date: 4.50</code> <br />
+<code>In: 2022-04-20 10:50:00		Out: 2022-04-20 10:53:05		Total Position Time: 03:05		Total Move Down: 2.25		Total to Date: 6.75</code> <br />
+<code>In: 2022-06-10 11:25:00		Out: 2022-06-10 11:28:05		Total Position Time: 03:05		Total Move Down: 4.50		Total to Date: 11.25</code> <br />
+<code>In: 2022-06-27 08:30:00		Out: 2022-06-27 08:34:05		Total Position Time: 04:05		Total Move Down: 4.00		Total to Date: 15.25</code> <br />
+<code>In: 2022-07-07 12:25:00		Out: 2022-07-07 12:28:05		Total Position Time: 03:05		Total Move Down: 1.25		Total to Date: 16.50</code> <br />
 
 
 </details>

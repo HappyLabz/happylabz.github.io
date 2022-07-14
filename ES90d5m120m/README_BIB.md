@@ -2,6 +2,9 @@
 
 ## ES 5 MINUTE BEST IN BREED
 
+### Golden 001
+- [Long Golden 001](LongGoldenOne_ES90d5m120m.md)
+- [Short Golden 001](ShortGoldenOne_ES90d5m120m.md)
 
 ### Pointer 001 (1226)
 

@@ -9,14 +9,17 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Six | 71.43 | 20375.00 | 2910.71 |     | Six | 71.43 | 20375.00 | 2910.71 |
-| Three | 71.43 | 18875.00 | 2696.43 |     | Three | 71.43 | 18875.00 | 2696.43 |
-| One | 71.43 | 18375.00 | 2625.00 |     | One | 71.43 | 18375.00 | 2625.00 |
-| Two | 71.43 | 15875.00 | 2267.86 |     | Two | 71.43 | 15875.00 | 2267.86 |
+| Six | 71.43 | 20375.00 | 2910.71 |     | Seventy-Three | 85.71 | 13875.00 | 1982.14 |
+| Three | 71.43 | 18875.00 | 2696.43 |     | Six | 71.43 | 20375.00 | 2910.71 |
+| One | 71.43 | 18375.00 | 2625.00 |     | Three | 71.43 | 18875.00 | 2696.43 |
+| Two | 71.43 | 15875.00 | 2267.86 |     | One | 71.43 | 18375.00 | 2625.00 |
+| Seventy-Three | 85.71 | 13875.00 | 1982.14 |     | Two | 71.43 | 15875.00 | 2267.86 |
 | Zero | 71.43 | 10125.00 | 1446.43 |     | Zero | 71.43 | 10125.00 | 1446.43 |
 | Seven | 57.14 | 8000.00 | 1142.86 |     | Seven | 57.14 | 8000.00 | 1142.86 |
 | Five | 57.14 | 8000.00 | 1142.86 |     | Five | 57.14 | 8000.00 | 1142.86 |
 | Four | 57.14 | 8000.00 | 1142.86 |     | Four | 57.14 | 8000.00 | 1142.86 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -230,6 +233,35 @@ Total Points Downs: -23.75 Count Downs: 3
 <code>In: 2022-04-20 12:00:00		Out: 2022-04-20 12:46:00		Total Position Time: 46:00		Total Move Up: 16.75		Total to Date: 25.75</code> <br />
 <code>In: 2022-05-02 10:10:00		Out: 2022-05-02 11:10:55		Total Position Time: 60:55		Total Move Up: -17.00		Total to Date: 8.75</code> <br />
 <code>In: 2022-06-29 09:35:00		Out: 2022-06-29 10:35:55		Total Position Time: 60:55		Total Move Up: 7.25		Total to Date: 16.00</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 85.71
+Percent Down: 14.29
+Total Points Moved Up: 27.75
+Potential Profit: 13875.00
+Total Points Ups: 31.75 Count Ups: 6
+Total Points Downs: -4.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 10:50:00		Out: 2022-03-23 10:55:05		Total Position Time: 05:05		Total Move Up: 7.50		Total to Date: 7.50</code> <br />
+<code>In: 2022-03-30 12:30:00		Out: 2022-03-30 12:36:05		Total Position Time: 06:05		Total Move Up: 5.25		Total to Date: 12.75</code> <br />
+<code>In: 2022-03-31 11:25:00		Out: 2022-03-31 11:37:05		Total Position Time: 12:05		Total Move Up: 1.25		Total to Date: 14.00</code> <br />
+<code>In: 2022-04-18 08:55:00		Out: 2022-04-18 08:58:05		Total Position Time: 03:05		Total Move Up: 2.75		Total to Date: 16.75</code> <br />
+<code>In: 2022-04-20 12:00:00		Out: 2022-04-20 12:12:05		Total Position Time: 12:05		Total Move Up: 6.00		Total to Date: 22.75</code> <br />
+<code>In: 2022-05-02 10:10:00		Out: 2022-05-02 10:23:05		Total Position Time: 13:05		Total Move Up: -4.00		Total to Date: 18.75</code> <br />
+<code>In: 2022-06-29 09:35:00		Out: 2022-06-29 09:40:05		Total Position Time: 05:05		Total Move Up: 9.00		Total to Date: 27.75</code> <br />
 
 
 </details>

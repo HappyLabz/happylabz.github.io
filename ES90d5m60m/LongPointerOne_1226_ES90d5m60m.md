@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Seventy-Three | 75.00 | 12250.00 | 1531.25 |     | Seventy-Three | 75.00 | 12250.00 | 1531.25 |
 | Six | 37.50 | 7625.00 | 953.12 |     | Zero | 50.00 | 2125.00 | 265.62 |
 | One | 37.50 | 7250.00 | 906.25 |     | Six | 37.50 | 7625.00 | 953.12 |
 | Three | 37.50 | 7000.00 | 875.00 |     | One | 37.50 | 7250.00 | 906.25 |
@@ -17,6 +18,8 @@
 | Four | 37.50 | 2750.00 | 343.75 |     | Five | 37.50 | 2750.00 | 343.75 |
 | Two | 37.50 | 2750.00 | 343.75 |     | Four | 37.50 | 2750.00 | 343.75 |
 | Zero | 50.00 | 2125.00 | 265.62 |     | Two | 37.50 | 2750.00 | 343.75 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -238,6 +241,36 @@ Total Points Downs: -29.00 Count Downs: 5
 <code>In: 2022-04-29 12:15:00		Out: 2022-04-29 12:46:00		Total Position Time: 31:00		Total Move Up: -2.50		Total to Date: 15.25</code> <br />
 <code>In: 2022-05-02 10:10:00		Out: 2022-05-02 11:10:55		Total Position Time: 60:55		Total Move Up: -17.00		Total to Date: -1.75</code> <br />
 <code>In: 2022-06-29 09:35:00		Out: 2022-06-29 10:35:55		Total Position Time: 60:55		Total Move Up: 7.25		Total to Date: 5.50</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 8
+Percent Up: 75.00
+Percent Down: 25.00
+Total Points Moved Up: 24.50
+Potential Profit: 12250.00
+Total Points Ups: 29.75 Count Ups: 6
+Total Points Downs: -5.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 10:50:00		Out: 2022-03-23 10:55:05		Total Position Time: 05:05		Total Move Up: 7.50		Total to Date: 7.50</code> <br />
+<code>In: 2022-03-30 10:50:00		Out: 2022-03-30 10:57:05		Total Position Time: 07:05		Total Move Up: -1.25		Total to Date: 6.25</code> <br />
+<code>In: 2022-03-31 09:40:00		Out: 2022-03-31 09:50:05		Total Position Time: 10:05		Total Move Up: 1.50		Total to Date: 7.75</code> <br />
+<code>In: 2022-04-18 08:55:00		Out: 2022-04-18 08:58:05		Total Position Time: 03:05		Total Move Up: 2.75		Total to Date: 10.50</code> <br />
+<code>In: 2022-04-20 12:00:00		Out: 2022-04-20 12:12:05		Total Position Time: 12:05		Total Move Up: 6.00		Total to Date: 16.50</code> <br />
+<code>In: 2022-04-29 12:15:00		Out: 2022-04-29 12:22:05		Total Position Time: 07:05		Total Move Up: 3.00		Total to Date: 19.50</code> <br />
+<code>In: 2022-05-02 10:10:00		Out: 2022-05-02 10:23:05		Total Position Time: 13:05		Total Move Up: -4.00		Total to Date: 15.50</code> <br />
+<code>In: 2022-06-29 09:35:00		Out: 2022-06-29 09:40:05		Total Position Time: 05:05		Total Move Up: 9.00		Total to Date: 24.50</code> <br />
 
 
 </details>

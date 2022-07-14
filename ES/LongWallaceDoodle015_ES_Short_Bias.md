@@ -1,6 +1,6 @@
 # Long Wallace Doodle 015 (Short Bias)
 - Symbol: ES
-- Date Range: 03/18/2022 - 07/08/2022
+- Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 8
 
@@ -36,11 +36,11 @@
 | Forty | 62.50 | 6000.00 | 750.00 |     | Five | 50.00 | 7250.00 | 906.25 |
 | Sixty-Three | 50.00 | 5625.00 | 703.12 |     | Forty-One | 50.00 | 6875.00 | 859.38 |
 | twenty-Seven | 37.50 | 5625.00 | 703.12 |     | Sixty-Three | 50.00 | 5625.00 | 703.12 |
-| Eight | 37.50 | 5625.00 | 703.12 |     | Seventy-Four | 50.00 | 5125.00 | 640.62 |
-| Fifty-Six | 75.00 | 5375.00 | 671.88 |     | Seven | 50.00 | 5125.00 | 640.62 |
-| Twenty-Six | 37.50 | 5250.00 | 656.25 |     | Seventy-Five | 50.00 | 2375.00 | 296.88 |
-| Seventy-Four | 50.00 | 5125.00 | 640.62 |     | Sixty | 50.00 | 2250.00 | 281.25 |
-| Seven | 50.00 | 5125.00 | 640.62 |     | Four | 50.00 | 1750.00 | 218.75 |
+| Eight | 37.50 | 5625.00 | 703.12 |     | Seven | 50.00 | 5250.00 | 656.25 |
+| Fifty-Six | 75.00 | 5375.00 | 671.88 |     | Seventy-Four | 50.00 | 5125.00 | 640.62 |
+| Seven | 50.00 | 5250.00 | 656.25 |     | Seventy-Five | 50.00 | 2375.00 | 296.88 |
+| Twenty-Six | 37.50 | 5250.00 | 656.25 |     | Sixty | 50.00 | 2250.00 | 281.25 |
+| Seventy-Four | 50.00 | 5125.00 | 640.62 |     | Four | 50.00 | 1750.00 | 218.75 |
 | Seventy-Five | 50.00 | 2375.00 | 296.88 |     | Nine | 37.50 | 8375.00 | 1046.88 |
 | Sixty | 50.00 | 2250.00 | 281.25 |     | twenty-Seven | 37.50 | 5625.00 | 703.12 |
 | Seventy-Two | 62.50 | 2125.00 | 265.62 |     | Eight | 37.50 | 5625.00 | 703.12 |
@@ -292,9 +292,9 @@ Total Points Downs: -27.25 Count Downs: 4
 Total Trades: 8
 Percent Up: 50.00
 Percent Down: 50.00
-Total Points Moved Up: 10.25
-Potential Profit: 5125.00
-Total Points Ups: 37.50 Count Ups: 4
+Total Points Moved Up: 10.50
+Potential Profit: 5250.00
+Total Points Ups: 37.75 Count Ups: 4
 Total Points Downs: -27.25 Count Downs: 4
 ```
 
@@ -305,9 +305,9 @@ Total Points Downs: -27.25 Count Downs: 4
 <code>In: 2022-04-12 09:28:00		Out: 2022-04-12 09:57:55		Total Position Time: 29:55		Total Move Up: 2.25		Total to Date: 3.75</code> <br />
 <code>In: 2022-05-02 10:05:00		Out: 2022-05-02 10:34:55		Total Position Time: 29:55		Total Move Up: -1.75		Total to Date: 2.00</code> <br />
 <code>In: 2022-06-09 12:03:00		Out: 2022-06-09 12:32:55		Total Position Time: 29:55		Total Move Up: -19.00		Total to Date: -17.00</code> <br />
-<code>In: 2022-06-14 12:16:00		Out: 2022-06-14 12:45:55		Total Position Time: 29:55		Total Move Up: 24.75		Total to Date: 7.75</code> <br />
-<code>In: 2022-06-23 09:06:00		Out: 2022-06-23 09:35:55		Total Position Time: 29:55		Total Move Up: -3.75		Total to Date: 4.00</code> <br />
-<code>In: 2022-07-06 08:34:00		Out: 2022-07-06 09:03:55		Total Position Time: 29:55		Total Move Up: 6.25		Total to Date: 10.25</code> <br />
+<code>In: 2022-06-14 12:16:00		Out: 2022-06-14 12:45:00		Total Position Time: 29:00		Total Move Up: 25.00		Total to Date: 8.00</code> <br />
+<code>In: 2022-06-23 09:06:00		Out: 2022-06-23 09:35:55		Total Position Time: 29:55		Total Move Up: -3.75		Total to Date: 4.25</code> <br />
+<code>In: 2022-07-06 08:34:00		Out: 2022-07-06 09:03:55		Total Position Time: 29:55		Total Move Up: 6.25		Total to Date: 10.50</code> <br />
 
 
 </details>

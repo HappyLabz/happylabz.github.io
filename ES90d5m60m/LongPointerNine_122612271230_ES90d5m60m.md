@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
+| Seventy-Three | 100.00 | 1375.00 | 1375.00 |     | Seventy-Three | 100.00 | 1375.00 | 1375.00 |
 | Zero | 0.00 | -375.00 | -375.00 |     | Zero | 0.00 | -375.00 | -375.00 |
 | Seven | 0.00 | -625.00 | -625.00 |     | Seven | 0.00 | -625.00 | -625.00 |
 | Six | 0.00 | -625.00 | -625.00 |     | Six | 0.00 | -625.00 | -625.00 |
@@ -17,6 +18,8 @@
 | Three | 0.00 | -625.00 | -625.00 |     | Three | 0.00 | -625.00 | -625.00 |
 | Two | 0.00 | -625.00 | -625.00 |     | Two | 0.00 | -625.00 | -625.00 |
 | One | 0.00 | -625.00 | -625.00 |     | One | 0.00 | -625.00 | -625.00 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -182,6 +185,29 @@ Total Points Downs: -1.25 Count Downs: 1
 <details><summary>Trades</summary>
 
 <code>In: 2022-04-18 08:55:00		Out: 2022-04-18 09:55:55		Total Position Time: 60:55		Total Move Up: -1.25		Total to Date: -1.25</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.75
+Potential Profit: 1375.00
+Total Points Ups: 2.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-18 08:55:00		Out: 2022-04-18 08:58:05		Total Position Time: 03:05		Total Move Up: 2.75		Total to Date: 2.75</code> <br />
 
 
 </details>
