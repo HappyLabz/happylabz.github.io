@@ -1,6 +1,6 @@
 # Long Wallace 1226_003 (Short Bias)
 - Symbol: ES
-- Date Range: 03/18/2022 - 07/08/2022
+- Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 12
 
