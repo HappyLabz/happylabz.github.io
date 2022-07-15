@@ -10,13 +10,16 @@
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
 | Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
 | Six | 83.33 | 41875.00 | 3489.58 |     | Two | 91.67 | 30125.00 | 2510.42 |
-| Three | 83.33 | 32750.00 | 2729.17 |     | Six | 83.33 | 41875.00 | 3489.58 |
-| Two | 91.67 | 30125.00 | 2510.42 |     | Three | 83.33 | 32750.00 | 2729.17 |
-| Four | 66.67 | 27875.00 | 2322.92 |     | One | 83.33 | 27750.00 | 2312.50 |
-| One | 83.33 | 27750.00 | 2312.50 |     | Zero | 75.00 | 16625.00 | 1385.42 |
-| Seven | 66.67 | 21375.00 | 1781.25 |     | Four | 66.67 | 27875.00 | 2322.92 |
-| Zero | 75.00 | 16625.00 | 1385.42 |     | Seven | 66.67 | 21375.00 | 1781.25 |
+| Three | 83.33 | 32750.00 | 2729.17 |     | Seventy-Three | 91.67 | 14875.00 | 1239.58 |
+| Two | 91.67 | 30125.00 | 2510.42 |     | Six | 83.33 | 41875.00 | 3489.58 |
+| Four | 66.67 | 27875.00 | 2322.92 |     | Three | 83.33 | 32750.00 | 2729.17 |
+| One | 83.33 | 27750.00 | 2312.50 |     | One | 83.33 | 27750.00 | 2312.50 |
+| Seven | 66.67 | 21375.00 | 1781.25 |     | Zero | 75.00 | 16625.00 | 1385.42 |
+| Zero | 75.00 | 16625.00 | 1385.42 |     | Four | 66.67 | 27875.00 | 2322.92 |
+| Seventy-Three | 91.67 | 14875.00 | 1239.58 |     | Seven | 66.67 | 21375.00 | 1781.25 |
 | Five | 41.67 | -45875.00 | -3822.92 |     | Five | 41.67 | -45875.00 | -3822.92 |
+
+## NO STOPLOSS
 
 ### Test Zero
 * Sell when price hits the middle line of the 20p bollinger
@@ -270,6 +273,40 @@ Total Points Downs: -69.50 Count Downs: 4
 <code>In: 2022-06-08 09:45:00		Out: 2022-06-08 12:50:00		Total Position Time: 185:00		Total Move Up: -7.75		Total to Date: 46.75</code> <br />
 <code>In: 2022-06-09 08:05:00		Out: 2022-06-09 09:59:35		Total Position Time: 114:35		Total Move Up: 19.50		Total to Date: 66.25</code> <br />
 <code>In: 2022-06-09 12:15:00		Out: 2022-06-09 12:50:00		Total Position Time: 35:00		Total Move Up: -23.50		Total to Date: 42.75</code> <br />
+
+
+</details>
+
+## SPECIAL EXIT CONDITIONS 
+
+### Test Seventy-Three
+* Sell when the linear regression slope changes to negative
+* No Stoploss
+* Results:
+```
+Total Trades: 12
+Percent Up: 91.67
+Percent Down: 8.33
+Total Points Moved Up: 29.75
+Potential Profit: 14875.00
+Total Points Ups: 33.75 Count Ups: 11
+Total Points Downs: -4.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 10:30:00		Out: 2022-03-23 10:39:05		Total Position Time: 09:05		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-03-23 10:45:00		Out: 2022-03-23 10:51:05		Total Position Time: 06:05		Total Move Up: 2.75		Total to Date: 6.50</code> <br />
+<code>In: 2022-03-30 12:10:00		Out: 2022-03-30 12:18:00		Total Position Time: 08:00		Total Move Up: -4.00		Total to Date: 2.50</code> <br />
+<code>In: 2022-03-30 12:25:00		Out: 2022-03-30 12:30:00		Total Position Time: 05:00		Total Move Up: 6.00		Total to Date: 8.50</code> <br />
+<code>In: 2022-03-31 11:20:00		Out: 2022-03-31 11:33:05		Total Position Time: 13:05		Total Move Up: 3.00		Total to Date: 11.50</code> <br />
+<code>In: 2022-03-31 11:25:00		Out: 2022-03-31 11:37:05		Total Position Time: 12:05		Total Move Up: 1.25		Total to Date: 12.75</code> <br />
+<code>In: 2022-04-18 08:40:00		Out: 2022-04-18 08:46:05		Total Position Time: 06:05		Total Move Up: 0.00		Total to Date: 12.75</code> <br />
+<code>In: 2022-04-18 08:50:00		Out: 2022-04-18 08:54:05		Total Position Time: 04:05		Total Move Up: 3.50		Total to Date: 16.25</code> <br />
+<code>In: 2022-05-12 10:50:00		Out: 2022-05-12 10:55:05		Total Position Time: 05:05		Total Move Up: 1.75		Total to Date: 18.00</code> <br />
+<code>In: 2022-06-08 09:45:00		Out: 2022-06-08 09:56:05		Total Position Time: 11:05		Total Move Up: 6.00		Total to Date: 24.00</code> <br />
+<code>In: 2022-06-09 08:05:00		Out: 2022-06-09 08:19:05		Total Position Time: 14:05		Total Move Up: 3.00		Total to Date: 27.00</code> <br />
+<code>In: 2022-06-09 12:15:00		Out: 2022-06-09 12:22:00		Total Position Time: 07:00		Total Move Up: 2.75		Total to Date: 29.75</code> <br />
 
 
 </details>

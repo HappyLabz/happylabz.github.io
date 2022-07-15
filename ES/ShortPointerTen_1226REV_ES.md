@@ -1,6 +1,6 @@
 # Short Pointer Ten (1226 REV) 
 - Symbol: ES
-- Date Range: 03/18/2022 - 07/08/2022
+- Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 2
 

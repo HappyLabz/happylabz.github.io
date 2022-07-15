@@ -5,9 +5,14 @@
 - Number of Trades: 0
 
 ![Plot](ShortBulldog002ES90d5m(BiasSwitch).png)
+## NO STOPLOSS
 
 
 
 
 
 
+
+
+
+## SPECIAL EXIT CONDITIONS 
