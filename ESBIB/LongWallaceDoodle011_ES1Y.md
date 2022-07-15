@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 126
 
-![Plot](LongWallaceDoodle011ES90d.png)
+![Plot](LongWallaceDoodle011ES1Y.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

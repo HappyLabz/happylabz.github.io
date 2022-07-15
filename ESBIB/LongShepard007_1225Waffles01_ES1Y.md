@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 95
 
-![Plot](LongShepard007(1225Waffles01)ES90d.png)
+![Plot](LongShepard007(1225Waffles01)ES1Y.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

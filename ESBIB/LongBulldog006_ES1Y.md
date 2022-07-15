@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 34
 
-![Plot](LongBulldog006ES90d.png)
+![Plot](LongBulldog006ES1Y.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

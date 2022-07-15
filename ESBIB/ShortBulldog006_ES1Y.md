@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 23
 
-![Plot](ShortBulldog006ES90d.png)
+![Plot](ShortBulldog006ES1Y.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

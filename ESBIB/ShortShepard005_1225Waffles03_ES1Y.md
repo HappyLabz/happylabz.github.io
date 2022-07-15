@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 75
 
-![Plot](ShortShepard005(1225Waffles03)ES90d.png)
+![Plot](ShortShepard005(1225Waffles03)ES1Y.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
