@@ -1,10 +1,10 @@
 # Long Shepard 007 (1225 Waffles01) 
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 95
 
-![Plot](LongShepard007(1225Waffles01)ES1Y.png)
+![Plot](LongShepard007(1225Waffles01)ES90d.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

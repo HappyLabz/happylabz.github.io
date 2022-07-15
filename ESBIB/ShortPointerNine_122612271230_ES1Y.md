@@ -1,10 +1,10 @@
 # Short Pointer Nine (1226 1227 1230) 
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 24
 
-![Plot](ShortPointerNine(122612271230)ES1Y.png)
+![Plot](ShortPointerNine(122612271230)ES90d.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

@@ -1,10 +1,10 @@
 # Short Bulldog 005 
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 87
 
-![Plot](ShortBulldog005ES1Y.png)
+![Plot](ShortBulldog005ES90d.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

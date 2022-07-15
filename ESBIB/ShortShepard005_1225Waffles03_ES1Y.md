@@ -1,10 +1,10 @@
 # Short Shepard 005 (1225 Waffles03) 
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 75
 
-![Plot](ShortShepard005(1225Waffles03)ES1Y.png)
+![Plot](ShortShepard005(1225Waffles03)ES90d.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

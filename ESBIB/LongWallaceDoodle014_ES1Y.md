@@ -1,10 +1,10 @@
 # Long Wallace Doodle 014 
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 06/04/2021 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 106
 
-![Plot](LongWallaceDoodle014ES1Y.png)
+![Plot](LongWallaceDoodle014ES90d.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

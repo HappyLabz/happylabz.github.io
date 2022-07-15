@@ -1,10 +1,10 @@
 # Short Shepard 006 (1225 Waffles02) (Bias Switch)
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 03/15/2022 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 483
 
-![Plot](ShortShepard006(1225Waffles02)ES1Y(BiasSwitch).png)
+![Plot](ShortShepard006(1225Waffles02)ES90d(BiasSwitch).png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |

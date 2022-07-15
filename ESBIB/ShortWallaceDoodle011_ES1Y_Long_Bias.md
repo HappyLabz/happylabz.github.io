@@ -1,10 +1,10 @@
 # Short Wallace Doodle 011 (Long Bias)
-- Symbol: ES1Y
+- Symbol: ES90d
 - Date Range: 06/04/2021 - 06/24/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 258
 
-![Plot](ShortWallaceDoodle011ES1Y(LongBias).png)
+![Plot](ShortWallaceDoodle011ES90d(LongBias).png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
 | ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
