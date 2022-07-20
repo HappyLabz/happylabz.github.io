@@ -1,90 +1,132 @@
 # Long Wallace 008 (Long Bias)
 - Symbol: ES
-- Date Range: 03/15/2022 - 07/08/2022
+- Date Range: 03/18/2022 - 07/15/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 1
 
 ![Plot](LongWallace008ES(LongBias).png)
 
-| Name | Win Percent | Profit | Avg Profit / Trade |     | Name | Win Percent | Profit | Avg Profit / Trade |
-| ---- | ----------- | ------ | ------------------ | --- | ---- | ----------- | ------ | ------------------ |
-| Sorted By <br> Profit | | | | | Sorted By <br> Win Percentage ||||
-| Sixty-Six | 100.00 | 4750.00 | 4750.00 |     | Sixty-Six | 100.00 | 4750.00 | 4750.00 |
-| Fifty-Eight | 100.00 | 4750.00 | 4750.00 |     | Fifty-Eight | 100.00 | 4750.00 | 4750.00 |
-| Forty-Two | 100.00 | 4750.00 | 4750.00 |     | Forty-Two | 100.00 | 4750.00 | 4750.00 |
-| Two | 100.00 | 4750.00 | 4750.00 |     | Two | 100.00 | 4750.00 | 4750.00 |
-| Sixty-Seven | 100.00 | 4250.00 | 4250.00 |     | Sixty-Seven | 100.00 | 4250.00 | 4250.00 |
-| Fifty-Nine | 100.00 | 4250.00 | 4250.00 |     | Fifty-Nine | 100.00 | 4250.00 | 4250.00 |
-| Forty-Three | 100.00 | 4250.00 | 4250.00 |     | Forty-Three | 100.00 | 4250.00 | 4250.00 |
-| Three | 100.00 | 4250.00 | 4250.00 |     | Three | 100.00 | 4250.00 | 4250.00 |
-| Sixty-Five | 100.00 | 2500.00 | 2500.00 |     | Sixty-Five | 100.00 | 2500.00 | 2500.00 |
-| Fifty-Seven | 100.00 | 2500.00 | 2500.00 |     | Fifty-Seven | 100.00 | 2500.00 | 2500.00 |
-| Forty-One | 100.00 | 2500.00 | 2500.00 |     | Forty-One | 100.00 | 2500.00 | 2500.00 |
-| One | 100.00 | 2500.00 | 2500.00 |     | One | 100.00 | 2500.00 | 2500.00 |
-| Sixty-Four | 100.00 | 2000.00 | 2000.00 |     | Sixty-Four | 100.00 | 2000.00 | 2000.00 |
-| Fifty-Six | 100.00 | 2000.00 | 2000.00 |     | Fifty-Six | 100.00 | 2000.00 | 2000.00 |
-| Forty | 100.00 | 2000.00 | 2000.00 |     | Forty | 100.00 | 2000.00 | 2000.00 |
-| Zero | 100.00 | 2000.00 | 2000.00 |     | Zero | 100.00 | 2000.00 | 2000.00 |
-| Seventy-Five | 100.00 | 1125.00 | 1125.00 |     | Seventy-Five | 100.00 | 1125.00 | 1125.00 |
-| Seventy-Four | 100.00 | 1125.00 | 1125.00 |     | Seventy-Four | 100.00 | 1125.00 | 1125.00 |
-| Sixty-Three | 100.00 | 1125.00 | 1125.00 |     | Sixty-Three | 100.00 | 1125.00 | 1125.00 |
-| Sixty-Two | 100.00 | 1125.00 | 1125.00 |     | Sixty-Two | 100.00 | 1125.00 | 1125.00 |
-| Sixty-One | 100.00 | 1125.00 | 1125.00 |     | Sixty-One | 100.00 | 1125.00 | 1125.00 |
-| Sixty | 100.00 | 1125.00 | 1125.00 |     | Sixty | 100.00 | 1125.00 | 1125.00 |
-| Forty-Seven | 100.00 | 1125.00 | 1125.00 |     | Forty-Seven | 100.00 | 1125.00 | 1125.00 |
-| Forty-Six | 100.00 | 1125.00 | 1125.00 |     | Forty-Six | 100.00 | 1125.00 | 1125.00 |
-| Forty-Five | 100.00 | 1125.00 | 1125.00 |     | Forty-Five | 100.00 | 1125.00 | 1125.00 |
-| Forty-Four | 100.00 | 1125.00 | 1125.00 |     | Forty-Four | 100.00 | 1125.00 | 1125.00 |
-| Seven | 100.00 | 1125.00 | 1125.00 |     | Seven | 100.00 | 1125.00 | 1125.00 |
-| Six | 100.00 | 1125.00 | 1125.00 |     | Six | 100.00 | 1125.00 | 1125.00 |
-| Five | 100.00 | 1125.00 | 1125.00 |     | Five | 100.00 | 1125.00 | 1125.00 |
-| Four | 100.00 | 1125.00 | 1125.00 |     | Four | 100.00 | 1125.00 | 1125.00 |
-| Twenty-Three | 100.00 | 250.00 | 250.00 |     | Twenty-Three | 100.00 | 250.00 | 250.00 |
-| Twenty-Two | 100.00 | 250.00 | 250.00 |     | Twenty-Two | 100.00 | 250.00 | 250.00 |
-| Twenty-One | 100.00 | 250.00 | 250.00 |     | Twenty-One | 100.00 | 250.00 | 250.00 |
-| Twenty | 100.00 | 250.00 | 250.00 |     | Twenty | 100.00 | 250.00 | 250.00 |
-| Nineteen | 100.00 | 250.00 | 250.00 |     | Nineteen | 100.00 | 250.00 | 250.00 |
-| Eighteen | 100.00 | 250.00 | 250.00 |     | Eighteen | 100.00 | 250.00 | 250.00 |
-| Seventeen | 100.00 | 250.00 | 250.00 |     | Seventeen | 100.00 | 250.00 | 250.00 |
-| Sixten | 100.00 | 250.00 | 250.00 |     | Sixten | 100.00 | 250.00 | 250.00 |
-| Seventy-Three | 100.00 | 0.00 | 0.00 |     | Seventy-Three | 100.00 | 0.00 | 0.00 |
-| Seventy-Two | 100.00 | 0.00 | 0.00 |     | Seventy-Two | 100.00 | 0.00 | 0.00 |
-| Seventy-One | 100.00 | 0.00 | 0.00 |     | Seventy-One | 100.00 | 0.00 | 0.00 |
-| Seventy | 100.00 | 0.00 | 0.00 |     | Seventy | 100.00 | 0.00 | 0.00 |
-| Sixty-Nine | 100.00 | 0.00 | 0.00 |     | Sixty-Nine | 100.00 | 0.00 | 0.00 |
-| Sixty-Eight | 100.00 | 0.00 | 0.00 |     | Sixty-Eight | 100.00 | 0.00 | 0.00 |
-| Thirty-Nine | 0.00 | -250.00 | -250.00 |     | Thirty-Nine | 0.00 | -250.00 | -250.00 |
-| Thirty-Eight | 0.00 | -250.00 | -250.00 |     | Thirty-Eight | 0.00 | -250.00 | -250.00 |
-| Thirty-Seven | 0.00 | -250.00 | -250.00 |     | Thirty-Seven | 0.00 | -250.00 | -250.00 |
-| Thirty-Six | 0.00 | -250.00 | -250.00 |     | Thirty-Six | 0.00 | -250.00 | -250.00 |
-| Thirty-Five | 0.00 | -250.00 | -250.00 |     | Thirty-Five | 0.00 | -250.00 | -250.00 |
-| Thirty-Four | 0.00 | -250.00 | -250.00 |     | Thirty-Four | 0.00 | -250.00 | -250.00 |
-| Thirty-Three | 0.00 | -250.00 | -250.00 |     | Thirty-Three | 0.00 | -250.00 | -250.00 |
-| Thirty-Two | 0.00 | -250.00 | -250.00 |     | Thirty-Two | 0.00 | -250.00 | -250.00 |
-| Fifty-Five | 0.00 | -1125.00 | -1125.00 |     | Fifty-Five | 0.00 | -1125.00 | -1125.00 |
-| Fifty-Four | 0.00 | -1125.00 | -1125.00 |     | Fifty-Four | 0.00 | -1125.00 | -1125.00 |
-| Fifty-Three | 0.00 | -1125.00 | -1125.00 |     | Fifty-Three | 0.00 | -1125.00 | -1125.00 |
-| Fifty-Two | 0.00 | -1125.00 | -1125.00 |     | Fifty-Two | 0.00 | -1125.00 | -1125.00 |
-| Fifty-One | 0.00 | -1125.00 | -1125.00 |     | Fifty-One | 0.00 | -1125.00 | -1125.00 |
-| Fifty | 0.00 | -1125.00 | -1125.00 |     | Fifty | 0.00 | -1125.00 | -1125.00 |
-| Forty-Nine | 0.00 | -1125.00 | -1125.00 |     | Forty-Nine | 0.00 | -1125.00 | -1125.00 |
-| Forty-Eight | 0.00 | -1125.00 | -1125.00 |     | Forty-Eight | 0.00 | -1125.00 | -1125.00 |
-| Fifteen | 0.00 | -1125.00 | -1125.00 |     | Fifteen | 0.00 | -1125.00 | -1125.00 |
-| Fourteen | 0.00 | -1125.00 | -1125.00 |     | Fourteen | 0.00 | -1125.00 | -1125.00 |
-| Thirteen | 0.00 | -1125.00 | -1125.00 |     | Thirteen | 0.00 | -1125.00 | -1125.00 |
-| Twelve | 0.00 | -1125.00 | -1125.00 |     | Twelve | 0.00 | -1125.00 | -1125.00 |
-| Eleven | 0.00 | -1125.00 | -1125.00 |     | Eleven | 0.00 | -1125.00 | -1125.00 |
-| Ten | 0.00 | -1125.00 | -1125.00 |     | Ten | 0.00 | -1125.00 | -1125.00 |
-| Nine | 0.00 | -1125.00 | -1125.00 |     | Nine | 0.00 | -1125.00 | -1125.00 |
-| Eight | 0.00 | -1125.00 | -1125.00 |     | Eight | 0.00 | -1125.00 | -1125.00 |
-| Thirty-One | 0.00 | -1500.00 | -1500.00 |     | Thirty-One | 0.00 | -1500.00 | -1500.00 |
-| Thirty | 0.00 | -1500.00 | -1500.00 |     | Thirty | 0.00 | -1500.00 | -1500.00 |
-| Twenty-Nine | 0.00 | -1500.00 | -1500.00 |     | Twenty-Nine | 0.00 | -1500.00 | -1500.00 |
-| Twenty-Eight | 0.00 | -1500.00 | -1500.00 |     | Twenty-Eight | 0.00 | -1500.00 | -1500.00 |
-| twenty-Seven | 0.00 | -1500.00 | -1500.00 |     | twenty-Seven | 0.00 | -1500.00 | -1500.00 |
-| Twenty-Six | 0.00 | -1500.00 | -1500.00 |     | Twenty-Six | 0.00 | -1500.00 | -1500.00 |
-| Twenty-Five | 0.00 | -1500.00 | -1500.00 |     | Twenty-Five | 0.00 | -1500.00 | -1500.00 |
-| Twenty-Four | 0.00 | -1500.00 | -1500.00 |     | Twenty-Four | 0.00 | -1500.00 | -1500.00 |
+| Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
+| ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
+| Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| Sixty-Six | 100.00 | 4750.00 | 4750.00 | 11:55 |     | Sixty-Six | 100.00 | 4750.00 | 4750.00 | 11:55 |
+| Fifty-Eight | 100.00 | 4750.00 | 4750.00 | 11:55 |     | Fifty-Eight | 100.00 | 4750.00 | 4750.00 | 11:55 |
+| Forty-Two | 100.00 | 4750.00 | 4750.00 | 11:55 |     | Forty-Two | 100.00 | 4750.00 | 4750.00 | 11:55 |
+| Two | 100.00 | 4750.00 | 4750.00 | 11:55 |     | Two | 100.00 | 4750.00 | 4750.00 | 11:55 |
+| Sixty-Seven | 100.00 | 4375.00 | 4375.00 | 23:00 |     | Sixty-Seven | 100.00 | 4375.00 | 4375.00 | 23:00 |
+| Fifty-Nine | 100.00 | 4375.00 | 4375.00 | 23:00 |     | Fifty-Nine | 100.00 | 4375.00 | 4375.00 | 23:00 |
+| Forty-Three | 100.00 | 4375.00 | 4375.00 | 23:00 |     | Forty-Three | 100.00 | 4375.00 | 4375.00 | 23:00 |
+| Three | 100.00 | 4375.00 | 4375.00 | 23:00 |     | Three | 100.00 | 4375.00 | 4375.00 | 23:00 |
+| Sixty-Five | 100.00 | 2625.00 | 2625.00 | 11:05 |     | Sixty-Five | 100.00 | 2625.00 | 2625.00 | 11:05 |
+| Fifty-Seven | 100.00 | 2625.00 | 2625.00 | 11:05 |     | Fifty-Seven | 100.00 | 2625.00 | 2625.00 | 11:05 |
+| Forty-One | 100.00 | 2625.00 | 2625.00 | 11:05 |     | Forty-One | 100.00 | 2625.00 | 2625.00 | 11:05 |
+| One | 100.00 | 2625.00 | 2625.00 | 11:05 |     | One | 100.00 | 2625.00 | 2625.00 | 11:05 |
+| One Hundred Thirty | 100.00 | 2500.00 | 2500.00 | 10:40 |     | One Hundred Thirty | 100.00 | 2500.00 | 2500.00 | 10:40 |
+| One Hundred Twenty-Five | 100.00 | 2500.00 | 2500.00 | 10:40 |     | One Hundred Twenty-Five | 100.00 | 2500.00 | 2500.00 | 10:40 |
+| One Hundred Fifteen | 100.00 | 2500.00 | 2500.00 | 10:40 |     | One Hundred Fifteen | 100.00 | 2500.00 | 2500.00 | 10:40 |
+| Eighty-Five | 100.00 | 2500.00 | 2500.00 | 10:40 |     | Eighty-Five | 100.00 | 2500.00 | 2500.00 | 10:40 |
+| One Hundred Twenty-Nine | 100.00 | 2000.00 | 2000.00 | 06:55 |     | One Hundred Twenty-Nine | 100.00 | 2000.00 | 2000.00 | 06:55 |
+| One Hundred Twenty-Four | 100.00 | 2000.00 | 2000.00 | 06:55 |     | One Hundred Twenty-Four | 100.00 | 2000.00 | 2000.00 | 06:55 |
+| One Hundred Fourteen | 100.00 | 2000.00 | 2000.00 | 06:55 |     | One Hundred Fourteen | 100.00 | 2000.00 | 2000.00 | 06:55 |
+| Eighty-Four | 100.00 | 2000.00 | 2000.00 | 06:55 |     | Eighty-Four | 100.00 | 2000.00 | 2000.00 | 06:55 |
+| Sixty-Four | 100.00 | 2000.00 | 2000.00 | 06:40 |     | Sixty-Four | 100.00 | 2000.00 | 2000.00 | 06:40 |
+| Fifty-Six | 100.00 | 2000.00 | 2000.00 | 06:40 |     | Fifty-Six | 100.00 | 2000.00 | 2000.00 | 06:40 |
+| Forty | 100.00 | 2000.00 | 2000.00 | 06:40 |     | Forty | 100.00 | 2000.00 | 2000.00 | 06:40 |
+| Zero | 100.00 | 2000.00 | 2000.00 | 06:40 |     | Zero | 100.00 | 2000.00 | 2000.00 | 06:40 |
+| One Hundred Twenty-Eight | 100.00 | 1500.00 | 1500.00 | 05:05 |     | One Hundred Twenty-Eight | 100.00 | 1500.00 | 1500.00 | 05:05 |
+| One Hundred Twenty-Three | 100.00 | 1500.00 | 1500.00 | 05:05 |     | One Hundred Twenty-Three | 100.00 | 1500.00 | 1500.00 | 05:05 |
+| One Hundred Thirteen | 100.00 | 1500.00 | 1500.00 | 05:05 |     | One Hundred Thirteen | 100.00 | 1500.00 | 1500.00 | 05:05 |
+| Eighty-Three | 100.00 | 1500.00 | 1500.00 | 05:05 |     | Eighty-Three | 100.00 | 1500.00 | 1500.00 | 05:05 |
+| One Hundred Twenty-Seven | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Twenty-Seven | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| One Hundred Twenty-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Twenty-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| One Hundred Seventeen | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Seventeen | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| One Hundred Twelve | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Twelve | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| One Hundred Seven | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Seven | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| One Hundred Two | 100.00 | 1250.00 | 1250.00 | 00:30 |     | One Hundred Two | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| Ninety-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |     | Ninety-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| Eighty-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |     | Eighty-Two | 100.00 | 1250.00 | 1250.00 | 00:30 |
+| Sixty-Three | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Sixty-Three | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Sixty-Two | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Sixty-Two | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Sixty-One | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Sixty-One | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Sixty | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Sixty | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Forty-Seven | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Forty-Seven | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Forty-Six | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Forty-Six | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Forty-Five | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Forty-Five | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Forty-Four | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Forty-Four | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Seven | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Seven | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Six | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Six | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Five | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Five | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| Four | 100.00 | 1125.00 | 1125.00 | 29:55 |     | Four | 100.00 | 1125.00 | 1125.00 | 29:55 |
+| One Hundred Twenty-Six | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred Twenty-Six | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred Twenty-One | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred Twenty-One | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred Sixteen | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred Sixteen | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred Eleven | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred Eleven | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred Six | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred Six | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred One | 100.00 | 750.00 | 750.00 | 00:20 |     | One Hundred One | 100.00 | 750.00 | 750.00 | 00:20 |
+| Ninety-One | 100.00 | 750.00 | 750.00 | 00:20 |     | Ninety-One | 100.00 | 750.00 | 750.00 | 00:20 |
+| Eighty-One | 100.00 | 750.00 | 750.00 | 00:20 |     | Eighty-One | 100.00 | 750.00 | 750.00 | 00:20 |
+| One Hundred | 100.00 | 250.00 | 250.00 | 00:15 |     | One Hundred | 100.00 | 250.00 | 250.00 | 00:15 |
+| Ninety-Nine | 100.00 | 250.00 | 250.00 | 00:15 |     | Ninety-Nine | 100.00 | 250.00 | 250.00 | 00:15 |
+| Ninety-Eight | 100.00 | 250.00 | 250.00 | 00:15 |     | Ninety-Eight | 100.00 | 250.00 | 250.00 | 00:15 |
+| Ninety-Seven | 100.00 | 250.00 | 250.00 | 00:15 |     | Ninety-Seven | 100.00 | 250.00 | 250.00 | 00:15 |
+| Ninety-Six | 100.00 | 250.00 | 250.00 | 00:15 |     | Ninety-Six | 100.00 | 250.00 | 250.00 | 00:15 |
+| Twenty-Three | 100.00 | 250.00 | 250.00 | 00:15 |     | Twenty-Three | 100.00 | 250.00 | 250.00 | 00:15 |
+| Twenty-Two | 100.00 | 250.00 | 250.00 | 00:15 |     | Twenty-Two | 100.00 | 250.00 | 250.00 | 00:15 |
+| Twenty-One | 100.00 | 250.00 | 250.00 | 00:15 |     | Twenty-One | 100.00 | 250.00 | 250.00 | 00:15 |
+| Twenty | 100.00 | 250.00 | 250.00 | 00:15 |     | Twenty | 100.00 | 250.00 | 250.00 | 00:15 |
+| Nineteen | 100.00 | 250.00 | 250.00 | 00:15 |     | Nineteen | 100.00 | 250.00 | 250.00 | 00:15 |
+| Eighteen | 100.00 | 250.00 | 250.00 | 00:15 |     | Eighteen | 100.00 | 250.00 | 250.00 | 00:15 |
+| Seventeen | 100.00 | 250.00 | 250.00 | 00:15 |     | Seventeen | 100.00 | 250.00 | 250.00 | 00:15 |
+| Sixten | 100.00 | 250.00 | 250.00 | 00:15 |     | Sixten | 100.00 | 250.00 | 250.00 | 00:15 |
+| Seventy-Three | 100.00 | 0.00 | 0.00 | 02:05 |     | Seventy-Three | 100.00 | 0.00 | 0.00 | 02:05 |
+| Seventy-One | 100.00 | 0.00 | 0.00 | 27:05 |     | Seventy-One | 100.00 | 0.00 | 0.00 | 27:05 |
+| Seventy | 100.00 | 0.00 | 0.00 | 27:05 |     | Seventy | 100.00 | 0.00 | 0.00 | 27:05 |
+| Sixty-Nine | 100.00 | 0.00 | 0.00 | 27:05 |     | Sixty-Nine | 100.00 | 0.00 | 0.00 | 27:05 |
+| Sixty-Eight | 100.00 | 0.00 | 0.00 | 27:05 |     | Sixty-Eight | 100.00 | 0.00 | 0.00 | 27:05 |
+| One Hundred Ten | 0.00 | -250.00 | -250.00 | 01:35 |     | One Hundred Ten | 0.00 | -250.00 | -250.00 | 01:35 |
+| One Hundred Nine | 0.00 | -250.00 | -250.00 | 01:35 |     | One Hundred Nine | 0.00 | -250.00 | -250.00 | 01:35 |
+| One Hundred Eight | 0.00 | -250.00 | -250.00 | 01:35 |     | One Hundred Eight | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Nine | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Nine | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Eight | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Eight | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Seven | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Seven | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Six | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Six | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Five | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Five | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Four | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Four | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Three | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Three | 0.00 | -250.00 | -250.00 | 01:35 |
+| Thirty-Two | 0.00 | -250.00 | -250.00 | 01:35 |     | Thirty-Two | 0.00 | -250.00 | -250.00 | 01:35 |
+| One Hundred Twenty | 0.00 | -1125.00 | -1125.00 | 02:20 |     | One Hundred Twenty | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| One Hundred Ninteen | 0.00 | -1125.00 | -1125.00 | 02:20 |     | One Hundred Ninteen | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| One Hundred Eighteen | 0.00 | -1125.00 | -1125.00 | 02:20 |     | One Hundred Eighteen | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Ninety-Five | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Ninety-Five | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Ninety-Four | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Ninety-Four | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Ninety-Three | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Ninety-Three | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty-Five | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty-Five | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty-Four | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty-Four | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty-Three | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty-Three | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty-Two | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty-Two | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty-One | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty-One | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifty | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifty | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Forty-Nine | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Forty-Nine | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Forty-Eight | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Forty-Eight | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fifteen | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fifteen | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Fourteen | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Fourteen | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Thirteen | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Thirteen | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Twelve | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Twelve | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Eleven | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Eleven | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Ten | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Ten | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Nine | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Nine | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| Eight | 0.00 | -1125.00 | -1125.00 | 02:20 |     | Eight | 0.00 | -1125.00 | -1125.00 | 02:20 |
+| One Hundred Five | 0.00 | -1500.00 | -1500.00 | 02:30 |     | One Hundred Five | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| One Hundred Four | 0.00 | -1500.00 | -1500.00 | 02:30 |     | One Hundred Four | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| One Hundred Three | 0.00 | -1500.00 | -1500.00 | 02:30 |     | One Hundred Three | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Thirty-One | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Thirty-One | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Thirty | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Thirty | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Twenty-Nine | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Twenty-Nine | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Twenty-Eight | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Twenty-Eight | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| twenty-Seven | 0.00 | -1500.00 | -1500.00 | 02:30 |     | twenty-Seven | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Twenty-Six | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Twenty-Six | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Twenty-Five | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Twenty-Five | 0.00 | -1500.00 | -1500.00 | 02:30 |
+| Twenty-Four | 0.00 | -1500.00 | -1500.00 | 02:30 |     | Twenty-Four | 0.00 | -1500.00 | -1500.00 | 02:30 |
 
 ## NO STOPLOSS
 
@@ -117,15 +159,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 5.00
-Potential Profit: 2500.00
-Total Points Ups: 5.00 Count Ups: 1
+Total Points Moved Up: 5.25
+Potential Profit: 2625.00
+Total Points Ups: 5.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:41:05		Total Position Time: 11:05		Total Move Up: 5.25		Total to Date: 5.25</code> <br />
 
 
 </details>
@@ -159,15 +201,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 8.50
-Potential Profit: 4250.00
-Total Points Ups: 8.50 Count Ups: 1
+Total Points Moved Up: 8.75
+Potential Profit: 4375.00
+Total Points Ups: 8.75 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:52:45		Total Position Time: 22:45		Total Move Up: 8.50		Total to Date: 8.50</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:53:00		Total Position Time: 23:00		Total Move Up: 8.75		Total to Date: 8.75</code> <br />
 
 
 </details>
@@ -967,15 +1009,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 5.00
-Potential Profit: 2500.00
-Total Points Ups: 5.00 Count Ups: 1
+Total Points Moved Up: 5.25
+Potential Profit: 2625.00
+Total Points Ups: 5.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:41:05		Total Position Time: 11:05		Total Move Up: 5.25		Total to Date: 5.25</code> <br />
 
 
 </details>
@@ -1009,15 +1051,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 8.50
-Potential Profit: 4250.00
-Total Points Ups: 8.50 Count Ups: 1
+Total Points Moved Up: 8.75
+Potential Profit: 4375.00
+Total Points Ups: 8.75 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:52:45		Total Position Time: 22:45		Total Move Up: 8.50		Total to Date: 8.50</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:53:00		Total Position Time: 23:00		Total Move Up: 8.75		Total to Date: 8.75</code> <br />
 
 
 </details>
@@ -1307,15 +1349,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 5.00
-Potential Profit: 2500.00
-Total Points Ups: 5.00 Count Ups: 1
+Total Points Moved Up: 5.25
+Potential Profit: 2625.00
+Total Points Ups: 5.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:41:05		Total Position Time: 11:05		Total Move Up: 5.25		Total to Date: 5.25</code> <br />
 
 
 </details>
@@ -1349,15 +1391,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 8.50
-Potential Profit: 4250.00
-Total Points Ups: 8.50 Count Ups: 1
+Total Points Moved Up: 8.75
+Potential Profit: 4375.00
+Total Points Ups: 8.75 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:52:45		Total Position Time: 22:45		Total Move Up: 8.50		Total to Date: 8.50</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:53:00		Total Position Time: 23:00		Total Move Up: 8.75		Total to Date: 8.75</code> <br />
 
 
 </details>
@@ -1477,15 +1519,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 5.00
-Potential Profit: 2500.00
-Total Points Ups: 5.00 Count Ups: 1
+Total Points Moved Up: 5.25
+Potential Profit: 2625.00
+Total Points Ups: 5.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:41:05		Total Position Time: 11:05		Total Move Up: 5.25		Total to Date: 5.25</code> <br />
 
 
 </details>
@@ -1519,15 +1561,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 8.50
-Potential Profit: 4250.00
-Total Points Ups: 8.50 Count Ups: 1
+Total Points Moved Up: 8.75
+Potential Profit: 4375.00
+Total Points Ups: 8.75 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:52:45		Total Position Time: 22:45		Total Move Up: 8.50		Total to Date: 8.50</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:53:00		Total Position Time: 23:00		Total Move Up: 8.75		Total to Date: 8.75</code> <br />
 
 
 </details>
@@ -1618,27 +1660,6 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ## SPECIAL EXIT CONDITIONS 
 
-### Test Seventy-Two
-* Sell when the linear regression slope is negative
-* No Stoploss
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 0.00
-Potential Profit: 0.00
-Total Points Ups: 0.00 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:05		Total Position Time: 02:05		Total Move Up: 0.00		Total to Date: 0.00</code> <br />
-
-
-</details>
-
 ### Test Seventy-Three
 * Sell when the linear regression slope changes to negative
 * No Stoploss
@@ -1660,44 +1681,965 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Seventy-Four
-* Sell when the bias changes to negative
+## TAKE PROFIT
+
+### Test Eighty-One
+* Take Profit of 1 Point
 * No Stoploss
 * Results:
 ```
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 2.25
-Potential Profit: 1125.00
-Total Points Ups: 2.25 Count Ups: 1
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:59:55		Total Position Time: 29:55		Total Move Up: 2.25		Total to Date: 2.25</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
 
 
 </details>
 
-### Test Seventy-Five
-* Sell when the STDEV slope changes to negative
+### Test Eighty-Two
+* Take Profit of 2 Point
 * No Stoploss
 * Results:
 ```
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 2.25
-Potential Profit: 1125.00
-Total Points Ups: 2.25 Count Ups: 1
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:59:55		Total Position Time: 29:55		Total Move Up: 2.25		Total to Date: 2.25</code> <br />
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test Eighty-Three
+* Take Profit of 3 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 3.00
+Potential Profit: 1500.00
+Total Points Ups: 3.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:35:05		Total Position Time: 05:05		Total Move Up: 3.00		Total to Date: 3.00</code> <br />
+
+
+</details>
+
+### Test Eighty-Four
+* Take Profit of 4 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 4.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:36:55		Total Position Time: 06:55		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
+
+
+</details>
+
+### Test Eighty-Five
+* Take Profit of 5 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.00
+Potential Profit: 2500.00
+Total Points Ups: 5.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Stoploss of Two
+
+### Test Ninety-One
+* Take Profit of 1 Point
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test Ninety-Two
+* Take Profit of 2 Point
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test Ninety-Three
+* Take Profit of 3 Point
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+### Test Ninety-Four
+* Take Profit of 4 Point
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+### Test Ninety-Five
+* Take Profit of 5 Point
+* Stoploss is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Trailstop of Two
+
+### Test Ninety-Six
+* Take Profit of 1 Point
+* Trailing stop is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:15		Total Position Time: 00:15		Total Move Up: 0.50		Total to Date: 0.50</code> <br />
+
+
+</details>
+
+### Test Ninety-Seven
+* Take Profit of 2 Point
+* Trailing stop is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:15		Total Position Time: 00:15		Total Move Up: 0.50		Total to Date: 0.50</code> <br />
+
+
+</details>
+
+### Test Ninety-Eight
+* Take Profit of 3 Point
+* Trailing stop is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:15		Total Position Time: 00:15		Total Move Up: 0.50		Total to Date: 0.50</code> <br />
+
+
+</details>
+
+### Test Ninety-Nine
+* Take Profit of 4 Point
+* Trailing stop is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:15		Total Position Time: 00:15		Total Move Up: 0.50		Total to Date: 0.50</code> <br />
+
+
+</details>
+
+### Test One Hundred
+* Take Profit of 5 Point
+* Trailing stop is 2 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 0.50
+Potential Profit: 250.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:15		Total Position Time: 00:15		Total Move Up: 0.50		Total to Date: 0.50</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Stoploss of Three
+
+### Test One Hundred One
+* Take Profit of 1 Point
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Two
+* Take Profit of 2 Point
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Three
+* Take Profit of 3 Point
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -3.00
+Potential Profit: -1500.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:30		Total Position Time: 02:30		Total Move Up: -3.00		Total to Date: -3.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Four
+* Take Profit of 4 Point
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -3.00
+Potential Profit: -1500.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:30		Total Position Time: 02:30		Total Move Up: -3.00		Total to Date: -3.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Five
+* Take Profit of 5 Point
+* Stoploss is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -3.00
+Potential Profit: -1500.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:30		Total Position Time: 02:30		Total Move Up: -3.00		Total to Date: -3.00</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Trailstop of Three
+
+### Test One Hundred Six
+* Take Profit of 1 Point
+* Trailing stop is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Seven
+* Take Profit of 2 Point
+* Trailing stop is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Eight
+* Take Profit of 3 Point
+* Trailing stop is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -0.50
+Potential Profit: -250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -0.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:31:35		Total Position Time: 01:35		Total Move Up: -0.50		Total to Date: -0.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Nine
+* Take Profit of 4 Point
+* Trailing stop is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -0.50
+Potential Profit: -250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -0.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:31:35		Total Position Time: 01:35		Total Move Up: -0.50		Total to Date: -0.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Ten
+* Take Profit of 5 Point
+* Trailing stop is 3 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -0.50
+Potential Profit: -250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -0.50 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:31:35		Total Position Time: 01:35		Total Move Up: -0.50		Total to Date: -0.50</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Stoploss of Five
+
+### Test One Hundred Eleven
+* Take Profit of 1 Point
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Twelve
+* Take Profit of 2 Point
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Thirteen
+* Take Profit of 3 Point
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 3.00
+Potential Profit: 1500.00
+Total Points Ups: 3.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:35:05		Total Position Time: 05:05		Total Move Up: 3.00		Total to Date: 3.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Fourteen
+* Take Profit of 4 Point
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 4.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:36:55		Total Position Time: 06:55		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Fifteen
+* Take Profit of 5 Point
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.00
+Potential Profit: 2500.00
+Total Points Ups: 5.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Trailstop of Five
+
+### Test One Hundred Sixteen
+* Take Profit of 1 Point
+* Trailing stop is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Seventeen
+* Take Profit of 2 Point
+* Trailing stop is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Eighteen
+* Take Profit of 3 Point
+* Trailing stop is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+### Test One Hundred Ninteen
+* Take Profit of 4 Point
+* Trailing stop is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty
+* Take Profit of 5 Point
+* Trailing stop is 5 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -2.25
+Potential Profit: -1125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -2.25 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:32:20		Total Position Time: 02:20		Total Move Up: -2.25		Total to Date: -2.25</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Stoploss of Ten
+
+### Test One Hundred Twenty-One
+* Take Profit of 1 Point
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Two
+* Take Profit of 2 Point
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Three
+* Take Profit of 3 Point
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 3.00
+Potential Profit: 1500.00
+Total Points Ups: 3.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:35:05		Total Position Time: 05:05		Total Move Up: 3.00		Total to Date: 3.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Four
+* Take Profit of 4 Point
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 4.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:36:55		Total Position Time: 06:55		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Five
+* Take Profit of 5 Point
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.00
+Potential Profit: 2500.00
+Total Points Ups: 5.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
+
+
+</details>
+
+## TAKE PROFIT Trailstop of Ten
+
+### Test One Hundred Twenty-Six
+* Take Profit of 1 Point
+* Trailing stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 1.50
+Potential Profit: 750.00
+Total Points Ups: 1.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:20		Total Position Time: 00:20		Total Move Up: 1.50		Total to Date: 1.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Seven
+* Take Profit of 2 Point
+* Trailing stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 2.50
+Potential Profit: 1250.00
+Total Points Ups: 2.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:30:30		Total Position Time: 00:30		Total Move Up: 2.50		Total to Date: 2.50</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Eight
+* Take Profit of 3 Point
+* Trailing stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 3.00
+Potential Profit: 1500.00
+Total Points Ups: 3.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:35:05		Total Position Time: 05:05		Total Move Up: 3.00		Total to Date: 3.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Twenty-Nine
+* Take Profit of 4 Point
+* Trailing stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 4.00
+Potential Profit: 2000.00
+Total Points Ups: 4.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:36:55		Total Position Time: 06:55		Total Move Up: 4.00		Total to Date: 4.00</code> <br />
+
+
+</details>
+
+### Test One Hundred Thirty
+* Take Profit of 5 Point
+* Trailing stop is 10 points
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.00
+Potential Profit: 2500.00
+Total Points Ups: 5.00 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 08:30:00		Out: 2022-03-25 08:40:40		Total Position Time: 10:40		Total Move Up: 5.00		Total to Date: 5.00</code> <br />
 
 
 </details>
