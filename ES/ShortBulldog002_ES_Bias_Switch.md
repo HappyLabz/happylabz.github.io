@@ -15,46 +15,6 @@
 
 
 
-## STOPLOSS OF 2
-
-
-
-
-
-
-
-
-
-## TRAIL STOP OF 2
-
-
-
-
-
-
-
-
-
-## STOPLOSS OF 3
-
-
-
-
-
-
-
-
-
-## TRAIL STOP OF 3
-
-
-
-
-
-
-
-
-
 ## STOPLOSS OF 5
 
 
