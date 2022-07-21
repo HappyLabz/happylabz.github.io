@@ -3,13 +3,11 @@
 ## ES One Minute Bars
 
 ### ES
-- [ES BACKTESTS](ES/README.md)
-
-### ES Best In Breed
-- [ES BEST IN BREED](ESBIB/README.md)
+- [ES BACKTESTS 7/21/22](ES/README.md)
+- [ES BEST IN BREED 7/21/22](ES/README_BIB.md)
 
 ### ES Today
-- [ES TODAY](TEST/README.md)
+- [ES TODAY (TEST Indicator Code)](TEST/README.md)
 
 
 ## ES Five Minute Bars
