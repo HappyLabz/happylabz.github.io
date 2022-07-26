@@ -1,3 +1,8 @@
+# Happy Labz Paper Trading Reports
+
+### ES
+- [Reports for July](Reports/ReportLanding.md)
+
 # Happy Labz Backtest Results
 
 ## ES One Minute Bars
