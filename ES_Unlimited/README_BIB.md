@@ -2,9 +2,6 @@
 
 ## ES BEST IN BREED
 
-### Golden 001
-- [Long Golden 001](LongGoldenOne_ES_Unlimited.md)
-- [Short Golden 001](ShortGoldenOne_ES_Unlimited.md)
 
 ### Pointer 001 (1226)
 
@@ -16,11 +13,6 @@
 - [Long Pointer 002 (1227) One-Five](LongPointerTwo_1227_ES_Unlimited.md)
 - [Short Pointer 002 (1227) One-Five](ShortPointerTwo_1227_ES_Unlimited.md)
 
-### Pointer 009 (1226 1227 1230)
-
-- [Long Pointer 009 (1226 1227 1230) One-Five](LongPointerNine_122612271230_ES_Unlimited.md)
-- [Short Pointer 009 (1226 1227 1230) One-Five](ShortPointerNine_122612271230_ES_Unlimited.md)
-
 ### Shepard 003 (1230 Waffles02)
 
 - [Long Shepard 003 (1230 Waffles02) One-Five](LongShepard003_1230Waffles02_ES_Unlimited.md)
@@ -30,11 +22,6 @@
 
 - [Long Shepard 004 (1230 Waffles01) One-Five](LongShepard004_1230Waffles01_ES_Unlimited.md)
 - [Short Shepard 004 (1230 Waffles01) One-Five](ShortShepard004_1230Waffles01_ES_Unlimited.md)
-
-### Shepard 005 (1225 Waffles03)
-
-- [Long Shepard 005 (1225 Waffles03) One-Five](LongShepard005_1225Waffles03_ES_Unlimited.md)
-- [Short Shepard 005 (1225 Waffles03) One-Five](ShortShepard005_1225Waffles03_ES_Unlimited.md)
 
 ### Shepard 006 (1225 Waffles02)
 
@@ -60,3 +47,8 @@
 
 - [Long Bulldog 006 One-Five](LongBulldog006_ES_Unlimited.md)
 - [Short Bulldog 006 One-Five](ShortBulldog006_ES_Unlimited.md)
+
+### Wallace 1226_003
+
+- [Long Wallace 1226_003 One-Five](LongWallace1226_003_ES_Unlimited.md)
+- [Short Wallace 1226_003 One-Five](ShortWallace1226_003_ES_Unlimited.md)
