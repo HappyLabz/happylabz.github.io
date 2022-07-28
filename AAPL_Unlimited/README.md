@@ -1,6 +1,6 @@
 # Happy Labz Backtest Results
 
-## ES
+## AAPL
 
 ### Golden 001
 - [Long Golden 001](LongGoldenOne_AAPL_Unlimited.md)
