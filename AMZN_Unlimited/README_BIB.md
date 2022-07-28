@@ -34,18 +34,18 @@
 
 ### Bulldog 003
 
-- [Long Bulldog 003 One-Five](LongBulldog003_AMZN_Unlimited.md)
-- [Short Bulldog 003 One-Five](ShortBulldog003_AMZN_Unlimited.md)
+- [Long Bulldog 003 One-Five](LongBulldog_003_AMZN_Unlimited.md)
+- [Short Bulldog 003 One-Five](ShortBulldog_003_AMZN_Unlimited.md)
 
 ### Bulldog 005
 
-- [Long Bulldog 005 One-Five](LongBulldog005_AMZN_Unlimited.md)
-- [Short Bulldog 005 One-Five](ShortBulldog005_AMZN_Unlimited.md)
+- [Long Bulldog 005 One-Five](LongBulldog_005_AMZN_Unlimited.md)
+- [Short Bulldog 005 One-Five](ShortBulldog_005_AMZN_Unlimited.md)
 
 ### Bulldog 006
 
-- [Long Bulldog 006 One-Five](LongBulldog006_AMZN_Unlimited.md)
-- [Short Bulldog 006 One-Five](ShortBulldog006_AMZN_Unlimited.md)
+- [Long Bulldog 006 One-Five](LongBulldog_006_AMZN_Unlimited.md)
+- [Short Bulldog 006 One-Five](ShortBulldog_006_AMZN_Unlimited.md)
 
 ### Wallace 1226_003
 

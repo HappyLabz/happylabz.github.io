@@ -71,94 +71,94 @@
 
 ### Wallace Doodle 0225_009
 
-- [Long Wallace Doodle 0225_009 One-Five](LongWallaceDoodle0225_009_AMZN_Unlimited.md)
-- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallaceDoodle0225_009_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 0225_009 One-Five](ShortWallaceDoodle0225_009_AMZN_Unlimited.md)
-- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallaceDoodle0225_009_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 0225_009 One-Five](LongWallace_0225_009_AMZN_Unlimited.md)
+- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallace_0225_009_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 0225_009 One-Five](ShortWallace_0225_009_AMZN_Unlimited.md)
+- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallace_0225_009_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 010
 
-- [Long Wallace Doodle 010 One-Five](LongWallaceDoodle010_AMZN_Unlimited.md)
-- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallaceDoodle010_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 010 One-Five](ShortWallaceDoodle010_AMZN_Unlimited.md)
-- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallaceDoodle010_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 010 One-Five](LongWallace_010_AMZN_Unlimited.md)
+- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallace_010_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 010 One-Five](ShortWallace_010_AMZN_Unlimited.md)
+- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallace_010_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 011
 
-- [Long Wallace Doodle 011 One-Five](LongWallaceDoodle011_AMZN_Unlimited.md)
-- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallaceDoodle011_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 011 One-Five](ShortWallaceDoodle011_AMZN_Unlimited.md)
-- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallaceDoodle011_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 011 One-Five](LongWallace_011_AMZN_Unlimited.md)
+- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallace_011_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 011 One-Five](ShortWallace_011_AMZN_Unlimited.md)
+- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallace_011_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 012
 
-- [Long Wallace Doodle 012 One-Five](LongWallaceDoodle012_AMZN_Unlimited.md)
-- [Long Wallace Doodle 012 One-Five (Short Bias)](LongWallaceDoodle012_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 012 One-Five](ShortWallaceDoodle012_AMZN_Unlimited.md)
-- [Short Wallace Doodle 012 One-Five (Long Bias)](ShortWallaceDoodle012_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 012 One-Five](LongWallace_012_AMZN_Unlimited.md)
+- [Long Wallace Doodle 012 One-Five (Short Bias)](LongWallace_012_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 012 One-Five](ShortWallace_012_AMZN_Unlimited.md)
+- [Short Wallace Doodle 012 One-Five (Long Bias)](ShortWallace_012_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 013
 
-- [Long Wallace Doodle 013 One-Five](LongWallaceDoodle013_AMZN_Unlimited.md)
-- [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallaceDoodle013_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 013 One-Five](ShortWallaceDoodle013_AMZN_Unlimited.md)
-- [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallaceDoodle013_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 013 One-Five](LongWallace_013_AMZN_Unlimited.md)
+- [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallace_013_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 013 One-Five](ShortWallace_013_AMZN_Unlimited.md)
+- [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallace_013_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 014
 
-- [Long Wallace Doodle 014 One-Five](LongWallaceDoodle014_AMZN_Unlimited.md)
-- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallaceDoodle014_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 014 One-Five](ShortWallaceDoodle014_AMZN_Unlimited.md)
-- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallaceDoodle014_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 014 One-Five](LongWallace_014_AMZN_Unlimited.md)
+- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallace_014_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 014 One-Five](ShortWallace_014_AMZN_Unlimited.md)
+- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallace_014_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 015
 
-- [Long Wallace Doodle 015 One-Five](LongWallaceDoodle015_AMZN_Unlimited.md)
-- [Long Wallace Doodle 015 One-Five (Short Bias)](LongWallaceDoodle015_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 015 One-Five](ShortWallaceDoodle015_AMZN_Unlimited.md)
-- [Short Wallace Doodle 015 One-Five (Long Bias)](ShortWallaceDoodle015_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 015 One-Five](LongWallace_015_AMZN_Unlimited.md)
+- [Long Wallace Doodle 015 One-Five (Short Bias)](LongWallace_015_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 015 One-Five](ShortWallace_015_AMZN_Unlimited.md)
+- [Short Wallace Doodle 015 One-Five (Long Bias)](ShortWallace_015_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 016
 
-- [Long Wallace Doodle 016 One-Five](LongWallaceDoodle016_AMZN_Unlimited.md)
-- [Long Wallace Doodle 016 One-Five (Short Bias)](LongWallaceDoodle016_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 016 One-Five](ShortWallaceDoodle016_AMZN_Unlimited.md)
-- [Short Wallace Doodle 016 One-Five (Long Bias)](ShortWallaceDoodle016_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 016 One-Five](LongWallace_016_AMZN_Unlimited.md)
+- [Long Wallace Doodle 016 One-Five (Short Bias)](LongWallace_016_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 016 One-Five](ShortWallace_016_AMZN_Unlimited.md)
+- [Short Wallace Doodle 016 One-Five (Long Bias)](ShortWallace_016_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 018
 
-- [Long Wallace Doodle 018 One-Five](LongWallaceDoodle018_AMZN_Unlimited.md)
-- [Long Wallace Doodle 018 One-Five (Short Bias)](LongWallaceDoodle018_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 018 One-Five](ShortWallaceDoodle018_AMZN_Unlimited.md)
-- [Short Wallace Doodle 018 One-Five (Long Bias)](ShortWallaceDoodle018_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 018 One-Five](LongWallace_018_AMZN_Unlimited.md)
+- [Long Wallace Doodle 018 One-Five (Short Bias)](LongWallace_018_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 018 One-Five](ShortWallace_018_AMZN_Unlimited.md)
+- [Short Wallace Doodle 018 One-Five (Long Bias)](ShortWallace_018_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle EW 018
 
-- [Long Wallace Doodle EW 018 One-Five](LongWallaceEWDoodle018_AMZN_Unlimited.md)
-- [Long Wallace Doodle EW 018 One-Five (Short Bias)](LongWallaceEWDoodle018_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle EW 018 One-Five](ShortWallaceEWDoodle018_AMZN_Unlimited.md)
-- [Short Wallace Doodle EW 018 One-Five (Long Bias)](ShortWallaceEWDoodle018_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle EW 018 One-Five](LongWallaceEW_018_AMZN_Unlimited.md)
+- [Long Wallace Doodle EW 018 One-Five (Short Bias)](LongWallaceEW_018_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle EW 018 One-Five](ShortWallaceEW_018_AMZN_Unlimited.md)
+- [Short Wallace Doodle EW 018 One-Five (Long Bias)](ShortWallaceEW_018_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 019
 
-- [Long Wallace Doodle 019 One-Five](LongWallaceDoodle019_AMZN_Unlimited.md)
-- [Long Wallace Doodle 019 One-Five (Short Bias)](LongWallaceDoodle019_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 019 One-Five](ShortWallaceDoodle019_AMZN_Unlimited.md)
-- [Short Wallace Doodle 019 One-Five (Long Bias)](ShortWallaceDoodle019_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 019 One-Five](LongWallace_019_AMZN_Unlimited.md)
+- [Long Wallace Doodle 019 One-Five (Short Bias)](LongWallace_019_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 019 One-Five](ShortWallace_019_AMZN_Unlimited.md)
+- [Short Wallace Doodle 019 One-Five (Long Bias)](ShortWallace_019_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Betterrerer 020
 
-- [Long Wallace Betterrerer 020 One-Five](LongWallaceBetterrerer020_AMZN_Unlimited.md)
-- [Long Wallace Betterrerer 020 One-Five (Short Bias)](LongWallaceBetterrerer020_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Betterrerer 020 One-Five](ShortWallaceBetterrerer020_AMZN_Unlimited.md)
-- [Short Wallace Betterrerer 020 One-Five (Long Bias)](ShortWallaceBetterrerer020_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Betterrerer 020 One-Five](LongWallace_020_AMZN_Unlimited.md)
+- [Long Wallace Betterrerer 020 One-Five (Short Bias)](LongWallace_020_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Betterrerer 020 One-Five](ShortWallace_020_AMZN_Unlimited.md)
+- [Short Wallace Betterrerer 020 One-Five (Long Bias)](ShortWallace_020_AMZN_Unlimited_Long_Bias.md)
 
 ### Wallace Doodle 022
 
-- [Long Wallace Doodle 022 One-Five](LongWallaceDoodle022_AMZN_Unlimited.md)
-- [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallaceDoodle022_AMZN_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 022 One-Five](ShortWallaceDoodle022_AMZN_Unlimited.md)
-- [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallaceDoodle022_AMZN_Unlimited_Long_Bias.md)
+- [Long Wallace Doodle 022 One-Five](LongWallace_022_AMZN_Unlimited.md)
+- [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallace_022_AMZN_Unlimited_Short_Bias.md)
+- [Short Wallace Doodle 022 One-Five](ShortWallace_022_AMZN_Unlimited.md)
+- [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallace_022_AMZN_Unlimited_Long_Bias.md)
 
 ### Pointer 001 (1226)
 
@@ -252,30 +252,30 @@
 
 ### Bulldog 001
 
-- [Long Bulldog 001 One-Five](LongBulldog001_AMZN_Unlimited.md)
-- [Short Bulldog 001 One-Five](ShortBulldog001_AMZN_Unlimited.md)
+- [Long Bulldog 001 One-Five](LongBulldog_001_AMZN_Unlimited.md)
+- [Short Bulldog 001 One-Five](ShortBulldog_001_AMZN_Unlimited.md)
 
 ### Bulldog 002
 
-- [Long Bulldog 002 One-Five](LongBulldog002_AMZN_Unlimited.md)
-- [Short Bulldog 002 One-Five](ShortBulldog002_AMZN_Unlimited.md)
+- [Long Bulldog 002 One-Five](LongBulldog_002_AMZN_Unlimited.md)
+- [Short Bulldog 002 One-Five](ShortBulldog_002_AMZN_Unlimited.md)
 
 ### Bulldog 003
 
-- [Long Bulldog 003 One-Five](LongBulldog003_AMZN_Unlimited.md)
-- [Short Bulldog 003 One-Five](ShortBulldog003_AMZN_Unlimited.md)
+- [Long Bulldog 003 One-Five](LongBulldog_003_AMZN_Unlimited.md)
+- [Short Bulldog 003 One-Five](ShortBulldog_003_AMZN_Unlimited.md)
 
 ### Bulldog 004
 
-- [Long Bulldog 004 One-Five](LongBulldog004_AMZN_Unlimited.md)
-- [Short Bulldog 004 One-Five](ShortBulldog004_AMZN_Unlimited.md)
+- [Long Bulldog 004 One-Five](LongBulldog_004_AMZN_Unlimited.md)
+- [Short Bulldog 004 One-Five](ShortBulldog_004_AMZN_Unlimited.md)
 
 ### Bulldog 005
 
-- [Long Bulldog 005 One-Five](LongBulldog005_AMZN_Unlimited.md)
-- [Short Bulldog 005 One-Five](ShortBulldog005_AMZN_Unlimited.md)
+- [Long Bulldog 005 One-Five](LongBulldog_005_AMZN_Unlimited.md)
+- [Short Bulldog 005 One-Five](ShortBulldog_005_AMZN_Unlimited.md)
 
 ### Bulldog 006
 
-- [Long Bulldog 006 One-Five](LongBulldog006_AMZN_Unlimited.md)
-- [Short Bulldog 006 One-Five](ShortBulldog006_AMZN_Unlimited.md)
+- [Long Bulldog 006 One-Five](LongBulldog_006_AMZN_Unlimited.md)
+- [Short Bulldog 006 One-Five](ShortBulldog_006_AMZN_Unlimited.md)

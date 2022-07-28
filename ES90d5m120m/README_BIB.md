@@ -35,18 +35,18 @@
 
 ### Bulldog 003
 
-- [Long Bulldog 003 One-Five](LongBulldog003_ES90d5m120m.md)
-- [Short Bulldog 003 One-Five](ShortBulldog003_ES90d5m120m.md)
+- [Long Bulldog 003 One-Five](LongBulldog_003_ES90d5m120m.md)
+- [Short Bulldog 003 One-Five](ShortBulldog_003_ES90d5m120m.md)
 
 ### Bulldog 005
 
-- [Long Bulldog 005 One-Five](LongBulldog005_ES90d5m120m.md)
-- [Short Bulldog 005 One-Five](ShortBulldog005_ES90d5m120m.md)
+- [Long Bulldog 005 One-Five](LongBulldog_005_ES90d5m120m.md)
+- [Short Bulldog 005 One-Five](ShortBulldog_005_ES90d5m120m.md)
 
 ### Bulldog 006
 
-- [Long Bulldog 006 One-Five](LongBulldog006_ES90d5m120m.md)
-- [Short Bulldog 006 One-Five](ShortBulldog006_ES90d5m120m.md)
+- [Long Bulldog 006 One-Five](LongBulldog_006_ES90d5m120m.md)
+- [Short Bulldog 006 One-Five](ShortBulldog_006_ES90d5m120m.md)
 
 ### Wallace 1226_003
 

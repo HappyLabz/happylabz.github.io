@@ -63,94 +63,94 @@
 
 ### Wallace Doodle 0225_009
 
-- [Long Wallace Doodle 0225_009 One-Five](LongWallaceDoodle0225_009_SPY.md)
-- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallaceDoodle0225_009_SPY_Short_Bias.md)
-- [Short Wallace Doodle 0225_009 One-Five](ShortWallaceDoodle0225_009_SPY.md)
-- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallaceDoodle0225_009_SPY_Long_Bias.md)
+- [Long Wallace Doodle 0225_009 One-Five](LongWallace_0225_009_SPY.md)
+- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallace_0225_009_SPY_Short_Bias.md)
+- [Short Wallace Doodle 0225_009 One-Five](ShortWallace_0225_009_SPY.md)
+- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallace_0225_009_SPY_Long_Bias.md)
 
 ### Wallace Doodle 010
 
-- [Long Wallace Doodle 010 One-Five](LongWallaceDoodle010_SPY.md)
-- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallaceDoodle010_SPY_Short_Bias.md)
-- [Short Wallace Doodle 010 One-Five](ShortWallaceDoodle010_SPY.md)
-- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallaceDoodle010_SPY_Long_Bias.md)
+- [Long Wallace Doodle 010 One-Five](LongWallace_010_SPY.md)
+- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallace_010_SPY_Short_Bias.md)
+- [Short Wallace Doodle 010 One-Five](ShortWallace_010_SPY.md)
+- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallace_010_SPY_Long_Bias.md)
 
 ### Wallace Doodle 011
 
-- [Long Wallace Doodle 011 One-Five](LongWallaceDoodle011_SPY.md)
-- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallaceDoodle011_SPY_Short_Bias.md)
-- [Short Wallace Doodle 011 One-Five](ShortWallaceDoodle011_SPY.md)
-- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallaceDoodle011_SPY_Long_Bias.md)
+- [Long Wallace Doodle 011 One-Five](LongWallace_011_SPY.md)
+- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallace_011_SPY_Short_Bias.md)
+- [Short Wallace Doodle 011 One-Five](ShortWallace_011_SPY.md)
+- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallace_011_SPY_Long_Bias.md)
 
 ### Wallace Doodle 012
 
-- [Long Wallace Doodle 012 One-Five](LongWallaceDoodle012_SPY.md)
-- [Long Wallace Doodle 012 One-Five (Short Bias)](LongWallaceDoodle012_SPY_Short_Bias.md)
-- [Short Wallace Doodle 012 One-Five](ShortWallaceDoodle012_SPY.md)
-- [Short Wallace Doodle 012 One-Five (Long Bias)](ShortWallaceDoodle012_SPY_Long_Bias.md)
+- [Long Wallace Doodle 012 One-Five](LongWallace_012_SPY.md)
+- [Long Wallace Doodle 012 One-Five (Short Bias)](LongWallace_012_SPY_Short_Bias.md)
+- [Short Wallace Doodle 012 One-Five](ShortWallace_012_SPY.md)
+- [Short Wallace Doodle 012 One-Five (Long Bias)](ShortWallace_012_SPY_Long_Bias.md)
 
 ### Wallace Doodle 013
 
-- [Long Wallace Doodle 013 One-Five](LongWallaceDoodle013_SPY.md)
-- [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallaceDoodle013_SPY_Short_Bias.md)
-- [Short Wallace Doodle 013 One-Five](ShortWallaceDoodle013_SPY.md)
-- [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallaceDoodle013_SPY_Long_Bias.md)
+- [Long Wallace Doodle 013 One-Five](LongWallace_013_SPY.md)
+- [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallace_013_SPY_Short_Bias.md)
+- [Short Wallace Doodle 013 One-Five](ShortWallace_013_SPY.md)
+- [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallace_013_SPY_Long_Bias.md)
 
 ### Wallace Doodle 014
 
-- [Long Wallace Doodle 014 One-Five](LongWallaceDoodle014_SPY.md)
-- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallaceDoodle014_SPY_Short_Bias.md)
-- [Short Wallace Doodle 014 One-Five](ShortWallaceDoodle014_SPY.md)
-- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallaceDoodle014_SPY_Long_Bias.md)
+- [Long Wallace Doodle 014 One-Five](LongWallace_014_SPY.md)
+- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallace_014_SPY_Short_Bias.md)
+- [Short Wallace Doodle 014 One-Five](ShortWallace_014_SPY.md)
+- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallace_014_SPY_Long_Bias.md)
 
 ### Wallace Doodle 015
 
-- [Long Wallace Doodle 015 One-Five](LongWallaceDoodle015_SPY.md)
-- [Long Wallace Doodle 015 One-Five (Short Bias)](LongWallaceDoodle015_SPY_Short_Bias.md)
-- [Short Wallace Doodle 015 One-Five](ShortWallaceDoodle015_SPY.md)
-- [Short Wallace Doodle 015 One-Five (Long Bias)](ShortWallaceDoodle015_SPY_Long_Bias.md)
+- [Long Wallace Doodle 015 One-Five](LongWallace_015_SPY.md)
+- [Long Wallace Doodle 015 One-Five (Short Bias)](LongWallace_015_SPY_Short_Bias.md)
+- [Short Wallace Doodle 015 One-Five](ShortWallace_015_SPY.md)
+- [Short Wallace Doodle 015 One-Five (Long Bias)](ShortWallace_015_SPY_Long_Bias.md)
 
 ### Wallace Doodle 016
 
-- [Long Wallace Doodle 016 One-Five](LongWallaceDoodle016_SPY.md)
-- [Long Wallace Doodle 016 One-Five (Short Bias)](LongWallaceDoodle016_SPY_Short_Bias.md)
-- [Short Wallace Doodle 016 One-Five](ShortWallaceDoodle016_SPY.md)
-- [Short Wallace Doodle 016 One-Five (Long Bias)](ShortWallaceDoodle016_SPY_Long_Bias.md)
+- [Long Wallace Doodle 016 One-Five](LongWallace_016_SPY.md)
+- [Long Wallace Doodle 016 One-Five (Short Bias)](LongWallace_016_SPY_Short_Bias.md)
+- [Short Wallace Doodle 016 One-Five](ShortWallace_016_SPY.md)
+- [Short Wallace Doodle 016 One-Five (Long Bias)](ShortWallace_016_SPY_Long_Bias.md)
 
 ### Wallace Doodle 018
 
-- [Long Wallace Doodle 018 One-Five](LongWallaceDoodle018_SPY.md)
-- [Long Wallace Doodle 018 One-Five (Short Bias)](LongWallaceDoodle018_SPY_Short_Bias.md)
-- [Short Wallace Doodle 018 One-Five](ShortWallaceDoodle018_SPY.md)
-- [Short Wallace Doodle 018 One-Five (Long Bias)](ShortWallaceDoodle018_SPY_Long_Bias.md)
+- [Long Wallace Doodle 018 One-Five](LongWallace_018_SPY.md)
+- [Long Wallace Doodle 018 One-Five (Short Bias)](LongWallace_018_SPY_Short_Bias.md)
+- [Short Wallace Doodle 018 One-Five](ShortWallace_018_SPY.md)
+- [Short Wallace Doodle 018 One-Five (Long Bias)](ShortWallace_018_SPY_Long_Bias.md)
 
 ### Wallace Doodle EW 018
 
-- [Long Wallace Doodle EW 018 One-Five](LongWallaceEWDoodle018_SPY.md)
-- [Long Wallace Doodle EW 018 One-Five (Short Bias)](LongWallaceEWDoodle018_SPY_Short_Bias.md)
-- [Short Wallace Doodle EW 018 One-Five](ShortWallaceEWDoodle018_SPY.md)
-- [Short Wallace Doodle EW 018 One-Five (Long Bias)](ShortWallaceEWDoodle018_SPY_Long_Bias.md)
+- [Long Wallace Doodle EW 018 One-Five](LongWallaceEW_018_SPY.md)
+- [Long Wallace Doodle EW 018 One-Five (Short Bias)](LongWallaceEW_018_SPY_Short_Bias.md)
+- [Short Wallace Doodle EW 018 One-Five](ShortWallaceEW_018_SPY.md)
+- [Short Wallace Doodle EW 018 One-Five (Long Bias)](ShortWallaceEW_018_SPY_Long_Bias.md)
 
 ### Wallace Doodle 019
 
-- [Long Wallace Doodle 019 One-Five](LongWallaceDoodle019_SPY.md)
-- [Long Wallace Doodle 019 One-Five (Short Bias)](LongWallaceDoodle019_SPY_Short_Bias.md)
-- [Short Wallace Doodle 019 One-Five](ShortWallaceDoodle019_SPY.md)
-- [Short Wallace Doodle 019 One-Five (Long Bias)](ShortWallaceDoodle019_SPY_Long_Bias.md)
+- [Long Wallace Doodle 019 One-Five](LongWallace_019_SPY.md)
+- [Long Wallace Doodle 019 One-Five (Short Bias)](LongWallace_019_SPY_Short_Bias.md)
+- [Short Wallace Doodle 019 One-Five](ShortWallace_019_SPY.md)
+- [Short Wallace Doodle 019 One-Five (Long Bias)](ShortWallace_019_SPY_Long_Bias.md)
 
 ### Wallace Betterrerer 020
 
-- [Long Wallace Betterrerer 020 One-Five](LongWallaceBetterrerer020_SPY.md)
-- [Long Wallace Betterrerer 020 One-Five (Short Bias)](LongWallaceBetterrerer020_SPY_Short_Bias.md)
-- [Short Wallace Betterrerer 020 One-Five](ShortWallaceBetterrerer020_SPY.md)
-- [Short Wallace Betterrerer 020 One-Five (Long Bias)](ShortWallaceBetterrerer020_SPY_Long_Bias.md)
+- [Long Wallace Betterrerer 020 One-Five](LongWallace_020_SPY.md)
+- [Long Wallace Betterrerer 020 One-Five (Short Bias)](LongWallace_020_SPY_Short_Bias.md)
+- [Short Wallace Betterrerer 020 One-Five](ShortWallace_020_SPY.md)
+- [Short Wallace Betterrerer 020 One-Five (Long Bias)](ShortWallace_020_SPY_Long_Bias.md)
 
 ### Wallace Doodle 022
 
-- [Long Wallace Doodle 022 One-Five](LongWallaceDoodle022_SPY.md)
-- [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallaceDoodle022_SPY_Short_Bias.md)
-- [Short Wallace Doodle 022 One-Five](ShortWallaceDoodle022_SPY.md)
-- [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallaceDoodle022_SPY_Long_Bias.md)
+- [Long Wallace Doodle 022 One-Five](LongWallace_022_SPY.md)
+- [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallace_022_SPY_Short_Bias.md)
+- [Short Wallace Doodle 022 One-Five](ShortWallace_022_SPY.md)
+- [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallace_022_SPY_Long_Bias.md)
 
 ### Pointer 001 (1226)
 
