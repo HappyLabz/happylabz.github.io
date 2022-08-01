@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 3
 
-![Plot](ShortPointerTen(1226REV)ES_Unlimited.png)
+![Plot](ShortPointer_010ES_Unlimited.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |

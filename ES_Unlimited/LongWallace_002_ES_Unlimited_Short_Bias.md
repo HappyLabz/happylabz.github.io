@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
-![Plot](LongWallace1231_002ES_Unlimited(ShortBias).png)
+![Plot](LongWallace_002ES_Unlimited(ShortBias).png)
 ## NO STOPLOSS
 
 

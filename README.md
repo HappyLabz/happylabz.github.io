@@ -15,6 +15,9 @@
 - [ES BACKTESTS 7/22/22](ES_Unlimited/README.md)
 - [ES BEST IN BREED 7/22/22](ES_Unlimited/README_BIB.md)
 
+### ES Daily Bars
+- [ES BACKTESTS 8/1/22](ES1y1d/README.md)
+
 
 ## Other Symbols
 

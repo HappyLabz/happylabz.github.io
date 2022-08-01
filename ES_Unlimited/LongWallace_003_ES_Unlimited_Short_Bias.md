@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 13
 
-![Plot](LongWallace1226_003ES_Unlimited(ShortBias).png)
+![Plot](LongWallace_003ES_Unlimited(ShortBias).png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |

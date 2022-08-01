@@ -3,279 +3,279 @@
 ## ES
 
 ### Golden 001
-- [Long Golden 001](LongGoldenOne_ES_Unlimited.md)
-- [Short Golden 001](ShortGoldenOne_ES_Unlimited.md)
+- [Long Golden 001](LongGolden_001_ES_Unlimited.md)
+- [Short Golden 001](ShortGolden_001_ES_Unlimited.md)
 
 ### Golden 002
-- [Long Golden 002](LongGoldenTwo_ES_Unlimited.md)
-- [Short Golden 002](ShortGoldenTwo_ES_Unlimited.md)
+- [Long Golden 002](LongGolden_002_ES_Unlimited.md)
+- [Short Golden 002](ShortGolden_002_ES_Unlimited.md)
 
 ### Golden 003
-- [Long Golden 003](LongGolden003_ES_Unlimited.md)
-- [Short Golden 003](ShortGolden003_ES_Unlimited.md)
+- [Long Golden 003](LongGolden_003_ES_Unlimited.md)
+- [Short Golden 003](ShortGolden_003_ES_Unlimited.md)
 
 ### Wallace 001
 
-- [Long Wallace 001 One-Five](LongWallace001_ES_Unlimited.md)
-- [Long Wallace 001 One-Five (Long Bias)](LongWallace001_ES_Unlimited_Long_Bias.md)
-- [Long Wallace 001 One-Five (Short Bias)](LongWallace001_ES_Unlimited_Short_Bias.md)
-- [Short Wallace 001 One-Five](ShortWallace001_ES_Unlimited_Unlimited.md)
-- [Short Wallace 001 One-Five (Long Bias)](ShortWallace001_ES_Unlimited_Long_Bias.md)
-- [Short Wallace 001 One-Five (Short Bias)](ShortWallace001_ES_Unlimited_Short_Bias.md)
+- [Long Wallace 001](LongWallace_001_ES_Unlimited.md)
+- [Long Wallace 001 (Long Bias)](LongWallace_001_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 001 (Short Bias)](LongWallace_001_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 001](ShortWallace_001_ES_Unlimited.md)
+- [Short Wallace 001 (Long Bias)](ShortWallace_001_ES_Unlimited_Long_Bias.md)
+- [Short Wallace 001 (Short Bias)](ShortWallace_001_ES_Unlimited_Short_Bias.md)
 
-### Wallace 1231_002
+### Wallace 002
 
-- [Long Wallace 1231_002 One-Five](LongWallace1231_002_ES_Unlimited.md)
-- [Long Wallace 1231_002 One-Five (Long Bias)](LongWallace1231_002_ES_Unlimited_Long_Bias.md)
-- [Long Wallace 1231_002 One-Five (Short Bias)](LongWallace1231_002_ES_Unlimited_Short_Bias.md)
-- [Short Wallace 1231_002 One-Five](ShortWallace1231_002_ES_Unlimited.md)
-- [Short Wallace 1231_002 One-Five (Long Bias)](ShortWallace1231_002_ES_Unlimited_Long_Bias.md)
-- [Short Wallace 1231_002 One-Five (Short Bias)](ShortWallace1231_002_ES_Unlimited_Short_Bias.md)
+- [Long Wallace 002](LongWallace_002_ES_Unlimited.md)
+- [Long Wallace 002 (Long Bias)](LongWallace_002_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 002 (Short Bias)](LongWallace_002_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 002](ShortWallace_002_ES_Unlimited.md)
+- [Short Wallace 002 (Long Bias)](ShortWallace_002_ES_Unlimited_Long_Bias.md)
+- [Short Wallace 002 (Short Bias)](ShortWallace_002_ES_Unlimited_Short_Bias.md)
 
-### Wallace 1226_003
+### Wallace 003
 
-- [Long Wallace 1226_003 One-Five](LongWallace1226_003_ES_Unlimited.md)
-- [Long Wallace 1226_003 One-Five (Long Bias)](LongWallace1226_003_ES_Unlimited_Long_Bias.md)
-- [Long Wallace 1226_003 One-Five (Short Bias)](LongWallace1226_003_ES_Unlimited_Short_Bias.md)
-- [Short Wallace 1226_003 One-Five](ShortWallace1226_003_ES_Unlimited.md)
-- [Short Wallace 1226_003 One-Five (Long Bias)](ShortWallace1226_003_ES_Unlimited_Long_Bias.md)
-- [Short Wallace 1226_003 One-Five (Short Bias)](ShortWallace1226_003_ES_Unlimited_Short_Bias.md)
+- [Long Wallace 003](LongWallace_003_ES_Unlimited.md)
+- [Long Wallace 003 (Long Bias)](LongWallace_003_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 003 (Short Bias)](LongWallace_003_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 003](ShortWallace_003_ES_Unlimited.md)
+- [Short Wallace 003 (Long Bias)](ShortWallace_003_ES_Unlimited_Long_Bias.md)
+- [Short Wallace 003 (Short Bias)](ShortWallace_003_ES_Unlimited_Short_Bias.md)
 
 ### Wallace 004
 
-- [Long Wallace 004 One-Five](LongWallace004_ES_Unlimited.md)
-- [Long Wallace 004 One-Five (Long Bias)](LongWallace004_ES_Unlimited_Long_Bias.md)
-- [Long Wallace 004 One-Five (Short Bias)](LongWallace004_ES_Unlimited_Short_Bias.md)
-- [Short Wallace 004 One-Five](ShortWallace004_ES_Unlimited.md)
-- [Short Wallace 004 One-Five (Long Bias)](ShortWallace004_ES_Unlimited_Long_Bias.md)
-- [Short Wallace 004 One-Five (Short Bias)](ShortWallace004_ES_Unlimited_Short_Bias.md)
+- [Long Wallace 004](LongWallace_004_ES_Unlimited.md)
+- [Long Wallace 004 (Long Bias)](LongWallace_004_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 004 (Short Bias)](LongWallace_004_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 004](ShortWallace_004_ES_Unlimited.md)
+- [Short Wallace 004 (Long Bias)](ShortWallace_004_ES_Unlimited_Long_Bias.md)
+- [Short Wallace 004 (Short Bias)](ShortWallace_004_ES_Unlimited_Short_Bias.md)
 
 
 ### Wallace MJ 007
 
-- [Long Wallace MJ 007 One-Five](LongEntryWallaceMJ007_ES_Unlimited.md)
-- [Long Wallace MJ 007 One-Five (Long Bias)](LongEntryWallaceMJ007_ES_Unlimited_Long_Bias.md)
-- [Long Wallace MJ 007 One-Five (Short Bias)](LongEntryWallaceMJ007_ES_Unlimited_Short_Bias.md)
-- [Short Wallace MJ 007 One-Five](ShortEntryWallaceMJ007_ES_Unlimited.md)
-- [Short Wallace MJ 007 One-Five (Long Bias)](ShortEntryWallaceMJ007_ES_Unlimited_Long_Bias.md)
-- [Short Wallace MJ 007 One-Five (Short Bias)](ShortEntryWallaceMJ007_ES_Unlimited_Short_Bias.md)
+- [Long Wallace MJ 007](LongWallace_007_ES_Unlimited.md)
+- [Long Wallace MJ 007 (Long Bias)](LongWallace_007_ES_Unlimited_Long_Bias.md)
+- [Long Wallace MJ 007 (Short Bias)](LongWallace_007_ES_Unlimited_Short_Bias.md)
+- [Short Wallace MJ 007](ShortWallace_007_ES_Unlimited.md)
+- [Short Wallace MJ 007 (Long Bias)](ShortWallace_007_ES_Unlimited_Long_Bias.md)
+- [Short Wallace MJ 007 (Short Bias)](ShortWallace_007_ES_Unlimited_Short_Bias.md)
 
 ### Wallace 008
 
-- [Long Wallace 008 One-Five](LongWallace008_ES_Unlimited.md)
-- [Long Wallace 008 One-Five (Long Bias)](LongWallace008_ES_Unlimited_Long_Bias.md)
-- [Long Wallace 008 One-Five (Short Bias)](LongWallace008_ES_Unlimited_Short_Bias.md)
-- [Short Wallace 008 One-Five](ShortWallace008_ES_Unlimited.md)
-- [Short Wallace 008 One-Five (Long Bias)](ShortWallace008_ES_Unlimited_Long_Bias.md)
-- [Short Wallace 008 One-Five (Short Bias)](ShortWallace008_ES_Unlimited_Short_Bias.md)
+- [Long Wallace 008](LongWallace_008_ES_Unlimited.md)
+- [Long Wallace 008 (Long Bias)](LongWallace_008_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 008 (Short Bias)](LongWallace_008_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 008](ShortWallace_008_ES_Unlimited.md)
+- [Short Wallace 008 (Long Bias)](ShortWallace_008_ES_Unlimited_Long_Bias.md)
+- [Short Wallace 008 (Short Bias)](ShortWallace_008_ES_Unlimited_Short_Bias.md)
 
-### Wallace Doodle 0225_009
+### Wallace 009
 
-- [Long Wallace Doodle 0225_009 One-Five](LongWallace_0225_009_ES_Unlimited.md)
-- [Long Wallace Doodle 0225_009 One-Five (Short Bias)](LongWallace_0225_009_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 0225_009 One-Five](ShortWallace_0225_009_ES_Unlimited.md)
-- [Short Wallace Doodle 0225_009 One-Five (Long Bias)](ShortWallace_0225_009_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 009](LongWallace_009_ES_Unlimited.md)
+- [Long Wallace 009 (Short Bias)](LongWallace_009_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 009](ShortWallace_009_ES_Unlimited.md)
+- [Short Wallace 009 (Long Bias)](ShortWallace_009_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 010
+### Wallace 010
 
-- [Long Wallace Doodle 010 One-Five](LongWallace_010_ES_Unlimited.md)
-- [Long Wallace Doodle 010 One-Five (Short Bias)](LongWallace_010_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 010 One-Five](ShortWallace_010_ES_Unlimited.md)
-- [Short Wallace Doodle 010 One-Five (Long Bias)](ShortWallace_010_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 010](LongWallace_010_ES_Unlimited.md)
+- [Long Wallace 010 (Short Bias)](LongWallace_010_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 010](ShortWallace_010_ES_Unlimited.md)
+- [Short Wallace 010 (Long Bias)](ShortWallace_010_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 011
+### Wallace 011
 
-- [Long Wallace Doodle 011 One-Five](LongWallace_011_ES_Unlimited.md)
-- [Long Wallace Doodle 011 One-Five (Short Bias)](LongWallace_011_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 011 One-Five](ShortWallace_011_ES_Unlimited.md)
-- [Short Wallace Doodle 011 One-Five (Long Bias)](ShortWallace_011_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 011](LongWallace_011_ES_Unlimited.md)
+- [Long Wallace 011 (Short Bias)](LongWallace_011_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 011](ShortWallace_011_ES_Unlimited.md)
+- [Short Wallace 011 (Long Bias)](ShortWallace_011_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 012
+### Wallace 012
 
-- [Long Wallace Doodle 012 One-Five](LongWallace_012_ES_Unlimited.md)
-- [Long Wallace Doodle 012 One-Five (Short Bias)](LongWallace_012_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 012 One-Five](ShortWallace_012_ES_Unlimited.md)
-- [Short Wallace Doodle 012 One-Five (Long Bias)](ShortWallace_012_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 012](LongWallace_012_ES_Unlimited.md)
+- [Long Wallace 012 (Short Bias)](LongWallace_012_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 012](ShortWallace_012_ES_Unlimited.md)
+- [Short Wallace 012 (Long Bias)](ShortWallace_012_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 013
+### Wallace 013
 
-- [Long Wallace Doodle 013 One-Five](LongWallace_013_ES_Unlimited.md)
-- [Long Wallace Doodle 013 One-Five (Short Bias)](LongWallace_013_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 013 One-Five](ShortWallace_013_ES_Unlimited.md)
-- [Short Wallace Doodle 013 One-Five (Long Bias)](ShortWallace_013_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 013](LongWallace_013_ES_Unlimited.md)
+- [Long Wallace 013 (Short Bias)](LongWallace_013_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 013](ShortWallace_013_ES_Unlimited.md)
+- [Short Wallace 013 (Long Bias)](ShortWallace_013_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 014
+### Wallace 014
 
-- [Long Wallace Doodle 014 One-Five](LongWallace_014_ES_Unlimited.md)
-- [Long Wallace Doodle 014 One-Five (Short Bias)](LongWallace_014_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 014 One-Five](ShortWallace_014_ES_Unlimited.md)
-- [Short Wallace Doodle 014 One-Five (Long Bias)](ShortWallace_014_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 014](LongWallace_014_ES_Unlimited.md)
+- [Long Wallace 014 (Short Bias)](LongWallace_014_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 014](ShortWallace_014_ES_Unlimited.md)
+- [Short Wallace 014 (Long Bias)](ShortWallace_014_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 015
+### Wallace 015
 
-- [Long Wallace Doodle 015 One-Five](LongWallace_015_ES_Unlimited.md)
-- [Long Wallace Doodle 015 One-Five (Short Bias)](LongWallace_015_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 015 One-Five](ShortWallace_015_ES_Unlimited.md)
-- [Short Wallace Doodle 015 One-Five (Long Bias)](ShortWallace_015_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 015](LongWallace_015_ES_Unlimited.md)
+- [Long Wallace 015 (Short Bias)](LongWallace_015_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 015](ShortWallace_015_ES_Unlimited.md)
+- [Short Wallace 015 (Long Bias)](ShortWallace_015_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 016
+### Wallace 016
 
-- [Long Wallace Doodle 016 One-Five](LongWallace_016_ES_Unlimited.md)
-- [Long Wallace Doodle 016 One-Five (Short Bias)](LongWallace_016_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 016 One-Five](ShortWallace_016_ES_Unlimited.md)
-- [Short Wallace Doodle 016 One-Five (Long Bias)](ShortWallace_016_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 016](LongWallace_016_ES_Unlimited.md)
+- [Long Wallace 016 (Short Bias)](LongWallace_016_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 016](ShortWallace_016_ES_Unlimited.md)
+- [Short Wallace 016 (Long Bias)](ShortWallace_016_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 018
+### Wallace 018
 
-- [Long Wallace Doodle 018 One-Five](LongWallace_018_ES_Unlimited.md)
-- [Long Wallace Doodle 018 One-Five (Short Bias)](LongWallace_018_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 018 One-Five](ShortWallace_018_ES_Unlimited.md)
-- [Short Wallace Doodle 018 One-Five (Long Bias)](ShortWallace_018_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 018](LongWallace_018_ES_Unlimited.md)
+- [Long Wallace 018 (Short Bias)](LongWallace_018_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 018](ShortWallace_018_ES_Unlimited.md)
+- [Short Wallace 018 (Long Bias)](ShortWallace_018_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle EW 018
+### Wallace EW 018
 
-- [Long Wallace Doodle EW 018 One-Five](LongWallaceEW_018_ES_Unlimited.md)
-- [Long Wallace Doodle EW 018 One-Five (Short Bias)](LongWallaceEW_018_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle EW 018 One-Five](ShortWallaceEW_018_ES_Unlimited.md)
-- [Short Wallace Doodle EW 018 One-Five (Long Bias)](ShortWallaceEW_018_ES_Unlimited_Long_Bias.md)
+- [Long Wallace EW 018](LongWallaceEW_018_ES_Unlimited.md)
+- [Long Wallace EW 018 (Short Bias)](LongWallaceEW_018_ES_Unlimited_Short_Bias.md)
+- [Short Wallace EW 018](ShortWallaceEW_018_ES_Unlimited.md)
+- [Short Wallace EW 018 (Long Bias)](ShortWallaceEW_018_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 019
+### Wallace 019
 
-- [Long Wallace Doodle 019 One-Five](LongWallace_019_ES_Unlimited.md)
-- [Long Wallace Doodle 019 One-Five (Short Bias)](LongWallace_019_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 019 One-Five](ShortWallace_019_ES_Unlimited.md)
-- [Short Wallace Doodle 019 One-Five (Long Bias)](ShortWallace_019_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 019](LongWallace_019_ES_Unlimited.md)
+- [Long Wallace 019 (Short Bias)](LongWallace_019_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 019](ShortWallace_019_ES_Unlimited.md)
+- [Short Wallace 019 (Long Bias)](ShortWallace_019_ES_Unlimited_Long_Bias.md)
 
-### Wallace Betterrerer 020
+### Wallace 020
 
-- [Long Wallace Betterrerer 020 One-Five](LongWallace_020_ES_Unlimited.md)
-- [Long Wallace Betterrerer 020 One-Five (Short Bias)](LongWallace_020_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Betterrerer 020 One-Five](ShortWallace_020_ES_Unlimited.md)
-- [Short Wallace Betterrerer 020 One-Five (Long Bias)](ShortWallace_020_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 020](LongWallace_020_ES_Unlimited.md)
+- [Long Wallace 020 (Short Bias)](LongWallace_020_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 020](ShortWallace_020_ES_Unlimited.md)
+- [Short Wallace 020 (Long Bias)](ShortWallace_020_ES_Unlimited_Long_Bias.md)
 
-### Wallace Doodle 022
+### Wallace 022
 
-- [Long Wallace Doodle 022 One-Five](LongWallace_022_ES_Unlimited.md)
-- [Long Wallace Doodle 022 One-Five (Short Bias)](LongWallace_022_ES_Unlimited_Short_Bias.md)
-- [Short Wallace Doodle 022 One-Five](ShortWallace_022_ES_Unlimited.md)
-- [Short Wallace Doodle 022 One-Five (Long Bias)](ShortWallace_022_ES_Unlimited_Long_Bias.md)
+- [Long Wallace 022](LongWallace_022_ES_Unlimited.md)
+- [Long Wallace 022 (Short Bias)](LongWallace_022_ES_Unlimited_Short_Bias.md)
+- [Short Wallace 022](ShortWallace_022_ES_Unlimited.md)
+- [Short Wallace 022 (Long Bias)](ShortWallace_022_ES_Unlimited_Long_Bias.md)
 
-### Pointer 001 (1226)
+### Pointer 001
 
-- [Long Pointer 001 (1226) One-Five](LongPointerOne_1226_ES_Unlimited.md)
-- [Short Pointer 001 (1226) One-Five](ShortPointerOne_1226_ES_Unlimited.md)
+- [Long Pointer 001](LongPointer_001_ES_Unlimited.md)
+- [Short Pointer 001](ShortPointer_001_ES_Unlimited.md)
 
-### Pointer 002 (1227)
+### Pointer 002
 
-- [Long Pointer 002 (1227) One-Five](LongPointerTwo_1227_ES_Unlimited.md)
-- [Short Pointer 002 (1227) One-Five](ShortPointerTwo_1227_ES_Unlimited.md)
+- [Long Pointer 002](LongPointer_002_ES_Unlimited.md)
+- [Short Pointer 002](ShortPointer_002_ES_Unlimited.md)
 
-### Pointer 003 (1231)
+### Pointer 003
 
-- [Long Pointer 003 (1231) One-Five](LongPointerThree_1231_ES_Unlimited.md)
-- [Short Pointer 003 (1231) One-Five](ShortPointerThree_1231_ES_Unlimited.md)
+- [Long Pointer 003](LongPointer_003_ES_Unlimited.md)
+- [Short Pointer 003](ShortPointer_003_ES_Unlimited.md)
 
-### Pointer 004 (1226 1230)
+### Pointer 004
 
-- [Long Pointer 004 (1226 1230) One-Five](LongPointerFour_12261230_ES_Unlimited.md)
-- [Short Pointer 004 (1226 1230) One-Five](ShortPointerFour_12261230_ES_Unlimited.md)
+- [Long Pointer 004](LongPointer_004_ES_Unlimited.md)
+- [Short Pointer 004](ShortPointer_004_ES_Unlimited.md)
 
-### Pointer 005 (1226 1230 NC)
+### Pointer 005
 
-- [Long Pointer 005 (1226 1230 NC) One-Five](LongPointerFive_12261230NC_ES_Unlimited.md)
-- [Short Pointer 005 (1226 1230 NC) One-Five](ShortPointerFive_12261230NC_ES_Unlimited.md)
+- [Long Pointer 005](LongPointer_005_ES_Unlimited.md)
+- [Short Pointer 005](ShortPointer_005_ES_Unlimited.md)
 
-### Pointer 006 (0219)
+### Pointer 006
 
-- [Long Pointer 006 (0219) One-Five](LongPointerSix_0219_ES_Unlimited.md)
-- [Short Pointer 006 (0219) One-Five](ShortPointerSix_0219_ES_Unlimited.md)
+- [Long Pointer 006](LongPointer_006_ES_Unlimited.md)
+- [Short Pointer 006](ShortPointer_006_ES_Unlimited.md)
 
-### Pointer 007 (0218)
+### Pointer 007
 
-- [Long Pointer 007 (0218) One-Five](LongPointerSeven_0218_ES_Unlimited.md)
-- [Short Pointer 006 (0219) One-Five](ShortPointerSeven_0218_ES_Unlimited.md)
+- [Long Pointer 007](LongPointer_007_ES_Unlimited.md)
+- [Short Pointer 007](ShortPointer_007_ES_Unlimited.md)
 
-### Pointer 008 (0317 1230)
+### Pointer 008
 
-- [Long Pointer 008 (0317 1230) One-Five](LongPointerEight_03171230_ES_Unlimited.md)
-- [Short Pointer 008 (0317 1230) One-Five](ShortPointerEight_03171230_ES_Unlimited.md)
+- [Long Pointer 008](LongPointer_008_ES_Unlimited.md)
+- [Short Pointer 008](ShortPointer_008_ES_Unlimited.md)
 
-### Pointer 009 (1226 1227 1230)
+### Pointer 009
 
-- [Long Pointer 009 (1226 1227 1230) One-Five](LongPointerNine_122612271230_ES_Unlimited.md)
-- [Short Pointer 009 (1226 1227 1230) One-Five](ShortPointerNine_122612271230_ES_Unlimited.md)
+- [Long Pointer 009](LongPointer_009_ES_Unlimited.md)
+- [Short Pointer 009](ShortPointer_009_ES_Unlimited.md)
 
-### Pointer 010 (1226 REV)
+### Pointer 010
 
-- [Long Pointer 010 (1226) One-Five](LongPointerTen_1226REV_ES_Unlimited.md)
-- [Short Pointer 010 (1226) One-Five](ShortPointerTen_1226REV_ES_Unlimited.md)
+- [Long Pointer 010](LongPointer_010_ES_Unlimited.md)
+- [Short Pointer 010](ShortPointer_010_ES_Unlimited.md)
 
-### Pointer 011 (1231 REV)
+### Pointer 011
 
-- [Long Pointer 011 (1231 REV) One-Five](LongPointerEleven_1231REV_ES_Unlimited.md)
-- [Short Pointer 011 (1231 REV) One-Five](ShortPointerEleven_1231REV_ES_Unlimited.md)
+- [Long Pointer 011](LongPointer_011_ES_Unlimited.md)
+- [Short Pointer 011](ShortPointer_011_ES_Unlimited.md)
 
-### Shepard 001 (1230 ROT TEO)
+### Shepard 001
 
-- [Long Shepard 001 (1230 ROT TEO) One-Five](LongShepard001_1230ROTTEO_ES_Unlimited.md)
-- [Short Shepard 001 (1230 ROT TEO) One-Five](ShortShepard001_1230ROTTEO_ES_Unlimited.md)
+- [Long Shepard 001](LongShepard_001_ES_Unlimited.md)
+- [Short Shepard 001](ShortShepard_001_ES_Unlimited.md)
 
-### Shepard 002 (1230 Waffles03)
+### Shepard 002
 
-- [Long Shepard 002 (1230 Waffles03) One-Five](LongShepard002_1230Waffles03_ES_Unlimited.md)
-- [Short Shepard 002 (1230 Waffles03) One-Five](ShortShepard002_1230Waffles03_ES_Unlimited.md)
+- [Long Shepard 002](LongShepard_002_ES_Unlimited.md)
+- [Short Shepard 002](ShortShepard_002_ES_Unlimited.md)
 
-### Shepard 003 (1230 Waffles02)
+### Shepard 003
 
-- [Long Shepard 003 (1230 Waffles02) One-Five](LongShepard003_1230Waffles02_ES_Unlimited.md)
-- [Short Shepard 003 (1230 Waffles02) One-Five](ShortShepard003_1230Waffles02_ES_Unlimited.md)
+- [Long Shepard 003](LongShepard_003_ES_Unlimited.md)
+- [Short Shepard 003](ShortShepard_003_ES_Unlimited.md)
 
-### Shepard 004 (1230 Waffles01)
+### Shepard 004
 
-- [Long Shepard 004 (1230 Waffles01) One-Five](LongShepard004_1230Waffles01_ES_Unlimited.md)
-- [Short Shepard 004 (1230 Waffles01) One-Five](ShortShepard004_1230Waffles01_ES_Unlimited.md)
+- [Long Shepard 004](LongShepard_004_ES_Unlimited.md)
+- [Short Shepard 004](ShortShepard_004_ES_Unlimited.md)
 
-### Shepard 005 (1225 Waffles03)
+### Shepard 005
 
-- [Long Shepard 005 (1225 Waffles03) One-Five](LongShepard005_1225Waffles03_ES_Unlimited.md)
-- [Short Shepard 005 (1225 Waffles03) One-Five](ShortShepard005_1225Waffles03_ES_Unlimited.md)
+- [Long Shepard 005](LongShepard_005_ES_Unlimited.md)
+- [Short Shepard 005](ShortShepard_005_ES_Unlimited.md)
 
-### Shepard 006 (1225 Waffles02)
+### Shepard 006
 
-- [Long Shepard 006 (1225 Waffles02) One-Five](LongShepard006_1225Waffles02_ES_Unlimited.md)
-- [Short Shepard 006 (1225 Waffles02) One-Five](ShortShepard006_1225Waffles02_ES_Unlimited.md)
+- [Long Shepard 006](LongShepard_006_ES_Unlimited.md)
+- [Short Shepard 006](ShortShepard_006_ES_Unlimited.md)
 
-### Shepard 007 (1225 Waffles01)
+### Shepard 007
 
-- [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_ES_Unlimited.md)
-- [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_ES_Unlimited.md)
+- [Long Shepard 007](LongShepard_007_ES_Unlimited.md)
+- [Short Shepard 007](ShortShepard_007_ES_Unlimited.md)
 
 ### Bulldog 001
 
-- [Long Bulldog 001 One-Five](LongBulldog_001_ES_Unlimited.md)
-- [Short Bulldog 001 One-Five](ShortBulldog_001_ES_Unlimited.md)
+- [Long Bulldog 001](LongBulldog_001_ES_Unlimited.md)
+- [Short Bulldog 001](ShortBulldog_001_ES_Unlimited.md)
 
 ### Bulldog 002
 
-- [Long Bulldog 002 One-Five](LongBulldog_002_ES_Unlimited.md)
-- [Short Bulldog 002 One-Five](ShortBulldog_002_ES_Unlimited.md)
+- [Long Bulldog 002](LongBulldog_002_ES_Unlimited.md)
+- [Short Bulldog 002](ShortBulldog_002_ES_Unlimited.md)
 
 ### Bulldog 003
 
-- [Long Bulldog 003 One-Five](LongBulldog_003_ES_Unlimited.md)
-- [Short Bulldog 003 One-Five](ShortBulldog_003_ES_Unlimited.md)
+- [Long Bulldog 003](LongBulldog_003_ES_Unlimited.md)
+- [Short Bulldog 003](ShortBulldog_003_ES_Unlimited.md)
 
 ### Bulldog 004
 
-- [Long Bulldog 004 One-Five](LongBulldog_004_ES_Unlimited.md)
-- [Short Bulldog 004 One-Five](ShortBulldog_004_ES_Unlimited.md)
+- [Long Bulldog 004](LongBulldog_004_ES_Unlimited.md)
+- [Short Bulldog 004](ShortBulldog_004_ES_Unlimited.md)
 
 ### Bulldog 005
 
-- [Long Bulldog 005 One-Five](LongBulldog_005_ES_Unlimited.md)
-- [Short Bulldog 005 One-Five](ShortBulldog_005_ES_Unlimited.md)
+- [Long Bulldog 005](LongBulldog_005_ES_Unlimited.md)
+- [Short Bulldog 005](ShortBulldog_005_ES_Unlimited.md)
 
 ### Bulldog 006
 
-- [Long Bulldog 006 One-Five](LongBulldog_006_ES_Unlimited.md)
-- [Short Bulldog 006 One-Five](ShortBulldog_006_ES_Unlimited.md)
+- [Long Bulldog 006](LongBulldog_006_ES_Unlimited.md)
+- [Short Bulldog 006](ShortBulldog_006_ES_Unlimited.md)
