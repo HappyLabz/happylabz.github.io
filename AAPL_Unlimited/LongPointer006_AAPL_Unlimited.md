@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 37
 
-![Plot](LongPointerSix(0219)AAPL_Unlimited.png)
+![Plot](LongPointer006AAPL_Unlimited.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |

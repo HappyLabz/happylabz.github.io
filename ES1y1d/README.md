@@ -4,7 +4,7 @@
 
 ### Golden 001
 - [Long Golden 001](LongGolden001_ES1y1d.md)
-- [Short Golden 001](ShortGolden001_ES1y1d.md)
+- [Short Golden 001](ShortGoldenOne_ES1y1d.md)
 
 ### Golden 002
 - [Long Golden 002](LongGolden002_ES1y1d.md)

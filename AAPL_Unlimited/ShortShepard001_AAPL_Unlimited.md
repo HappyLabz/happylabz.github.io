@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 9
 
-![Plot](ShortShepard001(1230ROTTEO)AAPL_Unlimited.png)
+![Plot](ShortShepard001AAPL_Unlimited.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |

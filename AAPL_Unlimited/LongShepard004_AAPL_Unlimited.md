@@ -4,7 +4,7 @@
 - Trading Period: 7:20-12:30
 - Number of Trades: 42
 
-![Plot](LongShepard004(1230Waffles01)AAPL_Unlimited.png)
+![Plot](LongShepard004AAPL_Unlimited.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
