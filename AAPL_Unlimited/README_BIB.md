@@ -1,53 +1,53 @@
 # Happy Labz Backtest Results
 
-## AAPL BEST IN BREED
+## ES BEST IN BREED
 
-### Pointer 001 (1226)
+### Pointer 001
 
-- [Long Pointer 001 (1226) One-Five](LongPointerOne_1226_AAPL_Unlimited.md)
-- [Short Pointer 001 (1226) One-Five](ShortPointerOne_1226_AAPL_Unlimited.md)
+- [Long Pointer 001](LongPointer001_ES.md)
+- [Short Pointer 001](ShortPointer001_ES.md)
 
-### Pointer 002 (1227)
+### Pointer 002 
 
-- [Long Pointer 002 (1227) One-Five](LongPointerTwo_1227_AAPL_Unlimited.md)
-- [Short Pointer 002 (1227) One-Five](ShortPointerTwo_1227_AAPL_Unlimited.md)
+- [Long Pointer 002](LongPointer002_ES.md)
+- [Short Pointer 002](ShortPointer002_ES.md)
 
-### Shepard 003 (1230 Waffles02)
+### Shepard 003 
 
-- [Long Shepard 003 (1230 Waffles02) One-Five](LongShepard003_1230Waffles02_AAPL_Unlimited.md)
-- [Short Shepard 003 (1230 Waffles02) One-Five](ShortShepard003_1230Waffles02_AAPL_Unlimited.md)
+- [Long Shepard 003](LongShepard003_ES.md)
+- [Short Shepard 003](ShortShepard003_ES.md)
 
-### Shepard 004 (1230 Waffles01)
+### Shepard 004 
 
-- [Long Shepard 004 (1230 Waffles01) One-Five](LongShepard004_1230Waffles01_AAPL_Unlimited.md)
-- [Short Shepard 004 (1230 Waffles01) One-Five](ShortShepard004_1230Waffles01_AAPL_Unlimited.md)
+- [Long Shepard 004](LongShepard004_ES.md)
+- [Short Shepard 004](ShortShepard004_ES.md)
 
-### Shepard 006 (1225 Waffles02)
+### Shepard 006 
 
-- [Long Shepard 006 (1225 Waffles02) One-Five](LongShepard006_1225Waffles02_AAPL_Unlimited.md)
-- [Short Shepard 006 (1225 Waffles02) One-Five](ShortShepard006_1225Waffles02_AAPL_Unlimited.md)
+- [Long Shepard 006](LongShepard006_ES.md)
+- [Short Shepard 006](ShortShepard006_ES.md)
 
-### Shepard 007 (1225 Waffles01)
+### Shepard 007 
 
-- [Long Shepard 007 (1225 Waffles01) One-Five](LongShepard007_1225Waffles01_AAPL_Unlimited.md)
-- [Short Shepard 007 (1225 Waffles01) One-Five](ShortShepard007_1225Waffles01_AAPL_Unlimited.md)
+- [Long Shepard 007](LongShepard007_ES.md)
+- [Short Shepard 007](ShortShepard007_ES.md)
 
 ### Bulldog 003
 
-- [Long Bulldog 003 One-Five](LongBulldog_003_AAPL_Unlimited.md)
-- [Short Bulldog 003 One-Five](ShortBulldog_003_AAPL_Unlimited.md)
+- [Long Bulldog 003 One-Five](LongBulldog003_ES.md)
+- [Short Bulldog 003 One-Five](ShortBulldog003_ES.md)
 
 ### Bulldog 005
 
-- [Long Bulldog 005 One-Five](LongBulldog_005_AAPL_Unlimited.md)
-- [Short Bulldog 005 One-Five](ShortBulldog_005_AAPL_Unlimited.md)
+- [Long Bulldog 005 One-Five](LongBulldog005_ES.md)
+- [Short Bulldog 005 One-Five](ShortBulldog005_ES.md)
 
 ### Bulldog 006
 
-- [Long Bulldog 006 One-Five](LongBulldog_006_AAPL_Unlimited.md)
-- [Short Bulldog 006 One-Five](ShortBulldog_006_AAPL_Unlimited.md)
+- [Long Bulldog 006 One-Five](LongBulldog006_ES.md)
+- [Short Bulldog 006 One-Five](ShortBulldog006_ES.md)
 
-### Wallace 1226_003
+### Wallace 003
 
-- [Long Wallace 1226_003 One-Five](LongWallace1226_003_AAPL_Unlimited.md)
-- [Short Wallace 1226_003 One-Five](ShortWallace1226_003_AAPL_Unlimited.md)
+- [Long Wallace 003](LongWallace003_ES.md)
+- [Short Wallace](ShortWallace003_ES.md)
