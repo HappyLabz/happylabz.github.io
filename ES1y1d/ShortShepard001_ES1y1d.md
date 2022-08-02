@@ -1,10 +1,10 @@
-# Short Shepard 001 (1230 ROT TEO) 
+# Short Shepard 001 
 - Symbol: ES1y1d
-- Date Range: 07/19/2021 - 07/15/2022
+- Date Range: 07/19/2021 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
-![Plot](ShortShepard001(1230ROTTEO)ES1y1d.png)
+![Plot](ShortShepard001ES1y1d.png)
 ## NO STOPLOSS
 
 

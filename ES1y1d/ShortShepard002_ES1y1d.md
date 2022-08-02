@@ -1,10 +1,10 @@
-# Short Shepard 002 (1230 Waffles03) 
+# Short Shepard 002 
 - Symbol: ES1y1d
-- Date Range: 07/19/2021 - 07/15/2022
+- Date Range: 07/19/2021 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
-![Plot](ShortShepard002(1230Waffles03)ES1y1d.png)
+![Plot](ShortShepard002ES1y1d.png)
 ## NO STOPLOSS
 
 

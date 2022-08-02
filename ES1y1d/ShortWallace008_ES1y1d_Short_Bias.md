@@ -91,3 +91,15 @@
 
 
 
+
+
+## DAILY TAKE PROFITS
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 # Long Shepard 002 
 - Symbol: ES1y1d
-- Date Range: 07/19/2021 - 07/15/2022
+- Date Range: 07/19/2021 - 07/08/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 1
 
@@ -9,72 +9,72 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
-| Five | 100.00 | 92875.00 | 92875.00 | 00:00 |     | Five | 100.00 | 92875.00 | 92875.00 | 00:00 |
-| Four | 100.00 | 52875.00 | 52875.00 | 00:00 |     | Four | 100.00 | 52875.00 | 52875.00 | 00:00 |
-| Seven | 100.00 | 41750.00 | 41750.00 | 00:00 |     | Seven | 100.00 | 41750.00 | 41750.00 | 00:00 |
-| Two | 100.00 | 38250.00 | 38250.00 | 00:00 |     | Two | 100.00 | 38250.00 | 38250.00 | 00:00 |
-| Three | 100.00 | 20750.00 | 20750.00 | 00:00 |     | Three | 100.00 | 20750.00 | 20750.00 | 00:00 |
-| One | 100.00 | 20125.00 | 20125.00 | 00:00 |     | One | 100.00 | 20125.00 | 20125.00 | 00:00 |
-| Seventy-Three | 100.00 | 13750.00 | 13750.00 | 00:00 |     | Seventy-Three | 100.00 | 13750.00 | 13750.00 | 00:00 |
-| Six | 100.00 | 9000.00 | 9000.00 | 00:00 |     | Six | 100.00 | 9000.00 | 9000.00 | 00:00 |
-| One Hundred Thirty | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Thirty | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Nine | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Nine | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Eight | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Eight | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Seven | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Seven | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Six | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Six | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Five | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Five | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Three | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Three | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-Two | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-Two | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty-One | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty-One | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twenty | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twenty | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Ninteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Ninteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Eighteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Eighteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Seventeen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Seventeen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Sixteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Sixteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Fifteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Fifteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Fourteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Fourteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Thirteen | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Thirteen | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Twelve | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Twelve | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| One Hundred Eleven | 100.00 | 4500.00 | 4500.00 | 00:00 |     | One Hundred Eleven | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Eighty-Five | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Eighty-Five | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Eighty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Eighty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Eighty-Three | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Eighty-Three | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Eighty-Two | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Eighty-Two | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Eighty-One | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Eighty-One | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Sixty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Sixty-Four | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Fifty-Six | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Fifty-Six | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Forty-Eight | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Forty-Eight | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Forty | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Forty | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Zero | 100.00 | 4500.00 | 4500.00 | 00:00 |     | Zero | 100.00 | 4500.00 | 4500.00 | 00:00 |
-| Fifty-Five | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty-Five | 100.00 | 375.00 | 375.00 | 00:00 |
-| Fifty-Four | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty-Four | 100.00 | 375.00 | 375.00 | 00:00 |
-| Fifty-Three | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty-Three | 100.00 | 375.00 | 375.00 | 00:00 |
-| Fifty-Two | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty-Two | 100.00 | 375.00 | 375.00 | 00:00 |
-| Fifty-One | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty-One | 100.00 | 375.00 | 375.00 | 00:00 |
-| Fifty | 100.00 | 375.00 | 375.00 | 00:00 |     | Fifty | 100.00 | 375.00 | 375.00 | 00:00 |
-| Forty-Nine | 100.00 | 375.00 | 375.00 | 00:00 |     | Forty-Nine | 100.00 | 375.00 | 375.00 | 00:00 |
-| Seventy-One | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Seventy-One | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Seventy | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Seventy | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Sixty-Nine | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Sixty-Nine | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Sixty-Eight | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Sixty-Eight | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Sixty-Seven | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Sixty-Seven | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Sixty-Six | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Sixty-Six | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Sixty-Five | 0.00 | -1250.00 | -1250.00 | 00:00 |     | Sixty-Five | 0.00 | -1250.00 | -1250.00 | 00:00 |
-| Forty-Seven | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Seven | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-Six | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Six | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-Five | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Five | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-Four | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Four | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-Three | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Three | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-Two | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-Two | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Forty-One | 0.00 | -2750.00 | -2750.00 | 00:00 |     | Forty-One | 0.00 | -2750.00 | -2750.00 | 00:00 |
-| Sixty-Three | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Sixty-Three | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Sixty-Two | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Sixty-Two | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Sixty-One | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Sixty-One | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Sixty | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Sixty | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Fifty-Nine | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Fifty-Nine | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Fifty-Eight | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Fifty-Eight | 0.00 | -5000.00 | -5000.00 | 00:00 |
-| Fifty-Seven | 0.00 | -5000.00 | -5000.00 | 00:00 |     | Fifty-Seven | 0.00 | -5000.00 | -5000.00 | 00:00 |
+| Five | 100.00 | 95625.00 | 95625.00 | 18 23:15:00 |     | Five | 100.00 | 95625.00 | 95625.00 | 18 23:15:00 |
+| Four | 100.00 | 52875.00 | 52875.00 | 11 23:19:00 |     | Four | 100.00 | 52875.00 | 52875.00 | 11 23:19:00 |
+| Seven | 100.00 | 41750.00 | 41750.00 | 11 00:59:00 |     | Seven | 100.00 | 41750.00 | 41750.00 | 11 00:59:00 |
+| Two | 100.00 | 34625.00 | 34625.00 | 08 01:02:00 |     | Two | 100.00 | 34625.00 | 34625.00 | 08 01:02:00 |
+| Three | 100.00 | 20125.00 | 20125.00 | 07 03:36:00 |     | Three | 100.00 | 20125.00 | 20125.00 | 07 03:36:00 |
+| One Hundred Thirty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Thirty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Nine | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Nine | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Eight | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Eight | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Seven | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Seven | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Five | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Five | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Three | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Three | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty-One | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty-One | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twenty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twenty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Ninteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Ninteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Eighteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Eighteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Seventeen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Seventeen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Sixteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Sixteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Fifteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Fifteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Fourteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Fourteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Thirteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Thirteen | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Twelve | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Twelve | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One Hundred Eleven | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | One Hundred Eleven | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Eighty-Five | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Eighty-Five | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Eighty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Eighty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Eighty-Three | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Eighty-Three | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Eighty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Eighty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Eighty-One | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Eighty-One | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Seventy | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Seventy | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Sixty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Sixty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Sixty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Sixty-Two | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Fifty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Fifty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Fifty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Fifty-Four | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Forty-Eight | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Forty-Eight | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Forty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Forty-Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Forty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Forty | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Six | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| Zero | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |     | Zero | 100.00 | 15250.00 | 15250.00 | 00 00:03:00 |
+| One | 100.00 | 14750.00 | 14750.00 | 07 01:19:00 |     | One | 100.00 | 14750.00 | 14750.00 | 07 01:19:00 |
+| Seventy-Three | 100.00 | 13750.00 | 13750.00 | 07 01:01:00 |     | Seventy-Three | 100.00 | 13750.00 | 13750.00 | 07 01:01:00 |
+| Fifty-Five | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Fifty-Five | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Fifty-Three | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Fifty-Three | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Fifty-Two | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Fifty-Two | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Fifty-One | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Fifty-One | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Fifty | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Fifty | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Forty-Nine | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |     | Forty-Nine | 100.00 | 12625.00 | 12625.00 | 00 00:19:00 |
+| Seventy-One | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Seventy-One | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Sixty-Nine | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Sixty-Nine | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Sixty-Eight | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Sixty-Eight | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Sixty-Seven | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Sixty-Seven | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Sixty-Six | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Sixty-Six | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Sixty-Five | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |     | Sixty-Five | 100.00 | 10625.00 | 10625.00 | 00 03:37:00 |
+| Forty-Seven | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-Seven | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Forty-Five | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-Five | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Forty-Four | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-Four | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Forty-Three | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-Three | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Forty-Two | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-Two | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Forty-One | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |     | Forty-One | 0.00 | -2750.00 | -2750.00 | 01 02:09:00 |
+| Sixty-Three | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Sixty-Three | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
+| Sixty-One | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Sixty-One | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
+| Sixty | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Sixty | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
+| Fifty-Nine | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Fifty-Nine | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
+| Fifty-Eight | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Fifty-Eight | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
+| Fifty-Seven | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |     | Fifty-Seven | 0.00 | -5000.00 | -5000.00 | 01 02:56:00 |
 
 ## NO STOPLOSS
 
@@ -86,21 +86,63 @@
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
 
 ### Test One
 * Sell when the price hits the upper line of the 20p 1std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 29.50
+Potential Profit: 14750.00
+Total Points Ups: 29.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 08:40:00		Total Position Time: 07 01:19:00		Total Move Up: 29.50		Total to Date: 29.50</code> <br />
+
+
+</details>
+
+### Test Two
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 69.25
+Potential Profit: 34625.00
+Total Points Ups: 69.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-15 08:23:00		Total Position Time: 08 01:02:00		Total Move Up: 69.25		Total to Date: 69.25</code> <br />
+
+
+</details>
+
+### Test Three
+* Sell when price hits the middle line of the 50p bollinger
 * No Stoploss
 * Results:
 ```
@@ -115,49 +157,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 10:57:00		Total Position Time: 216:00		Total Move Up: 40.25		Total to Date: 40.25</code> <br />
-
-
-</details>
-
-### Test Two
-* Sell when the price hits the upper line of the 20p 2std bollinger
-* No Stoploss
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 76.50
-Potential Profit: 38250.00
-Total Points Ups: 76.50 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-15 11:05:00		Total Position Time: 224:00		Total Move Up: 76.50		Total to Date: 76.50</code> <br />
-
-
-</details>
-
-### Test Three
-* Sell when price hits the middle line of the 50p bollinger
-* No Stoploss
-* Results:
-```
-Total Trades: 1
-Percent Up: 100.00
-Percent Down: 0.00
-Total Points Moved Up: 41.50
-Potential Profit: 20750.00
-Total Points Ups: 41.50 Count Ups: 1
-Total Points Downs: 0.00 Count Downs: 0
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 11:39:00		Total Position Time: 258:00		Total Move Up: 41.50		Total to Date: 41.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 10:57:00		Total Position Time: 07 03:36:00		Total Move Up: 40.25		Total to Date: 40.25</code> <br />
 
 
 </details>
@@ -178,7 +178,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-19 06:40:00		Total Position Time: 1399:00		Total Move Up: 105.75		Total to Date: 105.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-19 06:40:00		Total Position Time: 11 23:19:00		Total Move Up: 105.75		Total to Date: 105.75</code> <br />
 
 
 </details>
@@ -191,15 +191,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 185.75
-Potential Profit: 92875.00
-Total Points Ups: 185.75 Count Ups: 1
+Total Points Moved Up: 191.25
+Potential Profit: 95625.00
+Total Points Ups: 191.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-26 06:31:00		Total Position Time: 1390:00		Total Move Up: 185.75		Total to Date: 185.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-26 06:36:00		Total Position Time: 18 23:15:00		Total Move Up: 191.25		Total to Date: 191.25</code> <br />
 
 
 </details>
@@ -212,15 +212,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 18.00
-Potential Profit: 9000.00
-Total Points Ups: 18.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 07:02:00		Total Position Time: 1421:00		Total Move Up: 18.00		Total to Date: 18.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -241,7 +241,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-18 08:20:00		Total Position Time: 59:00		Total Move Up: 83.50		Total to Date: 83.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-18 08:20:00		Total Position Time: 11 00:59:00		Total Move Up: 83.50		Total to Date: 83.50</code> <br />
 
 
 </details>
@@ -256,15 +256,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -285,7 +285,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -306,7 +306,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -327,7 +327,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -348,7 +348,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -369,7 +369,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -380,17 +380,17 @@ Total Points Downs: -5.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -5.50
-Potential Profit: -2750.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -5.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -411,7 +411,7 @@ Total Points Downs: -5.50 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 129:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 09:30:00		Total Position Time: 01 02:09:00		Total Move Up: -5.50		Total to Date: -5.50</code> <br />
 
 
 </details>
@@ -426,15 +426,15 @@ Total Points Downs: -5.50 Count Downs: 1
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -447,15 +447,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -468,15 +468,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -489,15 +489,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -510,15 +510,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -531,15 +531,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -552,15 +552,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -573,15 +573,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 0.75
-Potential Profit: 375.00
-Total Points Ups: 0.75 Count Ups: 1
+Total Points Moved Up: 25.25
+Potential Profit: 12625.00
+Total Points Ups: 25.25 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:41:00		Total Position Time: 20:00		Total Move Up: 0.75		Total to Date: 0.75</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:40:00		Total Position Time: 00 00:19:00		Total Move Up: 25.25		Total to Date: 25.25</code> <br />
 
 
 </details>
@@ -596,15 +596,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -625,7 +625,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -646,7 +646,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -667,7 +667,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -688,7 +688,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -709,7 +709,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -720,17 +720,17 @@ Total Points Downs: -10.00 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -10.00
-Potential Profit: -5000.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -10.00 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -751,7 +751,7 @@ Total Points Downs: -10.00 Count Downs: 1
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 176:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 10:17:00		Total Position Time: 01 02:56:00		Total Move Up: -10.00		Total to Date: -10.00</code> <br />
 
 
 </details>
@@ -766,15 +766,15 @@ Total Points Downs: -10.00 Count Downs: 1
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -785,17 +785,17 @@ Total Points Downs: 0.00 Count Downs: 0
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -806,17 +806,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -827,17 +827,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -848,17 +848,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -869,17 +869,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -890,17 +890,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -911,17 +911,17 @@ Total Points Downs: -2.50 Count Downs: 1
 * Results:
 ```
 Total Trades: 1
-Percent Up: 0.00
-Percent Down: 100.00
-Total Points Moved Up: -2.50
-Potential Profit: -1250.00
-Total Points Ups: 0.00 Count Ups: 0
-Total Points Downs: -2.50 Count Downs: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 21.25
+Potential Profit: 10625.00
+Total Points Ups: 21.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 22:00		Total Move Up: -2.50		Total to Date: -2.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 10:58:00		Total Position Time: 00 03:37:00		Total Move Up: 21.25		Total to Date: 21.25</code> <br />
 
 
 </details>
@@ -944,7 +944,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 08:22:00		Total Position Time: 61:00		Total Move Up: 27.50		Total to Date: 27.50</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 08:22:00		Total Position Time: 07 01:01:00		Total Move Up: 27.50		Total to Date: 27.50</code> <br />
 
 
 </details>
@@ -959,15 +959,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -980,15 +980,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1001,15 +1001,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1022,15 +1022,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1043,15 +1043,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1066,15 +1066,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1087,15 +1087,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1108,15 +1108,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1129,15 +1129,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1150,15 +1150,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1173,15 +1173,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1194,15 +1194,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1215,15 +1215,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1236,15 +1236,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1257,15 +1257,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1280,15 +1280,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1301,15 +1301,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1322,15 +1322,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1343,15 +1343,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1364,15 +1364,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1387,15 +1387,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1408,15 +1408,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1429,15 +1429,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1450,15 +1450,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>
@@ -1471,15 +1471,15 @@ Total Points Downs: 0.00 Count Downs: 0
 Total Trades: 1
 Percent Up: 100.00
 Percent Down: 0.00
-Total Points Moved Up: 9.00
-Potential Profit: 4500.00
-Total Points Ups: 9.00 Count Ups: 1
+Total Points Moved Up: 30.50
+Potential Profit: 15250.00
+Total Points Ups: 30.50 Count Ups: 1
 Total Points Downs: 0.00 Count Downs: 0
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2021-10-07 07:21:00		Out: 2021-10-08 07:23:00		Total Position Time: 02:00		Total Move Up: 9.00		Total to Date: 9.00</code> <br />
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 
 
 </details>

@@ -3,16 +3,16 @@
 ## ES
 
 ### Golden 001
-- [Long Golden 001](LongGolden001_ES.md)
-- [Short Golden 001](ShortGolden001_ES.md)
+- [Long Golden 001](LongGolden_001_ES.md)
+- [Short Golden 001](ShortGolden_001_ES.md)
 
 ### Golden 002
-- [Long Golden 002](LongGolden002_ES.md)
-- [Short Golden 002](ShortGolden002_ES.md)
+- [Long Golden 002](LongGolden_002_ES.md)
+- [Short Golden 002](ShortGolden_002_ES.md)
 
 ### Golden 003
-- [Long Golden 003](LongGolden003_ES.md)
-- [Short Golden 003](ShortGolden003_ES.md)
+- [Long Golden 003](LongGolden_003_ES.md)
+- [Short Golden 003](ShortGolden_003_ES.md)
 
 ### Wallace 001
 
