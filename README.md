@@ -32,3 +32,7 @@
 ### TSLA
 - [TSLA BACKTESTS No Backstop 7/26/22](TSLA_Unlimited/README.md)
 - [TSLA BACKTESTS BEST IN BREED No Backstop 7/26/22](TSLA_Unlimited/README_BIB.md)
+
+### NVDA
+- [NVDA BACKTESTS No Backstop 8/2/22](NVDA_Unlimited/README.md)
+- [NVDA BACKTESTS BEST IN BREED No Backstop 8/2/22](NVDA_Unlimited/README_BIB.md)

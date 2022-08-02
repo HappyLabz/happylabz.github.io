@@ -9,10 +9,20 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| Three Hundred | 100.00 | 152625.00 | 50875.00 | 26 07:23:40 |     | Three Hundred | 100.00 | 152625.00 | 50875.00 | 26 07:23:40 |
+| Two Hundred Nine | 100.00 | 141875.00 | 47291.67 | 26 01:16:40 |     | Two Hundred Nine | 100.00 | 141875.00 | 47291.67 | 26 01:16:40 |
 | Seven | 100.00 | 137000.00 | 45666.67 | 25 18:24:00 |     | Seven | 100.00 | 137000.00 | 45666.67 | 25 18:24:00 |
+| Two Hundred Eight | 100.00 | 136750.00 | 45583.33 | 25 23:42:20 |     | Two Hundred Eight | 100.00 | 136750.00 | 45583.33 | 25 23:42:20 |
 | Four | 100.00 | 116875.00 | 38958.33 | 25 23:25:40 |     | Four | 100.00 | 116875.00 | 38958.33 | 25 23:25:40 |
-| Zero | 66.67 | 41000.00 | 13666.67 | 00 07:48:00 |     | Six | 100.00 | 22500.00 | 7500.00 | 02 01:28:40 |
-| Two | 66.67 | 37750.00 | 12583.33 | 21 00:25:20 |     | Eighty-Five | 100.00 | 21375.00 | 7125.00 | 01 01:34:20 |
+| Two Hundred Seven | 100.00 | 106625.00 | 35541.67 | 06 09:54:00 |     | Two Hundred Seven | 100.00 | 106625.00 | 35541.67 | 06 09:54:00 |
+| Two Hundred Six | 100.00 | 91750.00 | 30583.33 | 05 08:31:40 |     | Two Hundred Six | 100.00 | 91750.00 | 30583.33 | 05 08:31:40 |
+| Two Hundred Five | 100.00 | 81125.00 | 27041.67 | 05 07:12:20 |     | Two Hundred Five | 100.00 | 81125.00 | 27041.67 | 05 07:12:20 |
+| Two Hundred Four | 100.00 | 65750.00 | 21916.67 | 04 18:59:40 |     | Two Hundred Four | 100.00 | 65750.00 | 21916.67 | 04 18:59:40 |
+| Two Hundred Three | 100.00 | 46125.00 | 15375.00 | 02 03:22:20 |     | Two Hundred Three | 100.00 | 46125.00 | 15375.00 | 02 03:22:20 |
+| Zero | 66.67 | 41000.00 | 13666.67 | 00 07:48:00 |     | Two Hundred Two | 100.00 | 36000.00 | 12000.00 | 02 02:13:20 |
+| Two | 66.67 | 37750.00 | 12583.33 | 21 00:25:20 |     | Two Hundred One | 100.00 | 25875.00 | 8625.00 | 02 01:31:00 |
+| Two Hundred Two | 100.00 | 36000.00 | 12000.00 | 02 02:13:20 |     | Six | 100.00 | 22500.00 | 7500.00 | 02 01:28:40 |
+| Two Hundred One | 100.00 | 25875.00 | 8625.00 | 02 01:31:00 |     | Eighty-Five | 100.00 | 21375.00 | 7125.00 | 01 01:34:20 |
 | Six | 100.00 | 22500.00 | 7500.00 | 02 01:28:40 |     | Eighty-Four | 100.00 | 21125.00 | 7041.67 | 01 01:31:40 |
 | Eighty-Five | 100.00 | 21375.00 | 7125.00 | 01 01:34:20 |     | Eighty-Three | 100.00 | 19000.00 | 6333.33 | 01 00:30:20 |
 | Eighty-Four | 100.00 | 21125.00 | 7041.67 | 01 01:31:40 |     | Eighty-Two | 100.00 | 17875.00 | 5958.33 | 01 00:27:00 |
@@ -1612,6 +1622,238 @@ Total Points Downs: -24.50 Count Downs: 2
 <code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
 <code>In: 2021-10-08 07:21:00		Out: 2021-10-08 07:43:00		Total Position Time: 00 00:22:00		Total Move Up: -13.25		Total to Date: 17.25</code> <br />
 <code>In: 2022-02-01 07:21:00		Out: 2022-02-01 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: -11.25		Total to Date: 6.00</code> <br />
+
+
+</details>
+
+## DAILY TAKE PROFITS
+
+### Test Two Hundred One
+* Take Profit of 10 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 51.75
+Potential Profit: 25875.00
+Total Points Ups: 51.75 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-14 07:05:00		Total Position Time: 05 23:44:00		Total Move Up: 10.25		Total to Date: 40.75</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-01 12:07:00		Total Position Time: 00 04:46:00		Total Move Up: 11.00		Total to Date: 51.75</code> <br />
+
+
+</details>
+
+### Test Two Hundred Two
+* Take Profit of 20 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 72.00
+Potential Profit: 36000.00
+Total Points Ups: 72.00 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-14 08:46:00		Total Position Time: 06 01:25:00		Total Move Up: 20.50		Total to Date: 51.00</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-01 12:33:00		Total Position Time: 00 05:12:00		Total Move Up: 21.00		Total to Date: 72.00</code> <br />
+
+
+</details>
+
+### Test Two Hundred Three
+* Take Profit of 30 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 92.25
+Potential Profit: 46125.00
+Total Points Ups: 92.25 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-07 07:24:00		Total Position Time: 00 00:03:00		Total Move Up: 30.50		Total to Date: 30.50</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-14 11:30:00		Total Position Time: 06 04:09:00		Total Move Up: 30.00		Total to Date: 60.50</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-01 13:16:00		Total Position Time: 00 05:55:00		Total Move Up: 31.75		Total to Date: 92.25</code> <br />
+
+
+</details>
+
+### Test Two Hundred Four
+* Take Profit of 40 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 131.50
+Potential Profit: 65750.00
+Total Points Ups: 131.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-14 10:57:00		Total Position Time: 07 03:36:00		Total Move Up: 40.25		Total to Date: 40.25</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-15 06:31:00		Total Position Time: 06 23:10:00		Total Move Up: 50.50		Total to Date: 90.75</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-01 13:34:00		Total Position Time: 00 06:13:00		Total Move Up: 40.75		Total to Date: 131.50</code> <br />
+
+
+</details>
+
+### Test Two Hundred Five
+* Take Profit of 50 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 162.25
+Potential Profit: 81125.00
+Total Points Ups: 162.25 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-15 06:31:00		Total Position Time: 07 23:10:00		Total Move Up: 61.25		Total to Date: 61.25</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-15 06:31:00		Total Position Time: 06 23:10:00		Total Move Up: 50.50		Total to Date: 111.75</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-02 06:38:00		Total Position Time: 00 23:17:00		Total Move Up: 50.50		Total to Date: 162.25</code> <br />
+
+
+</details>
+
+### Test Two Hundred Six
+* Take Profit of 60 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 183.50
+Potential Profit: 91750.00
+Total Points Ups: 183.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-15 06:31:00		Total Position Time: 07 23:10:00		Total Move Up: 61.25		Total to Date: 61.25</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-15 07:07:00		Total Position Time: 06 23:46:00		Total Move Up: 61.00		Total to Date: 122.25</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-02 10:00:00		Total Position Time: 01 02:39:00		Total Move Up: 61.25		Total to Date: 183.50</code> <br />
+
+
+</details>
+
+### Test Two Hundred Seven
+* Take Profit of 70 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 213.25
+Potential Profit: 106625.00
+Total Points Ups: 213.25 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-15 07:07:00		Total Position Time: 07 23:46:00		Total Move Up: 71.75		Total to Date: 71.75</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-18 08:19:00		Total Position Time: 10 00:58:00		Total Move Up: 70.50		Total to Date: 142.25</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-02-02 12:19:00		Total Position Time: 01 04:58:00		Total Move Up: 71.00		Total to Date: 213.25</code> <br />
+
+
+</details>
+
+### Test Two Hundred Eight
+* Take Profit of 80 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 273.50
+Potential Profit: 136750.00
+Total Points Ups: 273.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-18 08:08:00		Total Position Time: 11 00:47:00		Total Move Up: 80.00		Total to Date: 80.00</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-19 06:31:00		Total Position Time: 10 23:10:00		Total Move Up: 92.75		Total to Date: 172.75</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-03-29 06:31:00		Total Position Time: 55 23:10:00		Total Move Up: 100.75		Total to Date: 273.50</code> <br />
+
+
+</details>
+
+### Test Two Hundred Nine
+* Take Profit of 90 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 283.75
+Potential Profit: 141875.00
+Total Points Ups: 283.75 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-18 12:51:00		Total Position Time: 11 05:30:00		Total Move Up: 90.25		Total to Date: 90.25</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-19 06:31:00		Total Position Time: 10 23:10:00		Total Move Up: 92.75		Total to Date: 183.00</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-03-29 06:31:00		Total Position Time: 55 23:10:00		Total Move Up: 100.75		Total to Date: 283.75</code> <br />
+
+
+</details>
+
+### Test Three Hundred
+* Take Profit of 100 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 305.25
+Potential Profit: 152625.00
+Total Points Ups: 305.25 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2021-10-07 07:21:00		Out: 2021-10-19 06:31:00		Total Position Time: 11 23:10:00		Total Move Up: 103.50		Total to Date: 103.50</code> <br />
+<code>In: 2021-10-08 07:21:00		Out: 2021-10-19 07:12:00		Total Position Time: 10 23:51:00		Total Move Up: 101.00		Total to Date: 204.50</code> <br />
+<code>In: 2022-02-01 07:21:00		Out: 2022-03-29 06:31:00		Total Position Time: 55 23:10:00		Total Move Up: 100.75		Total to Date: 305.25</code> <br />
 
 
 </details>
