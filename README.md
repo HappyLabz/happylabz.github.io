@@ -7,9 +7,11 @@
 
 ## ES One Minute Bars
 
+### ES Trading Indicators
+- [ES TRADING INDICATORS 8/3/22](ES/README_Trading.md)
+
 ### ES Thirty Minute
 - [ES BACKTESTS 8/2/22](ES/README.md)
-- [ES TRADING INDICATORS 8/3/22](ES/README_Trading.md)
 
 
 - [ES BEST IN BREED 30d 8/2/22](ES/README_BIB30d.md)
