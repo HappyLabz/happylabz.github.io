@@ -1,58 +1,78 @@
 # Happy Labz Backtest Results
 
-## ES BEST IN BREED
+## ES BEST IN BREED Bias Version
 
-### Pointer 001
+### Pointer 001 DB
 
-- [Long Pointer 001](LongPointer001DB_ES.md)
-- [Short Pointer 001](ShortPointer001DB_ES.md)
+- [Long Pointer 001 DB](LongPointer001DB_ES.md)
+- [Short Pointer 001 DB](ShortPointer001DB_ES.md)
 
-### Pointer 002 
+### Pointer 001 AB
 
-- [Long Pointer 002](LongPointer002DB_ES.md)
-- [Short Pointer 002](ShortPointer002DB_ES.md)
+- [Long Pointer 001 AB](LongPointer001AB_ES.md)
+- [Short Pointer 001 AB](ShortPointer001AB_ES.md)
 
-### Pointer 009
+### Pointer 002 DB
 
-- [Long Pointer 009](LongPointer009DB_ES.md)
-- [Short Pointer 009](ShortPointer009DB_ES.md)
+- [Long Pointer 002 DB](LongPointer002DB_ES.md)
+- [Short Pointer 002 DB](ShortPointer002DB_ES.md)
 
-### Shepard 003 
+### Pointer 009 DB
 
-- [Long Shepard 003](LongShepard003DB_ES.md)
-- [Short Shepard 003](ShortShepard003DB_ES.md)
+- [Long Pointer 009 DB](LongPointer009DB_ES.md)
+- [Short Pointer 009 DB](ShortPointer009DB_ES.md)
 
-### Shepard 004 
+### Pointer 009 AB
 
-- [Long Shepard 004](LongShepard004DB_ES.md)
-- [Short Shepard 004](ShortShepard004DB_ES.md)
+- [Long Pointer 009 AB](LongPointer009AB_ES.md)
+- [Short Pointer 009 AB](ShortPointer009AB_ES.md)
 
-### Shepard 006 
+### Shepard 003 DB
 
-- [Long Shepard 006](LongShepard006DB_ES.md)
-- [Short Shepard 006](ShortShepard006DB_ES.md)
+- [Long Shepard 003 DB](LongShepard003DB_ES.md)
+- [Short Shepard 003 DB](ShortShepard003DB_ES.md)
 
-### Shepard 007 
+### Shepard 003 AB
 
-- [Long Shepard 007](LongShepard007DB_ES.md)
-- [Short Shepard 007](ShortShepard007DB_ES.md)
+- [Long Shepard 003 AB](LongShepard003AB_ES.md)
+- [Short Shepard 003 AB](ShortShepard003AB_ES.md)
 
-### Bulldog 003
+### Shepard 004 DB
 
-- [Long Bulldog 003 One-Five](LongBulldog003DB_ES.md)
-- [Short Bulldog 003 One-Five](ShortBulldog003DB_ES.md)
+- [Long Shepard 004 DB](LongShepard004DB_ES.md)
+- [Short Shepard 004 DB](ShortShepard004DB_ES.md)
 
-### Bulldog 005
+### Shepard 004 AB
 
-- [Long Bulldog 005 One-Five](LongBulldog005DB_ES.md)
-- [Short Bulldog 005 One-Five](ShortBulldog005DB_ES.md)
+- [Long Shepard 004 AB](LongShepard004AB_ES.md)
+- [Short Shepard 004 AB](ShortShepard004AB_ES.md)
 
-### Bulldog 006
+### Shepard 006 DB
 
-- [Long Bulldog 006 One-Five](LongBulldog006DB_ES.md)
-- [Short Bulldog 006 One-Five](ShortBulldog006DB_ES.md)
+- [Long Shepard 006 DB](LongShepard006DB_ES.md)
+- [Short Shepard 006 DB](ShortShepard006DB_ES.md)
 
-### Wallace 003
+### Shepard 007 DB
 
-- [Long Wallace 003](LongWallace003DB_ES.md)
-- [Short Wallace](ShortWallace003DB_ES.md)
+- [Long Shepard 007 DB](LongShepard007DB_ES.md)
+- [Short Shepard 007 DB](ShortShepard007DB_ES.md)
+
+### Bulldog 003 DB
+
+- [Long Bulldog 003 DB](LongBulldog003DB_ES.md)
+- [Short Bulldog 003 DB](ShortBulldog003DB_ES.md)
+
+### Bulldog 005 DB
+
+- [Long Bulldog 005 DB](LongBulldog005DB_ES.md)
+- [Short Bulldog 005 DB](ShortBulldog005DB_ES.md)
+
+### Bulldog 006 DB
+
+- [Long Bulldog 006 DB](LongBulldog006DB_ES.md)
+- [Short Bulldog 006 DB](ShortBulldog006DB_ES.md)
+
+### Wallace 003 DB
+
+- [Long Wallace 003 DB](LongWallace003DB_ES.md)
+- [Short Wallace 003 DB](ShortWallace003DB_ES.md)
