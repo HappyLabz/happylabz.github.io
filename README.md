@@ -1,7 +1,7 @@
 # Happy Labz Paper Trading Reports
 
 ### ES
-- [Reports for July](Reports/ReportLanding.md)
+- [Reports](Reports/ReportLanding.md)
 
 # Happy Labz Backtest Results
 
@@ -9,9 +9,10 @@
 
 ### ES Thirty Minute
 - [ES BACKTESTS 8/2/22](ES/README.md)
+- [ES TRADING INDICATORS 8/3/22](ES/README_Trading.md)
+
+
 - [ES BEST IN BREED 30d 8/2/22](ES/README_BIB30d.md)
-
-
 - [ES BEST IN BREED 8/2/22](ES/README_BIB.md)
 - [ES BEST IN BREED DB 8/3/22](ES/README_DB.md)
 
