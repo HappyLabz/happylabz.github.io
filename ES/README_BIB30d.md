@@ -9,13 +9,13 @@
 
 ### Pointer 001 DB - Test 82
 
-- [Long Pointer 001 DB](LongPointer001DB_ES.md)
-- [Short Pointer 001 DB](ShortPointer001DB_ES.md)
+- [Long Pointer 001 DB](../ES_Unlimited/LongPointer001DB_ES.md)
+- [Short Pointer 001 DB](../ES_Unlimited/ShortPointer001DB_ES.md)
 
 ### Pointer 002 DB - Test 82
 
-- [Long Pointer 002 DB](LongPointer002DB_ES.md)
-- [Short Pointer 002 DB](ShortPointer002DB_ES.md)
+- [Long Pointer 002 DB](../ES_Unlimited/LongPointer002DB_ES.md)
+- [Short Pointer 002 DB](../ES_Unlimited/ShortPointer002DB_ES.md)
 
 ### Pointer 009 - Test 2
 
