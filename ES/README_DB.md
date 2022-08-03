@@ -12,6 +12,11 @@
 - [Long Pointer 002](LongPointer002DB_ES.md)
 - [Short Pointer 002](ShortPointer002DB_ES.md)
 
+### Pointer 009
+
+- [Long Pointer 009](LongPointer009DB_ES.md)
+- [Short Pointer 009](ShortPointer009DB_ES.md)
+
 ### Shepard 003 
 
 - [Long Shepard 003](LongShepard003DB_ES.md)
