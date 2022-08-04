@@ -15,46 +15,6 @@
 
 
 
-## STOPLOSS OF 5
-
-
-
-
-
-
-
-
-
-## TRAIL STOP OF 5
-
-
-
-
-
-
-
-
-
-## STOPLOSS OF 10
-
-
-
-
-
-
-
-
-
-## TRAIL STOP OF 10
-
-
-
-
-
-
-
-
-
 ## SPECIAL EXIT CONDITIONS 
 
 
@@ -65,35 +25,31 @@
 
 
 
-## TAKE PROFIT Stoploss of Five
-
-
-
-
-
-
-## TAKE PROFIT Trailstop of Five
-
-
-
-
-
-
-## TAKE PROFIT Stoploss of Ten
-
-
-
-
-
-
-## TAKE PROFIT Trailstop of Ten
-
 
 
 
 
 
 ## DAILY TAKE PROFITS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
