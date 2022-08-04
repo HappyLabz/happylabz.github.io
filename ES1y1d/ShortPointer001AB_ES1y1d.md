@@ -1,6 +1,6 @@
 # Short Pointer 001 AB 
 - Symbol: ES1y1d
-- Date Range: 07/19/2021 - 07/08/2022
+- Date Range: 07/19/2021 - 07/07/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
@@ -19,37 +19,6 @@
 
 
 ## TAKE PROFIT
-
-
-
-
-
-
-
-
-
-
-
-## DAILY TAKE PROFITS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
