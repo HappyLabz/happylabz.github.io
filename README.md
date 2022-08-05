@@ -9,6 +9,7 @@
 
 ### ES Trading Indicators
 - [ES TRADING INDICATORS 8/3/22](ES/README_Trading.md)
+- [ES TRADING INDICATORS EU 8/3/22](ES/README_Trading_EU.md)
 
 ### ES Thirty Minute
 - [ES BACKTESTS 8/2/22](ES/README.md)

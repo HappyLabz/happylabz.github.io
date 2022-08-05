@@ -1,10 +1,10 @@
-# Long Pointer 002 DB 
+# Short Shepard 004 DB 
 - Symbol: TEST
 - Date Range: 07/25/2022 - 08/05/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 0
 
-![Plot](LongPointer002DBTEST.png)
+![Plot](ShortShepard004DBTEST.png)
 ## NO STOPLOSS
 
 

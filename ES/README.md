@@ -165,20 +165,10 @@
 - [Long Pointer 001](LongPointer001_ES.md)
 - [Short Pointer 001](ShortPointer001_ES.md)
 
-### Pointer 001 DB EU
-
-- [Long Pointer 001](LongPointer001DB_EU_ES.md)
-- [Short Pointer 001](ShortPointer001DB_EU_ES.md)
-
 ### Pointer 002
 
 - [Long Pointer 002](LongPointer002_ES.md)
 - [Short Pointer 002](ShortPointer002_ES.md)
-
-### Pointer 002 DB EU
-
-- [Long Pointer 002](LongPointer002DB_EU_ES.md)
-- [Short Pointer 002](ShortPointer002DB_EU_ES.md)
 
 ### Pointer 003
 
@@ -215,11 +205,6 @@
 - [Long Pointer 009](LongPointer009_ES.md)
 - [Short Pointer 009](ShortPointer009_ES.md)
 
-### Pointer 009 DB EU
-
-- [Long Pointer 009](LongPointer009DB_EU_ES.md)
-- [Short Pointer 009](ShortPointer009DB_EU_ES.md)
-
 ### Pointer 010
 
 - [Long Pointer 010](LongPointer010_ES.md)
@@ -245,20 +230,10 @@
 - [Long Shepard 003](LongShepard003_ES.md)
 - [Short Shepard 003](ShortShepard003_ES.md)
 
-### Shepard 003 DB EU
-
-- [Long Shepard 003](LongShepard003DB_EU_ES.md)
-- [Short Shepard 003](ShortShepard003DB_EU_ES.md)
-
 ### Shepard 004
 
 - [Long Shepard 004](LongShepard004_ES.md)
 - [Short Shepard 004](ShortShepard004_ES.md)
-
-### Shepard 004 DB EU
-
-- [Long Shepard 004](LongShepard004DB_EU_ES.md)
-- [Short Shepard 004](ShortShepard004DB_EU_ES.md)
 
 ### Shepard 005
 
