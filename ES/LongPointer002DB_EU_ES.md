@@ -1,7 +1,7 @@
 # Long Pointer 002 DB 
 - Symbol: ES
 - Date Range: 03/18/2022 - 07/15/2022
-- Trading Period: 7:20-12:30
+- Trading Period: 8:30-12:30
 - Number of Trades: 12
 
 ![Plot](LongPointer002DBEUES.png)
