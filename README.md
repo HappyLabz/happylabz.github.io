@@ -1,36 +1,39 @@
+#### Program Manager: Mr. Mark B.
+#### Chief Data Scientist: Mr. Nathan B.
+#### Chief Software Engineer: Mr. Sam M.
+Contact: CyberGus@protonmail.com
+
 # Happy Labz Paper Trading Reports
 
 ### ES
 - [Reports](Reports/ReportLanding.md)
+- [Best Returns](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Happy Labz Backtest Results
 
-## ES One Minute Bars
+## One Minute Bars
 
 ### ES Trading Indicators
-- [ES TRADING INDICATORS 8/3/22](ES/README_Trading.md)
-- [ES TRADING INDICATORS EU 8/3/22](ES/README_Trading_EU.md)
+- [ES TRADING INDICATORS 8/3/22](ES/README_Trading_EU.md)
+- []
 
 ### ES Thirty Minute
 - [ES BACKTESTS 8/2/22](ES/README.md)
-
-
-- [ES BEST IN BREED 30d 8/2/22](ES/README_BIB30d.md)
 - [ES BEST IN BREED 8/2/22](ES/README_BIB.md)
 - [ES BEST IN BREED DB 8/3/22](ES/README_DB.md)
 
 ### ES No Backstop
 - [ES BACKTESTS 7/22/22](ES_Unlimited/README.md)
 - [ES BEST IN BREED 7/22/22](ES_Unlimited/README_BIB.md)
-
-
 - [ES BEST IN BREED DB 8/3/22](ES/README_DB.md)
 
-### ES Daily Bars
+## Daily Bars
+
+### ES Daily No Backstop
 - [ES BACKTESTS 8/1/22](ES1y1d/README.md)
 
 
-## Other Symbols
+## Other Symbols - Minute Bars
 
 ### AAPL
 - [AAPL BACKTESTS No Backstop 7/24/22](AAPL_Unlimited/README.md)
