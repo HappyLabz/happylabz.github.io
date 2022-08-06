@@ -14,7 +14,7 @@ Contact: CyberGus@protonmail.com
 ## One Minute Bars
 
 ### ES Trading Indicators
-- [ES TRADING INDICATORS 8/3/22](ES/README_Trading_EU.md)
+- [ES TRADING INDICATORS 8/5/22](ES/README_Trading_EU.md)
 
 ### ES Thirty Minute
 - [ES BACKTESTS 8/2/22](ES/README.md)
