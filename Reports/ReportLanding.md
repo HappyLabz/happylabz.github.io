@@ -24,3 +24,5 @@
 - [Trade Report 08-22-2022](TradeReport_08-22-2022.md)
 
 - [Trade Report 08-23-2022](TradeReport_08-23-2022.md)
+
+- [Trade Report 08-25-2022](TradeReport_08-25-2022.md)
