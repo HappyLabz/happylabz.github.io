@@ -2,3 +2,5 @@
 
 
 - [Trade Report 09-19-2022](TradeReport_09-19-2022.md)
+
+- [Trade Report 09-20-2022](TradeReport_09-20-2022.md)
