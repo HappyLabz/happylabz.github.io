@@ -3,3 +3,5 @@
 
 
 - [Trade Report 10-04-2022](TradeReport_10-04-2022.md)
+
+- [Trade Report 10-05-2022](TradeReport_10-05-2022.md)
