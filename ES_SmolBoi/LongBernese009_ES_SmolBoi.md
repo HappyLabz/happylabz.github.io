@@ -1,6 +1,6 @@
 # Long Bernese 009 
 - Symbol: ES_SmolBoi
-- Date Range: 03/18/2022 - 07/29/2022
+- Date Range: 03/18/2022 - 09/30/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 3
 
