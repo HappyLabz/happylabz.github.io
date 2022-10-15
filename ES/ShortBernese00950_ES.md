@@ -10,15 +10,15 @@
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
 | Five | 100.00 | 18250.00 | 3650.00 | 15:15 |     | Five | 100.00 | 18250.00 | 3650.00 | 15:15 |
-| Two_C | 100.00 | 14750.00 | 2950.00 | 12:40 |     | Two_C | 100.00 | 14750.00 | 2950.00 | 12:40 |
-| Two | 100.00 | 13875.00 | 2775.00 | 12:34 |     | Two | 100.00 | 13875.00 | 2775.00 | 12:34 |
-| NEWFI 0000 | 80.00 | 13750.00 | 2750.00 | 27:03 |     | Four | 100.00 | 13500.00 | 2700.00 | 09:47 |
+| NEWFI 0000 | 80.00 | 17625.00 | 3525.00 | 25:27 |     | Two_C | 100.00 | 14750.00 | 2950.00 | 12:40 |
+| Two_C | 100.00 | 14750.00 | 2950.00 | 12:40 |     | Two | 100.00 | 13875.00 | 2775.00 | 12:34 |
+| Two | 100.00 | 13875.00 | 2775.00 | 12:34 |     | Four | 100.00 | 13500.00 | 2700.00 | 09:47 |
 | Four | 100.00 | 13500.00 | 2700.00 | 09:47 |     | One | 100.00 | 6875.00 | 1375.00 | 05:11 |
 | Seven | 80.00 | 7250.00 | 1450.00 | 22:51 |     | Three | 100.00 | 6375.00 | 1275.00 | 02:48 |
 | One | 100.00 | 6875.00 | 1375.00 | 05:11 |     | Eighty-Two | 100.00 | 5625.00 | 1125.00 | 08:02 |
 | Three | 100.00 | 6375.00 | 1275.00 | 02:48 |     | Zero | 100.00 | 3625.00 | 725.00 | 01:28 |
 | Eighty-Two | 100.00 | 5625.00 | 1125.00 | 08:02 |     | Eighty-One | 100.00 | 3125.00 | 625.00 | 01:43 |
-| Zero | 100.00 | 3625.00 | 725.00 | 01:28 |     | NEWFI 0000 | 80.00 | 13750.00 | 2750.00 | 27:03 |
+| Zero | 100.00 | 3625.00 | 725.00 | 01:28 |     | NEWFI 0000 | 80.00 | 17625.00 | 3525.00 | 25:27 |
 | Eighty-One | 100.00 | 3125.00 | 625.00 | 01:43 |     | Seven | 80.00 | 7250.00 | 1450.00 | 22:51 |
 | Eighty-Five | 80.00 | -0.00 | -0.00 | 15:30 |     | Eighty-Five | 80.00 | -0.00 | -0.00 | 15:30 |
 | Eighty-Four | 80.00 | -1625.00 | -325.00 | 14:55 |     | Eighty-Four | 80.00 | -1625.00 | -325.00 | 14:55 |
@@ -389,19 +389,19 @@ Total Points Downs: 22.25 Count Downs: 4
 Total Trades: 5
 Percent Up: 20.00
 Percent Down: 80.00
-Total Points Moved Down: 27.50
-Potential Profit: 13750.00
+Total Points Moved Down: 35.25
+Potential Profit: 17625.00
 Total Points Ups: 22.25 Count Ups: 1
-Total Points Downs: 49.75 Count Downs: 4
+Total Points Downs: 57.50 Count Downs: 4
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:20:40		Total Position Time: 23:40		Total Move Down: 12.50		Total to Date: 12.50</code> <br />
-<code>In: 2022-06-09 08:47:00		Out: 2022-06-09 09:13:15		Total Position Time: 26:15		Total Move Down: 12.25		Total to Date: 24.75</code> <br />
-<code>In: 2022-06-15 11:02:00		Out: 2022-06-15 11:03:15		Total Position Time: 01:15		Total Move Down: 13.00		Total to Date: 37.75</code> <br />
-<code>In: 2022-08-17 10:33:00		Out: 2022-08-17 11:32:55		Total Position Time: 59:55		Total Move Down: -22.25		Total to Date: 15.50</code> <br />
-<code>In: 2022-09-22 10:57:00		Out: 2022-09-22 11:21:10		Total Position Time: 24:10		Total Move Down: 12.00		Total to Date: 27.50</code> <br />
+<code>In: 2022-03-25 11:57:00		Out: 2022-03-25 12:11:05		Total Position Time: 14:05		Total Move Down: 8.75		Total to Date: 8.75</code> <br />
+<code>In: 2022-06-09 08:47:00		Out: 2022-06-09 09:14:05		Total Position Time: 27:05		Total Move Down: 9.00		Total to Date: 17.75</code> <br />
+<code>In: 2022-06-15 11:02:00		Out: 2022-06-15 11:08:05		Total Position Time: 06:05		Total Move Down: 30.50		Total to Date: 48.25</code> <br />
+<code>In: 2022-08-17 10:33:00		Out: 2022-08-17 11:32:55		Total Position Time: 59:55		Total Move Down: -22.25		Total to Date: 26.00</code> <br />
+<code>In: 2022-09-22 10:57:00		Out: 2022-09-22 11:17:05		Total Position Time: 20:05		Total Move Down: 9.25		Total to Date: 35.25</code> <br />
 
 
 </details>

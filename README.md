@@ -22,7 +22,7 @@ Contact: CyberGus@protonmail.com
 - [ES BEST IN BREED DB 8/3/22](ES/README_DB.md)
 
 ### ES One Hour
-- [ES BACKTESTS Bernese(1v, 50) 8/15/22]
+- [ES BACKTESTS Bernese 8/15/22](ES/ES_One_Hour.md)
 
 ### ES No Backstop
 - [ES BACKTESTS 7/22/22](ES_Unlimited/README.md)
@@ -40,7 +40,7 @@ Contact: CyberGus@protonmail.com
 ### AAPL
 - [AAPL BACKTESTS No Backstop 7/24/22](AAPL_Unlimited/README.md)
 - [AAPL BACKTESTS BEST IN BREED No Backstop 7/24/22](AAPL_Unlimited/README_BIB.md)
-- [AAPL BACKTESTS Bernese(1v, 50) 1 hr Backstop 8/15/22]
+- [AAPL BACKTESTS Bernese 8/15/22](APPL/AAPL_Bernese_Backtests.md)
 
 ### AMZN
 - [AMZN BACKTESTS No Backstop 7/28/22](AMZN_Unlimited/README.md)
