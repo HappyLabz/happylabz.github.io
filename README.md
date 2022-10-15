@@ -60,4 +60,4 @@ Contact: CyberGus@protonmail.com
 - [NVDA BACKTESTS BEST IN BREED No Backstop 8/2/22](NVDA_Unlimited/README_BIB.md)
 
 ### QQQ
-- [QQQ BACKTESTS 1 hr Backstop 8/15/22]()
+- [QQQ BACKTESTS 1 hr Backstop 8/15/22](QQQ/QQQ_Backtests.md)
