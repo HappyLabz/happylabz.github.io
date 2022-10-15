@@ -49,6 +49,7 @@ Contact: CyberGus@protonmail.com
 ### SPY
 - [SPY BACKTESTS No Backstop 8/3/22](SPY_Unlimited/README.md)
 - [SPY BACKTESTS BEST IN BREED No Backstop 8/3/22](SPY_Unlimited/README_BIB.md)
+- [SPY BERNESE BACKTESTS](SPY/NEWSPY.md)
 
 ### TSLA
 - [TSLA BACKTESTS No Backstop 7/26/22](TSLA_Unlimited/README.md)
