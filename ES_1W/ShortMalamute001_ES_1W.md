@@ -9,8 +9,8 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
-| MALAMUTE 001 | 23.08 | 26750.00 | 1028.85 | 34:11 |     | Eighty-One | 88.46 | 3750.00 | 144.23 | 33:21 |
-| MALAMUTE 002 | 38.46 | 26125.00 | 1004.81 | 08:18 |     | Eighty-Three | 80.77 | -18875.00 | -725.96 | 55:44 |
+| MALAMUTE 002 | 53.85 | 381125.00 | 14658.65 | 105:28 |     | Eighty-One | 88.46 | 3750.00 | 144.23 | 33:21 |
+| MALAMUTE 001 | 23.08 | 26750.00 | 1028.85 | 34:11 |     | Eighty-Three | 80.77 | -18875.00 | -725.96 | 55:44 |
 | Five | 69.23 | 22375.00 | 860.58 | 30:00 |     | Eighty-Two | 80.77 | -27125.00 | -1043.27 | 50:10 |
 | Two | 57.69 | 11625.00 | 447.12 | 17:33 |     | Eighty-Four | 76.92 | -10875.00 | -418.27 | 66:28 |
 | Two_C | 57.69 | 9625.00 | 370.19 | 21:42 |     | Eighty-Five | 73.08 | -5625.00 | -216.35 | 69:56 |
@@ -19,10 +19,10 @@
 | Four | 57.69 | -4375.00 | -168.27 | 10:38 |     | Two | 57.69 | 11625.00 | 447.12 | 17:33 |
 | Eighty-Five | 73.08 | -5625.00 | -216.35 | 69:56 |     | Two_C | 57.69 | 9625.00 | 370.19 | 21:42 |
 | Seven | 61.54 | -8000.00 | -307.69 | 62:13 |     | Four | 57.69 | -4375.00 | -168.27 | 10:38 |
-| One | 53.85 | -8500.00 | -326.92 | 10:05 |     | One | 53.85 | -8500.00 | -326.92 | 10:05 |
-| Eighty-Four | 76.92 | -10875.00 | -418.27 | 66:28 |     | Zero | 42.31 | -12750.00 | -490.38 | 02:56 |
-| Three | 38.46 | -12625.00 | -485.58 | 03:40 |     | Six | 42.31 | -32875.00 | -1264.42 | 31:56 |
-| Zero | 42.31 | -12750.00 | -490.38 | 02:56 |     | MALAMUTE 002 | 38.46 | 26125.00 | 1004.81 | 08:18 |
+| One | 53.85 | -8500.00 | -326.92 | 10:05 |     | MALAMUTE 002 | 53.85 | 381125.00 | 14658.65 | 105:28 |
+| Eighty-Four | 76.92 | -10875.00 | -418.27 | 66:28 |     | One | 53.85 | -8500.00 | -326.92 | 10:05 |
+| Three | 38.46 | -12625.00 | -485.58 | 03:40 |     | Zero | 42.31 | -12750.00 | -490.38 | 02:56 |
+| Zero | 42.31 | -12750.00 | -490.38 | 02:56 |     | Six | 42.31 | -32875.00 | -1264.42 | 31:56 |
 | Eighty-Three | 80.77 | -18875.00 | -725.96 | 55:44 |     | Three | 38.46 | -12625.00 | -485.58 | 03:40 |
 | Eighty-Two | 80.77 | -27125.00 | -1043.27 | 50:10 |     | MALAMUTE 001 | 23.08 | 26750.00 | 1028.85 | 34:11 |
 | Six | 42.31 | -32875.00 | -1264.42 | 31:56 |     | NEWFI 0000 | 15.38 | -0.00 | -0.00 | 44:41 |
@@ -775,42 +775,42 @@ Total Points Downs: 170.50 Count Downs: 6
 * Results:
 ```
 Total Trades: 26
-Percent Up: 61.54
-Percent Down: 38.46
-Total Points Moved Down: 52.25
-Potential Profit: 26125.00
-Total Points Ups: 40.25 Count Ups: 16
-Total Points Downs: 92.50 Count Downs: 10
+Percent Up: 46.15
+Percent Down: 53.85
+Total Points Moved Down: 762.25
+Potential Profit: 381125.00
+Total Points Ups: 107.75 Count Ups: 12
+Total Points Downs: 870.00 Count Downs: 14
 ```
 
 <details><summary>Trades</summary>
 
-<code>In: 2022-10-28 07:21:00		Out: 2022-10-28 07:25:05		Total Position Time: 04:05		Total Move Down: -2.50		Total to Date: -2.50</code> <br />
-<code>In: 2022-10-28 08:33:00		Out: 2022-10-28 08:34:05		Total Position Time: 01:05		Total Move Down: 2.75		Total to Date: 0.25</code> <br />
-<code>In: 2022-10-28 11:10:00		Out: 2022-10-28 11:15:05		Total Position Time: 05:05		Total Move Down: -2.50		Total to Date: -2.25</code> <br />
-<code>In: 2022-10-28 12:24:00		Out: 2022-10-28 12:26:05		Total Position Time: 02:05		Total Move Down: -1.25		Total to Date: -3.50</code> <br />
-<code>In: 2022-10-31 07:21:00		Out: 2022-10-31 07:33:05		Total Position Time: 12:05		Total Move Down: 9.00		Total to Date: 5.50</code> <br />
-<code>In: 2022-10-31 07:40:00		Out: 2022-10-31 07:41:05		Total Position Time: 01:05		Total Move Down: -0.50		Total to Date: 5.00</code> <br />
-<code>In: 2022-10-31 09:10:00		Out: 2022-10-31 09:14:05		Total Position Time: 04:05		Total Move Down: -8.00		Total to Date: -3.00</code> <br />
-<code>In: 2022-10-31 10:58:00		Out: 2022-10-31 11:27:05		Total Position Time: 29:05		Total Move Down: -2.75		Total to Date: -5.75</code> <br />
-<code>In: 2022-10-31 12:03:00		Out: 2022-10-31 12:15:05		Total Position Time: 12:05		Total Move Down: 1.00		Total to Date: -4.75</code> <br />
-<code>In: 2022-11-01 07:21:00		Out: 2022-11-01 07:23:05		Total Position Time: 02:05		Total Move Down: -5.00		Total to Date: -9.75</code> <br />
-<code>In: 2022-11-01 08:37:00		Out: 2022-11-01 08:39:05		Total Position Time: 02:05		Total Move Down: 5.25		Total to Date: -4.50</code> <br />
-<code>In: 2022-11-01 08:42:00		Out: 2022-11-01 08:48:05		Total Position Time: 06:05		Total Move Down: -5.25		Total to Date: -9.75</code> <br />
-<code>In: 2022-11-01 09:35:00		Out: 2022-11-01 09:41:05		Total Position Time: 06:05		Total Move Down: -1.50		Total to Date: -11.25</code> <br />
-<code>In: 2022-11-01 10:42:00		Out: 2022-11-01 10:53:05		Total Position Time: 11:05		Total Move Down: -0.50		Total to Date: -11.75</code> <br />
-<code>In: 2022-11-01 11:31:00		Out: 2022-11-01 11:40:05		Total Position Time: 09:05		Total Move Down: 1.75		Total to Date: -10.00</code> <br />
-<code>In: 2022-11-02 07:21:00		Out: 2022-11-02 07:24:05		Total Position Time: 03:05		Total Move Down: -0.00		Total to Date: -10.00</code> <br />
-<code>In: 2022-11-02 08:22:00		Out: 2022-11-02 08:35:05		Total Position Time: 13:05		Total Move Down: -3.25		Total to Date: -13.25</code> <br />
-<code>In: 2022-11-02 09:10:00		Out: 2022-11-02 09:43:05		Total Position Time: 33:05		Total Move Down: 7.25		Total to Date: -6.00</code> <br />
-<code>In: 2022-11-02 10:31:00		Out: 2022-11-02 10:33:05		Total Position Time: 02:05		Total Move Down: -1.25		Total to Date: -7.25</code> <br />
-<code>In: 2022-11-02 11:45:00		Out: 2022-11-02 11:58:05		Total Position Time: 13:05		Total Move Down: 48.75		Total to Date: 41.50</code> <br />
-<code>In: 2022-11-03 08:22:00		Out: 2022-11-03 08:28:05		Total Position Time: 06:05		Total Move Down: 2.50		Total to Date: 44.00</code> <br />
-<code>In: 2022-11-03 10:22:00		Out: 2022-11-03 10:31:05		Total Position Time: 09:05		Total Move Down: -1.00		Total to Date: 43.00</code> <br />
-<code>In: 2022-11-03 12:20:00		Out: 2022-11-03 12:24:05		Total Position Time: 04:05		Total Move Down: -1.00		Total to Date: 42.00</code> <br />
-<code>In: 2022-11-04 08:03:00		Out: 2022-11-04 08:18:05		Total Position Time: 15:05		Total Move Down: 12.00		Total to Date: 54.00</code> <br />
-<code>In: 2022-11-04 09:50:00		Out: 2022-11-04 09:52:05		Total Position Time: 02:05		Total Move Down: -4.00		Total to Date: 50.00</code> <br />
-<code>In: 2022-11-04 10:40:00		Out: 2022-11-04 10:48:05		Total Position Time: 08:05		Total Move Down: 2.25		Total to Date: 52.25</code> <br />
+<code>In: 2022-10-28 07:21:00		Out: 2022-11-04 12:59:05		Total Position Time: 338:05		Total Move Down: 72.00		Total to Date: 72.00</code> <br />
+<code>In: 2022-10-28 08:33:00		Out: 2022-11-04 12:59:05		Total Position Time: 266:05		Total Move Down: 99.75		Total to Date: 171.75</code> <br />
+<code>In: 2022-10-28 11:10:00		Out: 2022-10-28 11:14:05		Total Position Time: 04:05		Total Move Down: -2.75		Total to Date: 169.00</code> <br />
+<code>In: 2022-10-28 12:24:00		Out: 2022-10-28 12:25:05		Total Position Time: 01:05		Total Move Down: -0.25		Total to Date: 168.75</code> <br />
+<code>In: 2022-10-31 07:21:00		Out: 2022-11-04 12:59:05		Total Position Time: 338:05		Total Move Down: 111.00		Total to Date: 279.75</code> <br />
+<code>In: 2022-10-31 07:40:00		Out: 2022-11-04 12:59:05		Total Position Time: 319:05		Total Move Down: 102.50		Total to Date: 382.25</code> <br />
+<code>In: 2022-10-31 09:10:00		Out: 2022-10-31 09:13:05		Total Position Time: 03:05		Total Move Down: -7.25		Total to Date: 375.00</code> <br />
+<code>In: 2022-10-31 10:58:00		Out: 2022-11-04 12:59:05		Total Position Time: 121:05		Total Move Down: 114.50		Total to Date: 489.50</code> <br />
+<code>In: 2022-10-31 12:03:00		Out: 2022-10-31 12:14:05		Total Position Time: 11:05		Total Move Down: 0.50		Total to Date: 490.00</code> <br />
+<code>In: 2022-11-01 07:21:00		Out: 2022-11-01 07:22:05		Total Position Time: 01:05		Total Move Down: -4.25		Total to Date: 485.75</code> <br />
+<code>In: 2022-11-01 08:37:00		Out: 2022-11-01 08:38:05		Total Position Time: 01:05		Total Move Down: -1.00		Total to Date: 484.75</code> <br />
+<code>In: 2022-11-01 08:42:00		Out: 2022-11-01 08:47:05		Total Position Time: 05:05		Total Move Down: -3.75		Total to Date: 481.00</code> <br />
+<code>In: 2022-11-01 09:35:00		Out: 2022-11-01 09:40:05		Total Position Time: 05:05		Total Move Down: -0.50		Total to Date: 480.50</code> <br />
+<code>In: 2022-11-01 10:42:00		Out: 2022-11-04 12:59:05		Total Position Time: 137:05		Total Move Down: 92.25		Total to Date: 572.75</code> <br />
+<code>In: 2022-11-01 11:31:00		Out: 2022-11-04 12:59:05		Total Position Time: 88:05		Total Move Down: 95.00		Total to Date: 667.75</code> <br />
+<code>In: 2022-11-02 07:21:00		Out: 2022-11-02 07:23:05		Total Position Time: 02:05		Total Move Down: -0.75		Total to Date: 667.00</code> <br />
+<code>In: 2022-11-02 08:22:00		Out: 2022-11-04 12:59:05		Total Position Time: 277:05		Total Move Down: 68.50		Total to Date: 735.50</code> <br />
+<code>In: 2022-11-02 09:10:00		Out: 2022-11-02 09:34:05		Total Position Time: 24:05		Total Move Down: 5.50		Total to Date: 741.00</code> <br />
+<code>In: 2022-11-02 10:31:00		Out: 2022-11-02 10:32:05		Total Position Time: 01:05		Total Move Down: 0.25		Total to Date: 741.25</code> <br />
+<code>In: 2022-11-02 11:45:00		Out: 2022-11-04 12:59:05		Total Position Time: 74:05		Total Move Down: 93.50		Total to Date: 834.75</code> <br />
+<code>In: 2022-11-03 08:22:00		Out: 2022-11-04 12:59:05		Total Position Time: 277:05		Total Move Down: -34.50		Total to Date: 800.25</code> <br />
+<code>In: 2022-11-03 10:22:00		Out: 2022-11-03 10:30:05		Total Position Time: 08:05		Total Move Down: 0.25		Total to Date: 800.50</code> <br />
+<code>In: 2022-11-03 12:20:00		Out: 2022-11-03 12:23:05		Total Position Time: 03:05		Total Move Down: -1.25		Total to Date: 799.25</code> <br />
+<code>In: 2022-11-04 08:03:00		Out: 2022-11-04 12:59:05		Total Position Time: 296:05		Total Move Down: 14.50		Total to Date: 813.75</code> <br />
+<code>In: 2022-11-04 09:50:00		Out: 2022-11-04 09:51:05		Total Position Time: 01:05		Total Move Down: -3.00		Total to Date: 810.75</code> <br />
+<code>In: 2022-11-04 10:40:00		Out: 2022-11-04 12:59:05		Total Position Time: 139:05		Total Move Down: -48.50		Total to Date: 762.25</code> <br />
 
 
 </details>
