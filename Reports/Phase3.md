@@ -26,3 +26,5 @@
 - [Trade Report 11-30-2022](TradeReport_11-30-2022.md)
 
 - [Trade Report 12-01-2022](TradeReport_12-01-2022.md)
+
+- [Trade Report 12-02-2022](TradeReport_12-02-2022.md)
