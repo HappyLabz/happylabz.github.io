@@ -16,6 +16,7 @@
 
 
 
+
 ## TAKE PROFIT
 
 
@@ -24,5 +25,6 @@
 
 
 ## Indicator Exits
+
 
 

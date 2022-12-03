@@ -1,10 +1,10 @@
-# Long Bernese 005 1v 
+# Long Bernese 005 1v SB 
 - Symbol: ES_1W
 - Date Range: 03/18/2022 - 07/29/2022
 - Trading Period: 7:20-12:30
 - Number of Trades: 5
 
-![Plot](LongBernese0051vES_1W.png)
+![Plot](LongBernese0051vSBES_1W.png)
 
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
