@@ -32,3 +32,5 @@
 - [Trade Report 12-05-2022](TradeReport_12-05-2022.md)
 
 - [Trade Report 12-06-2022](TradeReport_12-06-2022.md)
+
+- [Trade Report 12-07-2022](TradeReport_12-07-2022.md)
