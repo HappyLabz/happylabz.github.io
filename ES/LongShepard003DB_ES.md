@@ -9,29 +9,35 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
-| Eighty-One | 100.00 | 3875.00 | 553.57 | 09:32 |     | Eighty-One | 100.00 | 3875.00 | 553.57 | 09:32 |
-| One | 71.43 | 2875.00 | 410.71 | 10:30 |     | Four | 85.71 | 1375.00 | 196.43 | 36:10 |
-| Zero | 57.14 | 2000.00 | 285.71 | 04:40 |     | Two_C | 85.71 | 750.00 | 107.14 | 23:45 |
-| Four | 85.71 | 1375.00 | 196.43 | 36:10 |     | Two | 85.71 | 500.00 | 71.43 | 23:41 |
-| Two_C | 85.71 | 750.00 | 107.14 | 23:45 |     | One | 71.43 | 2875.00 | 410.71 | 10:30 |
-| Two | 85.71 | 500.00 | 71.43 | 23:41 |     | Five | 71.43 | -750.00 | -107.14 | 42:47 |
-| Five | 71.43 | -750.00 | -107.14 | 42:47 |     | Eighty-Five | 71.43 | -1250.00 | -178.57 | 36:43 |
-| Eighty-Five | 71.43 | -1250.00 | -178.57 | 36:43 |     | Eighty-Four | 71.43 | -1375.00 | -196.43 | 27:27 |
-| Eighty-Four | 71.43 | -1375.00 | -196.43 | 27:27 |     | Eighty-Three | 71.43 | -3125.00 | -446.43 | 26:55 |
-| MALAMUTE 002 | 28.57 | -2375.00 | -339.29 | 04:30 |     | Six | 71.43 | -4000.00 | -571.43 | 43:10 |
-| Eighty-Three | 71.43 | -3125.00 | -446.43 | 26:55 |     | Eighty-Two | 71.43 | -7000.00 | -1000.00 | 26:20 |
-| Three | 42.86 | -3125.00 | -446.43 | 30:45 |     | Zero | 57.14 | 2000.00 | 285.71 | 04:40 |
-| Six | 71.43 | -4000.00 | -571.43 | 43:10 |     | MALAMUTE 001 | 57.14 | -6750.00 | -964.29 | 51:47 |
-| NEWFI 0000 | 42.86 | -4375.00 | -625.00 | 12:13 |     | NEWFI 000 | 57.14 | -6750.00 | -964.29 | 51:47 |
-| MALAMUTE 001 | 57.14 | -6750.00 | -964.29 | 51:47 |     | BB100 | 57.14 | -6750.00 | -964.29 | 51:47 |
-| NEWFI 000 | 57.14 | -6750.00 | -964.29 | 51:47 |     | Seven | 57.14 | -6750.00 | -964.29 | 51:47 |
-| BB100 | 57.14 | -6750.00 | -964.29 | 51:47 |     | Three | 42.86 | -3125.00 | -446.43 | 30:45 |
-| Seven | 57.14 | -6750.00 | -964.29 | 51:47 |     | NEWFI 0000 | 42.86 | -4375.00 | -625.00 | 12:13 |
-| Eighty-Two | 71.43 | -7000.00 | -1000.00 | 26:20 |     | MALAMUTE 002 | 28.57 | -2375.00 | -339.29 | 04:30 |
+| TP-1 | 100.00 | 3875.00 | 553.57 | 09:32 |     | TP-1 | 100.00 | 3875.00 | 553.57 | 09:32 |
+| BB-20 U/L 1SD | 71.43 | 2875.00 | 410.71 | 10:30 |     | BB-50 U/L 1SD | 85.71 | 1375.00 | 196.43 | 36:10 |
+| BB-20 Mid | 57.14 | 2000.00 | 285.71 | 04:40 |     | BB-20 U/L 2SD C | 85.71 | 750.00 | 107.14 | 23:45 |
+| BB-50 U/L 1SD | 85.71 | 1375.00 | 196.43 | 36:10 |     | BB-20 U/L 2SD | 85.71 | 500.00 | 71.43 | 23:41 |
+| BB-20 U/L 2SD C | 85.71 | 750.00 | 107.14 | 23:45 |     | BB-20 U/L 1SD | 71.43 | 2875.00 | 410.71 | 10:30 |
+| BB-20 U/L 2SD | 85.71 | 500.00 | 71.43 | 23:41 |     | BB-100 Mid | 71.43 | 125.00 | 17.86 | 40:54 |
+| BB-100 Mid | 71.43 | 125.00 | 17.86 | 40:54 |     | TP-6 | 71.43 | 0.00 | 0.00 | 43:12 |
+| TP-6 | 71.43 | 0.00 | 0.00 | 43:12 |     | BB-50 U/L 2SD | 71.43 | -750.00 | -107.14 | 42:47 |
+| BB-50 U/L 2SD | 71.43 | -750.00 | -107.14 | 42:47 |     | TP-5 | 71.43 | -1250.00 | -178.57 | 36:43 |
+| TP-5 | 71.43 | -1250.00 | -178.57 | 36:43 |     | TP-4 | 71.43 | -1375.00 | -196.43 | 27:27 |
+| TP-4 | 71.43 | -1375.00 | -196.43 | 27:27 |     | TP-3 | 71.43 | -3125.00 | -446.43 | 26:55 |
+| TP-8 | 57.14 | -1375.00 | -196.43 | 46:27 |     | V Mid | 71.43 | -4000.00 | -571.43 | 43:10 |
+| TP-7 | 57.14 | -2375.00 | -339.29 | 46:12 |     | TP-2 | 71.43 | -7000.00 | -1000.00 | 26:20 |
+| TP-3 | 71.43 | -3125.00 | -446.43 | 26:55 |     | BB-20 Mid | 57.14 | 2000.00 | 285.71 | 04:40 |
+| BB-50 Mid | 42.86 | -3125.00 | -446.43 | 30:45 |     | TP-8 | 57.14 | -1375.00 | -196.43 | 46:27 |
+| V Mid | 71.43 | -4000.00 | -571.43 | 43:10 |     | TP-7 | 57.14 | -2375.00 | -339.29 | 46:12 |
+| TP-9 | 57.14 | -4125.00 | -589.29 | 49:10 |     | TP-9 | 57.14 | -4125.00 | -589.29 | 49:10 |
+| NEWFI 0000 | 42.86 | -4375.00 | -625.00 | 12:13 |     | BB-200 Mid | 57.14 | -5125.00 | -732.14 | 40:16 |
+| BB-200 Mid | 57.14 | -5125.00 | -732.14 | 40:16 |     | NEWFI 000 | 57.14 | -6750.00 | -964.29 | 51:47 |
+| NEWFI 000 | 57.14 | -6750.00 | -964.29 | 51:47 |     | TP-10 | 57.14 | -6750.00 | -964.29 | 51:47 |
+| TP-10 | 57.14 | -6750.00 | -964.29 | 51:47 |     | BB-200 U/L 2SD | 57.14 | -6750.00 | -964.29 | 51:47 |
+| BB-200 U/L 2SD | 57.14 | -6750.00 | -964.29 | 51:47 |     | BB-100 U/L 2SD | 57.14 | -6750.00 | -964.29 | 51:47 |
+| BB-100 U/L 2SD | 57.14 | -6750.00 | -964.29 | 51:47 |     | V U/L 1SD | 57.14 | -6750.00 | -964.29 | 51:47 |
+| V U/L 1SD | 57.14 | -6750.00 | -964.29 | 51:47 |     | BB-50 Mid | 42.86 | -3125.00 | -446.43 | 30:45 |
+| TP-2 | 71.43 | -7000.00 | -1000.00 | 26:20 |     | NEWFI 0000 | 42.86 | -4375.00 | -625.00 | 12:13 |
 
 ## NO STOPLOSS
 
-### Test Zero
+### Test BB-20 Mid
 * Sell when price hits the middle line of the 20p bollinger
 * No Stoploss
 * Results:
@@ -58,7 +64,7 @@ Total Points Downs: -4.00 Count Downs: 3
 
 </details>
 
-### Test One
+### Test BB-20 U/L 1SD
 * Sell when the price hits the upper line of the 20p 1std bollinger
 * No Stoploss
 * Results:
@@ -85,7 +91,7 @@ Total Points Downs: -1.75 Count Downs: 2
 
 </details>
 
-### Test Two
+### Test BB-20 U/L 2SD
 * Sell when the price hits the upper line of the 20p 2std bollinger
 * No Stoploss
 * Results:
@@ -112,7 +118,7 @@ Total Points Downs: -13.75 Count Downs: 1
 
 </details>
 
-### Test Two_C
+### Test BB-20 U/L 2SD C
 * Sell when the price hits the upper line of the 20p 2std bollinger
 * No Stoploss
 * Results:
@@ -139,7 +145,7 @@ Total Points Downs: -13.75 Count Downs: 1
 
 </details>
 
-### Test Three
+### Test BB-50 Mid
 * Sell when price hits the middle line of the 50p bollinger
 * No Stoploss
 * Results:
@@ -166,7 +172,7 @@ Total Points Downs: -16.00 Count Downs: 4
 
 </details>
 
-### Test Four
+### Test BB-50 U/L 1SD
 * Sell when the price hits the upper line of the 50p 1std bollinger
 * No Stoploss
 * Results:
@@ -193,7 +199,7 @@ Total Points Downs: -13.75 Count Downs: 1
 
 </details>
 
-### Test Five
+### Test BB-50 U/L 2SD
 * Sell when the price hits the upper line of the 50p 2std bollinger
 * No Stoploss
 * Results:
@@ -220,7 +226,7 @@ Total Points Downs: -23.75 Count Downs: 2
 
 </details>
 
-### Test Six
+### Test V Mid
 * Sell when the price hits the middle line of the 1std VWAP
 * No Stoploss
 * Results:
@@ -247,7 +253,7 @@ Total Points Downs: -23.75 Count Downs: 2
 
 </details>
 
-### Test Seven
+### Test V U/L 1SD
 * Sell when the price hits the upper line of the 1std VWAP
 * No Stoploss
 * Results:
@@ -274,8 +280,89 @@ Total Points Downs: -24.00 Count Downs: 3
 
 </details>
 
-### Test BB100
+### Test BB-100 Mid
+* Move to BB100 Mid
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 71.43
+Percent Down: 28.57
+Total Points Moved Up: 0.25
+Potential Profit: 125.00
+Total Points Ups: 24.00 Count Ups: 5
+Total Points Downs: -23.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:15:55		Total Position Time: 42:55		Total Move Up: 7.00		Total to Date: -11.50</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:13:15		Total Position Time: 23:15		Total Move Up: 4.00		Total to Date: -7.50</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:54:20		Total Position Time: 40:20		Total Move Up: 7.75		Total to Date: 0.25</code> <br />
+
+
+</details>
+
+### Test BB-100 U/L 2SD
 * Move to BB100 Upper Band
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -13.50
+Potential Profit: -6750.00
+Total Points Ups: 10.50 Count Ups: 4
+Total Points Downs: -24.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:33:55		Total Position Time: 60:55		Total Move Up: 1.75		Total to Date: -16.75</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -17.00</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 12:14:55		Total Position Time: 60:55		Total Move Up: 3.50		Total to Date: -13.50</code> <br />
+
+
+</details>
+
+### Test BB-200 Mid
+* Move to BB200 Mid
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -10.25
+Potential Profit: -5125.00
+Total Points Ups: 14.50 Count Ups: 4
+Total Points Downs: -24.75 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:33:55		Total Position Time: 60:55		Total Move Up: 1.75		Total to Date: -16.75</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 08:51:10		Total Position Time: 01:10		Total Move Up: -1.00		Total to Date: -17.75</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:54:00		Total Position Time: 40:00		Total Move Up: 7.50		Total to Date: -10.25</code> <br />
+
+
+</details>
+
+### Test BB-200 U/L 2SD
+* Move to BB200 Upper Band
 * No Stoploss
 * Results:
 ```
@@ -303,7 +390,7 @@ Total Points Downs: -24.00 Count Downs: 3
 
 ## TAKE PROFIT
 
-### Test Eighty-One
+### Test TP-1
 * Take Profit of 1 Point
 * No Stoploss
 * Results:
@@ -330,7 +417,7 @@ Total Points Downs: 0.00 Count Downs: 0
 
 </details>
 
-### Test Eighty-Two
+### Test TP-2
 * Take Profit of 2 Point
 * No Stoploss
 * Results:
@@ -357,7 +444,7 @@ Total Points Downs: -23.75 Count Downs: 2
 
 </details>
 
-### Test Eighty-Three
+### Test TP-3
 * Take Profit of 3 Point
 * No Stoploss
 * Results:
@@ -384,7 +471,7 @@ Total Points Downs: -23.75 Count Downs: 2
 
 </details>
 
-### Test Eighty-Four
+### Test TP-4
 * Take Profit of 4 Point
 * No Stoploss
 * Results:
@@ -411,7 +498,7 @@ Total Points Downs: -23.75 Count Downs: 2
 
 </details>
 
-### Test Eighty-Five
+### Test TP-5
 * Take Profit of 5 Point
 * No Stoploss
 * Results:
@@ -434,6 +521,141 @@ Total Points Downs: -23.75 Count Downs: 2
 <code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:05:45		Total Position Time: 32:45		Total Move Up: 5.50		Total to Date: -13.00</code> <br />
 <code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:25:00		Total Position Time: 35:00		Total Move Up: 5.25		Total to Date: -7.75</code> <br />
 <code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:23:30		Total Position Time: 09:30		Total Move Up: 5.25		Total to Date: -2.50</code> <br />
+
+
+</details>
+
+### Test TP-6
+* Take Profit of 6 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 71.43
+Percent Down: 28.57
+Total Points Moved Up: 0.00
+Potential Profit: 0.00
+Total Points Ups: 23.75 Count Ups: 5
+Total Points Downs: -23.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:15:50		Total Position Time: 42:50		Total Move Up: 6.25		Total to Date: -12.25</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:31:25		Total Position Time: 41:25		Total Move Up: 6.25		Total to Date: -6.00</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:52:25		Total Position Time: 38:25		Total Move Up: 6.00		Total to Date: 0.00</code> <br />
+
+
+</details>
+
+### Test TP-7
+* Take Profit of 7 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -4.75
+Potential Profit: -2375.00
+Total Points Ups: 19.25 Count Ups: 4
+Total Points Downs: -24.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:15:55		Total Position Time: 42:55		Total Move Up: 7.00		Total to Date: -11.50</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -11.75</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:53:50		Total Position Time: 39:50		Total Move Up: 7.00		Total to Date: -4.75</code> <br />
+
+
+</details>
+
+### Test TP-8
+* Take Profit of 8 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -2.75
+Potential Profit: -1375.00
+Total Points Ups: 21.25 Count Ups: 4
+Total Points Downs: -24.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:17:05		Total Position Time: 44:05		Total Move Up: 8.00		Total to Date: -10.50</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -10.75</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:54:25		Total Position Time: 40:25		Total Move Up: 8.00		Total to Date: -2.75</code> <br />
+
+
+</details>
+
+### Test TP-9
+* Take Profit of 9 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -8.25
+Potential Profit: -4125.00
+Total Points Ups: 15.75 Count Ups: 4
+Total Points Downs: -24.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:33:55		Total Position Time: 60:55		Total Move Up: 1.75		Total to Date: -16.75</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -17.00</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:56:35		Total Position Time: 42:35		Total Move Up: 8.75		Total to Date: -8.25</code> <br />
+
+
+</details>
+
+### Test TP-10
+* Take Profit of 10 Point
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 57.14
+Percent Down: 42.86
+Total Points Moved Up: -13.50
+Potential Profit: -6750.00
+Total Points Ups: 10.50 Count Ups: 4
+Total Points Downs: -24.00 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
+<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
+<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
+<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:33:55		Total Position Time: 60:55		Total Move Up: 1.75		Total to Date: -16.75</code> <br />
+<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -17.00</code> <br />
+<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 12:14:55		Total Position Time: 60:55		Total Move Up: 3.50		Total to Date: -13.50</code> <br />
 
 
 </details>
@@ -490,60 +712,6 @@ Total Points Downs: -10.75 Count Downs: 4
 <code>In: 2022-08-05 08:33:00		Out: 2022-08-05 08:51:05		Total Position Time: 18:05		Total Move Up: -1.50		Total to Date: -4.00</code> <br />
 <code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:04:05		Total Position Time: 14:05		Total Move Up: -4.75		Total to Date: -8.75</code> <br />
 <code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:34:05		Total Position Time: 20:05		Total Move Up: 0.00		Total to Date: -8.75</code> <br />
-
-
-</details>
-
-### Test MALAMUTE 001
-* Malamute 001
-* No Stoploss
-* Results:
-```
-Total Trades: 7
-Percent Up: 57.14
-Percent Down: 42.86
-Total Points Moved Up: -13.50
-Potential Profit: -6750.00
-Total Points Ups: 10.50 Count Ups: 4
-Total Points Downs: -24.00 Count Downs: 3
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 10:53:55		Total Position Time: 60:55		Total Move Up: -13.75		Total to Date: -13.75</code> <br />
-<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: -10.00</code> <br />
-<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:47:00		Total Position Time: 22:00		Total Move Up: 1.50		Total to Date: -8.50</code> <br />
-<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 12:11:55		Total Position Time: 60:55		Total Move Up: -10.00		Total to Date: -18.50</code> <br />
-<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 09:33:55		Total Position Time: 60:55		Total Move Up: 1.75		Total to Date: -16.75</code> <br />
-<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 09:50:55		Total Position Time: 60:55		Total Move Up: -0.25		Total to Date: -17.00</code> <br />
-<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 12:14:55		Total Position Time: 60:55		Total Move Up: 3.50		Total to Date: -13.50</code> <br />
-
-
-</details>
-
-### Test MALAMUTE 002
-* Malamute 001
-* No Stoploss
-* Results:
-```
-Total Trades: 7
-Percent Up: 28.57
-Percent Down: 71.43
-Total Points Moved Up: -4.75
-Potential Profit: -2375.00
-Total Points Ups: 2.25 Count Ups: 2
-Total Points Downs: -7.00 Count Downs: 5
-```
-
-<details><summary>Trades</summary>
-
-<code>In: 2022-03-23 09:53:00		Out: 2022-03-23 09:58:05		Total Position Time: 05:05		Total Move Up: -2.00		Total to Date: -2.00</code> <br />
-<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:12:05		Total Position Time: 01:05		Total Move Up: -3.75		Total to Date: -5.75</code> <br />
-<code>In: 2022-07-11 12:25:00		Out: 2022-07-11 12:27:05		Total Position Time: 02:05		Total Move Up: -0.50		Total to Date: -6.25</code> <br />
-<code>In: 2022-07-25 11:11:00		Out: 2022-07-25 11:16:05		Total Position Time: 05:05		Total Move Up: -0.25		Total to Date: -6.50</code> <br />
-<code>In: 2022-08-05 08:33:00		Out: 2022-08-05 08:38:05		Total Position Time: 05:05		Total Move Up: -0.50		Total to Date: -7.00</code> <br />
-<code>In: 2022-11-07 08:50:00		Out: 2022-11-07 08:55:05		Total Position Time: 05:05		Total Move Up: 0.00		Total to Date: -7.00</code> <br />
-<code>In: 2022-12-08 11:14:00		Out: 2022-12-08 11:22:05		Total Position Time: 08:05		Total Move Up: 2.25		Total to Date: -4.75</code> <br />
 
 
 </details>
