@@ -1,6 +1,6 @@
 # Long Bernese 005 1v 
 - Symbol: ES_900-930
-- Date Range: 11/29/2022 - 12/30/2022
+- Date Range: 12/22/2022 - 12/30/2022
 - Trading Period: 9:0-9:30
 - Number of Trades: 0
 
