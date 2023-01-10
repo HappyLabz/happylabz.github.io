@@ -14,6 +14,8 @@
 | BB-100 Mid | 100.00 | 3500.00 | 1750.00 | 47:47 |     | BB-100 Mid | 100.00 | 3500.00 | 1750.00 | 47:47 |
 | TP-6 | 100.00 | 3250.00 | 1625.00 | 52:50 |     | TP-6 | 100.00 | 3250.00 | 1625.00 | 52:50 |
 | TP-5 | 100.00 | 3250.00 | 1625.00 | 52:50 |     | TP-5 | 100.00 | 3250.00 | 1625.00 | 52:50 |
+| BB-20 Mid SL-10 | 100.00 | 2750.00 | 1375.00 | 04:12 |     | BB-20 Mid SL-10 | 100.00 | 2750.00 | 1375.00 | 04:12 |
+| BB-20 Mid SL-5 | 100.00 | 2750.00 | 1375.00 | 04:12 |     | BB-20 Mid SL-5 | 100.00 | 2750.00 | 1375.00 | 04:12 |
 | BB-20 Mid | 100.00 | 2750.00 | 1375.00 | 04:12 |     | BB-20 Mid | 100.00 | 2750.00 | 1375.00 | 04:12 |
 | TP-4 | 100.00 | 2000.00 | 1000.00 | 33:35 |     | TP-4 | 100.00 | 2000.00 | 1000.00 | 33:35 |
 | TP-2 | 100.00 | 1875.00 | 937.50 | 03:30 |     | TP-2 | 100.00 | 1875.00 | 937.50 | 03:30 |
@@ -30,10 +32,34 @@
 | BB-100 U/L 2SD | 50.00 | -1500.00 | -750.00 | 60:55 |     | BB-100 U/L 2SD | 50.00 | -1500.00 | -750.00 | 60:55 |
 | V U/L 1SD | 50.00 | -1500.00 | -750.00 | 60:55 |     | V U/L 1SD | 50.00 | -1500.00 | -750.00 | 60:55 |
 | V Mid | 50.00 | -1500.00 | -750.00 | 60:55 |     | V Mid | 50.00 | -1500.00 | -750.00 | 60:55 |
-| BB-20 U/L 2SD | 0.00 | -1875.00 | -937.50 | 39:12 |     | BB-20 U/L 2SD | 0.00 | -1875.00 | -937.50 | 39:12 |
-| NEWFI 0000 | 0.00 | -2250.00 | -1125.00 | 11:35 |     | NEWFI 0000 | 0.00 | -2250.00 | -1125.00 | 11:35 |
-| BB-50 Mid | 0.00 | -2500.00 | -1250.00 | 43:47 |     | BB-50 Mid | 0.00 | -2500.00 | -1250.00 | 43:47 |
-| BB-20 U/L 1SD | 0.00 | -3500.00 | -1750.00 | 37:57 |     | BB-20 U/L 1SD | 0.00 | -3500.00 | -1750.00 | 37:57 |
+| BB-20 U/L 2SD | 0.00 | -1875.00 | -937.50 | 39:12 |     | BB-50 U/L 2SD SL-10 | 50.00 | -4250.00 | -2125.00 | 40:52 |
+| NEWFI 0000 | 0.00 | -2250.00 | -1125.00 | 11:35 |     | BB-100 Mid SL-10 | 50.00 | -4625.00 | -2312.50 | 36:12 |
+| BB-50 Mid | 0.00 | -2500.00 | -1250.00 | 43:47 |     | BB-200 U/L 2SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |
+| BB-20 U/L 1SD | 0.00 | -3500.00 | -1750.00 | 37:57 |     | BB-200 Mid SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |
+| BB-50 U/L 2SD SL-10 | 50.00 | -4250.00 | -2125.00 | 40:52 |     | BB-100 U/L 2SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |
+| BB-100 Mid SL-10 | 50.00 | -4625.00 | -2312.50 | 36:12 |     | V U/L 1SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |
+| BB-200 U/L 2SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |     | V Mid SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |
+| BB-200 Mid SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |     | BB-20 U/L 2SD | 0.00 | -1875.00 | -937.50 | 39:12 |
+| BB-100 U/L 2SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |     | NEWFI 0000 | 0.00 | -2250.00 | -1125.00 | 11:35 |
+| V U/L 1SD SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |     | BB-50 Mid | 0.00 | -2500.00 | -1250.00 | 43:47 |
+| V Mid SL-10 | 50.00 | -4875.00 | -2437.50 | 41:15 |     | BB-20 U/L 1SD | 0.00 | -3500.00 | -1750.00 | 37:57 |
+| BB-50 U/L 1SD SL-10 | 0.00 | -5000.00 | -2500.00 | 35:50 |     | BB-50 U/L 1SD SL-10 | 0.00 | -5000.00 | -2500.00 | 35:50 |
+| BB-200 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-200 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-200 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-200 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-100 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-100 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-100 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-100 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| V U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | V U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| V Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | V Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-50 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-50 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-50 U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-50 U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-50 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-50 Mid SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-20 U/L 2SD C SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-20 U/L 2SD C SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-20 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-20 U/L 2SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-20 U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |     | BB-20 U/L 1SD SL-5 | 0.00 | -5250.00 | -2625.00 | 16:37 |
+| BB-50 Mid SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |     | BB-50 Mid SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |
+| BB-20 U/L 2SD C SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |     | BB-20 U/L 2SD C SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |
+| BB-20 U/L 2SD SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |     | BB-20 U/L 2SD SL-10 | 0.00 | -6125.00 | -3062.50 | 33:27 |
+| BB-20 U/L 1SD SL-10 | 0.00 | -7375.00 | -3687.50 | 33:07 |     | BB-20 U/L 1SD SL-10 | 0.00 | -7375.00 | -3687.50 | 33:07 |
 
 ## NO STOPLOSS
 
@@ -319,6 +345,582 @@ Total Points Downs: -3.00 Count Downs: 1
 
 <code>In: 2022-09-20 10:37:00		Out: 2022-09-20 11:37:55		Total Position Time: 60:55		Total Move Up: -3.00		Total to Date: -3.00</code> <br />
 <code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -3.00</code> <br />
+
+
+</details>
+
+## STOPLOSS OF 5
+
+### Test BB-20 Mid SL-5
+* Sell when price hits the middle line of the 20p bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.50
+Potential Profit: 2750.00
+Total Points Ups: 5.50 Count Ups: 2
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:43:05		Total Position Time: 06:05		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:03:20		Total Position Time: 02:20		Total Move Up: 1.75		Total to Date: 5.50</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 1SD SL-5
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 2SD SL-5
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 2SD C SL-5
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-50 Mid SL-5
+* Sell when price hits the middle line of the 50p bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-50 U/L 1SD SL-5
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-50 U/L 2SD SL-5
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test V Mid SL-5
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test V U/L 1SD SL-5
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-100 Mid SL-5
+* Move to BB100 Mid
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-100 U/L 2SD SL-5
+* Move to BB100 Upper Band
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-200 Mid SL-5
+* Move to BB200 Mid
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+### Test BB-200 U/L 2SD SL-5
+* Move to BB200 Upper Band
+* Stoploss is 5 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.50
+Potential Profit: -5250.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.50 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:50:40		Total Position Time: 13:40		Total Move Up: -5.25		Total to Date: -5.25</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:20:35		Total Position Time: 19:35		Total Move Up: -5.25		Total to Date: -10.50</code> <br />
+
+
+</details>
+
+## STOPLOSS OF 10
+
+### Test BB-20 Mid SL-10
+* Sell when price hits the middle line of the 20p bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 5.50
+Potential Profit: 2750.00
+Total Points Ups: 5.50 Count Ups: 2
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:43:05		Total Position Time: 06:05		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:03:20		Total Position Time: 02:20		Total Move Up: 1.75		Total to Date: 5.50</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 1SD SL-10
+* Sell when the price hits the upper line of the 20p 1std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -14.75
+Potential Profit: -7375.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -14.75 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:45:40		Total Position Time: 44:40		Total Move Up: -5.00		Total to Date: -14.75</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 2SD SL-10
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -12.25
+Potential Profit: -6125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -12.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:46:20		Total Position Time: 45:20		Total Move Up: -2.50		Total to Date: -12.25</code> <br />
+
+
+</details>
+
+### Test BB-20 U/L 2SD C SL-10
+* Sell when the price hits the upper line of the 20p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -12.25
+Potential Profit: -6125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -12.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:46:20		Total Position Time: 45:20		Total Move Up: -2.50		Total to Date: -12.25</code> <br />
+
+
+</details>
+
+### Test BB-50 Mid SL-10
+* Sell when price hits the middle line of the 50p bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -12.25
+Potential Profit: -6125.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -12.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:46:20		Total Position Time: 45:20		Total Move Up: -2.50		Total to Date: -12.25</code> <br />
+
+
+</details>
+
+### Test BB-50 U/L 1SD SL-10
+* Sell when the price hits the upper line of the 50p 1std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Up: -10.00
+Potential Profit: -5000.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: -10.00 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:51:05		Total Position Time: 50:05		Total Move Up: -0.25		Total to Date: -10.00</code> <br />
+
+
+</details>
+
+### Test BB-50 U/L 2SD SL-10
+* Sell when the price hits the upper line of the 50p 2std bollinger
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -8.50
+Potential Profit: -4250.00
+Total Points Ups: 1.25 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:10		Total Position Time: 60:10		Total Move Up: 1.25		Total to Date: -8.50</code> <br />
+
+
+</details>
+
+### Test V Mid SL-10
+* Sell when the price hits the middle line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -9.75</code> <br />
+
+
+</details>
+
+### Test V U/L 1SD SL-10
+* Sell when the price hits the upper line of the 1std VWAP
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -9.75</code> <br />
+
+
+</details>
+
+### Test BB-100 Mid SL-10
+* Move to BB100 Mid
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.25
+Potential Profit: -4625.00
+Total Points Ups: 0.50 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:51:50		Total Position Time: 50:50		Total Move Up: 0.50		Total to Date: -9.25</code> <br />
+
+
+</details>
+
+### Test BB-100 U/L 2SD SL-10
+* Move to BB100 Upper Band
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -9.75</code> <br />
+
+
+</details>
+
+### Test BB-200 Mid SL-10
+* Move to BB200 Mid
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -9.75</code> <br />
+
+
+</details>
+
+### Test BB-200 U/L 2SD SL-10
+* Move to BB200 Upper Band
+* Stoploss is 10 points
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -9.75
+Potential Profit: -4875.00
+Total Points Ups: 0.00 Count Ups: 1
+Total Points Downs: -9.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:58:35		Total Position Time: 21:35		Total Move Up: -9.75		Total to Date: -9.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: -9.75</code> <br />
 
 
 </details>
