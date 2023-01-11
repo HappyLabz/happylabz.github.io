@@ -6,10 +6,10 @@
 
 ### Malinois 001
 
-- [Long Malinois 001 DB](LongMalinois001_ES.md)
-- [Short Malinois 001 DB](ShortMalinois001_ES.md)
+- [Long Malinois 001 DB](LongMalinois001_ES_830-900.md)
+- [Short Malinois 001 DB](ShortMalinois001_ES_830-900.md)
 
 ### Malinois 002
 
-- [Long Malinois 002 DB](LongMalinois002_ES.md)
-- [Short Malinois 002 DB](ShortMalinois002_ES.md)
+- [Long Malinois 002 DB](LongMalinois002_ES_830-900.md)
+- [Short Malinois 002 DB](ShortMalinois002_ES_830-900.md)
