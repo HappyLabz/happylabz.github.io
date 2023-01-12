@@ -12,6 +12,7 @@
 | V U/L 1SD | 100.00 | 11250.00 | 5625.00 | 47:27 |     | V U/L 1SD | 100.00 | 11250.00 | 5625.00 | 47:27 |
 | BB-50 U/L 2SD | 100.00 | 10625.00 | 5312.50 | 37:37 |     | BB-50 U/L 2SD | 100.00 | 10625.00 | 5312.50 | 37:37 |
 | TP-10 | 100.00 | 10000.00 | 5000.00 | 38:37 |     | TP-10 | 100.00 | 10000.00 | 5000.00 | 38:37 |
+| NEWFI 06 | 100.00 | 9625.00 | 4812.50 | 60:55 |     | NEWFI 06 | 100.00 | 9625.00 | 4812.50 | 60:55 |
 | BB-200 U/L 2SD | 100.00 | 9625.00 | 4812.50 | 60:55 |     | BB-200 U/L 2SD | 100.00 | 9625.00 | 4812.50 | 60:55 |
 | BB-100 U/L 2SD | 100.00 | 9625.00 | 4812.50 | 60:55 |     | BB-100 U/L 2SD | 100.00 | 9625.00 | 4812.50 | 60:55 |
 | TP-9 | 100.00 | 9375.00 | 4687.50 | 37:25 |     | TP-9 | 100.00 | 9375.00 | 4687.50 | 37:25 |
@@ -1189,6 +1190,28 @@ Total Points Downs: -26.00 Count Downs: 1
 
 <code>In: 2022-10-31 09:50:00		Out: 2022-10-31 10:50:55		Total Position Time: 60:55		Total Move Up: 9.25		Total to Date: 9.25</code> <br />
 <code>In: 2022-11-08 11:15:00		Out: 2022-11-08 11:30:05		Total Position Time: 15:05		Total Move Up: -26.00		Total to Date: -16.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 2
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 19.25
+Potential Profit: 9625.00
+Total Points Ups: 19.25 Count Ups: 2
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-10-31 09:50:00		Out: 2022-10-31 10:50:55		Total Position Time: 60:55		Total Move Up: 9.25		Total to Date: 9.25</code> <br />
+<code>In: 2022-11-08 11:15:00		Out: 2022-11-08 12:15:55		Total Position Time: 60:55		Total Move Up: 10.00		Total to Date: 19.25</code> <br />
 
 
 </details>

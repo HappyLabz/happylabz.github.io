@@ -34,6 +34,7 @@
 | BB-100 Mid SL-5 | 33.33 | -1375.00 | -458.33 | 07:56 |     | BB-50 U/L 1SD SL-5 | 33.33 | -875.00 | -291.67 | 08:08 |
 | BB-20 Mid SL-10 | 66.67 | -1500.00 | -500.00 | 04:05 |     | BB-100 Mid SL-5 | 33.33 | -1375.00 | -458.33 | 07:56 |
 | NEWFI 0000 | 33.33 | -1625.00 | -541.67 | 09:45 |     | NEWFI 0000 | 33.33 | -1625.00 | -541.67 | 09:45 |
+| NEWFI 06 | 33.33 | -2375.00 | -791.67 | 39:20 |     | NEWFI 06 | 33.33 | -2375.00 | -791.67 | 39:20 |
 | NEWFI 000 | 33.33 | -2375.00 | -791.67 | 39:20 |     | NEWFI 000 | 33.33 | -2375.00 | -791.67 | 39:20 |
 | BB-200 U/L 2SD | 33.33 | -2375.00 | -791.67 | 39:20 |     | BB-200 U/L 2SD | 33.33 | -2375.00 | -791.67 | 39:20 |
 | BB-100 U/L 2SD | 33.33 | -2375.00 | -791.67 | 39:20 |     | BB-100 U/L 2SD | 33.33 | -2375.00 | -791.67 | 39:20 |
@@ -1240,6 +1241,29 @@ Total Points Downs: 3.00 Count Downs: 1
 <code>In: 2022-06-10 12:03:00		Out: 2022-06-10 12:22:05		Total Position Time: 19:05		Total Move Down: 3.00		Total to Date: 3.00</code> <br />
 <code>In: 2022-09-22 12:08:00		Out: 2022-09-22 12:17:05		Total Position Time: 09:05		Total Move Down: -5.75		Total to Date: -2.75</code> <br />
 <code>In: 2022-11-18 12:12:00		Out: 2022-11-18 12:13:05		Total Position Time: 01:05		Total Move Down: -0.50		Total to Date: -3.25</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Down: -4.75
+Potential Profit: -2375.00
+Total Points Ups: 19.75 Count Ups: 2
+Total Points Downs: 15.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-06-10 12:03:00		Out: 2022-06-10 12:47:00		Total Position Time: 44:00		Total Move Down: 15.00		Total to Date: 15.00</code> <br />
+<code>In: 2022-09-22 12:08:00		Out: 2022-09-22 12:47:00		Total Position Time: 39:00		Total Move Down: -11.00		Total to Date: 4.00</code> <br />
+<code>In: 2022-11-18 12:12:00		Out: 2022-11-18 12:47:00		Total Position Time: 35:00		Total Move Down: -8.75		Total to Date: -4.75</code> <br />
 
 
 </details>

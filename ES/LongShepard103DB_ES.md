@@ -11,16 +11,17 @@
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
 | NEWFI 000 | 92.31 | 60375.00 | 4644.23 | 42:36 |     | NEWFI 000 | 92.31 | 60375.00 | 4644.23 | 42:36 |
 | V U/L 1SD | 76.92 | 59875.00 | 4605.77 | 43:07 |     | BB-50 U/L 1SD | 92.31 | 35000.00 | 2692.31 | 26:28 |
-| BB-200 U/L 2SD | 76.92 | 58375.00 | 4490.38 | 48:25 |     | BB-20 U/L 2SD C | 92.31 | 11125.00 | 855.77 | 19:16 |
-| BB-100 U/L 2SD | 76.92 | 42875.00 | 3298.08 | 46:54 |     | TP-4 | 92.31 | 8000.00 | 615.38 | 18:41 |
-| BB-50 U/L 2SD | 76.92 | 37125.00 | 2855.77 | 34:10 |     | TP-3 | 92.31 | 4250.00 | 326.92 | 17:50 |
-| BB-50 U/L 1SD | 92.31 | 35000.00 | 2692.31 | 26:28 |     | BB-20 U/L 2SD | 92.31 | 4125.00 | 317.31 | 16:56 |
-| BB-200 Mid | 76.92 | 33375.00 | 2567.31 | 38:57 |     | TP-2 | 92.31 | -1125.00 | -86.54 | 15:10 |
-| BB-100 Mid | 76.92 | 30000.00 | 2307.69 | 32:36 |     | TP-1 | 92.31 | -6625.00 | -509.62 | 12:38 |
-| V Mid | 76.92 | 28000.00 | 2153.85 | 30:57 |     | TP-7 | 84.62 | 15500.00 | 1192.31 | 25:51 |
-| TP-10 | 76.92 | 23000.00 | 1769.23 | 30:39 |     | TP-6 | 84.62 | 10750.00 | 826.92 | 24:12 |
-| BB-50 U/L 2SD SL-10 | 53.85 | 19625.00 | 1509.62 | 20:21 |     | TP-5 | 84.62 | 6125.00 | 471.15 | 23:26 |
-| BB-100 Mid SL-10 | 53.85 | 17625.00 | 1355.77 | 19:12 |     | V U/L 1SD | 76.92 | 59875.00 | 4605.77 | 43:07 |
+| NEWFI 06 | 76.92 | 58375.00 | 4490.38 | 48:25 |     | BB-20 U/L 2SD C | 92.31 | 11125.00 | 855.77 | 19:16 |
+| BB-200 U/L 2SD | 76.92 | 58375.00 | 4490.38 | 48:25 |     | TP-4 | 92.31 | 8000.00 | 615.38 | 18:41 |
+| BB-100 U/L 2SD | 76.92 | 42875.00 | 3298.08 | 46:54 |     | TP-3 | 92.31 | 4250.00 | 326.92 | 17:50 |
+| BB-50 U/L 2SD | 76.92 | 37125.00 | 2855.77 | 34:10 |     | BB-20 U/L 2SD | 92.31 | 4125.00 | 317.31 | 16:56 |
+| BB-50 U/L 1SD | 92.31 | 35000.00 | 2692.31 | 26:28 |     | TP-2 | 92.31 | -1125.00 | -86.54 | 15:10 |
+| BB-200 Mid | 76.92 | 33375.00 | 2567.31 | 38:57 |     | TP-1 | 92.31 | -6625.00 | -509.62 | 12:38 |
+| BB-100 Mid | 76.92 | 30000.00 | 2307.69 | 32:36 |     | TP-7 | 84.62 | 15500.00 | 1192.31 | 25:51 |
+| V Mid | 76.92 | 28000.00 | 2153.85 | 30:57 |     | TP-6 | 84.62 | 10750.00 | 826.92 | 24:12 |
+| TP-10 | 76.92 | 23000.00 | 1769.23 | 30:39 |     | TP-5 | 84.62 | 6125.00 | 471.15 | 23:26 |
+| BB-50 U/L 2SD SL-10 | 53.85 | 19625.00 | 1509.62 | 20:21 |     | V U/L 1SD | 76.92 | 59875.00 | 4605.77 | 43:07 |
+| BB-100 Mid SL-10 | 53.85 | 17625.00 | 1355.77 | 19:12 |     | NEWFI 06 | 76.92 | 58375.00 | 4490.38 | 48:25 |
 | TP-9 | 76.92 | 17000.00 | 1307.69 | 29:17 |     | BB-200 U/L 2SD | 76.92 | 58375.00 | 4490.38 | 48:25 |
 | BB-50 U/L 1SD SL-10 | 61.54 | 16000.00 | 1230.77 | 15:51 |     | BB-100 U/L 2SD | 76.92 | 42875.00 | 3298.08 | 46:54 |
 | TP-7 | 84.62 | 15500.00 | 1192.31 | 25:51 |     | BB-50 U/L 2SD | 76.92 | 37125.00 | 2855.77 | 34:10 |
@@ -1750,6 +1751,39 @@ Total Points Downs: -22.25 Count Downs: 9
 <code>In: 2022-10-11 12:15:00		Out: 2022-10-11 12:18:05		Total Position Time: 03:05		Total Move Up: 5.25		Total to Date: -13.50</code> <br />
 <code>In: 2022-10-31 09:56:00		Out: 2022-10-31 10:56:55		Total Position Time: 60:55		Total Move Up: 8.75		Total to Date: -4.75</code> <br />
 <code>In: 2022-10-31 12:11:00		Out: 2022-10-31 12:12:05		Total Position Time: 01:05		Total Move Up: -0.50		Total to Date: -5.25</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 13
+Percent Up: 76.92
+Percent Down: 23.08
+Total Points Moved Up: 116.75
+Potential Profit: 58375.00
+Total Points Ups: 157.00 Count Ups: 10
+Total Points Downs: -40.25 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-05-06 11:36:00		Out: 2022-05-06 12:36:55		Total Position Time: 60:55		Total Move Up: 14.75		Total to Date: 18.50</code> <br />
+<code>In: 2022-05-06 11:47:00		Out: 2022-05-06 12:47:00		Total Position Time: 60:00		Total Move Up: 34.00		Total to Date: 52.50</code> <br />
+<code>In: 2022-05-06 12:20:00		Out: 2022-05-06 12:47:00		Total Position Time: 27:00		Total Move Up: 34.00		Total to Date: 86.50</code> <br />
+<code>In: 2022-07-11 12:15:00		Out: 2022-07-11 12:47:00		Total Position Time: 32:00		Total Move Up: 0.00		Total to Date: 86.50</code> <br />
+<code>In: 2022-09-02 09:47:00		Out: 2022-09-02 10:47:55		Total Position Time: 60:55		Total Move Up: -32.50		Total to Date: 54.00</code> <br />
+<code>In: 2022-09-08 09:24:00		Out: 2022-09-08 10:24:55		Total Position Time: 60:55		Total Move Up: 34.50		Total to Date: 88.50</code> <br />
+<code>In: 2022-09-14 10:59:00		Out: 2022-09-14 11:59:55		Total Position Time: 60:55		Total Move Up: -7.00		Total to Date: 81.50</code> <br />
+<code>In: 2022-09-14 11:06:00		Out: 2022-09-14 12:06:55		Total Position Time: 60:55		Total Move Up: -0.75		Total to Date: 80.75</code> <br />
+<code>In: 2022-10-11 12:06:00		Out: 2022-10-11 12:47:00		Total Position Time: 41:00		Total Move Up: 3.75		Total to Date: 84.50</code> <br />
+<code>In: 2022-10-11 12:15:00		Out: 2022-10-11 12:47:00		Total Position Time: 32:00		Total Move Up: 12.00		Total to Date: 96.50</code> <br />
+<code>In: 2022-10-31 09:56:00		Out: 2022-10-31 10:56:55		Total Position Time: 60:55		Total Move Up: 8.75		Total to Date: 105.25</code> <br />
+<code>In: 2022-10-31 12:11:00		Out: 2022-10-31 12:47:00		Total Position Time: 36:00		Total Move Up: 11.50		Total to Date: 116.75</code> <br />
 
 
 </details>

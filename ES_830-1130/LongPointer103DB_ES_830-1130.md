@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| NEWFI 06 | 100.00 | 28875.00 | 5775.00 | 46:33 |     | NEWFI 06 | 100.00 | 28875.00 | 5775.00 | 46:33 |
 | NEWFI 000 | 100.00 | 28875.00 | 5775.00 | 46:33 |     | NEWFI 000 | 100.00 | 28875.00 | 5775.00 | 46:33 |
 | BB-200 U/L 2SD | 100.00 | 28875.00 | 5775.00 | 46:33 |     | BB-200 U/L 2SD | 100.00 | 28875.00 | 5775.00 | 46:33 |
 | BB-100 U/L 2SD | 100.00 | 28250.00 | 5650.00 | 46:29 |     | BB-100 U/L 2SD | 100.00 | 28250.00 | 5650.00 | 46:29 |
@@ -1342,6 +1343,31 @@ Total Points Downs: -8.25 Count Downs: 2
 <code>In: 2022-08-05 08:32:00		Out: 2022-08-05 08:51:05		Total Position Time: 19:05		Total Move Up: 1.75		Total to Date: -2.25</code> <br />
 <code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 4.50</code> <br />
 <code>In: 2022-10-17 09:48:00		Out: 2022-10-17 10:05:05		Total Position Time: 17:05		Total Move Up: -2.25		Total to Date: 2.25</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 57.75
+Potential Profit: 28875.00
+Total Points Ups: 57.75 Count Ups: 5
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-03-25 12:26:00		Out: 2022-03-25 12:47:00		Total Position Time: 21:00		Total Move Up: 7.00		Total to Date: 7.00</code> <br />
+<code>In: 2022-05-06 09:03:00		Out: 2022-05-06 10:03:55		Total Position Time: 60:55		Total Move Up: 28.75		Total to Date: 35.75</code> <br />
+<code>In: 2022-08-05 08:32:00		Out: 2022-08-05 09:32:55		Total Position Time: 60:55		Total Move Up: 5.25		Total to Date: 41.00</code> <br />
+<code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 47.75</code> <br />
+<code>In: 2022-10-17 09:48:00		Out: 2022-10-17 10:48:55		Total Position Time: 60:55		Total Move Up: 10.00		Total to Date: 57.75</code> <br />
 
 
 </details>

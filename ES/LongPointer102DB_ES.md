@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| NEWFI 06 | 100.00 | 22750.00 | 7583.33 | 50:16 |     | NEWFI 06 | 100.00 | 22750.00 | 7583.33 | 50:16 |
 | NEWFI 000 | 100.00 | 22750.00 | 7583.33 | 50:16 |     | NEWFI 000 | 100.00 | 22750.00 | 7583.33 | 50:16 |
 | BB-200 U/L 2SD | 100.00 | 22750.00 | 7583.33 | 50:16 |     | BB-200 U/L 2SD | 100.00 | 22750.00 | 7583.33 | 50:16 |
 | BB-100 U/L 2SD | 100.00 | 22125.00 | 7375.00 | 50:10 |     | BB-100 U/L 2SD | 100.00 | 22125.00 | 7375.00 | 50:10 |
@@ -1240,6 +1241,29 @@ Total Points Downs: -2.25 Count Downs: 1
 <code>In: 2022-05-06 09:03:00		Out: 2022-05-06 09:19:05		Total Position Time: 16:05		Total Move Up: 2.00		Total to Date: 2.00</code> <br />
 <code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 8.75</code> <br />
 <code>In: 2022-10-17 09:48:00		Out: 2022-10-17 10:05:05		Total Position Time: 17:05		Total Move Up: -2.25		Total to Date: 6.50</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 3
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 45.50
+Potential Profit: 22750.00
+Total Points Ups: 45.50 Count Ups: 3
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-06 09:03:00		Out: 2022-05-06 10:03:55		Total Position Time: 60:55		Total Move Up: 28.75		Total to Date: 28.75</code> <br />
+<code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 35.50</code> <br />
+<code>In: 2022-10-17 09:48:00		Out: 2022-10-17 10:48:55		Total Position Time: 60:55		Total Move Up: 10.00		Total to Date: 45.50</code> <br />
 
 
 </details>

@@ -28,8 +28,9 @@
 | V U/L 1SD SL-10 | 80.00 | 15125.00 | 3025.00 | 36:38 |     | BB-200 U/L 2SD | 80.00 | 17000.00 | 3400.00 | 52:17 |
 | V Mid SL-10 | 100.00 | 14500.00 | 2900.00 | 26:13 |     | BB-50 U/L 2SD SL-10 | 80.00 | 16875.00 | 3375.00 | 32:12 |
 | V Mid | 100.00 | 14500.00 | 2900.00 | 26:13 |     | BB-50 U/L 1SD SL-5 | 80.00 | 16625.00 | 3325.00 | 17:15 |
-| BB-100 U/L 2SD | 80.00 | 14375.00 | 2875.00 | 60:55 |     | BB-100 Mid SL-5 | 80.00 | 16000.00 | 3200.00 | 17:50 |
-| V U/L 1SD SL-5 | 60.00 | 14250.00 | 2850.00 | 25:32 |     | V U/L 1SD SL-10 | 80.00 | 15125.00 | 3025.00 | 36:38 |
+| NEWFI 06 | 80.00 | 14375.00 | 2875.00 | 60:55 |     | BB-100 Mid SL-5 | 80.00 | 16000.00 | 3200.00 | 17:50 |
+| BB-100 U/L 2SD | 80.00 | 14375.00 | 2875.00 | 60:55 |     | V U/L 1SD SL-10 | 80.00 | 15125.00 | 3025.00 | 36:38 |
+| V U/L 1SD SL-5 | 60.00 | 14250.00 | 2850.00 | 25:32 |     | NEWFI 06 | 80.00 | 14375.00 | 2875.00 | 60:55 |
 | TP-6 | 100.00 | 13375.00 | 2675.00 | 25:29 |     | BB-100 U/L 2SD | 80.00 | 14375.00 | 2875.00 | 60:55 |
 | BB-50 U/L 2SD | 80.00 | 11875.00 | 2375.00 | 38:14 |     | BB-50 U/L 2SD | 80.00 | 11875.00 | 2375.00 | 38:14 |
 | TP-5 | 100.00 | 11500.00 | 2300.00 | 22:49 |     | BB-20 U/L 2SD C SL-10 | 80.00 | 11125.00 | 2225.00 | 14:15 |
@@ -1342,6 +1343,31 @@ Total Points Downs: 42.75 Count Downs: 3
 <code>In: 2022-06-14 10:26:00		Out: 2022-06-14 11:26:55		Total Position Time: 60:55		Total Move Down: 24.50		Total to Date: 42.75</code> <br />
 <code>In: 2022-08-05 10:19:00		Out: 2022-08-05 10:39:05		Total Position Time: 20:05		Total Move Down: -2.00		Total to Date: 40.75</code> <br />
 <code>In: 2022-11-21 10:24:00		Out: 2022-11-21 10:42:05		Total Position Time: 18:05		Total Move Down: -4.25		Total to Date: 36.50</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 5
+Percent Up: 20.00
+Percent Down: 80.00
+Total Points Moved Down: 28.75
+Potential Profit: 14375.00
+Total Points Ups: 20.25 Count Ups: 1
+Total Points Downs: 49.00 Count Downs: 4
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-06-09 10:09:00		Out: 2022-06-09 11:09:55		Total Position Time: 60:55		Total Move Down: 18.00		Total to Date: 18.00</code> <br />
+<code>In: 2022-06-10 11:27:00		Out: 2022-06-10 12:27:55		Total Position Time: 60:55		Total Move Down: -20.25		Total to Date: -2.25</code> <br />
+<code>In: 2022-06-14 10:26:00		Out: 2022-06-14 11:26:55		Total Position Time: 60:55		Total Move Down: 24.50		Total to Date: 22.25</code> <br />
+<code>In: 2022-08-05 10:19:00		Out: 2022-08-05 11:19:55		Total Position Time: 60:55		Total Move Down: 4.75		Total to Date: 27.00</code> <br />
+<code>In: 2022-11-21 10:24:00		Out: 2022-11-21 11:24:55		Total Position Time: 60:55		Total Move Down: 1.75		Total to Date: 28.75</code> <br />
 
 
 </details>

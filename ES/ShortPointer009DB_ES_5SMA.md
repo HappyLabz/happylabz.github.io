@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| NEWFI 06 | 100.00 | 6375.00 | 6375.00 | 60:55 |     | NEWFI 06 | 100.00 | 6375.00 | 6375.00 | 60:55 |
 | NEWFI 0000 | 100.00 | 6375.00 | 6375.00 | 60:55 |     | NEWFI 0000 | 100.00 | 6375.00 | 6375.00 | 60:55 |
 | TP-10 | 100.00 | 4875.00 | 4875.00 | 43:35 |     | TP-10 | 100.00 | 4875.00 | 4875.00 | 43:35 |
 | TP-9 | 100.00 | 4500.00 | 4500.00 | 43:20 |     | TP-9 | 100.00 | 4500.00 | 4500.00 | 43:20 |
@@ -1123,6 +1124,27 @@ Total Points Downs: 3.75 Count Downs: 1
 
 ### Test NEWFI 0000
 * Newfi 0000
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 0.00
+Percent Down: 100.00
+Total Points Moved Down: 12.75
+Potential Profit: 6375.00
+Total Points Ups: 0.00 Count Ups: 0
+Total Points Downs: 12.75 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-08-22 09:28:00		Out: 2022-08-22 10:28:55		Total Position Time: 60:55		Total Move Down: 12.75		Total to Date: 12.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
 * No Stoploss
 * Results:
 ```

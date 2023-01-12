@@ -17,6 +17,7 @@
 | BB-50 U/L 2SD SL-10 | 100.00 | 4750.00 | 4750.00 | 27:40 |     | BB-50 U/L 2SD SL-10 | 100.00 | 4750.00 | 4750.00 | 27:40 |
 | BB-50 U/L 2SD SL-5 | 100.00 | 4750.00 | 4750.00 | 27:40 |     | BB-50 U/L 2SD SL-5 | 100.00 | 4750.00 | 4750.00 | 27:40 |
 | BB-50 U/L 2SD | 100.00 | 4750.00 | 4750.00 | 27:40 |     | BB-50 U/L 2SD | 100.00 | 4750.00 | 4750.00 | 27:40 |
+| NEWFI 06 | 100.00 | 4625.00 | 4625.00 | 60:55 |     | NEWFI 06 | 100.00 | 4625.00 | 4625.00 | 60:55 |
 | NEWFI 0000 | 100.00 | 4625.00 | 4625.00 | 60:55 |     | NEWFI 0000 | 100.00 | 4625.00 | 4625.00 | 60:55 |
 | NEWFI 000 | 100.00 | 4625.00 | 4625.00 | 60:55 |     | NEWFI 000 | 100.00 | 4625.00 | 4625.00 | 60:55 |
 | BB-200 U/L 2SD SL-10 | 100.00 | 4625.00 | 4625.00 | 60:55 |     | BB-200 U/L 2SD SL-10 | 100.00 | 4625.00 | 4625.00 | 60:55 |
@@ -1123,6 +1124,27 @@ Total Points Downs: 0.00 Count Downs: 0
 
 ### Test NEWFI 0000
 * Newfi 0000
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 9.25
+Potential Profit: 4625.00
+Total Points Ups: 9.25 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-10-31 09:50:00		Out: 2022-10-31 10:50:55		Total Position Time: 60:55		Total Move Up: 9.25		Total to Date: 9.25</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
 * No Stoploss
 * Results:
 ```

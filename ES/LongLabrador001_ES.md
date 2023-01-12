@@ -47,6 +47,7 @@
 | V Mid SL-10 | 50.00 | -125.00 | -62.50 | 01:10 |     | V Mid SL-10 | 50.00 | -125.00 | -62.50 | 01:10 |
 | V Mid SL-5 | 50.00 | -125.00 | -62.50 | 01:10 |     | V Mid SL-5 | 50.00 | -125.00 | -62.50 | 01:10 |
 | V Mid | 50.00 | -125.00 | -62.50 | 01:10 |     | V Mid | 50.00 | -125.00 | -62.50 | 01:10 |
+| NEWFI 06 | 50.00 | -375.00 | -187.50 | 60:55 |     | NEWFI 06 | 50.00 | -375.00 | -187.50 | 60:55 |
 | NEWFI 000 | 50.00 | -375.00 | -187.50 | 60:55 |     | NEWFI 000 | 50.00 | -375.00 | -187.50 | 60:55 |
 | TP-10 | 50.00 | -375.00 | -187.50 | 60:55 |     | TP-10 | 50.00 | -375.00 | -187.50 | 60:55 |
 | TP-9 | 50.00 | -375.00 | -187.50 | 60:55 |     | TP-9 | 50.00 | -375.00 | -187.50 | 60:55 |
@@ -1189,6 +1190,28 @@ Total Points Downs: -4.00 Count Downs: 1
 
 <code>In: 2022-10-17 11:29:00		Out: 2022-10-17 12:10:05		Total Position Time: 41:05		Total Move Up: -4.00		Total to Date: -4.00</code> <br />
 <code>In: 2022-12-27 09:52:00		Out: 2022-12-27 10:43:05		Total Position Time: 51:05		Total Move Up: 1.25		Total to Date: -2.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: -0.75
+Potential Profit: -375.00
+Total Points Ups: 2.25 Count Ups: 1
+Total Points Downs: -3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-10-17 11:29:00		Out: 2022-10-17 12:29:55		Total Position Time: 60:55		Total Move Up: 2.25		Total to Date: 2.25</code> <br />
+<code>In: 2022-12-27 09:52:00		Out: 2022-12-27 10:52:55		Total Position Time: 60:55		Total Move Up: -3.00		Total to Date: -0.75</code> <br />
 
 
 </details>

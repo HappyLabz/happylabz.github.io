@@ -41,6 +41,7 @@
 | BB-100 Mid SL-10 | 50.00 | -2000.00 | -1000.00 | 26:22 |     | BB-100 Mid SL-10 | 50.00 | -2000.00 | -1000.00 | 26:22 |
 | BB-200 Mid | 50.00 | -2125.00 | -1062.50 | 60:40 |     | BB-200 Mid | 50.00 | -2125.00 | -1062.50 | 60:40 |
 | BB-50 Mid SL-10 | 50.00 | -3000.00 | -1500.00 | 14:52 |     | BB-50 Mid SL-10 | 50.00 | -3000.00 | -1500.00 | 14:52 |
+| NEWFI 06 | 50.00 | -3125.00 | -1562.50 | 60:55 |     | NEWFI 06 | 50.00 | -3125.00 | -1562.50 | 60:55 |
 | NEWFI 000 | 50.00 | -3125.00 | -1562.50 | 60:55 |     | NEWFI 000 | 50.00 | -3125.00 | -1562.50 | 60:55 |
 | BB-200 U/L 2SD | 50.00 | -3125.00 | -1562.50 | 60:55 |     | BB-200 U/L 2SD | 50.00 | -3125.00 | -1562.50 | 60:55 |
 | BB-100 U/L 2SD | 50.00 | -3125.00 | -1562.50 | 60:55 |     | BB-100 U/L 2SD | 50.00 | -3125.00 | -1562.50 | 60:55 |
@@ -1189,6 +1190,28 @@ Total Points Downs: 0.00 Count Downs: 0
 
 <code>In: 2022-04-25 10:19:00		Out: 2022-04-25 11:19:55		Total Position Time: 60:55		Total Move Down: -9.25		Total to Date: -9.25</code> <br />
 <code>In: 2022-05-24 10:49:00		Out: 2022-05-24 10:58:05		Total Position Time: 09:05		Total Move Down: -3.50		Total to Date: -12.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 2
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Down: -6.25
+Potential Profit: -3125.00
+Total Points Ups: 9.25 Count Ups: 1
+Total Points Downs: 3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-25 10:19:00		Out: 2022-04-25 11:19:55		Total Position Time: 60:55		Total Move Down: -9.25		Total to Date: -9.25</code> <br />
+<code>In: 2022-05-24 10:49:00		Out: 2022-05-24 11:49:55		Total Position Time: 60:55		Total Move Down: 3.00		Total to Date: -6.25</code> <br />
 
 
 </details>

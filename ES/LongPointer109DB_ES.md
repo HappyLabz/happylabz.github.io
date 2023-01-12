@@ -9,6 +9,7 @@
 | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |      | Name | Win Percent | Profit | Avg Profit / Trade | Avg Time / Trade |
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
+| NEWFI 06 | 100.00 | 14375.00 | 14375.00 | 60:55 |     | NEWFI 06 | 100.00 | 14375.00 | 14375.00 | 60:55 |
 | NEWFI 000 | 100.00 | 14375.00 | 14375.00 | 60:55 |     | NEWFI 000 | 100.00 | 14375.00 | 14375.00 | 60:55 |
 | BB-200 U/L 2SD | 100.00 | 14375.00 | 14375.00 | 60:55 |     | BB-200 U/L 2SD | 100.00 | 14375.00 | 14375.00 | 60:55 |
 | BB-100 U/L 2SD | 100.00 | 14375.00 | 14375.00 | 60:55 |     | BB-100 U/L 2SD | 100.00 | 14375.00 | 14375.00 | 60:55 |
@@ -1138,6 +1139,27 @@ Total Points Downs: 0.00 Count Downs: 0
 <details><summary>Trades</summary>
 
 <code>In: 2022-05-06 09:03:00		Out: 2022-05-06 09:19:05		Total Position Time: 16:05		Total Move Up: 2.00		Total to Date: 2.00</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 1
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 28.75
+Potential Profit: 14375.00
+Total Points Ups: 28.75 Count Ups: 1
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-06 09:03:00		Out: 2022-05-06 10:03:55		Total Position Time: 60:55		Total Move Up: 28.75		Total to Date: 28.75</code> <br />
 
 
 </details>

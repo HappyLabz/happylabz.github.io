@@ -24,12 +24,13 @@
 | V U/L 1SD SL-10 | 66.67 | 7875.00 | 875.00 | 34:29 |     | TP-5 | 88.89 | 0.00 | 0.00 | 25:36 |
 | BB-200 U/L 2SD SL-10 | 55.56 | 7750.00 | 861.11 | 41:13 |     | TP-10 | 77.78 | 8500.00 | 944.44 | 45:57 |
 | TP-9 | 77.78 | 7250.00 | 805.56 | 44:52 |     | TP-9 | 77.78 | 7250.00 | 805.56 | 44:52 |
-| BB-100 U/L 2SD | 66.67 | 6250.00 | 694.44 | 57:20 |     | V U/L 1SD | 77.78 | 6125.00 | 680.56 | 51:31 |
-| V U/L 1SD | 77.78 | 6125.00 | 680.56 | 51:31 |     | BB-100 Mid SL-10 | 77.78 | 4875.00 | 541.67 | 23:57 |
-| BB-200 U/L 2SD | 66.67 | 6000.00 | 666.67 | 58:16 |     | BB-50 U/L 2SD | 77.78 | 3125.00 | 347.22 | 47:38 |
-| V U/L 1SD SL-5 | 44.44 | 6000.00 | 666.67 | 23:17 |     | BB-50 U/L 1SD | 77.78 | 2875.00 | 319.44 | 33:09 |
-| BB-200 U/L 2SD SL-5 | 33.33 | 5875.00 | 652.78 | 30:01 |     | BB-200 Mid | 77.78 | 625.00 | 69.44 | 45:44 |
-| BB-100 U/L 2SD SL-5 | 33.33 | 5500.00 | 611.11 | 30:01 |     | V U/L 1SD SL-10 | 66.67 | 7875.00 | 875.00 | 34:29 |
+| NEWFI 06 | 66.67 | 6625.00 | 736.11 | 60:36 |     | V U/L 1SD | 77.78 | 6125.00 | 680.56 | 51:31 |
+| BB-100 U/L 2SD | 66.67 | 6250.00 | 694.44 | 57:20 |     | BB-100 Mid SL-10 | 77.78 | 4875.00 | 541.67 | 23:57 |
+| V U/L 1SD | 77.78 | 6125.00 | 680.56 | 51:31 |     | BB-50 U/L 2SD | 77.78 | 3125.00 | 347.22 | 47:38 |
+| BB-200 U/L 2SD | 66.67 | 6000.00 | 666.67 | 58:16 |     | BB-50 U/L 1SD | 77.78 | 2875.00 | 319.44 | 33:09 |
+| V U/L 1SD SL-5 | 44.44 | 6000.00 | 666.67 | 23:17 |     | BB-200 Mid | 77.78 | 625.00 | 69.44 | 45:44 |
+| BB-200 U/L 2SD SL-5 | 33.33 | 5875.00 | 652.78 | 30:01 |     | V U/L 1SD SL-10 | 66.67 | 7875.00 | 875.00 | 34:29 |
+| BB-100 U/L 2SD SL-5 | 33.33 | 5500.00 | 611.11 | 30:01 |     | NEWFI 06 | 66.67 | 6625.00 | 736.11 | 60:36 |
 | TP-7 | 88.89 | 5125.00 | 569.44 | 29:09 |     | BB-100 U/L 2SD | 66.67 | 6250.00 | 694.44 | 57:20 |
 | V Mid SL-10 | 66.67 | 5000.00 | 555.56 | 22:44 |     | BB-200 U/L 2SD | 66.67 | 6000.00 | 666.67 | 58:16 |
 | BB-100 Mid SL-10 | 77.78 | 4875.00 | 541.67 | 23:57 |     | V Mid SL-10 | 66.67 | 5000.00 | 555.56 | 22:44 |
@@ -1546,6 +1547,35 @@ Total Points Downs: -17.50 Count Downs: 4
 <code>In: 2022-12-27 09:52:00		Out: 2022-12-27 10:43:05		Total Position Time: 51:05		Total Move Up: 1.25		Total to Date: 17.25</code> <br />
 <code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:23:05		Total Position Time: 22:05		Total Move Up: -3.75		Total to Date: 13.50</code> <br />
 <code>In: 2022-12-27 11:24:00		Out: 2022-12-27 11:31:05		Total Position Time: 07:05		Total Move Up: -3.75		Total to Date: 9.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 9
+Percent Up: 66.67
+Percent Down: 33.33
+Total Points Moved Up: 13.25
+Potential Profit: 6625.00
+Total Points Ups: 63.75 Count Ups: 6
+Total Points Downs: -50.50 Count Downs: 3
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-05-06 11:12:00		Out: 2022-05-06 12:12:55		Total Position Time: 60:55		Total Move Up: -8.25		Total to Date: -8.25</code> <br />
+<code>In: 2022-05-12 10:12:00		Out: 2022-05-12 11:12:55		Total Position Time: 60:55		Total Move Up: -39.25		Total to Date: -47.50</code> <br />
+<code>In: 2022-05-16 09:47:00		Out: 2022-05-16 10:47:55		Total Position Time: 60:55		Total Move Up: 23.00		Total to Date: -24.50</code> <br />
+<code>In: 2022-07-20 10:18:00		Out: 2022-07-20 11:18:55		Total Position Time: 60:55		Total Move Up: 5.50		Total to Date: -19.00</code> <br />
+<code>In: 2022-09-06 10:18:00		Out: 2022-09-06 11:18:55		Total Position Time: 60:55		Total Move Up: 16.75		Total to Date: -2.25</code> <br />
+<code>In: 2022-11-08 11:14:00		Out: 2022-11-08 12:14:55		Total Position Time: 60:55		Total Move Up: 12.75		Total to Date: 10.50</code> <br />
+<code>In: 2022-12-27 09:52:00		Out: 2022-12-27 10:52:55		Total Position Time: 60:55		Total Move Up: -3.00		Total to Date: 7.50</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: 7.50</code> <br />
+<code>In: 2022-12-27 11:24:00		Out: 2022-12-27 12:22:05		Total Position Time: 58:05		Total Move Up: 5.75		Total to Date: 13.25</code> <br />
 
 
 </details>

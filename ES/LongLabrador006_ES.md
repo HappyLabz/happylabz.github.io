@@ -19,12 +19,13 @@
 | BB-100 U/L 2SD | 85.71 | 21875.00 | 3125.00 | 52:02 |     | TP-2 | 100.00 | 6750.00 | 964.29 | 05:00 |
 | V U/L 1SD SL-5 | 71.43 | 21750.00 | 3107.14 | 30:18 |     | TP-1 | 100.00 | 3750.00 | 535.71 | 02:47 |
 | BB-200 U/L 2SD | 85.71 | 21000.00 | 3000.00 | 56:21 |     | V U/L 1SD | 85.71 | 25500.00 | 3642.86 | 42:57 |
-| TP-8 | 85.71 | 19875.00 | 2839.29 | 35:47 |     | TP-10 | 85.71 | 24250.00 | 3464.29 | 38:04 |
-| BB-50 U/L 2SD | 100.00 | 19375.00 | 2767.86 | 44:31 |     | BB-50 U/L 1SD | 85.71 | 24000.00 | 3428.57 | 27:10 |
-| TP-6 | 100.00 | 19000.00 | 2714.29 | 22:55 |     | V U/L 1SD SL-10 | 85.71 | 22125.00 | 3160.71 | 37:20 |
-| BB-100 U/L 2SD SL-10 | 85.71 | 18500.00 | 2642.86 | 46:25 |     | TP-9 | 85.71 | 21875.00 | 3125.00 | 36:20 |
-| BB-50 U/L 1SD SL-10 | 71.43 | 18500.00 | 2642.86 | 24:07 |     | BB-100 U/L 2SD | 85.71 | 21875.00 | 3125.00 | 52:02 |
-| BB-50 U/L 1SD SL-5 | 71.43 | 18250.00 | 2607.14 | 18:37 |     | BB-200 U/L 2SD | 85.71 | 21000.00 | 3000.00 | 56:21 |
+| NEWFI 06 | 85.71 | 20375.00 | 2910.71 | 55:57 |     | TP-10 | 85.71 | 24250.00 | 3464.29 | 38:04 |
+| TP-8 | 85.71 | 19875.00 | 2839.29 | 35:47 |     | BB-50 U/L 1SD | 85.71 | 24000.00 | 3428.57 | 27:10 |
+| BB-50 U/L 2SD | 100.00 | 19375.00 | 2767.86 | 44:31 |     | V U/L 1SD SL-10 | 85.71 | 22125.00 | 3160.71 | 37:20 |
+| TP-6 | 100.00 | 19000.00 | 2714.29 | 22:55 |     | TP-9 | 85.71 | 21875.00 | 3125.00 | 36:20 |
+| BB-100 U/L 2SD SL-10 | 85.71 | 18500.00 | 2642.86 | 46:25 |     | BB-100 U/L 2SD | 85.71 | 21875.00 | 3125.00 | 52:02 |
+| BB-50 U/L 1SD SL-10 | 71.43 | 18500.00 | 2642.86 | 24:07 |     | BB-200 U/L 2SD | 85.71 | 21000.00 | 3000.00 | 56:21 |
+| BB-50 U/L 1SD SL-5 | 71.43 | 18250.00 | 2607.14 | 18:37 |     | NEWFI 06 | 85.71 | 20375.00 | 2910.71 | 55:57 |
 | BB-100 U/L 2SD SL-5 | 71.43 | 18125.00 | 2589.29 | 39:22 |     | TP-8 | 85.71 | 19875.00 | 2839.29 | 35:47 |
 | BB-200 U/L 2SD SL-10 | 85.71 | 17625.00 | 2517.86 | 50:44 |     | BB-100 U/L 2SD SL-10 | 85.71 | 18500.00 | 2642.86 | 46:25 |
 | BB-200 U/L 2SD SL-5 | 71.43 | 17250.00 | 2464.29 | 43:42 |     | BB-200 U/L 2SD SL-10 | 85.71 | 17625.00 | 2517.86 | 50:44 |
@@ -1444,6 +1445,33 @@ Total Points Downs: -7.00 Count Downs: 4
 <code>In: 2022-09-20 10:37:00		Out: 2022-09-20 10:38:05		Total Position Time: 01:05		Total Move Up: -0.75		Total to Date: 23.50</code> <br />
 <code>In: 2022-10-25 10:18:00		Out: 2022-10-25 10:19:05		Total Position Time: 01:05		Total Move Up: -2.00		Total to Date: 21.50</code> <br />
 <code>In: 2022-12-27 11:01:00		Out: 2022-12-27 11:23:05		Total Position Time: 22:05		Total Move Up: -3.75		Total to Date: 17.75</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 7
+Percent Up: 85.71
+Percent Down: 14.29
+Total Points Moved Up: 40.75
+Potential Profit: 20375.00
+Total Points Ups: 43.75 Count Ups: 6
+Total Points Downs: -3.00 Count Downs: 1
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-20 09:18:00		Out: 2022-04-20 10:18:55		Total Position Time: 60:55		Total Move Up: 11.75		Total to Date: 11.75</code> <br />
+<code>In: 2022-06-17 12:18:00		Out: 2022-06-17 12:47:00		Total Position Time: 29:00		Total Move Up: 6.25		Total to Date: 18.00</code> <br />
+<code>In: 2022-06-27 09:36:00		Out: 2022-06-27 10:36:55		Total Position Time: 60:55		Total Move Up: 0.75		Total to Date: 18.75</code> <br />
+<code>In: 2022-09-06 10:18:00		Out: 2022-09-06 11:18:55		Total Position Time: 60:55		Total Move Up: 16.75		Total to Date: 35.50</code> <br />
+<code>In: 2022-09-20 10:37:00		Out: 2022-09-20 11:37:55		Total Position Time: 60:55		Total Move Up: -3.00		Total to Date: 32.50</code> <br />
+<code>In: 2022-10-25 10:18:00		Out: 2022-10-25 11:16:05		Total Position Time: 58:05		Total Move Up: 8.25		Total to Date: 40.75</code> <br />
+<code>In: 2022-12-27 11:01:00		Out: 2022-12-27 12:01:55		Total Position Time: 60:55		Total Move Up: 0.00		Total to Date: 40.75</code> <br />
 
 
 </details>

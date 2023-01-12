@@ -33,9 +33,10 @@
 | BB-20 U/L 1SD | 75.00 | 375.00 | 93.75 | 06:57 |     | TP-2 | 75.00 | -3625.00 | -906.25 | 20:23 |
 | BB-100 U/L 2SD | 50.00 | 375.00 | 93.75 | 60:51 |     | BB-100 U/L 2SD SL-10 | 50.00 | 2375.00 | 593.75 | 52:03 |
 | TP-4 | 75.00 | 0.00 | 0.00 | 26:05 |     | BB-200 U/L 2SD SL-10 | 50.00 | 2000.00 | 500.00 | 52:07 |
-| BB-200 U/L 2SD | 50.00 | 0.00 | 0.00 | 60:55 |     | V U/L 1SD SL-10 | 50.00 | 2000.00 | 500.00 | 52:07 |
-| V U/L 1SD | 50.00 | 0.00 | 0.00 | 60:55 |     | BB-100 Mid SL-5 | 50.00 | 750.00 | 187.50 | 12:28 |
-| V Mid SL-5 | 50.00 | -125.00 | -31.25 | 11:30 |     | BB-100 U/L 2SD | 50.00 | 375.00 | 93.75 | 60:51 |
+| NEWFI 06 | 50.00 | 0.00 | 0.00 | 60:55 |     | V U/L 1SD SL-10 | 50.00 | 2000.00 | 500.00 | 52:07 |
+| BB-200 U/L 2SD | 50.00 | 0.00 | 0.00 | 60:55 |     | BB-100 Mid SL-5 | 50.00 | 750.00 | 187.50 | 12:28 |
+| V U/L 1SD | 50.00 | 0.00 | 0.00 | 60:55 |     | BB-100 U/L 2SD | 50.00 | 375.00 | 93.75 | 60:51 |
+| V Mid SL-5 | 50.00 | -125.00 | -31.25 | 11:30 |     | NEWFI 06 | 50.00 | 0.00 | 0.00 | 60:55 |
 | NEWFI 0000 | 25.00 | -500.00 | -125.00 | 28:47 |     | BB-200 U/L 2SD | 50.00 | 0.00 | 0.00 | 60:55 |
 | BB-100 U/L 2SD SL-5 | 25.00 | -500.00 | -125.00 | 24:31 |     | V U/L 1SD | 50.00 | 0.00 | 0.00 | 60:55 |
 | BB-50 U/L 1SD SL-5 | 50.00 | -875.00 | -218.75 | 11:51 |     | V Mid SL-5 | 50.00 | -125.00 | -31.25 | 11:30 |
@@ -1291,6 +1292,30 @@ Total Points Downs: -15.50 Count Downs: 3
 <code>In: 2022-07-25 11:07:00		Out: 2022-07-25 11:24:05		Total Position Time: 17:05		Total Move Up: -2.50		Total to Date: 12.00</code> <br />
 <code>In: 2022-09-12 09:08:00		Out: 2022-09-12 09:13:05		Total Position Time: 05:05		Total Move Up: -3.00		Total to Date: 9.00</code> <br />
 <code>In: 2022-10-19 08:39:00		Out: 2022-10-19 09:11:05		Total Position Time: 32:05		Total Move Up: -10.00		Total to Date: -1.00</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 4
+Percent Up: 50.00
+Percent Down: 50.00
+Total Points Moved Up: 0.00
+Potential Profit: 0.00
+Total Points Ups: 25.25 Count Ups: 2
+Total Points Downs: -25.25 Count Downs: 2
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-07-08 10:07:00		Out: 2022-07-08 11:07:55		Total Position Time: 60:55		Total Move Up: 14.50		Total to Date: 14.50</code> <br />
+<code>In: 2022-07-25 11:07:00		Out: 2022-07-25 12:07:55		Total Position Time: 60:55		Total Move Up: -13.25		Total to Date: 1.25</code> <br />
+<code>In: 2022-09-12 09:08:00		Out: 2022-09-12 10:08:55		Total Position Time: 60:55		Total Move Up: 10.75		Total to Date: 12.00</code> <br />
+<code>In: 2022-10-19 08:39:00		Out: 2022-10-19 09:39:55		Total Position Time: 60:55		Total Move Up: -12.00		Total to Date: 0.00</code> <br />
 
 
 </details>

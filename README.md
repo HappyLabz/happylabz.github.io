@@ -20,13 +20,6 @@ Contact: CyberGus@protonmail.com
 - [ES Pointers](ES/README_Pointers.md)
 - [ES Shepards](ES/README_Shepards.md)
 
-### ES Trading 8:30-11:30
-- [ES Bernese](ES_830-1130/README_Bernese.md)
-- [ES Labradors](ES_830-1130/README_Labs.md)
-- [ES Malinois](ES_830-1130/README_Malinois.md)
-- [ES Pointers](ES_830-1130/README_Pointers.md)
-- [ES Shepards](ES_830-1130/README_Shepards.md)
-
 ### ES Trading 8:30-9:00
 - [ES Bernese](ES_830-900/README_Bernese.md)
 - [ES Labradors](ES_830-900/README_Labs.md)

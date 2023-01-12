@@ -10,6 +10,7 @@
 | ---- | ----------- | ------ | ------------------ | ---------------- | ---- | ---- | ----------- | ------ | ------------------ | ---------------- |
 | Sorted By <br> Profit | | | | | | Sorted By <br> Win Percentage ||||
 | TP-10 | 100.00 | 17250.00 | 4312.50 | 30:37 |     | TP-10 | 100.00 | 17250.00 | 4312.50 | 30:37 |
+| NEWFI 06 | 100.00 | 16125.00 | 4031.25 | 42:13 |     | NEWFI 06 | 100.00 | 16125.00 | 4031.25 | 42:13 |
 | TP-9 | 100.00 | 15375.00 | 3843.75 | 29:00 |     | TP-9 | 100.00 | 15375.00 | 3843.75 | 29:00 |
 | V U/L 1SD | 100.00 | 14750.00 | 3687.50 | 30:43 |     | V U/L 1SD | 100.00 | 14750.00 | 3687.50 | 30:43 |
 | TP-8 | 100.00 | 14375.00 | 3593.75 | 28:50 |     | TP-8 | 100.00 | 14375.00 | 3593.75 | 28:50 |
@@ -1291,6 +1292,30 @@ Total Points Downs: 0.00 Count Downs: 0
 <code>In: 2022-08-10 12:04:00		Out: 2022-08-10 12:11:05		Total Position Time: 07:05		Total Move Up: 0.00		Total to Date: 2.00</code> <br />
 <code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 8.75</code> <br />
 <code>In: 2022-10-31 09:50:00		Out: 2022-10-31 10:50:55		Total Position Time: 60:55		Total Move Up: 9.25		Total to Date: 18.00</code> <br />
+
+
+</details>
+
+### Test NEWFI 06
+* Newfi 06
+* No Stoploss
+* Results:
+```
+Total Trades: 4
+Percent Up: 100.00
+Percent Down: 0.00
+Total Points Moved Up: 32.25
+Potential Profit: 16125.00
+Total Points Ups: 32.25 Count Ups: 4
+Total Points Downs: 0.00 Count Downs: 0
+```
+
+<details><summary>Trades</summary>
+
+<code>In: 2022-04-27 12:11:00		Out: 2022-04-27 12:47:00		Total Position Time: 36:00		Total Move Up: 3.75		Total to Date: 3.75</code> <br />
+<code>In: 2022-08-10 12:04:00		Out: 2022-08-10 12:47:00		Total Position Time: 43:00		Total Move Up: 12.50		Total to Date: 16.25</code> <br />
+<code>In: 2022-10-11 12:18:00		Out: 2022-10-11 12:47:00		Total Position Time: 29:00		Total Move Up: 6.75		Total to Date: 23.00</code> <br />
+<code>In: 2022-10-31 09:50:00		Out: 2022-10-31 10:50:55		Total Position Time: 60:55		Total Move Up: 9.25		Total to Date: 32.25</code> <br />
 
 
 </details>
