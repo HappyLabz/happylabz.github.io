@@ -19,6 +19,19 @@
 
 
 
+## STOPLOSS OF 10
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## TAKE PROFIT
 
@@ -33,4 +46,3 @@
 
 
 ## Indicator Exits
-
