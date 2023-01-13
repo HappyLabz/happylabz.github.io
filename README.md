@@ -15,10 +15,13 @@ Contact: CyberGus@protonmail.com
 
 ### ES Trading 8:30-12:30
 - [ES Bernese](ES/README_Bernese.md)
+- [ES Black Lab](ES/README_BlackLab.md)
 - [ES Labradors](ES/README_Labs.md)
 - [ES Malinois](ES/README_Malinois.md)
+- [ES Newfi](ES/README_Newfi.md)
 - [ES Pointers](ES/README_Pointers.md)
 - [ES Shepards](ES/README_Shepards.md)
+- [ES Yorkie](ES/README_Yorkie.md)
 
 ### ES Trading 8:30-9:00
 - [ES Bernese](ES_830-900/README_Bernese.md)

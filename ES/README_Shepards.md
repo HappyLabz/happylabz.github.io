@@ -4,7 +4,12 @@
 
 ### Shepard
 
-### Shepard 003 DB
+### Shepard 003 SD
 
-- [Long Shepard 001 DB](LongShepard003DB_ES.md)
-- [Short Shepard 001 DB](ShortShepard003DB_ES.md)
+- [Long Shepard 001 SD](LongShepard003SD_ES.md)
+- [Short Shepard 001 SD](ShortShepard003SD_ES.md)
+
+### Shepard 103 SD
+
+- [Long Shepard 103 SD](LongShepard103SD_ES.md)
+- [Short Shepard 103 SD](ShortShepard103SD_ES.md)
