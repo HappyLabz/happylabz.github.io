@@ -46,3 +46,11 @@
 - [Trade Report 12-14-2022](TradeReport_12-14-2022.md)
 
 - [Trade Report 12-15-2022](TradeReport_12-15-2022.md)
+
+- [Trade Report 12-16-2022](TradeReport_12-16-2022.md)
+
+- [Trade Report 12-19-2022](TradeReport_12-19-2022.md)
+
+- [Trade Report 12-20-2022](TradeReport_12-20-2022.md)
+
+- [Trade Report 12-21-2022](TradeReport_12-21-2022.md)
