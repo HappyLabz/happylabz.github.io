@@ -18,3 +18,5 @@
 - [Trade Report 01-19-2023](TradeReport_01-19-2023.md)
 
 - [Trade Report 01-20-2023](TradeReport_01-20-2023.md)
+
+- [Trade Report 01-23-2023](TradeReport_01-23-2023.md)
