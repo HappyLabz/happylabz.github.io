@@ -22,3 +22,9 @@
 - [Trade Report 01-23-2023](TradeReport_01-23-2023.md)
 
 - [Trade Report 01-24-2023](TradeReport_01-24-2023.md)
+
+- [Trade Report 01-25-2023](TradeReport_01-25-2023.md)
+
+- [Trade Report 01-26-2023](TradeReport_01-26-2023.md)
+
+- [Trade Report 01-27-2023](TradeReport_01-27-2023.md)
