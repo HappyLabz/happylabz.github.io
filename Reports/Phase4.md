@@ -28,3 +28,13 @@
 - [Trade Report 01-26-2023](TradeReport_01-26-2023.md)
 
 - [Trade Report 01-27-2023](TradeReport_01-27-2023.md)
+
+- [Trade Report 01-30-2023](TradeReport_01-30-2023.md)
+
+- [Trade Report 01-31-2023](TradeReport_01-31-2023.md)
+
+- [Trade Report 02-01-2023](TradeReport_02-01-2023.md)
+
+- [Trade Report 02-02-2023](TradeReport_02-02-2023.md)
+
+- [Trade Report 02-03-2023](TradeReport_02-03-2023.md)
