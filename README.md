@@ -3,6 +3,9 @@
 #### Chief Software Engineer: Mr. Sam M.
 Contact: CyberGus@protonmail.com
 
+# TRADER WEBSITE
+- [Website](website/index.md)
+
 # Happy Labz Paper Trading Reports
 
 ### ES
