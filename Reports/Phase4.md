@@ -38,3 +38,33 @@
 - [Trade Report 02-02-2023](TradeReport_02-02-2023.md)
 
 - [Trade Report 02-03-2023](TradeReport_02-03-2023.md)
+
+- [Trade Report 02-06-2023](TradeReport_02-06-2023.md)
+
+- [Trade Report 02-07-2023](TradeReport_02-07-2023.md)
+
+- [Trade Report 02-08-2023](TradeReport_02-08-2023.md)
+
+- [Trade Report 02-09-2023](TradeReport_02-09-2023.md)
+
+- [Trade Report 02-10-2023](TradeReport_02-10-2023.md)
+
+- [Trade Report 02-13-2023](TradeReport_02-13-2023.md)
+
+- [Trade Report 02-14-2023](TradeReport_02-14-2023.md)
+
+- [Trade Report 02-15-2023](TradeReport_02-15-2023.md)
+
+- [Trade Report 02-16-2023](TradeReport_02-16-2023.md)
+
+- [Trade Report 02-17-2023](TradeReport_02-17-2023.md)
+
+- [Trade Report 02-21-2023](TradeReport_02-21-2023.md)
+
+- [Trade Report 02-22-2023](TradeReport_02-22-2023.md)
+
+- [Trade Report 02-23-2023](TradeReport_02-23-2023.md)
+
+- [Trade Report 02-24-2023](TradeReport_02-24-2023.md)
+
+- [Trade Report 02-27-2023](TradeReport_02-27-2023.md)
