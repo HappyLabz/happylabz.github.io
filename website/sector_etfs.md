@@ -44,15 +44,7 @@
 * Fires Today:	False
 * Last Firing Date:	No moves flagged within the past 3 months.
 
-## XRT
-* Fires Today:	False
-* Last Firing Date:	2023-02-09 13:00:00
-
-## XHB
-* Fires Today:	False
-* Last Firing Date:	2023-02-10 13:00:00
-
-## XME
+## XLC
 * Fires Today:	False
 * Last Firing Date:	No moves flagged within the past 3 months.
 
