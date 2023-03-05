@@ -72,3 +72,7 @@
 - [Trade Report 02-28-2023](TradeReport_02-28-2023.md)
 
 - [Trade Report 03-01-2023](TradeReport_03-01-2023.md)
+
+- [Trade Report 03-02-2023](TradeReport_03-02-2023.md)
+
+- [Trade Report 03-03-2023](TradeReport_03-03-2023.md)
