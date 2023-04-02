@@ -33,7 +33,33 @@
             margin-top: 0 !important;
             border-bottom: 1px solid black;
         }
-    </style>
+        
+        .my-data {
+            margin-right: auto;
+            margin-left: auto;
+            align-content: center;
+            display: block;
+            max-width: 1400px;
+        }
+
+        .my-table {
+            margin-right: auto;
+            margin-left: auto;
+            width: 100%;
+            display: block;
+        }
+
+        .my-table tr {
+            display: block;
+            width: auto;
+        }
+
+        .my-table td {
+            width: 33%;
+            min-width: 428px;
+            display: inline-block;
+        }
+</style>
     
 # Happy Labz Technologies
 
