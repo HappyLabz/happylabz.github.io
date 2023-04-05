@@ -2,44 +2,58 @@
 <style>
     .box {
             width: 100%;
-            min-width: 400px;
+            min-width: 200px;
             height: 300px;
             border: 1px solid black;
             display: inline-block;
         }
 
-        .red {
-            background-color: #faaaaa;
-            border: 3px solid #6e0000;
-        }
-
-        .red h2 {
-            background-color: #bd2424;
+        .box h2 {
             padding: 10px;
             padding-top: 34px;
             margin-top: 0 !important;
+        }
+
+        .gray {
+            background-color: #a2a2a2;
+            border: 5px solid #353535;
+        }
+
+        .gray h2 {
+            background-color: #525252;
             border-bottom: 1px solid black;
+            color: #ffffff;
+        }
+
+        .red {
+            background-color: #faaaaa;
+            border: 5px solid #6e0000;
+        }
+
+        .red h2 {
+            background-color: #b80000;
+            border-bottom: 1px solid black;
+            color: #ffffff;
         }
 
         .green {
             background-color: #92d98f;
-            border: 3px solid #015e01;
+            border: 5px solid #015e01;
         }
 
         .green h2 {
-            background-color: #0ea608;
-            padding: 10px;
-            padding-top: 34px;
-            margin-top: 0 !important;
+            background-color: #004225;
             border-bottom: 1px solid black;
+            color: #ffffff;
         }
-        
+
         .my-data {
-            margin-right: auto;
-            margin-left: auto;
+            margin-right: auto !important;
+            margin-left: auto !important;
             align-content: center;
             display: block;
-            max-width: 1400px;
+            width: 100% !important;
+            max-width: 1400px !important;
         }
 
         .my-table {
@@ -56,7 +70,7 @@
 
         .my-table td {
             width: 33%;
-            min-width: 428px;
+            min-width: 310px;
             display: inline-block;
         }
 </style>
@@ -71,14 +85,12 @@
         <tr>
             <td>
                 <div class="box ">
-                    <h2 id="aapl">AAPL<a class="anchorjs-link "
+                    <h2 id="aapl"><a href="https://happylabz.github.io/website/aapl.html">AAPL</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#aapl"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-03-28 13:00:00</li>
-                        <li>Last Direction: Short</li>
+                        <li>Last Firing Date: Long 2023-01-06 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -89,9 +101,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-03-14 13:00:00</li>
-                        <li>Last Firing Direction: Long</li>
+                        <li>Last Firing Date: Long 2023-03-14 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -102,9 +112,7 @@
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2022-10-03 13:00:00</li>
-                        <li>Last Firing Direction: Long</li>
+                        <li>Last Firing Date: Long 2022-10-03 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -117,9 +125,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-02-16 13:00:00</li>
-                        <li>Last Firing Direction: Short</li>
+                        <li>Last Firing Date: Short 2023-02-16 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -130,9 +136,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-02-16 13:00:00</li>
-                        <li>Last Firing Direction: Short</li>
+                        <li>Last Firing Date: Short 2023-02-16 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -143,9 +147,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-01-30 13:00:00</li>
-                        <li>Last Firing Direction: Short</li>
+                        <li>Last Firing Date: Short 2023-01-30 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -158,9 +160,7 @@
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-03-28 13:00:00</li>
-                        <li>Last Firing Direction: Short</li>
+                        <li>Last Firing Date: Short 2023-03-28 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -171,9 +171,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-03-21 13:00:00</li>
-                        <li>Last Firing Direction: Long</li>
+                        <li>Last Firing Date: Long 2023-03-21 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -183,10 +181,8 @@
                                            href="https://happylabz.github.io/website/stocks.html#googl"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Fires Today: False</li>
-                        <li>Last Firing Date: 2023-02-21 13:00:00</li>
-                        <li>Last Firing Direction: Short</li>
+                    <ul>=
+                        <li>Last Firing Date: Short 2023-02-21 13:00:00</li>
                     </ul>
                 </div>
             </td>
