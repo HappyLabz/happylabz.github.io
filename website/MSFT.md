@@ -18,7 +18,7 @@
 
 ### World Class Trading Algorithms
     
-<table>
+<table class="hits">
     <tr>
         <th>Direction</th>
         <th>Date</th>

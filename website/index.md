@@ -13,6 +13,10 @@
             padding-top: 34px;
             margin-top: 0 !important;
         }
+        
+        .box a:link, a:visited {
+            color: #ffffff;
+        }
 
         .gray {
             background-color: #a2a2a2;
@@ -96,7 +100,7 @@
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="amzn">AMZN<a class="anchorjs-link "
+                    <h2 id="amzn"><a href="https://happylabz.github.io/website/amzn.html">AMZN</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#amzn"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -107,7 +111,7 @@
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="googl">GOOGL<a class="anchorjs-link "
+                    <h2 id="googl"><a href="https://happylabz.github.io/website/googl.html">GOOGL</a><a class="anchorjs-link "
                                            href="https://happylabz.github.io/website/stocks.html#googl"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -120,8 +124,8 @@
         <tr>
             <td>
                 <div class="box ">
-                    <h2 id="msft">MSFT<a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#aapl"
+                    <h2 id="msft"><a href="https://happylabz.github.io/website/msft.html">MSFT</a><a class="anchorjs-link "
+                                         href="https://happylabz.github.io/website/stocks.html#msft"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
@@ -131,19 +135,19 @@
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="tsla">TSLA<a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#aapl"
+                    <h2 id="tsla"><a href="https://happylabz.github.io/website/tsla.html">TSLA</a><a class="anchorjs-link "
+                                         href="https://happylabz.github.io/website/stocks.html#tsla"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Last Firing Date: Short 2023-02-16 13:00:00</li>
+                        <li>Last Firing Date: Short 2023-04-04 13:00:00</li>
                     </ul>
                 </div>
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="spy">SPY<a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#amzn"
+                    <h2 id="spy"><a href="https://happylabz.github.io/website/spy.html">SPY</a><a class="anchorjs-link "
+                                         href="https://happylabz.github.io/website/stocks.html#spy"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
@@ -155,8 +159,8 @@
         <tr>
             <td>
                 <div class="box ">
-                    <h2 id="qqq">QQQ<a class="anchorjs-link "
-                                           href="https://happylabz.github.io/website/stocks.html#googl"
+                    <h2 id="qqq"><a href="https://happylabz.github.io/website/qqq.html">QQQ</a><a class="anchorjs-link "
+                                           href="https://happylabz.github.io/website/stocks.html#qqq"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
@@ -166,8 +170,8 @@
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="iwm">IWM<a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#amzn"
+                    <h2 id="iwm"><a href="https://happylabz.github.io/website/iwm.html">IWM</a><a class="anchorjs-link "
+                                         href="https://happylabz.github.io/website/stocks.html#iwm"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
@@ -177,8 +181,8 @@
             </td>
             <td>
                 <div class="box ">
-                    <h2 id="djia">DJIA<a class="anchorjs-link "
-                                           href="https://happylabz.github.io/website/stocks.html#googl"
+                    <h2 id="djia"><a href="https://happylabz.github.io/website/djia.html">DJIA</a><a class="anchorjs-link "
+                                           href="https://happylabz.github.io/website/stocks.html#djia"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>=

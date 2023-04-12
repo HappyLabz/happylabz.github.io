@@ -18,7 +18,7 @@
 
 ### World Class Trading Algorithms
     
-<table>
+<table class="hits">
     <tr>
         <th>Direction</th>
         <th>Date</th>
@@ -28,12 +28,12 @@
         <td>2022-10-03 13:00:00</td>
     </tr>
     <tr>
-        <td>Long</td>
-        <td>2023-03-21 13:00:00</td>
-    </tr>
-    <tr>
         <td>Short</td>
         <td>2023-01-30 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2023-03-21 13:00:00</td>
     </tr>
     
 </table>
