@@ -70,6 +70,7 @@
         .my-table tr {
             display: block;
             width: auto;
+            background-color: rgb(246,248,250) !important;
         }
 
         .my-table td {
@@ -94,7 +95,7 @@
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Last Firing Date: Long 2023-01-06 13:00:00</li>
+                        <li>Last Firing Date: Short 2023-04-05 13:00:00</li>
                     </ul>
                 </div>
             </td>
@@ -123,13 +124,13 @@
         </tr>
         <tr>
             <td>
-                <div class="box ">
+                <div class="box red">
                     <h2 id="msft"><a href="https://happylabz.github.io/website/msft.html">MSFT</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#msft"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
                     <ul>
-                        <li>Last Firing Date: Short 2023-02-16 13:00:00</li>
+                        <li>Last Firing Date: Short 2023-04-11 13:00:00</li>
                     </ul>
                 </div>
             </td>

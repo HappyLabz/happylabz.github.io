@@ -24,10 +24,6 @@
         <th>Date</th>
       </tr>
     <tr>
-        <td>Short</td>
-        <td>2022-08-17 13:00:00</td>
-    </tr>
-    <tr>
         <td>Long</td>
         <td>2022-10-03 13:00:00</td>
     </tr>
