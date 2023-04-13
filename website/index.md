@@ -3,7 +3,7 @@
     .box {
             width: 100%;
             min-width: 200px;
-            height: 300px;
+            height: 200px;
             border: 1px solid black;
             display: inline-block;
         }
@@ -80,8 +80,6 @@
         }
 </style>
 
-[AAPL](aapl.md)
-
 # Happy Labz Technologies
 
 ### World Class Trading Algorithms
@@ -92,7 +90,7 @@
         <tr>
             <td>
                 <div class="box gray">
-                    <h2 id="aapl"><a href="https://happylabz.github.io/website/aapl.html">AAPL</a><a class="anchorjs-link "
+                    <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#aapl"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
