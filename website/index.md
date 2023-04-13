@@ -3,7 +3,7 @@
     .box {
             width: 100%;
             min-width: 200px;
-            height: 200px;
+            height: 180px;
             border: 1px solid black;
             display: inline-block;
         }
@@ -14,7 +14,7 @@
             margin-top: 0 !important;
         }
         
-        .box a:link, a:visited {
+        .box a:link, .box a:visited {
             color: #ffffff;
         }
 
@@ -79,7 +79,7 @@
             display: inline-block;
         }
 </style>
-
+    
 # Happy Labz Technologies
 
 ### World Class Trading Algorithms
@@ -101,7 +101,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="amzn"><a href="https://happylabz.github.io/website/amzn.html">AMZN</a><a class="anchorjs-link "
+                    <h2 id="amzn"><a href="{% link website/AMZN.md %}">AMZN</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#amzn"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -112,7 +112,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="googl"><a href="https://happylabz.github.io/website/googl.html">GOOGL</a><a class="anchorjs-link "
+                    <h2 id="googl"><a href="{% link website/GOOGL.md %}">GOOGL</a><a class="anchorjs-link "
                                            href="https://happylabz.github.io/website/stocks.html#googl"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -124,8 +124,8 @@
         </tr>
         <tr>
             <td>
-                <div class="box red">
-                    <h2 id="msft"><a href="https://happylabz.github.io/website/msft.html">MSFT</a><a class="anchorjs-link "
+                <div class="box gray">
+                    <h2 id="msft"><a href="{% link website/MSFT.md %}">MSFT</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#msft"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -136,7 +136,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="tsla"><a href="https://happylabz.github.io/website/tsla.html">TSLA</a><a class="anchorjs-link "
+                    <h2 id="tsla"><a href="{% link website/TSLA.md %}">TSLA</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#tsla"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -147,7 +147,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="spy"><a href="https://happylabz.github.io/website/spy.html">SPY</a><a class="anchorjs-link "
+                    <h2 id="spy"><a href="{% link website/SPY.md %}">SPY</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#spy"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -160,7 +160,7 @@
         <tr>
             <td>
                 <div class="box gray">
-                    <h2 id="qqq"><a href="https://happylabz.github.io/website/qqq.html">QQQ</a><a class="anchorjs-link "
+                    <h2 id="qqq"><a href="{% link website/QQQ.md %}">QQQ</a><a class="anchorjs-link "
                                            href="https://happylabz.github.io/website/stocks.html#qqq"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -171,7 +171,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="iwm"><a href="https://happylabz.github.io/website/iwm.html">IWM</a><a class="anchorjs-link "
+                    <h2 id="iwm"><a href="{% link website/IWM.md %}">IWM</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#iwm"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -182,7 +182,7 @@
             </td>
             <td>
                 <div class="box gray">
-                    <h2 id="djia"><a href="https://happylabz.github.io/website/djia.html">DJIA</a><a class="anchorjs-link "
+                    <h2 id="djia"><a href="{% link website/DJIA.md %}">DJIA</a><a class="anchorjs-link "
                                            href="https://happylabz.github.io/website/stocks.html#djia"
                                            aria-label="Anchor" data-anchorjs-icon=""
                                            style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
@@ -195,5 +195,3 @@
 </tbody>
 </table>
 </div>
-
-[TSLA](tsla.md)
