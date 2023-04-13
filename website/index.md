@@ -90,7 +90,7 @@
         <tr>
             <td>
                 <div class="box gray">
-                    <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a><a class="anchorjs-link "
+                    <h2 id="aapl"><a href="{% link ./AAPL.md %}">AAPL</a><a class="anchorjs-link "
                                          href="https://happylabz.github.io/website/stocks.html#aapl"
                                          aria-label="Anchor" data-anchorjs-icon=""
                                          style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
