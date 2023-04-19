@@ -13,7 +13,7 @@
             padding-top: 34px;
             margin-top: 0 !important;
         }
-        
+
         .box a:link, .box a:visited {
             color: #ffffff;
         }
@@ -74,8 +74,8 @@
         }
 
         .my-table td {
-            width: 33%;
-            min-width: 310px;
+            width: 24.75%;
+            min-width: 300px;
             display: inline-block;
         }
 </style>
@@ -84,114 +84,3 @@
 
 ### World Class Trading Algorithms
     
-<div class="my-data px-3 my-5 markdown-body">
-<table class="my-table" style="">
-        <tbody class="my-table">
-        <tr>
-            <td>
-                <div class="box gray">
-                    <h2 id="aapl"><a href="{% link website/AAPL.md %}">AAPL</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#aapl"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Short 2023-04-05 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="amzn"><a href="{% link website/AMZN.md %}">AMZN</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#amzn"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Long 2023-03-14 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="googl"><a href="{% link website/GOOGL.md %}">GOOGL</a><a class="anchorjs-link "
-                                           href="https://happylabz.github.io/website/stocks.html#googl"
-                                           aria-label="Anchor" data-anchorjs-icon=""
-                                           style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Long 2022-10-03 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div class="box gray">
-                    <h2 id="msft"><a href="{% link website/MSFT.md %}">MSFT</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#msft"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Short 2023-04-11 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="tsla"><a href="{% link website/TSLA.md %}">TSLA</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#tsla"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Short 2023-04-04 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="spy"><a href="{% link website/SPY.md %}">SPY</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#spy"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Short 2023-01-30 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div class="box gray">
-                    <h2 id="qqq"><a href="{% link website/QQQ.md %}">QQQ</a><a class="anchorjs-link "
-                                           href="https://happylabz.github.io/website/stocks.html#qqq"
-                                           aria-label="Anchor" data-anchorjs-icon=""
-                                           style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Short 2023-03-28 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="iwm"><a href="{% link website/IWM.md %}">IWM</a><a class="anchorjs-link "
-                                         href="https://happylabz.github.io/website/stocks.html#iwm"
-                                         aria-label="Anchor" data-anchorjs-icon=""
-                                         style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>
-                        <li>Last Firing Date: Long 2023-03-21 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-            <td>
-                <div class="box gray">
-                    <h2 id="djia"><a href="{% link website/DJIA.md %}">DJIA</a><a class="anchorjs-link "
-                                           href="https://happylabz.github.io/website/stocks.html#djia"
-                                           aria-label="Anchor" data-anchorjs-icon=""
-                                           style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-                    <ul>=
-                        <li>Last Firing Date: Short 2023-02-21 13:00:00</li>
-                    </ul>
-                </div>
-            </td>
-        </tr>
-</tbody>
-</table>
-</div>
