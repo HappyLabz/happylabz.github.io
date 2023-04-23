@@ -84,8 +84,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Apr 05 2023 1500 PST</li>
-            <li>PRICE DELTA: 1.26</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Apr 05 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">-1.26</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -94,8 +94,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Long Nov 11 2022 1500 PST</li>
-            <li>PRICE DELTA: 6.17</li>
+            <li>LAST: <span style="background-color: #92d98f;">Long</span> Nov 11 2022 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">6.17</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -104,8 +104,8 @@
                                aria-label="Anchor" data-anchorjs-icon=""
                                style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Mar 28 2023 1500 PST</li>
-            <li>PRICE DELTA: 4.38</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Mar 28 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">-4.38</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -114,8 +114,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Apr 12 2023 1500 PST</li>
-            <li>PRICE DELTA: 2.27</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Apr 12 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">-2.27</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -124,8 +124,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Feb 16 2023 1500 PST</li>
-            <li>PRICE DELTA: -36.96</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Feb 16 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #faaaaa;">36.96</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -134,8 +134,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Apr 20 2023 1500 PST</li>
-            <li>PRICE DELTA: 0.32</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Apr 20 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">-0.32</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -144,8 +144,8 @@
                                aria-label="Anchor" data-anchorjs-icon=""
                                style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Feb 09 2023 1500 PST</li>
-            <li>PRICE DELTA: 14.93</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Feb 09 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #92d98f;">-14.93</span></li>
         </ul>
     </div>
     <div class="box gray">
@@ -154,8 +154,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: Short Jan 30 2023 1500 PST</li>
-            <li>PRICE DELTA: -9.38</li>
+            <li>LAST: <span style="background-color: #faaaaa;">Short</span> Jan 30 2023 1500 PST</li>
+            <li>PRICE DELTA: <span style="background-color: #faaaaa;">9.38</span></li>
         </ul>
     </div>
 </div>
