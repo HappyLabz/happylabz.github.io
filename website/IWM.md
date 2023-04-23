@@ -24,16 +24,84 @@
         <th>Date</th>
       </tr>
     <tr>
+        <td>Short</td>
+        <td>2021-11-10 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-01-24 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-01-28 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-03-10 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-05-03 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-05-12 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>2022-08-16 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>2022-08-17 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-09-08 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-09-28 13:00:00</td>
+    </tr>
+    <tr>
         <td>Long</td>
         <td>2022-10-03 13:00:00</td>
     </tr>
     <tr>
-        <td>Short</td>
-        <td>2023-01-30 13:00:00</td>
+        <td>Long</td>
+        <td>2022-10-03 13:00:00</td>
     </tr>
     <tr>
         <td>Long</td>
-        <td>2023-03-21 13:00:00</td>
+        <td>2022-10-04 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-12-21 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-12-21 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-12-30 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Long</td>
+        <td>2022-12-30 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>2023-01-19 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>2023-01-19 13:00:00</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>2023-01-30 13:00:00</td>
     </tr>
     
 </table>

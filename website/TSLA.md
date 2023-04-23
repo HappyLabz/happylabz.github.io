@@ -25,58 +25,6 @@
       </tr>
     <tr>
         <td>Short</td>
-        <td>2018-12-17 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2019-06-04 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2019-06-05 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2020-02-24 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2020-03-20 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2020-09-03 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2020-11-03 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2020-11-03 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2021-01-15 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2021-03-10 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2021-04-28 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2021-05-20 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Long</td>
-        <td>2021-05-20 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
         <td>2021-11-02 13:00:00</td>
     </tr>
     <tr>
@@ -90,14 +38,6 @@
     <tr>
         <td>Short</td>
         <td>2021-11-08 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2021-11-09 13:00:00</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>2021-11-09 13:00:00</td>
     </tr>
     <tr>
         <td>Short</td>
