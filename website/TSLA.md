@@ -117,3 +117,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/TSLA.png)

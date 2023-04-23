@@ -85,3 +85,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/AMZN.png)

@@ -105,3 +105,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/IWM.png)

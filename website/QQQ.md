@@ -89,3 +89,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/QQQ.png)

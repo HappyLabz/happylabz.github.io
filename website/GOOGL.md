@@ -121,3 +121,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/GOOGL.png)

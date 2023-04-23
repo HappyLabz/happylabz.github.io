@@ -113,3 +113,5 @@
     </tr>
     
 </table>
+
+![Plot](charts/SPY.png)
