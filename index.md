@@ -10,7 +10,7 @@
         .box {
             min-width: 250px;
             max-width: 350px;
-            height: 180px;
+            height: 230px;
             border: 1px solid black;
             margin: 2px;
             width: 100%;
