@@ -77,15 +77,16 @@
     
 # Happy Labz Technologies
     
-<div class="my-data px-3 my-5 container-data">
+<div class="my-data px-3 my-5 markdown-body">
+    <div class="container-data">
     <div class="box gray">
         <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a><a class="anchorjs-link "
                              href="https://happylabz.github.io/website/stocks.html#aapl"
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Apr 05 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #faaaaa;">-1.26</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 05 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #ff0000;">-1.26</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -94,8 +95,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #92d98f;">Long</span> Nov 11 2022 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #92d98f;">6.17</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #167816;">Long</span> Nov 11 2022 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #167816;">6.17</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -104,8 +105,8 @@
                                aria-label="Anchor" data-anchorjs-icon=""
                                style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Mar 28 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #faaaaa;">-4.38</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Mar 28 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #ff0000;">-4.38</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -114,8 +115,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Apr 12 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #faaaaa;">-2.27</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 12 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #ff0000;">-2.27</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -124,8 +125,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Feb 16 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #92d98f;">36.96</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Feb 16 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #167816;">36.96</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -134,8 +135,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Apr 20 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #faaaaa;">-0.32</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 20 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #ff0000;">-0.32</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -144,8 +145,8 @@
                                aria-label="Anchor" data-anchorjs-icon=""
                                style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Feb 09 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #faaaaa;">-14.93</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Feb 09 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #ff0000;">-14.93</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
@@ -154,8 +155,8 @@
                              aria-label="Anchor" data-anchorjs-icon=""
                              style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
         <ul>
-            <li>LAST: <span style="color: #faaaaa;">Short</span> Jan 30 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #92d98f;">9.38</span> as of Apr 25 2023 15:00 PST</li>
+            <li>LAST: <span style="color: #ff0000;">Short</span> Jan 30 2023 15:00 PST</li>
+            <li>PRICE DELTA: <span style="color: #167816;">9.38</span> as of Apr 28 2023 15:00 PST</li>
         </ul>
     </div>
-</div>
+</div></div>
