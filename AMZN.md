@@ -12,10 +12,16 @@
         .hits tr:nth-child(even) {
             background-color: #f2f2f2;
         }
+        
+        .chartCol {
+            width: 50%;
+            float: left;
+            padding: 20px;
+        }  
 </style>
     
 # Happy Labz Technologies
-    
+<div><div class='chartCol'>
 <table class="hits">
     <tr>
         <th>Direction</th>
@@ -58,6 +64,6 @@
         <td>Nov 11 2022 15:00 PST</td>
     </tr>
     
-</table>
+</table></div><div class='chartCol'>
 
-![Plot](charts/AMZN.png)
+![Plot](charts/AMZN.png)</div>
