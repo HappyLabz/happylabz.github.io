@@ -82,57 +82,57 @@
     <div class="box gray">
         <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 05 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #ff0000;">-1.26</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 05 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">1.26</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="amzn"><a href="{% link AMZN.md %}">AMZN</a></h2>
         <ul>
-            <li>LAST: <span style="color: #167816;">Long</span> Nov 11 2022 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #167816;">6.17</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #167816;">Long</span></b> Nov 11 2022 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">6.17</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="googl"><a href="{% link GOOGL.md %}">GOOGL</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Mar 28 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #ff0000;">-4.38</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Mar 28 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">4.38</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="msft"><a href="{% link MSFT.md %}">MSFT</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 12 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #ff0000;">-2.27</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 12 2023 15:00 PST</li>
+            <li>PRICE DELTA: <b><span style="color: #167816;">2.27</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Feb 16 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #167816;">36.96</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 16 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #ff0000;">-36.96</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="spy"><a href="{% link SPY.md %}">SPY</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Apr 20 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #ff0000;">-0.32</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 20 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">0.32</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="qqq"><a href="{% link QQQ.md %}">QQQ</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Feb 09 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #ff0000;">-14.93</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 09 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">14.93</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="iwm"><a href="{% link IWM.md %}">IWM</a></h2>
         <ul>
-            <li>LAST: <span style="color: #ff0000;">Short</span> Jan 30 2023 15:00 PST</li>
-            <li>PRICE DELTA: <span style="color: #167816;">9.38</span> as of Apr 30 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Jan 30 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #ff0000;">-9.38</span></b> as of Apr 30 2023 15:00 PST</li>
         </ul>
     </div>
 </div></div>
