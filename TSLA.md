@@ -21,7 +21,7 @@
 </style>
     
 # Happy Labz Technologies
-<div><div class='chartCol'>
+<div>
 <table class="hits">
     <tr>
         <th>Direction</th>
@@ -85,6 +85,4 @@
     </tr>
     
 </table></div>
-<div class="chartCol">
 <img src="charts/TSLA.png" />
-</div>
