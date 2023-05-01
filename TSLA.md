@@ -84,6 +84,6 @@
         <td>Feb 16 2023 15:00 PST</td>
     </tr>
     
-</table></div><div class='chartCol'>
+</table></div>
 
-![Plot](charts/TSLA.png)</div>
+![Plot](charts/TSLA.png)
