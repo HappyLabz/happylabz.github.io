@@ -86,4 +86,4 @@
     
 </table></div><div class='chartCol'>
 
-![Plot](charts/TSLA.png)</div>
+<img src="charts/TSLA.png" /></div>
