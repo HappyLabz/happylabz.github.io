@@ -154,8 +154,8 @@ footer a {
     <div class="box gray">
         <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 05 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">8.81 (5.38%)</span></b> as of close May 15 2023</li>
+            <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 02 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">26.66 (18.27%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
@@ -182,8 +182,8 @@ footer a {
     <div class="box gray">
         <h2 id="spy"><a href="{% link SPY.md %}">SPY</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 20 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #ff0000;">-0.29 (-0.07%)</span></b> as of close May 15 2023</li>
+            <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 14 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">19.86 (5.07%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">

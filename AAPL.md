@@ -121,10 +121,6 @@ footer a {
     </tr>
     <tr>
         <td>Short</td>
-        <td>Aug 16 2022 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
         <td>Aug 19 2022 15:00 PST</td>
     </tr>
     <tr>
@@ -137,23 +133,11 @@ footer a {
     </tr>
     <tr>
         <td>Long</td>
-        <td>Jan 05 2023 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Long</td>
         <td>Jan 06 2023 15:00 PST</td>
     </tr>
     <tr>
         <td>Long</td>
         <td>Mar 02 2023 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>Apr 04 2023 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>Apr 05 2023 15:00 PST</td>
     </tr>
     
 </table>
