@@ -94,6 +94,8 @@ footer a {
 </nav>
 </div>
 
+<br>
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -105,72 +107,65 @@ footer a {
     <tr>
         <td>1</td>
         <td>Short</td>
-        <td>Mar 30 2022 15:00 PST</td>
-        <td>-24.23</td>
-        <td>-7.72</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Short</td>
         <td>Mar 31 2022 15:00 PST</td>
         <td>-18.68</td>
         <td>-6.06</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>2</td>
         <td>Long</td>
         <td>Apr 28 2022 15:00 PST</td>
         <td>-6.80</td>
         <td>-2.35</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>3</td>
         <td>Long</td>
         <td>Sep 07 2022 15:00 PST</td>
         <td>24.74</td>
         <td>9.59</td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>4</td>
         <td>Long</td>
         <td>Sep 08 2022 15:00 PST</td>
         <td>24.31</td>
         <td>9.40</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Long</td>
         <td>Sep 29 2022 15:00 PST</td>
         <td>45.33</td>
         <td>19.09</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Long</td>
         <td>Nov 07 2022 15:00 PST</td>
         <td>54.96</td>
         <td>24.12</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>7</td>
         <td>Short</td>
         <td>Apr 11 2023 15:00 PST</td>
-        <td>26.14</td>
-        <td>9.24</td>
+        <td>26.63</td>
+        <td>9.42</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Short</td>
+        <td>Apr 12 2023 15:00 PST</td>
+        <td>25.97</td>
+        <td>9.16</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Short</td>
-        <td>Apr 12 2023 15:00 PST</td>
-        <td>25.48</td>
-        <td>8.99</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Short</td>
         <td>May 02 2023 15:00 PST</td>
-        <td>3.56</td>
-        <td>1.17</td>
+        <td>4.05</td>
+        <td>1.33</td>
     </tr>
     
 </table>

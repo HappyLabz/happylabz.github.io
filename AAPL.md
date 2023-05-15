@@ -94,6 +94,8 @@ footer a {
 </nav>
 </div>
 
+<br>
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -127,29 +129,29 @@ footer a {
         <td>4</td>
         <td>Long</td>
         <td>Oct 18 2022 15:00 PST</td>
-        <td>28.82</td>
-        <td>20.05</td>
+        <td>28.32</td>
+        <td>19.70</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Long</td>
         <td>Nov 11 2022 15:00 PST</td>
-        <td>22.87</td>
-        <td>15.28</td>
+        <td>22.37</td>
+        <td>14.94</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
         <td>Jan 06 2023 15:00 PST</td>
-        <td>42.95</td>
-        <td>33.14</td>
+        <td>42.45</td>
+        <td>32.75</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Long</td>
         <td>Mar 02 2023 15:00 PST</td>
-        <td>26.66</td>
-        <td>18.27</td>
+        <td>26.16</td>
+        <td>17.93</td>
     </tr>
     
 </table>

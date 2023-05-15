@@ -94,6 +94,8 @@ footer a {
 </nav>
 </div>
 
+<br>
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -162,8 +164,8 @@ footer a {
         <td>9</td>
         <td>Long</td>
         <td>Mar 14 2023 15:00 PST</td>
-        <td>19.86</td>
-        <td>5.07</td>
+        <td>21.28</td>
+        <td>5.43</td>
     </tr>
     
 </table>
