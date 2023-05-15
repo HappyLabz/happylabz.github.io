@@ -68,8 +68,8 @@
             margin-right: auto !important;
             margin-left: auto !important;
             align-content: center;
-            width: 120% !important;
-            margin-left: -8% !important;
+            width: 100% !important;
+            margin-left: -1% !important;
             max-width: 1200px !important;
             display: block !important;
         }
@@ -83,56 +83,42 @@
         <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 05 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">1.26 (0.77%)</span></b> as of close Apr 30 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">1.26 (0.77%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="amzn"><a href="{% link AMZN.md %}">AMZN</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> Nov 11 2022 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">6.17 (6.12%)</span></b> as of close Apr 30 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">6.17 (6.12%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="googl"><a href="{% link GOOGL.md %}">GOOGL</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Mar 28 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">4.38 (4.34%)</span></b> as of close Apr 30 2023</li>
-        </ul>
-    </div>
-    <div class="box gray">
-        <h2 id="msft"><a href="{% link MSFT.md %}">MSFT</a></h2>
-        <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 12 2023 15:00 PST</li>
-            <li>PRICE DELTA: <b><span style="color: #167816;">2.27 (0.80%)</span></b> as of close Apr 30 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">4.38 (4.34%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 16 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #ff0000;">-36.96 (-18.29%)</span></b> as of close Apr 30 2023</li>
+            <li>DELTA: <b><span style="color: #ff0000;">-36.96 (-18.29%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="spy"><a href="{% link SPY.md %}">SPY</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 20 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">0.32 (0.08%)</span></b> as of close Apr 30 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">0.32 (0.08%)</span></b> as of close May 15 2023</li>
         </ul>
     </div>
     <div class="box gray">
-        <h2 id="qqq"><a href="{% link QQQ.md %}">QQQ</a></h2>
+        <h2 id="UNK"><a href="{% link NEXT.md %}">Choose your Ticker</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 09 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">14.93 (4.95%)</span></b> as of close Apr 30 2023</li>
-        </ul>
-    </div>
-    <div class="box gray">
-        <h2 id="iwm"><a href="{% link IWM.md %}">IWM</a></h2>
-        <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Jan 30 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #ff0000;">-9.38 (-5.02%)</span></b> as of close Apr 30 2023</li>
+            <li>LAST: <b>???</b></li>
+            <li>DELTA: <b>???</b> as of close May 15 2023</li>
         </ul>
     </div>
 </div></div>
