@@ -72,10 +72,6 @@ nav a:hover {
       </tr>
     <tr>
         <td>Short</td>
-        <td>Jun 25 2021 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
         <td>Jun 30 2021 15:00 PST</td>
     </tr>
     <tr>
@@ -93,10 +89,6 @@ nav a:hover {
     <tr>
         <td>Short</td>
         <td>Jul 16 2021 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>Jul 19 2021 15:00 PST</td>
     </tr>
     <tr>
         <td>Short</td>
@@ -137,6 +129,10 @@ nav a:hover {
     <tr>
         <td>Short</td>
         <td>Apr 12 2023 15:00 PST</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>May 02 2023 15:00 PST</td>
     </tr>
     
 </table>

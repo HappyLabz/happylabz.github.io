@@ -115,6 +115,10 @@ nav a:hover {
         <td>Jan 06 2023 15:00 PST</td>
     </tr>
     <tr>
+        <td>Long</td>
+        <td>Mar 02 2023 15:00 PST</td>
+    </tr>
+    <tr>
         <td>Short</td>
         <td>Apr 04 2023 15:00 PST</td>
     </tr>
