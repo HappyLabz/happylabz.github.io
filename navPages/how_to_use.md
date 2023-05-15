@@ -33,12 +33,12 @@ nav a:hover {
 # Happy Labz Technologies
 
 <div>
-<nav class="px-3 my-5 markdown-body">
+<nav class="px-3 markdown-body">
   <ul>
     <li><a href="index.md">Home</a></li>
-    <li><a href="static/how_to_use.md">How to Use</a></li>
-    <li><a href="static/use_case.md">Use Case</a></li>
-    <li><a href="static/contact.md">Contact</a></li>
+    <li><a href="navPages/how_to_use.md">How to Use</a></li>
+    <li><a href="navPages/use_case.md">Use Case</a></li>
+    <li><a href="navPages/contact.md">Contact</a></li>
   </ul>
 </nav>
 </div>
@@ -46,5 +46,5 @@ nav a:hover {
 <br>
 <br>
 
-### Contact Us
+### How to Use
 lorem ipsum

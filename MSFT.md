@@ -20,8 +20,51 @@
         }  
 </style>
     
+<style>
+nav {
+  width: 100%;
+  background-color: #dddddd;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  float: left;
+  margin: 0 10px !important;
+}
+
+nav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #000000;
+}
+
+nav a:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+</style>
+
 # Happy Labz Technologies
-<div><div class='chartCol'>
+
+<div>
+<nav class="px-3 markdown-body">
+  <ul>
+    <li><a href="index.md">Home</a></li>
+    <li><a href="navPages/how_to_use.md">How to Use</a></li>
+    <li><a href="navPages/use_case.md">Use Case</a></li>
+    <li><a href="navPages/contact.md">Contact</a></li>
+  </ul>
+</nav>
+</div>
+
 <table class="hits">
     <tr>
         <th>Direction</th>
@@ -96,6 +139,6 @@
         <td>Apr 12 2023 15:00 PST</td>
     </tr>
     
-</table></div><div class='chartCol'>
+</table>
 
-![Plot](charts/MSFT.png)</div>
+![Plot](charts/MSFT.png)

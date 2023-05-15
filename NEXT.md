@@ -2,6 +2,6 @@
 
 <p>
 What ticker do <b>you</b> want to technically trade?
-
+<br>
 Contact us at <a href="mailto:mark@happylabz.tech?subject=Bring It!">mark@happylabz.tech</a>
 </p>
