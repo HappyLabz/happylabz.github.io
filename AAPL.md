@@ -96,48 +96,60 @@ footer a {
 
 <table class="hits">
     <tr>
+        <th>No.</th>
         <th>Direction</th>
         <th>Date</th>
+        <th>Move (Underlying)</th>
+        <th>Move (Percent)</th>
       </tr>
     <tr>
-        <td>Short</td>
-        <td>Dec 14 2021 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>Dec 17 2021 15:00 PST</td>
-    </tr>
-    <tr>
-        <td>Short</td>
-        <td>Feb 11 2022 15:00 PST</td>
-    </tr>
-    <tr>
+        <td>1</td>
         <td>Short</td>
         <td>Apr 01 2022 15:00 PST</td>
+        <td>-30.56</td>
+        <td>-17.53</td>
     </tr>
     <tr>
+        <td>2</td>
         <td>Short</td>
         <td>Apr 06 2022 15:00 PST</td>
+        <td>-28.08</td>
+        <td>-16.34</td>
     </tr>
     <tr>
+        <td>3</td>
         <td>Short</td>
         <td>Aug 19 2022 15:00 PST</td>
+        <td>-27.77</td>
+        <td>-16.19</td>
     </tr>
     <tr>
+        <td>4</td>
         <td>Long</td>
         <td>Oct 18 2022 15:00 PST</td>
+        <td>28.82</td>
+        <td>20.05</td>
     </tr>
     <tr>
+        <td>5</td>
         <td>Long</td>
         <td>Nov 11 2022 15:00 PST</td>
+        <td>22.87</td>
+        <td>15.28</td>
     </tr>
     <tr>
+        <td>6</td>
         <td>Long</td>
         <td>Jan 06 2023 15:00 PST</td>
+        <td>42.95</td>
+        <td>33.14</td>
     </tr>
     <tr>
+        <td>7</td>
         <td>Long</td>
         <td>Mar 02 2023 15:00 PST</td>
+        <td>26.66</td>
+        <td>18.27</td>
     </tr>
     
 </table>
