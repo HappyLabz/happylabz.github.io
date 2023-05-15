@@ -52,6 +52,35 @@ nav a:hover {
 }
 </style>
 
+<style>
+footer {
+  background-color: #dddddd;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+footer p {
+  color: #000000;
+  font-size: 12px;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+footer a {
+  color: #000000;
+  text-decoration: none;
+}
+</style>
+
 # Happy Labz Technologies
 
 <div>
@@ -130,3 +159,9 @@ nav a:hover {
 </table>
 
 ![Plot](charts/AAPL.png)
+<footer>
+    <ul>
+        <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
+        <li style="float: right"><a href="mailto:mark@happylabz.tech?subject=Let's Talk">Contact Us</a></li>
+    </ul>
+</footer>
