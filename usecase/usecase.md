@@ -199,7 +199,7 @@ footer a {
     November 4th, 7th, and 8th, as well as on December 12th, 13th, and 14th.
     According to filed SEC Form 4(s) of these sales, the weighted average
     sale price from the sale of 41,495,000 shares of TSLA over these six
-    days was $181.47. The BLACK arrows on indicate these transactions. In
+    days was $181.47. The BLACK arrows indicate these transactions. In
     total, these trades generated approximately $7,530,152,983.26.
   </p>
   <p>
