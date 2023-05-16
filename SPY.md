@@ -6,9 +6,12 @@
         }
         .hits th, td {
             padding: 8px;
-            text-align: left;
             border-bottom: 1px solid #ddd;
         }
+        
+        .hits td {text-align: right;}
+        .hits th {text-align: left;}
+        
         .hits tr:nth-child(even) {
             background-color: #f2f2f2;
         }
@@ -101,71 +104,61 @@ footer a {
         <th>No.</th>
         <th>Direction</th>
         <th>Date</th>
-        <th>Move (Underlying)</th>
         <th>Move (Percent)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
         <td>Sep 08 2022 15:00 PST</td>
-        <td>6.71</td>
         <td>1.68</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
         <td>Oct 03 2022 15:00 PST</td>
-        <td>40.48</td>
         <td>11.04</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>Oct 04 2022 15:00 PST</td>
-        <td>29.12</td>
         <td>7.70</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
         <td>Oct 24 2022 15:00 PST</td>
-        <td>28.22</td>
         <td>7.45</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Long</td>
         <td>Dec 21 2022 15:00 PST</td>
-        <td>20.86</td>
         <td>5.40</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
         <td>Dec 30 2022 15:00 PST</td>
-        <td>24.66</td>
         <td>6.45</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Short</td>
         <td>Feb 09 2023 15:00 PST</td>
-        <td>-15.36</td>
         <td>-3.77</td>
     </tr>
     <tr>
         <td>8</td>
         <td>Short</td>
         <td>Feb 17 2023 15:00 PST</td>
-        <td>-15.53</td>
         <td>-3.81</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Long</td>
         <td>Mar 14 2023 15:00 PST</td>
-        <td>21.28</td>
-        <td>5.43</td>
+        <td>5.02</td>
     </tr>
     
 </table>

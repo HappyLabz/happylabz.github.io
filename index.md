@@ -151,46 +151,46 @@ footer a {
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
-    <div class="box gray">
+    <div class="box red">
         <h2 id="aapl"><a href="{% link AAPL.md %}">AAPL</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 02 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">26.16 (17.93%)</span></b> as of close May 15 2023</li>
+            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> May 15 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #ff0000;">0.00 (0.00%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="amzn"><a href="{% link AMZN.md %}">AMZN</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 14 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">16.32 (17.20%)</span></b> as of close May 15 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">18.97 (19.99%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="msft"><a href="{% link MSFT.md %}">MSFT</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> May 02 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">4.05 (1.33%)</span></b> as of close May 15 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">7.47 (2.45%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 16 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #ff0000;">-35.69 (-17.66%)</span></b> as of close May 15 2023</li>
+            <li>DELTA: <b><span style="color: #ff0000;">-34.42 (-17.04%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="spy"><a href="{% link SPY.md %}">SPY</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 14 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">21.28 (5.43%)</span></b> as of close May 15 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">19.66 (5.02%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
         <h2 id="UNK"><a href="{% link NEXT.md %}">Choose your Ticker</a></h2>
         <ul>
             <li>LAST: <b>???</b></li>
-            <li>DELTA: <b>???</b> as of close May 15 2023</li>
+            <li>DELTA: <b>???</b> as of close May 16 2023</li>
         </ul>
     </div>
 </div></div>
