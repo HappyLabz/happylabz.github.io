@@ -168,8 +168,8 @@ footer a {
     <div class="box gray">
         <h2 id="msft"><a href="{% link MSFT.md %}">MSFT</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Apr 12 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">29.26 (10.32%)</span></b> as of close May 16 2023</li>
+            <li>LAST: <b><span style="color: #167816;">Long</span></b> Mar 03 2023 15:00 PST</li>
+            <li>DELTA: <b><span style="color: #167816;">57.46 (22.51%)</span></b> as of close May 16 2023</li>
         </ul>
     </div>
     <div class="box gray">
