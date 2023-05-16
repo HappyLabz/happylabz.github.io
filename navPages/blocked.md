@@ -72,11 +72,17 @@ footer a {
 </nav>
 </div>
 
+<br>
+<br>
+
 <p>
 Subscribe to access this information.
 <br>
 Contact us at <a href="mailto:mark@happylabz.tech?subject=Bring It!">mark@happylabz.tech</a>
 </p>
+
+<br>
+<br>
 
 <footer>
     <ul>

@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  row-gap: 1rem;
+  grid-template-columns: 1fr;
+  margin: 16px;
+}
+
+.friendlyWording {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.contactBox {
+  display: flex;
+  margin-top: 50px;
+  align-content: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+.boxGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 48px;
+  row-gap: 16px;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+button {
+  background-image: linear-gradient(to top left, #0284c7, #7dd3fc);
+  /* background-color: #333; */
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  margin-top: 15px;
+}
+
+button:hover {
+  background-image: linear-gradient(to top left, #075985, #0ea5e9);
+}

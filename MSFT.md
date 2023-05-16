@@ -155,7 +155,7 @@ footer a {
 </tbody>
 </table>
 
-![Plot](charts/MSFT.png)
+![Plot](charts/TSLAstatic.png)
 <footer>
     <ul>
         <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>

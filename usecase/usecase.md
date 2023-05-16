@@ -46,6 +46,22 @@ nav a:hover {
         font-size: 32px !important
     }
 }
+
+.myH2 {
+    margin: 0.67em 0;
+    text-align: center !important;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    margin-top: 20px;
+    margin-bottom: 14px;
+    vertical-align: middle;
+    display: block;
+}
+@media (min-width: 768px) {
+    .myH1 {
+        font-size: 26px !important
+    }
+}
 </style>
 
 <style>
@@ -90,8 +106,8 @@ footer a {
 </nav>
 </div>
 
-<div class="myH1">Use Case</div>
-<h2>Use Case: TESLA Stock (TSLA)</h2>
+<div class="myH1">HappyLabz Technologies: Technically Timing Trades</div>
+<div class="myH2">Use Case: TESLA Stock (TSLA)</div>
 
 <div class="normParagraphs">
   <p>
