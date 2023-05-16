@@ -30,6 +30,22 @@ nav a:hover {
   background-color: #ffffff;
   color: #000000;
 }
+
+.myH1 {
+    margin: 0.67em 0;
+    text-align: center !important;
+    font-size: 26px !important;
+    font-weight: 600 !important;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    vertical-align: middle;
+    display: block;
+}
+@media (min-width: 768px) {
+    .myH1 {
+        font-size: 32px !important
+    }
+}
 </style>
 
 <style>
@@ -68,13 +84,14 @@ footer a {
   <ul>
     <li><a href="{% link index.md %}">Home</a></li>
     <li><a href="{% link navPages/how_to_use.md %}">How to Use</a></li>
-    <li><a href="{% link navPages/use_case.md %}">Use Case</a></li>
+    <li><a href="{% link usecase/usecase.md %}">Use Case</a></li>
     <li><a href="{% link navPages/contact.md %}">Contact</a></li>
   </ul>
 </nav>
 </div>
 
-### Use Case
+<div class="myH1">Use Case</div>
+<h2>Use Case: TESLA Stock (TSLA)</h2>
 
 <div class="normParagraphs">
   <p>
@@ -94,7 +111,7 @@ footer a {
     (Downward) to GREEN (Upward) and then back to RED (Downward) positions.
   </p>
 </div>
-<div class="sectionTitle"><h2>Profit</h2></div>
+<div class="sectionTitle"><div class="myH1">Profit</div></div>
 <div class="normParagraphs">
   <p>
     On September 22, 2022, HLT’s algorithms generated an initial RED signal.
@@ -174,7 +191,7 @@ footer a {
   </ol>
 </div>
 
-<div class="sectionTitle"><h2>Powerful</h2></div>
+<div class="sectionTitle"><div class="myH1">Powerful</div></div>
 <div class="comparison">
   <img class="whiteChart" src="images/tslaChart.png" alt="blackChart" />
   <p>
@@ -214,7 +231,7 @@ footer a {
     improved the financial outcome of the sales.
   </p>
 </div>
-<div class="sectionTitle"><h2>Possibilities</h2></div>
+<div class="sectionTitle"><div class="myH1">Possibilities</div></div>
 <div class="normParagraphs">
   <p>
     It is important to note that Musk's broker is a fiduciary and acted in
@@ -239,7 +256,7 @@ footer a {
   </p>
 </div>
 
-<div class="sectionTitle"><h2>Partnership</h2></div>
+<div class="sectionTitle"><div class="myH1">Partnership</div></div>
 <div class="paragraphLeft">
   <p>
     In addition to Tesla (TSLA), HLT provides technical algorithms for other
