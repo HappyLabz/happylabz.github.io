@@ -111,57 +111,57 @@ footer a {
         <td>1</td>
         <td>Short</td>
         <td>Apr 01 2022 15:00 PST</td>
-        <td>-17.53</td>
-        <td>17.53</td>
+        <td>-1.42</td>
+        <td>1.42</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Short</td>
         <td>Apr 06 2022 15:00 PST</td>
-        <td>-16.34</td>
-        <td>33.87</td>
+        <td>-0.18</td>
+        <td>1.60</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Short</td>
         <td>Aug 19 2022 15:00 PST</td>
         <td>-16.19</td>
-        <td>50.06</td>
+        <td>17.79</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
         <td>Oct 18 2022 15:00 PST</td>
-        <td>19.70</td>
-        <td>69.77</td>
+        <td>4.14</td>
+        <td>21.93</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Long</td>
         <td>Nov 11 2022 15:00 PST</td>
-        <td>14.94</td>
-        <td>84.71</td>
+        <td>-13.41</td>
+        <td>8.52</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
         <td>Jan 06 2023 15:00 PST</td>
-        <td>32.75</td>
-        <td>117.46</td>
+        <td>12.57</td>
+        <td>21.09</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Long</td>
         <td>Mar 02 2023 15:00 PST</td>
         <td>17.93</td>
-        <td>135.39</td>
+        <td>39.02</td>
     </tr>
     <tr>
         <td>8</td>
         <td>Short</td>
         <td>May 15 2023 15:00 PST</td>
         <td>0.10</td>
-        <td>135.29</td>
+        <td>38.92</td>
     </tr>
     
 </table>

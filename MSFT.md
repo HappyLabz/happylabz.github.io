@@ -111,22 +111,22 @@ footer a {
         <td>1</td>
         <td>Long</td>
         <td>Sep 07 2022 15:00 PST</td>
-        <td>21.18</td>
-        <td>21.18</td>
+        <td>0.17</td>
+        <td>0.17</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
         <td>Sep 08 2022 15:00 PST</td>
-        <td>20.98</td>
-        <td>42.16</td>
+        <td>-1.25</td>
+        <td>-1.08</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>Mar 03 2023 15:00 PST</td>
         <td>22.51</td>
-        <td>64.66</td>
+        <td>21.42</td>
     </tr>
     
 </table>
