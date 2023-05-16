@@ -105,24 +105,28 @@ footer a {
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
+        <th>Move (Cumulative Percentage)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
         <td>May 13 2022 15:00 PST</td>
-        <td>0.70</td>
+        <td>0.89</td>
+        <td>0.89</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
         <td>Nov 11 2022 15:00 PST</td>
-        <td>12.96</td>
+        <td>13.17</td>
+        <td>14.05</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>Mar 14 2023 15:00 PST</td>
-        <td>19.99</td>
+        <td>20.22</td>
+        <td>34.27</td>
     </tr>
     
 </table>

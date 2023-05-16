@@ -105,11 +105,13 @@ footer a {
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
+        <th>Move (Cumulative Percentage)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
         <td>Sep 08 2022 15:00 PST</td>
+        <td>1.68</td>
         <td>1.68</td>
     </tr>
     <tr>
@@ -117,48 +119,56 @@ footer a {
         <td>Long</td>
         <td>Oct 03 2022 15:00 PST</td>
         <td>11.04</td>
+        <td>12.72</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>Oct 04 2022 15:00 PST</td>
         <td>7.70</td>
+        <td>20.42</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
         <td>Oct 24 2022 15:00 PST</td>
         <td>7.45</td>
+        <td>27.87</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Long</td>
         <td>Dec 21 2022 15:00 PST</td>
         <td>5.40</td>
+        <td>33.27</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
         <td>Dec 30 2022 15:00 PST</td>
         <td>6.45</td>
+        <td>39.72</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Short</td>
         <td>Feb 09 2023 15:00 PST</td>
         <td>-3.77</td>
+        <td>43.49</td>
     </tr>
     <tr>
         <td>8</td>
         <td>Short</td>
         <td>Feb 17 2023 15:00 PST</td>
         <td>-3.81</td>
+        <td>47.31</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Long</td>
         <td>Mar 14 2023 15:00 PST</td>
-        <td>5.02</td>
+        <td>5.00</td>
+        <td>52.30</td>
     </tr>
     
 </table>
