@@ -111,66 +111,90 @@ footer a {
         <td>1</td>
         <td>Short</td>
         <td>Apr 05 2022 15:00 PST</td>
-        <td>-4.17</td>
-        <td>4.17</td>
+        <td>-4.17 %</td>
+        <td>4.17 %</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Short</td>
         <td>Apr 06 2022 15:00 PST</td>
-        <td>-32.32</td>
-        <td>36.49</td>
+        <td>-32.32 %</td>
+        <td>36.49 %</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>May 26 2022 15:00 PST</td>
-        <td>0.07</td>
-        <td>36.57</td>
+        <td>0.07 %</td>
+        <td>36.57 %</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
         <td>Jun 22 2022 15:00 PST</td>
-        <td>22.06</td>
-        <td>58.63</td>
+        <td>22.06 %</td>
+        <td>58.63 %</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Short</td>
         <td>Aug 05 2022 15:00 PST</td>
-        <td>0.78</td>
-        <td>57.85</td>
+        <td>0.78 %</td>
+        <td>57.85 %</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Short</td>
         <td>Aug 08 2022 15:00 PST</td>
-        <td>-0.63</td>
-        <td>58.48</td>
+        <td>-0.63 %</td>
+        <td>58.48 %</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Short</td>
         <td>Sep 22 2022 15:00 PST</td>
-        <td>-57.32</td>
-        <td>115.80</td>
+        <td>-57.32 %</td>
+        <td>115.80 %</td>
     </tr>
     <tr>
         <td>8</td>
         <td>Long</td>
         <td>Dec 30 2022 15:00 PST</td>
-        <td>64.02</td>
-        <td>179.82</td>
+        <td>64.02 %</td>
+        <td>179.82 %</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Short</td>
         <td>Feb 16 2023 15:00 PST</td>
-        <td>-17.33</td>
-        <td>197.14</td>
+        <td>-17.33 %</td>
+        <td>197.14 %</td>
     </tr>
     
+</table>
+    <table class="hits">
+<thead>
+<th></th>
+<th>Date Range</th>
+<th>Move Percentage Gain</th>
+</thead>
+<tbody>
+<tr>
+<td>TSLA</td>
+<td>2022-04-05 13:00:00 - 2023-02-16 13:00:00</td>
+<td>197.14 %</td>
+</tr>
+<tr>
+<td>S&P 500</td>
+<td>2022-04-05 13:00:00 - 2023-02-16 13:00:00</td>
+<td>-0.09 %</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
+<td>197.24 %</td>
+</tr>
+</tbody>
 </table>
 
 ![Plot](charts/TSLA.png)

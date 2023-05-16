@@ -105,30 +105,54 @@ footer a {
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
-        <th>Move (Cumulative Percentage)</th>
+        <th>Move (Cumulative Percentage Gain)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
         <td>May 13 2022 15:00 PST</td>
-        <td>-10.85</td>
-        <td>-10.85</td>
+        <td>-10.85 %</td>
+        <td>-10.85 %</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
         <td>Nov 11 2022 15:00 PST</td>
-        <td>-5.86</td>
-        <td>-16.71</td>
+        <td>-5.86 %</td>
+        <td>-16.71 %</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
         <td>Mar 14 2023 15:00 PST</td>
-        <td>20.22</td>
-        <td>3.50</td>
+        <td>20.22 %</td>
+        <td>3.50 %</td>
     </tr>
     
+</table>
+    <table class="hits">
+<thead>
+<th></th>
+<th>Date Range</th>
+<th>Move Percentage Gain</th>
+</thead>
+<tbody>
+<tr>
+<td>AMZN</td>
+<td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+<td>3.50 %</td>
+</tr>
+<tr>
+<td>S&P 500</td>
+<td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+<td>-0.02 %</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
+<td>3.53 %</td>
+</tr>
+</tbody>
 </table>
 
 ![Plot](charts/AMZN.png)
