@@ -337,9 +337,9 @@ footer p {
   </p>
 </div>
 
- <footer>
-    <ul>
-        <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
-        <li style="float: right"><a href="mailto:mark@happylabz.tech?subject=Let's Talk">Contact Us</a></li>
-    </ul>
+<footer>
+    <p>The information provided on this website is for informational purposes only and does not constitute professional financial advice; please consult with a financial advisor before making any investment decisions.</p>
+  <ul>
+    <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
+  </ul>
 </footer>

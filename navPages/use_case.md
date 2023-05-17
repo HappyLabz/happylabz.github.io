@@ -37,7 +37,6 @@ nav a:hover {
 
 <style>
 footer {
-  background-color: #dddddd;
   margin-top: 10px;
   padding: 10px;
 }
@@ -45,22 +44,32 @@ footer {
 footer p {
   color: #000000;
   font-size: 12px;
+  margin-bottom: 10px !important;
 }
 
 footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  align: center;
 }
 
 footer li {
   display: inline-block;
   margin: 0 10px;
+  text-align: center;
+  width: 100%
 }
 
 footer a {
   color: #000000;
   text-decoration: none;
+}
+
+footer p {
+    font-size: 11px;
+    text-align: center;
+    margin: 5px;
 }
 </style>
 
@@ -81,9 +90,9 @@ footer a {
 lorem ipsum
 
 <footer>
-    <ul>
-        <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
-        <li style="float: right"><a href="mailto:mark@happylabz.tech?subject=Let's Talk">Contact Us</a></li>
-    </ul>
+    <p>"The information provided on this website is for informational purposes only and does not constitute professional financial advice; please consult with a financial advisor before making any investment decisions."</p>
+  <ul>
+    <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
+  </ul>
 </footer>
 

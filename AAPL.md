@@ -62,7 +62,6 @@ nav a:hover {
 
 <style>
 footer {
-  background-color: #dddddd;
   margin-top: 10px;
   padding: 10px;
 }
@@ -70,22 +69,32 @@ footer {
 footer p {
   color: #000000;
   font-size: 12px;
+  margin-bottom: 10px !important;
 }
 
 footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  align: center;
 }
 
 footer li {
   display: inline-block;
   margin: 0 10px;
+  text-align: center;
+  width: 100%
 }
 
 footer a {
   color: #000000;
   text-decoration: none;
+}
+
+footer p {
+    font-size: 11px;
+    text-align: center;
+    margin: 5px;
 }
 </style>
 
@@ -185,20 +194,20 @@ footer a {
         <tr>
             <td>S&P 500</td>
             <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
-            <td>-0.09 %</td>
+            <td>-8.81 %</td>
         </tr>
         <tr>
             <td></td>
             <td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
-            <td>39.01 %</td>
+            <td>47.73 %</td>
         </tr>
     </tbody>
 </table>
 
 ![Plot](charts/TSLAstatic.png)
 <footer>
-    <ul>
-        <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
-        <li style="float: right"><a href="mailto:mark@happylabz.tech?subject=Let's Talk">Contact Us</a></li>
-    </ul>
+    <p>The information provided on this website is for informational purposes only and does not constitute professional financial advice; please consult with a financial advisor before making any investment decisions.</p>
+  <ul>
+    <li>Copyright &copy; 2023 HappyLabz Technologies. All rights reserved.</li>
+  </ul>
 </footer>
