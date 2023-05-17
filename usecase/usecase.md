@@ -71,7 +71,6 @@ nav a:hover {
 
 <style>
 footer {
-  background-color: #dddddd;
   margin-top: 10px;
   padding: 10px;
 }
@@ -79,22 +78,32 @@ footer {
 footer p {
   color: #000000;
   font-size: 12px;
+  margin-bottom: 10px !important;
 }
 
 footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  align: center;
 }
 
 footer li {
   display: inline-block;
   margin: 0 10px;
+  text-align: center;
+  width: 100%
 }
 
 footer a {
   color: #000000;
   text-decoration: none;
+}
+
+footer p {
+    font-size: 11px;
+    text-align: center;
+    margin: 5px;
 }
 </style>
 
@@ -196,9 +205,11 @@ footer a {
       </ul>
     </li>
 </ol>
+</div>
 <div class="paragraphLeft">
   <p>Next, let's consider going long on the stock:</p>
 </div>
+<div class="lists">
 <ol start="2">
     <li>
       The stock price increased from $123.19 on December 30, 2022, to
