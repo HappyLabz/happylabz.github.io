@@ -25,7 +25,7 @@
     
 <br>
 
-## MSFT Past Indications
+## MSFT Past Indicators
 
 <table class="hits">
     <tr>

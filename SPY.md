@@ -25,7 +25,7 @@
     
 <br>
 
-## SPY Past Indications
+## SPY Past Indicators
 
 <table class="hits">
     <tr>

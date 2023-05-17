@@ -25,7 +25,7 @@
     
 <br>
 
-## TSLA Past Indications
+## TSLA Past Indicators
 
 <table class="hits">
     <tr>

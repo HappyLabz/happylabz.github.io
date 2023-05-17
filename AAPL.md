@@ -25,7 +25,7 @@
     
 <br>
 
-## AAPL Past Indications
+## AAPL Past Indicators
 
 <table class="hits">
     <tr>

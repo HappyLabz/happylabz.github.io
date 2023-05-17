@@ -25,7 +25,7 @@
     
 <br>
 
-## AMZN Past Indications
+## AMZN Past Indicators
 
 <table class="hits">
     <tr>
