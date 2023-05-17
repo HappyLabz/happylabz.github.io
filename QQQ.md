@@ -52,9 +52,6 @@ nav a:hover {
 }
 </style>
 
-# Happy Labz Technologies
-
-
 
 <table class="hits">
     <tr>
