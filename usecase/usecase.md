@@ -127,7 +127,7 @@
 <div class="paragraphLeft">
   <p>Next, let's consider going long on the stock:</p>
 </div>
-<div class="lists">
+<div class="lists" style="margin-bottom: 40px !important;">
 <ol start="2">
     <li>
       The stock price increased from $123.19 on December 30, 2022, to
