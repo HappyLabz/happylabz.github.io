@@ -91,7 +91,7 @@ footer p {
 <h1 class="header">Contact HappyLabz</h1>
 
 <p class="friendlyWording">
-  HappyLabz Technologies' cutting-edge technical algorithms provide
+  HappyLabz Technologies offers cutting-edge technical algorithms which provide
   investors with real-time insights, enabling them to time trades with
   remarkable accuracy. Our data-driven approach and commitment to customer
   success set us apart, ensuring that financial professionals, brokerages,

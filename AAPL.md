@@ -120,12 +120,14 @@ footer p {
         <th>Date</th>
         <th>Move (Percent)</th>
         <th>Move (Cumulative Percentage Gain)</th>
+        <th>Move (Reinvestment Percentage Gain)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Short</td>
         <td>Apr 01 2022 15:00 PST</td>
         <td>-1.42 %</td>
+        <td>1.42 %</td>
         <td>1.42 %</td>
     </tr>
     <tr>
@@ -134,6 +136,7 @@ footer p {
         <td>Apr 06 2022 15:00 PST</td>
         <td>-0.18 %</td>
         <td>1.60 %</td>
+        <td>1.61 %</td>
     </tr>
     <tr>
         <td>3</td>
@@ -141,6 +144,7 @@ footer p {
         <td>Aug 19 2022 15:00 PST</td>
         <td>-16.19 %</td>
         <td>17.79 %</td>
+        <td>18.06 %</td>
     </tr>
     <tr>
         <td>4</td>
@@ -148,6 +152,7 @@ footer p {
         <td>Oct 18 2022 15:00 PST</td>
         <td>4.14 %</td>
         <td>21.93 %</td>
+        <td>22.94 %</td>
     </tr>
     <tr>
         <td>5</td>
@@ -155,6 +160,7 @@ footer p {
         <td>Nov 11 2022 15:00 PST</td>
         <td>-13.41 %</td>
         <td>8.52 %</td>
+        <td>6.45 %</td>
     </tr>
     <tr>
         <td>6</td>
@@ -162,6 +168,7 @@ footer p {
         <td>Jan 06 2023 15:00 PST</td>
         <td>12.57 %</td>
         <td>21.09 %</td>
+        <td>19.83 %</td>
     </tr>
     <tr>
         <td>7</td>
@@ -169,6 +176,7 @@ footer p {
         <td>Mar 02 2023 15:00 PST</td>
         <td>17.93 %</td>
         <td>39.02 %</td>
+        <td>41.31 %</td>
     </tr>
     <tr>
         <td>8</td>
@@ -176,6 +184,7 @@ footer p {
         <td>May 15 2023 15:00 PST</td>
         <td>0.10 %</td>
         <td>38.92 %</td>
+        <td>41.17 %</td>
     </tr>
     
 </table>
@@ -190,6 +199,11 @@ footer p {
             <td>AAPL</td>
             <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
             <td>38.92 %</td>
+        </tr>
+        <tr>
+            <td>AAPL (reinvested)</td>
+            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>41.17 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>

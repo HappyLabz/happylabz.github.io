@@ -120,11 +120,13 @@ footer p {
         <th>Date</th>
         <th>Move (Percent)</th>
         <th>Move (Cumulative Percentage Gain)</th>
+        <th>Move (Reinvestment Percentage Gain)</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
         <td>May 13 2022 15:00 PST</td>
+        <td>-10.85 %</td>
         <td>-10.85 %</td>
         <td>-10.85 %</td>
     </tr>
@@ -134,6 +136,7 @@ footer p {
         <td>Nov 11 2022 15:00 PST</td>
         <td>-5.86 %</td>
         <td>-16.71 %</td>
+        <td>-16.08 %</td>
     </tr>
     <tr>
         <td>3</td>
@@ -141,6 +144,7 @@ footer p {
         <td>Mar 14 2023 15:00 PST</td>
         <td>20.22 %</td>
         <td>3.50 %</td>
+        <td>0.89 %</td>
     </tr>
     
 </table>
@@ -155,6 +159,11 @@ footer p {
             <td>AMZN</td>
             <td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
             <td>3.50 %</td>
+        </tr>
+        <tr>
+            <td>AMZN (reinvested)</td>
+            <td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>0.89 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
