@@ -56,9 +56,9 @@
         <td>3</td>
         <td>Long</td>
         <td>Mar 03 2023 Close</td>
-        <td>22.51 %</td>
-        <td>21.42 %</td>
-        <td>21.18 %</td>
+        <td>23.00 %</td>
+        <td>21.91 %</td>
+        <td>21.66 %</td>
     </tr>
     
 </table>
@@ -80,12 +80,12 @@
         <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
             <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
-            <td>21.42 %</td>
+            <td>21.91 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Reinvested % Gain)</td>
             <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
-            <td>21.18 %</td>
+            <td>21.66 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>

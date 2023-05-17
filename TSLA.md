@@ -104,9 +104,9 @@
         <td>9</td>
         <td>Short</td>
         <td>Feb 16 2023 Close</td>
-        <td>-17.33 %</td>
-        <td>197.14 %</td>
-        <td>408.95 %</td>
+        <td>-13.95 %</td>
+        <td>193.76 %</td>
+        <td>394.29 %</td>
     </tr>
     
 </table>
@@ -128,12 +128,12 @@
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
             <td>2022-04-05 Close <b>-</b> 2023-02-16 Close</td>
-            <td>197.14 %</td>
+            <td>193.76 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
             <td>2022-04-05 Close <b>-</b> 2023-02-16 Close</td>
-            <td>408.95 %</td>
+            <td>394.29 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
