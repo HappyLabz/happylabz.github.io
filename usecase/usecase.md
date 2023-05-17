@@ -190,7 +190,11 @@ footer a {
         <li>This would increase the total investment to $1,573,000</li>
       </ul>
     </li>
-    <p class="spaceWords">Next, let's consider going long on the stock:</p>
+</ol>
+<div class="paragraphLeft">
+  <p>Next, let's consider going long on the stock:</p>
+</div>
+<ol start="2">
     <li>
       The stock price increased from $123.19 on December 30, 2022, to
       $202.04 on February 16, 2023. This represents a 63.9% increase. If an

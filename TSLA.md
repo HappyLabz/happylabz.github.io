@@ -172,7 +172,8 @@ footer a {
     </tr>
     
 </table>
-    <table class="hits">
+
+<table class="hits">
 <thead>
 <th></th>
 <th>Date Range</th>

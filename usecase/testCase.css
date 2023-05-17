@@ -59,8 +59,8 @@ ul {
   display: flex;
   align-content: center;
   justify-content: start;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  margin-top: 12px;
+  margin-bottom: 12px;
   margin-left: 10%;
   margin-right: 10%;
 }
