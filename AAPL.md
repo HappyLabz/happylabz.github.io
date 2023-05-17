@@ -26,9 +26,11 @@
 <style>
 nav {
   width: 100%;
-  background-color: #dddddd;
+  background-color: #0369a1;
   margin: 0;
   padding: 0;
+  border-radius: 25px;
+  border: 1px solid black;
 }
 
 nav ul {
@@ -47,6 +49,9 @@ nav a {
   padding: 10px;
   text-decoration: none;
   color: #000000;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
 }
 
 nav a:hover {
@@ -165,29 +170,29 @@ footer a {
     </tr>
     
 </table>
-    <table class="hits">
-<thead>
-<th></th>
-<th>Date Range</th>
-<th>Move Percentage Gain</th>
-</thead>
-<tbody>
-<tr>
-<td>AAPL</td>
-<td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
-<td>38.92 %</td>
-</tr>
-<tr>
-<td>S&P 500</td>
-<td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
-<td>-0.09 %</td>
-</tr>
-<tr>
-<td></td>
-<td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
-<td>39.01 %</td>
-</tr>
-</tbody>
+<table class="hits">
+    <thead>
+        <th></th>
+        <th>Date Range</th>
+        <th>Move Percentage Gain</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AAPL</td>
+            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>38.92 %</td>
+        </tr>
+        <tr>
+            <td>S&P 500</td>
+            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>-0.09 %</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
+            <td>39.01 %</td>
+        </tr>
+    </tbody>
 </table>
 
 ![Plot](charts/TSLAstatic.png)

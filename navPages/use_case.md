@@ -1,9 +1,11 @@
 <style>
 nav {
   width: 100%;
-  background-color: #dddddd;
+  background-color: #0369a1;
   margin: 0;
   padding: 0;
+  border-radius: 25px;
+  border: 1px solid black;
 }
 
 nav ul {
@@ -22,6 +24,9 @@ nav a {
   padding: 10px;
   text-decoration: none;
   color: #000000;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
 }
 
 nav a:hover {
