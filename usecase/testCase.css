@@ -107,13 +107,14 @@ ul {
 }
 
 .lists {
-  display: flex;
-  align-content: center;
-  justify-content: start;
   margin-top: 24px;
   margin-bottom: 24px;
   margin-left: 11%;
   margin-right: 11%;
+}
+
+ul {
+    list-style-type: disc;
 }
 
 .spaceWords {
