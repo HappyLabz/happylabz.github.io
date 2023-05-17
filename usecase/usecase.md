@@ -206,7 +206,7 @@
     fiduciaries interested in exploring the possibilities offered by HLT's
     innovative software to reach out to us for more information. Our team is
     available to discuss how our approach can complement and strengthen
-    their existing trading frameworks. Poop
+    their existing trading frameworks.
   </p>
 </div>
 
@@ -214,7 +214,7 @@
 <div class="paragraphLeft">
   <p>
     In addition to Tesla (TSLA), HLT provides technical algorithms for other
-    prominent stocks including:
+    prominent stocks and ETFs including:
   </p>
 </div>
 <div class="listLeft">
@@ -222,7 +222,7 @@
     <li>Apple (AAPL)</li>
     <li>Amazon (AMZN)</li>
     <li>Microsoft (MSFT)</li>
-    <li>As well as ETFs like SPDR S&P 500 (SPY)</li>
+    <li>SPDR S&P 500 (SPY)</li>
   </ul>
 </div>
 

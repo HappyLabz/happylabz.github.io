@@ -74,7 +74,7 @@ ul {
   display: flex;
   align-content: center;
   justify-content: start;
-  margin-top: 24px;
+  margin-top: -10px;
   margin-bottom: 24px;
   margin-left: 11%;
   /* margin-right: 12%; */

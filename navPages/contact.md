@@ -1,15 +1,5 @@
 <link rel="stylesheet" href="contact.css" />
 
-<div>
-<nav class="px-3 markdown-body">
-  <ul>
-    <li><a href="{% link index.md %}">Home</a></li>
-    <li><a href="{% link navPages/how_to_use.md %}">How to Use</a></li>
-    <li><a href="{% link usecase/usecase.md %}">Use Case</a></li>
-    <li><a href="{% link navPages/contact.md %}">Contact</a></li>
-  </ul>
-</nav>
-</div>
 
 <h1 class="header">Contact HappyLabz</h1>
 
