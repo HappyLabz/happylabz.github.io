@@ -25,6 +25,7 @@ ul {
 
 .exampGraphFull {
   width: 800px;
+  grid-column: 1/3;
 }
 
 .whiteChart {
