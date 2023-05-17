@@ -165,4 +165,8 @@ ul {
   .textSpan {
     grid-column: 1/2;
   }
+
+  .exampleGraphFull {
+    grid-column: 1/2;
+  }
 }
