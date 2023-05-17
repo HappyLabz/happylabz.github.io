@@ -25,6 +25,8 @@
     
 <br>
 
+## Past Indications
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -60,26 +62,28 @@
     </tr>
     
 </table>
+### Comparative Results
+
 <table class="hits">
     <thead>
-        <th></th>
+        <th>Ticker (Strategy)</th>
         <th>Date Range</th>
         <th>Move Percentage Gain</th>
     </thead>
     <tbody>
         <tr>
-            <td>AMZN</td>
-            <td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>AMZN (Cumulative)</td>
+            <td>2022-05-13 close - 2023-03-14 close</td>
             <td>3.50 %</td>
         </tr>
         <tr>
-            <td>AMZN (reinvested)</td>
-            <td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>AMZN (Reinvested)</td>
+            <td>2022-05-13 close - 2023-03-14 close</td>
             <td>0.89 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
-            <td>2022-05-13 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>2022-05-13 close - 2023-03-14 close</td>
             <td>-2.49 %</td>
         </tr>
     </tbody>

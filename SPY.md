@@ -25,6 +25,8 @@
     
 <br>
 
+## Past Indications
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -108,26 +110,28 @@
     </tr>
     
 </table>
+### Comparative Results
+
 <table class="hits">
     <thead>
-        <th></th>
+        <th>Ticker (Strategy)</th>
         <th>Date Range</th>
         <th>Move Percentage Gain</th>
     </thead>
     <tbody>
         <tr>
-            <td>SPY</td>
-            <td>2022-09-08 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>SPY (Cumulative)</td>
+            <td>2022-09-08 close - 2023-03-14 close</td>
             <td>11.08 %</td>
         </tr>
         <tr>
-            <td>SPY (reinvested)</td>
-            <td>2022-09-08 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>SPY (Reinvested)</td>
+            <td>2022-09-08 close - 2023-03-14 close</td>
             <td>10.78 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
-            <td>2022-09-08 13:00:00 - 2023-03-14 13:00:00</td>
+            <td>2022-09-08 close - 2023-03-14 close</td>
             <td>-2.16 %</td>
         </tr>
     </tbody>

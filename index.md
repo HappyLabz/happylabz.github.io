@@ -74,6 +74,8 @@
         }
 </style>
     
+## Status of the Stocks
+
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
     <div class="box gray">

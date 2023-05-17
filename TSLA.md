@@ -25,6 +25,8 @@
     
 <br>
 
+## Past Indications
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -108,26 +110,29 @@
     </tr>
     
 </table>
+
+### Comparative Results
+
 <table class="hits">
     <thead>
-        <th></th>
+        <th>Ticker (Strategy)</th>
         <th>Date Range</th>
         <th>Move Percentage Gain</th>
     </thead>
     <tbody>
         <tr>
-            <td>TSLA</td>
-            <td>2022-04-05 13:00:00 - 2023-02-16 13:00:00</td>
+            <td>TSLA (Cumulative)</td>
+            <td>2022-04-05 close - 2023-02-16 close</td>
             <td>197.14 %</td>
         </tr>
         <tr>
-            <td>TSLA (reinvested)</td>
-            <td>2022-04-05 13:00:00 - 2023-02-16 13:00:00</td>
+            <td>TSLA (Reinvested)</td>
+            <td>2022-04-05 close - 2023-02-16 close</td>
             <td>408.95 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
-            <td>2022-04-05 13:00:00 - 2023-02-16 13:00:00</td>
+            <td>2022-04-05 close - 2023-02-16 close</td>
             <td>-9.48 %</td>
         </tr>
     </tbody>

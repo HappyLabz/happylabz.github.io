@@ -25,6 +25,8 @@
     
 <br>
 
+## Past Indications
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -100,26 +102,28 @@
     </tr>
     
 </table>
+### Comparative Results
+
 <table class="hits">
     <thead>
-        <th></th>
+        <th>Ticker (Strategy)</th>
         <th>Date Range</th>
         <th>Move Percentage Gain</th>
     </thead>
     <tbody>
         <tr>
-            <td>AAPL</td>
-            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>AAPL (Cumulative)</td>
+            <td>2022-04-01 close - 2023-05-15 close</td>
             <td>38.92 %</td>
         </tr>
         <tr>
-            <td>AAPL (reinvested)</td>
-            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>AAPL (Reinvested)</td>
+            <td>2022-04-01 close - 2023-05-15 close</td>
             <td>41.17 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
-            <td>2022-04-01 13:00:00 - 2023-05-15 13:00:00</td>
+            <td>2022-04-01 close - 2023-05-15 close</td>
             <td>-8.81 %</td>
         </tr>
     </tbody>

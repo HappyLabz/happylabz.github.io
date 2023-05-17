@@ -25,6 +25,8 @@
     
 <br>
 
+## Past Indications
+
 <table class="hits">
     <tr>
         <th>No.</th>
@@ -60,26 +62,28 @@
     </tr>
     
 </table>
+### Comparative Results
+
 <table class="hits">
     <thead>
-        <th></th>
+        <th>Ticker (Strategy)</th>
         <th>Date Range</th>
         <th>Move Percentage Gain</th>
     </thead>
     <tbody>
         <tr>
-            <td>MSFT</td>
-            <td>2022-09-07 13:00:00 - 2023-03-03 13:00:00</td>
+            <td>MSFT (Cumulative)</td>
+            <td>2022-09-07 close - 2023-03-03 close</td>
             <td>21.42 %</td>
         </tr>
         <tr>
-            <td>MSFT (reinvested)</td>
-            <td>2022-09-07 13:00:00 - 2023-03-03 13:00:00</td>
+            <td>MSFT (Reinvested)</td>
+            <td>2022-09-07 close - 2023-03-03 close</td>
             <td>21.18 %</td>
         </tr>
         <tr>
             <td>S&P 500</td>
-            <td>2022-09-07 13:00:00 - 2023-03-03 13:00:00</td>
+            <td>2022-09-07 close - 2023-03-03 close</td>
             <td>1.61 %</td>
         </tr>
     </tbody>
