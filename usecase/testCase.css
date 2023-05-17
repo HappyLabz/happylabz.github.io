@@ -167,6 +167,7 @@ ul {
   }
 
   .exampGraphFull {
-    grid-column: 1/2;
+      max-width: 800px;
+      grid-column: 1/2 !important;
   }
 }
