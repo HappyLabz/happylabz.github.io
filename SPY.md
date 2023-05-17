@@ -203,11 +203,6 @@ footer p {
             <td>2022-09-08 13:00:00 - 2023-03-14 13:00:00</td>
             <td>-2.16 %</td>
         </tr>
-        <tr>
-            <td></td>
-            <td style="text-align: right;"><b>Profit Using HLT vs. Holding S&P 500:</b></td>
-            <td>13.24 %</td>
-        </tr>
     </tbody>
 </table>
 
