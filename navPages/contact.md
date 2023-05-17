@@ -15,9 +15,9 @@
 
 <div class="contactBox">
   <div class="boxGrid">
-    <h1>Accounts@happylabz.info</h1>
+    <h1>Accounts@happylabz.tech</h1>
     <!-- <li style="float: right"> -->
-    <a href="mailto:mark@happylabz.tech?subject=Let's Talk">
+    <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
       <button>Contact Us</button>
     </a>
     <!-- </li> -->
