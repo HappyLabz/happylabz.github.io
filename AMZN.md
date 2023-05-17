@@ -32,14 +32,14 @@
         <th>No.</th>
         <th>Direction</th>
         <th>Date</th>
-        <th>Move (Percent)</th>
-        <th>Move (Cumulative % Gain)</th>
-        <th>Move (Reinvested % Gain)</th>
+        <th>Absolute Move %</th>
+        <th>Cumulative % Gain</th>
+        <th>Reinvested % Gain</th>
       </tr>
     <tr>
         <td>1</td>
         <td>Long</td>
-        <td>May 13 2022 15:00 PST</td>
+        <td>May 13 2022 close</td>
         <td>-10.85 %</td>
         <td>-10.85 %</td>
         <td>-10.85 %</td>
@@ -47,7 +47,7 @@
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Nov 11 2022 15:00 PST</td>
+        <td>Nov 11 2022 close</td>
         <td>-5.86 %</td>
         <td>-16.71 %</td>
         <td>-16.08 %</td>
@@ -55,7 +55,7 @@
     <tr>
         <td>3</td>
         <td>Long</td>
-        <td>Mar 14 2023 15:00 PST</td>
+        <td>Mar 14 2023 close</td>
         <td>20.22 %</td>
         <td>3.50 %</td>
         <td>0.89 %</td>
@@ -74,22 +74,22 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2022-05-13 close - 2023-03-14 close</td>
+            <td>2022-05-13 close <b>-</b> 2023-03-14 close</td>
             <td>-16.08 %</td>
         </tr>
         <tr>
             <td>AMZN (Cumulative % Gain)</td>
-            <td>2022-05-13 close - 2023-03-14 close</td>
+            <td>2022-05-13 close <b>-</b> 2023-03-14 close</td>
             <td>3.50 %</td>
         </tr>
         <tr>
             <td>AMZN (Reinvested % Gain)</td>
-            <td>2022-05-13 close - 2023-03-14 close</td>
+            <td>2022-05-13 close <b>-</b> 2023-03-14 close</td>
             <td>0.89 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-05-13 close - 2023-03-14 close</td>
+            <td>2022-05-13 close <b>-</b> 2023-03-14 close</td>
             <td>-2.49 %</td>
         </tr>
     </tbody>
