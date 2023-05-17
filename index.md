@@ -69,7 +69,6 @@
             margin-left: auto !important;
             align-content: center;
             width: 100% !important;
-            margin-left: -1% !important;
             max-width: 1200px !important;
             display: block !important;
         }
