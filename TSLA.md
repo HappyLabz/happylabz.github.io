@@ -25,7 +25,7 @@
     
 <br>
 
-## Past Indications
+## TSLA Past Indications
 
 <table class="hits">
     <tr>
@@ -142,5 +142,7 @@
         </tr>
     </tbody>
 </table>
+<br>
+<br>
 
 ![Plot](charts/TSLAstatic.png)
