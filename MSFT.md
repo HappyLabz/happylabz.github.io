@@ -39,7 +39,7 @@
     <tr>
         <td>1</td>
         <td>Long</td>
-        <td>Sep 07 2022 close</td>
+        <td>Sep 07 2022 Close</td>
         <td>0.17 %</td>
         <td>0.17 %</td>
         <td>0.17 %</td>
@@ -47,7 +47,7 @@
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Sep 08 2022 close</td>
+        <td>Sep 08 2022 Close</td>
         <td>-1.25 %</td>
         <td>-1.08 %</td>
         <td>-1.08 %</td>
@@ -55,7 +55,7 @@
     <tr>
         <td>3</td>
         <td>Long</td>
-        <td>Mar 03 2023 close</td>
+        <td>Mar 03 2023 Close</td>
         <td>22.51 %</td>
         <td>21.42 %</td>
         <td>21.18 %</td>
@@ -69,27 +69,27 @@
     <thead>
         <th>Ticker (Strategy)</th>
         <th>Date Range</th>
-        <th>Move Percentage Gain</th>
+        <th>Move % Gain</th>
     </thead>
     <tbody>
         <tr>
             <td>MSFT (Buy and Hold)</td>
-            <td>2022-09-07 close <b>-</b> 2023-03-03 close</td>
+            <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
             <td>-1.08 %</td>
         </tr>
         <tr>
-            <td>MSFT (Cumulative % Gain)</td>
-            <td>2022-09-07 close <b>-</b> 2023-03-03 close</td>
+            <td>MSFT (HLT Cumulative % Gain)</td>
+            <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
             <td>21.42 %</td>
         </tr>
         <tr>
-            <td>MSFT (Reinvested % Gain)</td>
-            <td>2022-09-07 close <b>-</b> 2023-03-03 close</td>
+            <td>MSFT (HLT Reinvested % Gain)</td>
+            <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
             <td>21.18 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-09-07 close <b>-</b> 2023-03-03 close</td>
+            <td>2022-09-07 Close <b>-</b> 2023-03-03 Close</td>
             <td>1.61 %</td>
         </tr>
     </tbody>
