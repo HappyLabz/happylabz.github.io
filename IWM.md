@@ -54,16 +54,7 @@ nav a:hover {
 
 # Happy Labz Technologies
 
-<div>
-<nav class="px-3 markdown-body">
-  <ul>
-    <li><a href="{% link index.md %}">Home</a></li>
-    <li><a href="{% link navPages/how_to_use.md %}">How to Use</a></li>
-    <li><a href="{% link usecase/usecase.md %}">Use Case</a></li>
-    <li><a href="{% link navPages/contact.md %}">Contact</a></li>
-  </ul>
-</nav>
-</div>
+
 
 <table class="hits">
     <tr>
