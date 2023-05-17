@@ -116,7 +116,7 @@
     <div class="box gray">
         <h2 id="UNK"><a href="{% link NEXT.md %}">Pick a Ticker</a></h2>
         <ul>
-            <li> Financial Professionals, Brokers, and Fund managers can request  HappyLabz Technologies software for any Stock or ETF.</li>
+            <li> Financial Professionals can request  HappyLabz Technologies software for any Stock or ETF.</li>
         </ul>
     </div>
 </div></div>
