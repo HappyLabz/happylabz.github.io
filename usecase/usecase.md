@@ -150,22 +150,26 @@ footer p {
   </p>
 </div>
 <div class="example">
+  <img class="SepDec" src="images/boxRedSep.png" alt="redSep" />
+  <img class="exampGraph" src="images/sepChart.png" alt="SepDec" />
   <p class="textSpan">
     Only three months later on December 30, HLT’s software produced a GREEN
     signal. By the close of trading that day, TSLA shares had a value of
     $123.19. This represents a 57.3% decrease in TSLA's stock value from
     September 22nd to December 30th.
   </p>
-  <img class="SepDec" src="images/boxRedSep.png" alt="redSep" />
+  <img class="DecFeb" src="images/boxGreenDec.png" alt="GreenDec" />
   <img class="exampGraph" src="images/SepDec.png" alt="SepDec" />
+  
   <p class="textSpan">
     HLT's technical algorithms continued to demonstrate their precision when
     a new RED signal emerged on February 16, 2023, with TSLA closing at
     $202.04. The price increase in TSLA from the GREEN signal on December
     30, 2022, to the RED signal on February 16, 2023, was 63.9%.
   </p>
-  <img class="DecFeb" src="images/boxGreenDec.png" alt="GreenDec" />
+  <img class="SepFeb" src="images/boxRedFeb.png" alt="redFeb" />
   <img class="exampGraph" src="images/DecFeb.png" alt="DecFeb" />
+  
   <p class="textSpan">
     The cumulative percentage gain from these directional signals amounts to
     an impressive 157.76% in just under five months. If a professional
@@ -173,8 +177,7 @@ footer p {
     could have made a staggering profit of approximately $1,577,607,
     bringing their total investment value to about $2,577,607.
   </p>
-  <img class="SepFeb" src="images/boxRedFeb.png" alt="redFeb" />
-  <img class="exampGraph" src="images/SepFeb.png" alt="SepFeb" />
+<img class="exampGraphFull" src="images/SepFeb.png" alt="SepFeb" />
 </div>
 
 <div class="paragraphLeft">
