@@ -74,7 +74,7 @@
         }
 </style>
     
-## Status of the Stocks
+## Current Indicators
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
@@ -100,7 +100,7 @@
         </ul>
     </div>
     <div class="box gray">
-        <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:blue;">&bigstar;</span></a></h2>
+        <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>LAST: <b><span style="color: #ff0000;">Short</span></b> Feb 16 2023 15:00 PST</li>
             <li>DELTA: <b><span style="color: #ff0000;">-35.01 (-17.33%)</span></b> as of close<br>May 17 2023</li>
