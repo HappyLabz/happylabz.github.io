@@ -1,4 +1,3 @@
-
 <style>
     .container-data {
             display: grid;
@@ -116,8 +115,7 @@
     <div class="box gray">
         <h2 id="UNK"><a href="{% link NEXT.md %}">Pick a Ticker</a></h2>
         <ul>
-            <li>LAST: <b>???</b></li>
-            <li>DELTA: <b>???</b> as of close<br>May 17 2023</li>
+            <li> Financial Professionals, Brokers, and Fund managers can request  HappyLabz Technologies software for any Stock or ETF.</li>
         </ul>
     </div>
 </div></div>
