@@ -33,8 +33,8 @@
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
-        <th>Move (Cumulative Percentage Gain)</th>
-        <th>Move (Reinvestment Percentage Gain)</th>
+        <th>Move (Cumulative % Gain)</th>
+        <th>Move (Reinvested % Gain)</th>
       </tr>
     <tr>
         <td>1</td>
@@ -113,17 +113,22 @@
     </thead>
     <tbody>
         <tr>
-            <td>AAPL (Cumulative)</td>
+            <td>AAPL (Buy and Hold)</td>
+            <td>2022-04-01 close - 2023-05-15 close</td>
+            <td>-1.29 %</td>
+        </tr>
+        <tr>
+            <td>AAPL (Cumulative % Gain)</td>
             <td>2022-04-01 close - 2023-05-15 close</td>
             <td>38.92 %</td>
         </tr>
         <tr>
-            <td>AAPL (Reinvested)</td>
+            <td>AAPL (Reinvested % Gain)</td>
             <td>2022-04-01 close - 2023-05-15 close</td>
             <td>41.17 %</td>
         </tr>
         <tr>
-            <td>S&P 500</td>
+            <td>S&P 500 (Buy and Hold)</td>
             <td>2022-04-01 close - 2023-05-15 close</td>
             <td>-8.81 %</td>
         </tr>

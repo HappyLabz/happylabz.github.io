@@ -33,8 +33,8 @@
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
-        <th>Move (Cumulative Percentage Gain)</th>
-        <th>Move (Reinvestment Percentage Gain)</th>
+        <th>Move (Cumulative % Gain)</th>
+        <th>Move (Reinvested % Gain)</th>
       </tr>
     <tr>
         <td>1</td>
@@ -73,17 +73,22 @@
     </thead>
     <tbody>
         <tr>
-            <td>MSFT (Cumulative)</td>
+            <td>MSFT (Buy and Hold)</td>
+            <td>2022-09-07 close - 2023-03-03 close</td>
+            <td>-1.08 %</td>
+        </tr>
+        <tr>
+            <td>MSFT (Cumulative % Gain)</td>
             <td>2022-09-07 close - 2023-03-03 close</td>
             <td>21.42 %</td>
         </tr>
         <tr>
-            <td>MSFT (Reinvested)</td>
+            <td>MSFT (Reinvested % Gain)</td>
             <td>2022-09-07 close - 2023-03-03 close</td>
             <td>21.18 %</td>
         </tr>
         <tr>
-            <td>S&P 500</td>
+            <td>S&P 500 (Buy and Hold)</td>
             <td>2022-09-07 close - 2023-03-03 close</td>
             <td>1.61 %</td>
         </tr>

@@ -33,8 +33,8 @@
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
-        <th>Move (Cumulative Percentage Gain)</th>
-        <th>Move (Reinvestment Percentage Gain)</th>
+        <th>Move (Cumulative % Gain)</th>
+        <th>Move (Reinvested % Gain)</th>
       </tr>
     <tr>
         <td>1</td>
@@ -121,17 +121,22 @@
     </thead>
     <tbody>
         <tr>
-            <td>TSLA (Cumulative)</td>
+            <td>TSLA (Buy and Hold)</td>
+            <td>2022-04-05 close - 2023-02-16 close</td>
+            <td>-44.46 %</td>
+        </tr>
+        <tr>
+            <td>TSLA (Cumulative % Gain)</td>
             <td>2022-04-05 close - 2023-02-16 close</td>
             <td>197.14 %</td>
         </tr>
         <tr>
-            <td>TSLA (Reinvested)</td>
+            <td>TSLA (Reinvested % Gain)</td>
             <td>2022-04-05 close - 2023-02-16 close</td>
             <td>408.95 %</td>
         </tr>
         <tr>
-            <td>S&P 500</td>
+            <td>S&P 500 (Buy and Hold)</td>
             <td>2022-04-05 close - 2023-02-16 close</td>
             <td>-9.48 %</td>
         </tr>

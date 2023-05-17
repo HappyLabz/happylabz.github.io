@@ -33,8 +33,8 @@
         <th>Direction</th>
         <th>Date</th>
         <th>Move (Percent)</th>
-        <th>Move (Cumulative Percentage Gain)</th>
-        <th>Move (Reinvestment Percentage Gain)</th>
+        <th>Move (Cumulative % Gain)</th>
+        <th>Move (Reinvested % Gain)</th>
       </tr>
     <tr>
         <td>1</td>
@@ -121,17 +121,22 @@
     </thead>
     <tbody>
         <tr>
-            <td>SPY (Cumulative)</td>
+            <td>SPY (Buy and Hold)</td>
+            <td>2022-09-08 close - 2023-03-14 close</td>
+            <td>-2.16 %</td>
+        </tr>
+        <tr>
+            <td>SPY (Cumulative % Gain)</td>
             <td>2022-09-08 close - 2023-03-14 close</td>
             <td>11.08 %</td>
         </tr>
         <tr>
-            <td>SPY (Reinvested)</td>
+            <td>SPY (Reinvested % Gain)</td>
             <td>2022-09-08 close - 2023-03-14 close</td>
             <td>10.78 %</td>
         </tr>
         <tr>
-            <td>S&P 500</td>
+            <td>S&P 500 (Buy and Hold)</td>
             <td>2022-09-08 close - 2023-03-14 close</td>
             <td>-2.16 %</td>
         </tr>
