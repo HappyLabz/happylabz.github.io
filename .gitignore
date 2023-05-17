@@ -258,7 +258,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# pytype navPages type analyzer
+# pytype navigation type analyzer
 .pytype/
 
 # Cython debug symbols
