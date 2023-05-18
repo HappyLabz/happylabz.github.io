@@ -67,4 +67,3 @@ Make sure to visit our <a href="{% link TSLA.md %}">TSLA page</a> and <a href="{
 
 <br>
 <br>
-
