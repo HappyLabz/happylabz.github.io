@@ -45,9 +45,8 @@
   </ul>
   <p class="textSpan">
     The Ticker Boxes are typically GRAY, a color that signifies the absence
-    of a current daily indicator and that the 'Last' algorithm is in active
-    operation. This gray color also indicates that the HappyLabz software is
-    constantly analyzing the market. When the HappyLabz software algorithm anticipates an upcoming trend
+    of a current daily indicator and that the LAST algorithm is in active
+    operation. When the HappyLabz software algorithm anticipates an upcoming trend
     shift, it interacts with the website, triggering a color transformation
     in the corresponding Ticker Box. The Ticker Box turns GREEN or RED,
     symbolizing the direction that the algorithm signals the stock or ETF is
@@ -61,7 +60,7 @@
     The LAST and DELTA data points are refreshed two hours after each
     trading day's closing. A Ticker Box retains its GREEN or RED for 24
     hours following an algorithmic prediction, after which it reverts to
-    GRAY. Despite the color change, the 'Delta' continues to be updated
+    GRAY. Despite the color change, the DELTA continues to be updated
     daily.
   </p>
 </div>

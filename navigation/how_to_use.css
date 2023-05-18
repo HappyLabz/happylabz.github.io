@@ -95,4 +95,8 @@ h2 {
   .imgSpan {
     grid-column: 1/2;
   }
+
+  .imgSpanSmol {
+    grid-column: 1/2;
+  }
 }
