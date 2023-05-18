@@ -56,9 +56,9 @@
         <td>3</td>
         <td>Long</td>
         <td>Mar 03 2023 Close</td>
-        <td>23.00 %</td>
-        <td>21.91 %</td>
-        <td>21.66 %</td>
+        <td>24.77 %</td>
+        <td>23.69 %</td>
+        <td>23.41 %</td>
     </tr>
     
 </table>

@@ -56,9 +56,9 @@
         <td>3</td>
         <td>Long</td>
         <td>Mar 14 2023 Close</td>
-        <td>21.73 %</td>
-        <td>5.02 %</td>
-        <td>2.16 %</td>
+        <td>24.53 %</td>
+        <td>7.81 %</td>
+        <td>4.51 %</td>
     </tr>
     
 </table>

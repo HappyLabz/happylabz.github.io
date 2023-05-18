@@ -82,7 +82,7 @@
         <td>Aug 08 2022 Close</td>
         <td>-0.63 %</td>
         <td>58.48 %</td>
-        <td>68.11 %</td>
+        <td>68.12 %</td>
     </tr>
     <tr>
         <td>7</td>
@@ -104,9 +104,9 @@
         <td>9</td>
         <td>Short</td>
         <td>Feb 16 2023 Close</td>
-        <td>-13.95 %</td>
-        <td>193.76 %</td>
-        <td>394.29 %</td>
+        <td>-12.45 %</td>
+        <td>192.26 %</td>
+        <td>387.79 %</td>
     </tr>
     
 </table>
