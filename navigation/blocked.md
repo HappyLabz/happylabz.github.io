@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h1>Information about this ticker is viewable by HappyLabz sponsors.</h1>
+<h1>In depth information about this ticker is viewable by HappyLabz partners.</h1>
 
 <p>
 We greatly appreciate your interest in our services and the time you've taken to learn more about what we have to offer. 
