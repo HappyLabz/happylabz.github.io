@@ -10,7 +10,8 @@
 <div class="example">
   <p class="textSpan">
     On the Home Screen, you'll encounter 'Ticker Boxes', each labeled with
-    their respective stock or ETF ticker. They serve as hyperlinks that
+    their respective stock or ETF ticker. These ‘Ticker Boxes’ display current 
+    HappyLabz Technologies algorithmic indicator information and serve as hyperlinks that
     redirect you to sub-pages packed with additional information about the
     particular stock or ETF.
   </p>
@@ -46,10 +47,7 @@
     The Ticker Boxes are typically GRAY, a color that signifies the absence
     of a current daily indicator and that the 'Last' algorithm is in active
     operation. This gray color also indicates that the HappyLabz software is
-    constantly analyzing the market.
-  </p>
-  <p class="textSpan">
-    When the HappyLabz software algorithm anticipates an upcoming trend
+    constantly analyzing the market. When the HappyLabz software algorithm anticipates an upcoming trend
     shift, it interacts with the website, triggering a color transformation
     in the corresponding Ticker Box. The Ticker Box turns GREEN or RED,
     symbolizing the direction that the algorithm signals the stock or ETF is
@@ -68,7 +66,7 @@
   </p>
 </div>
 
-<div class="sectionTitle"><h2>Inside Indicators</h2></div>
+<div class="sectionTitle"><h2>HLT Past Results</h2></div>
 <div class="example">
   <p class="textSpan">
     For a deeper dive into past trades, click the ticker title within a
