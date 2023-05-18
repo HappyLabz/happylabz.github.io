@@ -53,9 +53,10 @@ Make sure to visit our <a href="{% link TSLA.md %}">TSLA page</a> and <a href="{
 </p>
 
 <br>
-<h3>Contact us to become a partner<h3>
+
 <div class="contactBox">
   <div class="boxGrid">
+    <h3>Contact us to become a partner<h3>
 <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
       <button>Contact Us</button>
 </a>
