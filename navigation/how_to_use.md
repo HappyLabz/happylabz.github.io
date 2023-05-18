@@ -50,7 +50,7 @@
     shift, it interacts with the website, triggering a color transformation
     in the corresponding Ticker Box. The Ticker Box turns GREEN or RED,
     symbolizing the direction that the algorithm signals the stock or ETF is
-    most likely to move in.
+    most likely to move.
   </p>
   <img class="imgSpanSmol" src="images/greyRedBox.png" alt="boxGrid" />
   <img class="SepDec" src="images/boxGreenDec.png" alt="boxGrid" />
