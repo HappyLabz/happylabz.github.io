@@ -74,7 +74,7 @@
         }
 </style>
     
-## Current Indicators
+## Current Live Indicators
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
