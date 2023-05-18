@@ -57,3 +57,9 @@ button {
 button:hover {
   background-image: linear-gradient(to top left, #075985, #0ea5e9);
 }
+
+@media (max-width: 1000px) {
+    .boxGrid h1 {
+        font-size: 1.8em !important;
+    }
+}
