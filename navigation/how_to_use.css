@@ -97,6 +97,6 @@ h2 {
   }
 
   .imgSpanSmol {
-    grid-column: 1/2;
+    grid-column: 1/2 !important;
   }
 }
