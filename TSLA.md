@@ -122,23 +122,23 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-04-05 Close <b>-</b> 2023-05-17 Close</td>
-            <td>-52.20 %</td>
+            <td>2022-04-05 Close <b>-</b> 2023-05-18 Close</td>
+            <td>-51.37 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-            <td>2022-04-05 Close <b>-</b> 2023-05-17 Close</td>
-            <td>193.76 %</td>
+            <td>2022-04-05 Close <b>-</b> 2023-05-18 Close</td>
+            <td>192.26 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-04-05 Close <b>-</b> 2023-05-17 Close</td>
-            <td>394.29 %</td>
+            <td>2022-04-05 Close <b>-</b> 2023-05-18 Close</td>
+            <td>387.79 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-04-05 Close <b>-</b> 2023-05-17 Close</td>
-            <td>-7.94 %</td>
+            <td>2022-04-05 Close <b>-</b> 2023-05-18 Close</td>
+            <td>-7.05 %</td>
         </tr>
     </tbody>
 </table>
