@@ -81,7 +81,7 @@
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> May 16 2023 15:00 PST</li>
+            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> May 15 2023 15:00 PST</li>
             <li>DELTA: <b><span style="color: #167816;">0.62 (0.36%)</span></b> as of close<br>May 18 2023</li>
         </ul>
     </div>
