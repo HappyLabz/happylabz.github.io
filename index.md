@@ -103,7 +103,7 @@
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> Apr 24 2023 15:00 PST</li>
-            <li>DELTA: <b><span style="color: #167816;">27.03 (16.63%)</span></b> as of close<br>May 23 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">26.32 (16.19%)</span></b> as of close<br>May 23 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
