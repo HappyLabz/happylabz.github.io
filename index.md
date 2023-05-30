@@ -92,7 +92,7 @@
             <li>DELTA: <b><span style="color: #167816;">0.01 (0.01%)</span></b> as of close<br>May 25 2023</li>
         </ul>
     </div>
-    <div class="box red" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> May 24 2023 15:00 PST</li>
