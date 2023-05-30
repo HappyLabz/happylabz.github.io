@@ -44,9 +44,11 @@
     from multiple subfields of Artificial Intelligence and applies General 
     Intelligence analytical techniques to produce cutting-edge technical 
     algorithms. These highly specialized algorithms provide investors with 
-    real-time understanding of stock price behavior, enabling them to time 
+    a real-time understanding of stock price behavior, enabling them to time 
     trades with remarkable accuracy. 
   </p>
+</div>
+<div class="normParagraphs">
   <p>
     A compelling use case showcasing the capabilities
     of our proprietary technology involves Tesla Inc. (TSLA). In this
