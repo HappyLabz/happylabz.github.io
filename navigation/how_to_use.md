@@ -15,6 +15,11 @@
     redirect you to sub-pages packed with additional information about the
     particular stock or ETF.
   </p>
+  <p class="textSpan">
+    Currently only the TSLA 'Ticker Box' is open to the public. Happy Labz 
+    Technologies partners have access to all 'Ticker Boxes.' Contact us to 
+    become a partner.
+  </p>
   <img class="imgSpan" src="images/boxGrid.png" alt="boxGrid" />
 </div>
 
