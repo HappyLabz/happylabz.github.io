@@ -40,9 +40,9 @@
         <td>1</td>
         <td>Short</td>
         <td>Nov 23 2021 Close</td>
-        <td>-19.56 %</td>
-        <td>19.56 %</td>
-        <td>19.56 %</td>
+        <td>-19.57 %</td>
+        <td>19.57 %</td>
+        <td>19.57 %</td>
     </tr>
     <tr>
         <td>2</td>
@@ -57,8 +57,8 @@
         <td>Long</td>
         <td>Jan 31 2022 Close</td>
         <td>-24.42 %</td>
-        <td>-0.97 %</td>
-        <td>-6.12 %</td>
+        <td>-0.96 %</td>
+        <td>-6.11 %</td>
     </tr>
     <tr>
         <td>4</td>
@@ -73,32 +73,24 @@
         <td>Long</td>
         <td>Nov 11 2022 Close</td>
         <td>-5.86 %</td>
-        <td>-17.68 %</td>
+        <td>-17.67 %</td>
         <td>-21.21 %</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
         <td>Mar 14 2023 Close</td>
-        <td>21.22 %</td>
-        <td>3.54 %</td>
-        <td>-4.49 %</td>
+        <td>21.20 %</td>
+        <td>3.52 %</td>
+        <td>-4.51 %</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Short</td>
-        <td>May 22 2023 Close</td>
-        <td>-0.02 %</td>
-        <td>3.56 %</td>
-        <td>-4.48 %</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>Short</td>
         <td>May 23 2023 Close</td>
-        <td>4.86 %</td>
-        <td>-1.31 %</td>
-        <td>-9.12 %</td>
+        <td>8.79 %</td>
+        <td>-5.27 %</td>
+        <td>-12.90 %</td>
     </tr>
     
 </table>
@@ -114,23 +106,23 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2021-11-23 Close <b>-</b> 2023-05-31 Close</td>
-            <td>-32.64 %</td>
+            <td>2021-11-23 Close <b>-</b> 2023-06-05 Close</td>
+            <td>-30.11 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2021-11-23 Close <b>-</b> 2023-05-31 Close</td>
-            <td>-1.31 %</td>
+            <td>2021-11-23 Close <b>-</b> 2023-06-05 Close</td>
+            <td>-5.27 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2021-11-23 Close <b>-</b> 2023-05-31 Close</td>
-            <td>-9.12 %</td>
+            <td>2021-11-23 Close <b>-</b> 2023-06-05 Close</td>
+            <td>-12.90 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2021-11-23 Close <b>-</b> 2023-05-31 Close</td>
-            <td>-10.75 %</td>
+            <td>2021-11-23 Close <b>-</b> 2023-06-05 Close</td>
+            <td>-8.26 %</td>
         </tr>
     </tbody>
 </table>
