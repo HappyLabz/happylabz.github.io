@@ -128,9 +128,9 @@
         <td>12</td>
         <td>Long</td>
         <td>Mar 14 2023 Close</td>
-        <td>8.89 %</td>
-        <td>81.41 %</td>
-        <td>115.48 %</td>
+        <td>9.55 %</td>
+        <td>82.07 %</td>
+        <td>116.78 %</td>
     </tr>
     
 </table>
@@ -146,23 +146,23 @@
     <tbody>
         <tr>
             <td>SPY (Buy and Hold)</td>
-            <td>2022-03-31 Close <b>-</b> 2023-06-07 Close</td>
-            <td>-5.56 %</td>
+            <td>2022-03-31 Close <b>-</b> 2023-06-08 Close</td>
+            <td>-4.98 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
-            <td>2022-03-31 Close <b>-</b> 2023-06-07 Close</td>
-            <td>81.41 %</td>
+            <td>2022-03-31 Close <b>-</b> 2023-06-08 Close</td>
+            <td>82.07 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Reinvested % Gain)</td>
-            <td>2022-03-31 Close <b>-</b> 2023-06-07 Close</td>
-            <td>115.48 %</td>
+            <td>2022-03-31 Close <b>-</b> 2023-06-08 Close</td>
+            <td>116.78 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-03-31 Close <b>-</b> 2023-06-07 Close</td>
-            <td>-5.56 %</td>
+            <td>2022-03-31 Close <b>-</b> 2023-06-08 Close</td>
+            <td>-4.98 %</td>
         </tr>
     </tbody>
 </table>
