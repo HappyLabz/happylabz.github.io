@@ -95,7 +95,7 @@
             <li>DELTA: <b><span style="color: #167816;">37.88 (25.96%)</span></b> as of close<br>Jun 12 2023</li>
         </ul>
     </div>
-    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> Jun 08 2023 15:00 PST</li>
