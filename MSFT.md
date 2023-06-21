@@ -32,7 +32,7 @@
         <th>No.</th>
         <th>Direction</th>
         <th>Date</th>
-        <th>Absolute Move %</th>
+        <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
       </tr>
