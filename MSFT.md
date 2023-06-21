@@ -38,35 +38,27 @@
       </tr>
     <tr>
         <td>1</td>
-        <td>Long</td>
-        <td>Sep 08 2022 Close</td>
-        <td>2.30 %</td>
-        <td>2.30 %</td>
-        <td>2.30 %</td>
+        <td>Short</td>
+        <td>Aug 18 2022 Close</td>
+        <td>-12.02 %</td>
+        <td>12.02 %</td>
+        <td>12.02 %</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Sep 09 2022 Close</td>
-        <td>-3.47 %</td>
-        <td>-1.17 %</td>
-        <td>-1.25 %</td>
+        <td>Mar 03 2023 Close</td>
+        <td>26.67 %</td>
+        <td>38.69 %</td>
+        <td>41.90 %</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Long</td>
-        <td>Mar 03 2023 Close</td>
-        <td>26.67 %</td>
-        <td>25.50 %</td>
-        <td>25.09 %</td>
-    </tr>
-    <tr>
-        <td>4</td>
         <td>Short</td>
         <td>Jun 07 2023 Close</td>
         <td>3.28 %</td>
-        <td>22.22 %</td>
-        <td>20.98 %</td>
+        <td>35.41 %</td>
+        <td>37.24 %</td>
     </tr>
     
 </table>
@@ -82,23 +74,23 @@
     <tbody>
         <tr>
             <td>MSFT (Buy and Hold)</td>
-            <td>2022-09-08 Close <b>-</b> 2023-06-21 Close</td>
-            <td>29.20 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-06-21 Close</td>
+            <td>15.10 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
-            <td>2022-09-08 Close <b>-</b> 2023-06-21 Close</td>
-            <td>22.22 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-06-21 Close</td>
+            <td>35.41 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Reinvested % Gain)</td>
-            <td>2022-09-08 Close <b>-</b> 2023-06-21 Close</td>
-            <td>20.98 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-06-21 Close</td>
+            <td>37.24 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-09-08 Close <b>-</b> 2023-06-21 Close</td>
-            <td>8.70 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-06-21 Close</td>
+            <td>1.72 %</td>
         </tr>
     </tbody>
 </table>
