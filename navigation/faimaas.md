@@ -1,0 +1,82 @@
+<link rel="stylesheet" href="faimaas.css" />
+
+
+<h1 class="header">F.A.I.M.A.A.S</h1>
+
+<p class="friendlyWording">
+  FAIMAAS (read FAMOUS), or <b>F</b>inancial <b>A</b>rtificial <b>I</b>ntelligence 
+  <b>M</b>odels <b>A</b>s <b>A</b> <b>S</b>ervice, is a specialized service that offers 
+  tailor-made AI models crafted explicitlyfor financial companies, delivered 
+  online through subscription.
+</p>
+<p class="friendlyWording">
+  At HappyLabz Technologies, we harness the power of machine learning, a key 
+  component of Artificial Intelligence, to evaluate equity price movements, 
+  detect directional changes, and predict future prices. We can develop 
+  distinct machine learning models for each publicly traded ticker and time period.
+</p>
+
+<h3>Unique Process, extra-ordinary results</h3>
+
+<p class="friendlyWording">
+  Our methodology encompasses the following stages:
+</p>
+
+<ol>
+  <li>Data Collection</li>
+  <li>Data Preprocessing and Cleaning</li>
+  <li>Feature Selection - identifying the most pertinent data</li>
+  <li>Constructing Predictive Models</li>
+  <li>Model Training</li>
+  <li>Testing and Validation</li>
+  <li>Evaluation and Optimization</li>
+</ol>
+
+<p class="friendlyWording">
+  Our specialized model making techniques culminate in uniquely designed 
+  models with extraordinary results. Once a model is established, 
+  we ensure it remains current and accurate by continuously adding and 
+  processing the most recent data. As the market evolves, our models 
+  dynamically adjust.
+</p>
+
+<p class="friendlyWording">
+  Our FAIMAAS delivers these custom-made models to subscribers for an 
+  annual or quarterly fee, billed monthly. Additionally, we can create 
+  bespoke models that reflect each firm’s unique investment strategy, after 
+  consultation. It is important to remember that HappyLabz provides Financial 
+  Artificial Intelligence Models as a Service, not as a product. We maintain 
+  strict control over our code and the specifics of our process, we share the 
+  output that the code generates for a fee. 
+</p>
+
+<p class="friendlyWording">
+  HappyLabz Technologies creates two types of Models:
+</p>
+
+<ol>
+  <li>
+    Direction and Magnitude Model (DMM): Determines Direction and size of 
+    move for a defined period of time. Current projected time frames cover 
+    1 day and 1 week in duration for each ticker.
+  </li>
+  <li>
+    Trend Pivot Model (TPM): Determines that a Trend has changed for a 
+    specified ticker. The trend has no predictive end time and generally lasts 
+    weeks to months. The TPM will signal when the trend has changed Direction. 
+    A profitable trading strategy can incorporate trading TPM signal to TPM 
+    signal.
+  </li>
+</ol>
+
+<h3>Cost Effective</h3>
+
+<p class="friendlyWording">
+  The world's top-performing funds generate lifetime annual returns exceeding 
+  35% by utilizing intricate mathematical trading models and employing hundreds 
+  of PhDs. At HappyLabz Technologies, we leverage advancements in Artificial 
+  Intelligence and our proprietary machine learning processes and models to 
+  help your firm to attain returns comparable to these elite funds at a fraction 
+  of the cost. Contact Us for an in-house demonstration on how our models can 
+  increase your firm’s daily, weekly, monthly, and yearly rate of return.
+</p>
