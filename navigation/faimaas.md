@@ -6,7 +6,7 @@
 <p class="friendlyWording">
   FAIMAAS (read FAMOUS), or <b>F</b>inancial <b>A</b>rtificial <b>I</b>ntelligence 
   <b>M</b>odels <b>A</b>s <b>A</b> <b>S</b>ervice, is a specialized service that offers 
-  tailor-made AI models crafted explicitlyfor financial companies, delivered 
+  tailor-made AI models crafted explicitly for financial companies, delivered 
   online through subscription.
 </p>
 <p class="friendlyWording">
@@ -16,7 +16,7 @@
   distinct machine learning models for each publicly traded ticker and time period.
 </p>
 
-<h3>Unique Process, extra-ordinary results</h3>
+<h3>Unique Process, Extra-ordinary Results</h3>
 
 <p class="friendlyWording">
   Our methodology encompasses the following stages:
@@ -80,3 +80,14 @@
   of the cost. Contact Us for an in-house demonstration on how our models can 
   increase your firm’s daily, weekly, monthly, and yearly rate of return.
 </p>
+
+<div class="contactBox">
+  <div class="boxGrid">
+    <h1>Accounts@happylabz.tech</h1>
+    <!-- <li style="float: right"> -->
+    <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
+      <button>Contact Us</button>
+    </a>
+    <!-- </li> -->
+  </div>
+</div>
