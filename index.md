@@ -92,35 +92,35 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> as of close Mar 02 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">38.05 (26.08%)</span></b> as of close<br>Jun 21 2023</li>
-        </ul>
-    </div>
-    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
-        <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
-        <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> as of close Jun 08 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">0.58 (0.47%)</span></b> as of close<br>Jun 21 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">41.09 (28.16%)</span></b> as of close<br>Jun 22 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
+        <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
+        <ul>
+            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> as of close Jun 08 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">5.90 (4.75%)</span></b> as of close<br>Jun 22 2023</li>
+        </ul>
+    </div>
+    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> as of close Jun 07 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">10.18 (3.15%)</span></b> as of close<br>Jun 21 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">16.33 (5.05%)</span></b> as of close<br>Jun 22 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link TSLA.md %}';">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> as of close Apr 24 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">96.91 (59.62%)</span></b> as of close<br>Jun 21 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">102.06 (62.79%)</span></b> as of close<br>Jun 22 2023</li>
         </ul>
     </div>
     <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> as of close Jun 16 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-4.52 (-1.03%)</span></b> as of close<br>Jun 21 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-2.95 (-0.67%)</span></b> as of close<br>Jun 22 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
