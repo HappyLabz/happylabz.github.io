@@ -16,13 +16,13 @@
   distinct machine learning models for each publicly traded ticker and time period.
 </p>
 
-<h3>Unique Process, Extra-ordinary Results</h3>
+<h3 class="header">Unique Process, Extra-ordinary Results</h3>
 
 <p class="friendlyWording">
   Our methodology encompasses the following stages:
 </p>
 
-<ol>
+<ol class="friendlyWording">
   <li>Data Collection</li>
   <li>Data Preprocessing and Cleaning</li>
   <li>Feature Selection - identifying the most pertinent data</li>
@@ -54,7 +54,7 @@
   HappyLabz Technologies creates two types of Models:
 </p>
 
-<ol>
+<ol class="friendlyWording">
   <li>
     Direction and Magnitude Model (DMM): Determines Direction and size of 
     move for a defined period of time. Current projected time frames cover 
@@ -69,7 +69,7 @@
   </li>
 </ol>
 
-<h3>Cost Effective</h3>
+<h3 class="header">Cost Effective</h3>
 
 <p class="friendlyWording">
   The world's top-performing funds generate lifetime annual returns exceeding 
