@@ -96,9 +96,9 @@
         <td>8</td>
         <td>Long</td>
         <td>Apr 24 2023 Close</td>
-        <td>62.07 %</td>
-        <td>224.94 %</td>
-        <td>509.74 %</td>
+        <td>62.02 %</td>
+        <td>224.89 %</td>
+        <td>509.55 %</td>
     </tr>
     
 </table>
@@ -114,23 +114,23 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-05-26 Close <b>-</b> 2023-06-21 Close</td>
-            <td>11.67 %</td>
+            <td>2022-05-26 Close <b>-</b> 2023-06-22 Close</td>
+            <td>11.64 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-            <td>2022-05-26 Close <b>-</b> 2023-06-21 Close</td>
-            <td>224.94 %</td>
+            <td>2022-05-26 Close <b>-</b> 2023-06-22 Close</td>
+            <td>224.89 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-05-26 Close <b>-</b> 2023-06-21 Close</td>
-            <td>509.74 %</td>
+            <td>2022-05-26 Close <b>-</b> 2023-06-22 Close</td>
+            <td>509.55 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-05-26 Close <b>-</b> 2023-06-21 Close</td>
-            <td>7.38 %</td>
+            <td>2022-05-26 Close <b>-</b> 2023-06-22 Close</td>
+            <td>7.44 %</td>
         </tr>
     </tbody>
 </table>
