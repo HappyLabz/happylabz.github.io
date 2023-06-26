@@ -72,7 +72,7 @@ button:hover {
 .hits {
     border-collapse: collapse;
     width: 100%;
-    display: grid;
+    display: grid !important;
     align-content: center;
     justify-content: center;
 }
