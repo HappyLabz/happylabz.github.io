@@ -18,7 +18,7 @@
 
 <h3 class="header">HappyLabz Technologies Day Trading Model From 6/8/2022 - 6/22/2023</h3>
 
-<table class="hits friendlyWording">
+<table class="hits">
     <tr>
         <th>Symbol</th>
         <th>Cumulative % Gain</th>
