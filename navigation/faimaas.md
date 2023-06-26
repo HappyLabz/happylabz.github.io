@@ -57,7 +57,7 @@
     </tr>
     <tr>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid black">
         <td><b>Average:</b></td>
         <td><b>195.41</b></td>
         <td><b>908.59</b></td>
