@@ -16,9 +16,9 @@
   distinct machine learning models for each publicly traded ticker and time period.
 </p>
 
-<h3>HappyLabz Technologies Day Trading Model From 6/8/2022 - 6/22/2023</h3>
+<h3 class="header">HappyLabz Technologies Day Trading Model From 6/8/2022 - 6/22/2023</h3>
 
-<table class="hits">
+<table class="hits friendlyWording">
     <tr>
         <th>Symbol</th>
         <th>Cumulative % Gain</th>
