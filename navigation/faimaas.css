@@ -25,7 +25,7 @@
 .description {
   font-size: 12px;
   margin-top: 12px !important;
-  margin-bottom 12px !important`;
+  margin-bottom 12px !important;
 }
 
 .contactBox {
@@ -72,6 +72,9 @@ button:hover {
 .hits {
     border-collapse: collapse;
     width: 100%;
+    display: grid;
+    align-content: center;
+    justify-content: center;
 }
 .hits th, td {
     padding: 8px;
