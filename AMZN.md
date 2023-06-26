@@ -96,9 +96,9 @@
         <td>8</td>
         <td>Short</td>
         <td>Jun 08 2023 Close</td>
-        <td>3.24 %</td>
-        <td>118.23 %</td>
-        <td>178.78 %</td>
+        <td>2.48 %</td>
+        <td>118.99 %</td>
+        <td>180.98 %</td>
     </tr>
     
 </table>
@@ -115,22 +115,22 @@
         <tr>
             <td>AMZN (Buy and Hold)</td>
             <td>2022-05-13 Close <b>-</b> 2023-06-26 Close</td>
-            <td>13.47 %</td>
+            <td>12.63 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
             <td>2022-05-13 Close <b>-</b> 2023-06-26 Close</td>
-            <td>118.23 %</td>
+            <td>118.99 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
             <td>2022-05-13 Close <b>-</b> 2023-06-26 Close</td>
-            <td>178.78 %</td>
+            <td>180.98 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
             <td>2022-05-13 Close <b>-</b> 2023-06-26 Close</td>
-            <td>7.49 %</td>
+            <td>7.40 %</td>
         </tr>
     </tbody>
 </table>
