@@ -66,7 +66,20 @@
     
 </table>
 
-<p class="friendlyWording">
+<p class="friendlyWording description">
+    The provided table demonstrates the highly efficient Day Trading Direction and Magnitude (DMM) Model for each of the 5 tickers listed.
+</p>
+<p class="friendlyWording description">
+    The Cumulative percentage gain realized through the use of HappyLabz Technologies' Day Trading DMM Model averaged a 195.41% compared to 16.95% implementing a buy-and-hold strategy over the same period.The Day Trading DMM Model  using the Cumulative strategy outperformed the Buy-and-Hold strategy by a factor of 11.52.
+</p>
+<p class="friendlyWording description">
+    The Reinvested percentage gain realized through the use of HappyLabz Technologies Day Trading DMM Model averaged a 908.59% compared to 16.95% implementing a buy-and-hold strategy over the same period.The Day Trading DMM Model using the Reinvested strategy outperformed the Buy-and-Hold strategy by a factor of 53.60.
+</p>
+<p class="friendlyWording description">
+    In this context, 'Cumulative' refers to the total profit calculated after securing profit daily and commencing the following trading day with the initial investment amount. The cumulative profit is then summed at the end of the designated date range.
+</p>
+<p class="friendlyWording description">
+    'Reinvested' refers to the profit acquired by selling at the close of each trading day and then reinvesting the entire balance each day until the end of the defined date range.
 </p>
 
 <h3 class="header">Unique Process, Extra-ordinary Results</h3>
