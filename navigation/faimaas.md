@@ -16,6 +16,59 @@
   distinct machine learning models for each publicly traded ticker and time period.
 </p>
 
+<h3>HappyLabz Technologies Day Trading Model From 6/8/2022 - 6/22/2023</h3>
+
+<table class="hits">
+    <tr>
+        <th>Symbol</th>
+        <th>Cumulative % Gain</th>
+        <th>Reinvested % Gain</th>
+        <th>Buy and Hold</th>
+      </tr>
+    <tr>
+        <td>AAPL</td>
+        <td>153.68</td>
+        <td>357.92</td>
+        <td>30.69</td>
+    </tr>
+    <tr>
+        <td>AMZN</td>
+        <td>219.86</td>
+        <td>775.03</td>
+        <td>11.79</td>
+    </tr>
+    <tr>
+        <td>MSFT</td>
+        <td>144.69</td>
+        <td>318.16</td>
+        <td>26.80</td>
+    </tr>
+    <tr>
+        <td>SPY</td>
+        <td>114.59</td>
+        <td>212.05</td>
+        <td>12.02</td>
+    </tr>
+    <tr>
+        <td>TSLA</td>
+        <td>344.21</td>
+        <td>2879.82</td>
+        <td>3.44</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <td><b>Average:</b></td>
+        <td><b>195.41</b></td>
+        <td><b>908.59</b></td>
+        <td><b>16.95</b></td>
+    </tr>
+    
+</table>
+
+<p class="friendlyWording">
+</p>
+
 <h3 class="header">Unique Process, Extra-ordinary Results</h3>
 
 <p class="friendlyWording">

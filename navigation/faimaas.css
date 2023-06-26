@@ -62,3 +62,25 @@ button:hover {
         font-size: 1.8em !important;
     }
 }
+
+.hits {
+    border-collapse: collapse;
+    width: 100%;
+}
+.hits th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+.hits td {text-align: right;}
+.hits th {text-align: left;}
+
+.hits tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.chartCol {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
