@@ -162,5 +162,3 @@
     <!-- </li> -->
   </div>
 </div>
-
-<a href="{% link faimaas/index.md %}">Results</a>
