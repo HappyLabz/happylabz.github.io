@@ -163,4 +163,4 @@
   </div>
 </div>
 
-<a href="{% link faimass/index.md %}">Results</a>
+<a href="{% link faimaas/index.md %}">Results</a>
