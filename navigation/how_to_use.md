@@ -2,8 +2,7 @@
 
 
 <div class="header">
-      <h1>HappyLabz Technologies: Technically Timing Trades</h1>
-      <h2>How to Use</h2>
+      <h1>How to Use</h1>
 </div>
 
 <div class="sectionTitle"><h2>HappyLabz Hub</h2></div>
