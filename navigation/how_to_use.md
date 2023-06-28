@@ -82,7 +82,7 @@
   <img class="SepDec" src="images/greyRedBox.png" alt="boxGrid" />
   <img class="exampGraph" src="images/expPastIndicators.png" alt="boxGrid" />
   <img class="exampGraph" src="images/comparativeResults.png" alt="boxGrid" />
-  <img class="exampGraph" src="images/histIndChart.png" alt="boxGrid" />
+  <!-- <img class="exampGraph" src="images/histIndChart.png" alt="boxGrid" /> -->
   <p class="textSpan">
     At HappyLabz, our dedicated team is constantly innovating, crafting and
     refining algorithms for an extensive range of stocks and ETFs. To gain
