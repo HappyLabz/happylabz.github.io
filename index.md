@@ -99,14 +99,14 @@
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 124.25 as of close <br>Jun 08 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">4.84 (3.90%)</span></b> as of close<br>Jun 28 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">4.79 (3.86%)</span></b> as of close<br>Jun 28 2023</li>
         </ul>
     </div>
     <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 323.38 as of close <br>Jun 07 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">12.53 (3.87%)</span></b> as of close<br>Jun 28 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">12.47 (3.86%)</span></b> as of close<br>Jun 28 2023</li>
         </ul>
     </div>
     <div class="box gray atUpperPriceLine" onclick="location.href='{% link TSLA.md %}';">
