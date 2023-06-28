@@ -67,6 +67,38 @@
     GRAY. Despite the color change, the DELTA continues to be updated
     daily.
   </p>
+
+  <p class="textSpan">
+    HappyLabz also offers insights into the correlation with historical 
+    pivot indicators on the Hub. The YELLOW lines may be seen both above 
+    and below the ticker name in a Ticker Box are called Price Lines. 
+    These lines illustrate previous price points at which HappyLabz's 
+    indicators were triggered. Such information can act as a vital tool 
+    for making informed trading decisions.
+  </p>
+  <img class="SepDec" src="images/upperPriceline.png" alt="boxGrid" />
+  <img class="SepDec" src="images/lowerPriceline.png" alt="boxGrid" />
+  
+  <p class="textSpan">
+    A Ticker Box may display a Price Line either above or below the 
+    ticker name. If the Price Line is positioned above the ticker name, 
+    it means that the stock's  most recent close price is BELOW, yet 
+    within 1% of, a preceding pivot price. Conversely, a Price Line 
+    beneath the ticker name signifies that the stock's most recent close 
+    price is ABOVE and within 1% of a past pivot price.
+  </p>
+  <img class="imgSpanSmol" src="images/doublePriceline.png" alt="boxGrid" />
+  <p class="textSpan">
+    A Ticker Box might include both an Upper and a Lower Price Line. This 
+    suggests that over the past year, HappyLabz has recorded a pivot point 
+    at both above and below the stock's most recent close price.
+  </p>
+  <p>
+    Price Lines are a conventional element of technical analysis and can 
+    aid traders in identifying pivot points and resistance levels in the 
+    stock's movement. To facilitate ease of use, the platform provides 
+    pertinent information regarding past pivot points.
+  </p>
 </div>
 
 <div class="sectionTitle"><h2>HLT Past Results</h2></div>
