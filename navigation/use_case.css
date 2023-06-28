@@ -139,7 +139,6 @@ ul {
   display: flex;
   align-content: center;
   justify-content: center;
-  border-top: #646464 solid 1px;
 }
 
 .close {
