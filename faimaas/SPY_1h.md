@@ -1,3 +1,5 @@
+<h1>SPY 1H Prediction Log</h1>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15,25 +17,14 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>2023-06-27 06:30:00</td>
-      <td>0.0</td>
-      <td>Long</td>
-      <td>Short</td>
-      <td>2023-06-27 12:00:00</td>
-      <td>10</td>
-      <td>80.000000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>1</th>
       <td>2023-06-28 06:30:00</td>
       <td>435.2</td>
       <td>Short</td>
-      <td>NA</td>
-      <td>NA</td>
-      <td>0</td>
+      <td>Long</td>
+      <td>2023-06-28 12:00:00</td>
+      <td>436.39</td>
       <td>78.787879</td>
-      <td>NA</td>
+      <td>1.19</td>
     </tr>
   </tbody>
 </table>

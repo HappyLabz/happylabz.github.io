@@ -1,3 +1,5 @@
+<h1>MSFT 1H Prediction Log</h1>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15,36 +17,14 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>2023-06-27 06:30:00</td>
-      <td>0.00</td>
-      <td>Long</td>
-      <td>Short</td>
-      <td>2023-06-27 12:00:00</td>
-      <td>10</td>
-      <td>80.000000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2023-06-22 06:30:00</td>
-      <td>336.71</td>
-      <td>Long</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>82.500000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>2</th>
       <td>2023-06-28 06:30:00</td>
       <td>335.54</td>
       <td>Long</td>
-      <td>NA</td>
-      <td>NA</td>
-      <td>0</td>
+      <td>Long</td>
+      <td>2023-06-28 12:00:00</td>
+      <td>335.91</td>
       <td>78.787879</td>
-      <td>NA</td>
+      <td>0.37</td>
     </tr>
   </tbody>
 </table>

@@ -1,3 +1,5 @@
+<h1>TLT 1H Prediction Log</h1>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15,69 +17,14 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>2023-06-27 06:30:00</td>
-      <td>0.00</td>
-      <td>Long</td>
-      <td>Short</td>
-      <td>2023-06-27 12:00:00</td>
-      <td>10.00</td>
-      <td>80.000000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2023-06-27 06:30:00</td>
-      <td>103.63</td>
-      <td>Short</td>
-      <td>Short</td>
-      <td>2023-06-27 12:00:00</td>
-      <td>103.17</td>
-      <td>90.625000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>asdfadsf</td>
-      <td>1.00</td>
-      <td>Long</td>
-      <td>Long</td>
-      <td>qwerty</td>
-      <td>2.00</td>
-      <td>90.000000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>asdfadsf</td>
-      <td>1.00</td>
-      <td>Long</td>
-      <td>Long</td>
-      <td>qwerty</td>
-      <td>2.00</td>
-      <td>90.000000</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>asdfadsf</td>
-      <td>1.00</td>
-      <td>Long</td>
-      <td>Long</td>
-      <td>qwerty</td>
-      <td>2.00</td>
-      <td>90.000000</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>5</th>
       <td>2023-06-28 06:30:00</td>
       <td>103.37</td>
       <td>Short</td>
-      <td>NA</td>
-      <td>NA</td>
-      <td>0.00</td>
+      <td>Long</td>
+      <td>2023-06-28 12:00:00</td>
+      <td>103.63</td>
       <td>81.818182</td>
-      <td>NA</td>
+      <td>0.26</td>
     </tr>
   </tbody>
 </table>

@@ -1,3 +1,5 @@
+<h1>AMZN 1H Prediction Log</h1>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15,36 +17,14 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>2023-06-27 06:30:00</td>
-      <td>0.00</td>
-      <td>Long</td>
-      <td>Short</td>
-      <td>2023-06-27 12:00:00</td>
-      <td>10</td>
-      <td>80.000000</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2023-06-01 06:30:00</td>
-      <td>121.07</td>
-      <td>Long</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0</td>
-      <td>78.048780</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>2</th>
       <td>2023-06-28 06:30:00</td>
       <td>130.74</td>
       <td>Long</td>
-      <td>NA</td>
-      <td>NA</td>
-      <td>0</td>
+      <td>Short</td>
+      <td>2023-06-28 12:00:00</td>
+      <td>129.09</td>
       <td>81.818182</td>
-      <td>NA</td>
+      <td>-1.65</td>
     </tr>
   </tbody>
 </table>
