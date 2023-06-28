@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="how_to_use.css" />
 
-
-<div class="header">
-      <h1>How to Use</h1>
-</div>
+<h1 class="header">How to Use</h1>
 
 <div class="sectionTitle"><h2>HappyLabz Hub</h2></div>
 <div class="example">
