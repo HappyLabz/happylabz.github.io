@@ -57,7 +57,7 @@ h2 {
   grid-template-columns: 1fr 1fr;
   align-items: start;
   justify-items: center;
-  row-gap: 2rem;
+  row-gap: 1.8rem;
   /* margin-top: 4rem; */
   margin-bottom: 1rem;
   margin-left: 10%;
@@ -71,7 +71,6 @@ h2 {
 .sectionTitle {
   display: flex;
   margin: 20px;
-  padding-top: 12px;
   align-content: center;
   justify-content: center;
 }
