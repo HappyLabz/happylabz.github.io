@@ -35,8 +35,7 @@
 </style>
 
 
-<div class="myH1">HappyLabz Technologies: Technically Timing Trades</div>
-<div class="myH2">Use Case: TESLA Stock (TSLA)</div>
+<div class="myH1">Use Case: TESLA Stock (TSLA)</div>
 
 <div class="normParagraphs">
   <p>

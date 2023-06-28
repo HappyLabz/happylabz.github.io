@@ -91,7 +91,7 @@ ul {
   grid-template-columns: 1fr 1fr;
   align-items: start;
   justify-items: center;
-  row-gap: 5rem;
+  row-gap: 3rem;
   /* margin-top: 4rem; */
   margin-bottom: 4rem;
   margin-left: 10%;
@@ -104,11 +104,9 @@ ul {
 
 .sectionTitle {
   display: flex;
-  margin: 30px;
-  padding-top: 24px;
+  margin: 20px;
   align-content: center;
   justify-content: center;
-  border-top: #646464 solid 1px;
 }
 
 .lists {
