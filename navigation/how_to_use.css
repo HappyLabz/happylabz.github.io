@@ -59,7 +59,7 @@ h2 {
   justify-items: center;
   row-gap: 2rem;
   /* margin-top: 4rem; */
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -71,6 +71,7 @@ h2 {
 .sectionTitle {
   display: flex;
   margin: 40px;
+  margin-top: 10px;
   padding-top: 24px;
   align-content: center;
   justify-content: center;
