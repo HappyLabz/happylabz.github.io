@@ -112,5 +112,17 @@
       <td>0.00</td>
       <td>H24</td>
     </tr>
+    <tr>
+      <th>8</th>
+      <td>2023-07-03 06:30:00</td>
+      <td>283.35</td>
+      <td>Long</td>
+      <td>Short</td>
+      <td>2023-07-03 06:30:00</td>
+      <td>283.35</td>
+      <td>84.375000</td>
+      <td>0.00</td>
+      <td>Wein</td>
+    </tr>
   </tbody>
 </table>

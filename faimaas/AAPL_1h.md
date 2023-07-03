@@ -112,5 +112,17 @@
       <td>0.00</td>
       <td>NaN</td>
     </tr>
+    <tr>
+      <th>8</th>
+      <td>2023-07-03 06:30:00</td>
+      <td>192.96</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-07-03 06:30:00</td>
+      <td>192.96</td>
+      <td>62.500000</td>
+      <td>0.00</td>
+      <td>Wein</td>
+    </tr>
   </tbody>
 </table>
