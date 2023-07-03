@@ -49,7 +49,6 @@ At HappyLabz, our dedicated team is constantly innovating, crafting and refining
 
 <div class="contactBox">
   <div class="boxGrid">
-    <h3>Contact us to time your ticker</h3>
     <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
       <button>Contact Us</button>
     </a>
