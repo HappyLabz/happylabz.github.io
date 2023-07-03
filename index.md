@@ -82,9 +82,18 @@
             max-width: 1200px !important;
             display: block !important;
         }
+
+.header {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  row-gap: 1rem;
+  grid-template-columns: 1fr;
+  margin: 16px;
+}
 </style>
     
-# Current Live Indicators
+<h1 class="header"> Current Live Indicators</h1>
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
