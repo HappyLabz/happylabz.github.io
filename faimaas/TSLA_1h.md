@@ -1,5 +1,7 @@
 <h1>TSLA 1H Prediction Log</h1>
 
+* Wein Win: 2/5
+* H24  Win: 3/4
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

@@ -1,5 +1,7 @@
 <h1>XOM 1H Prediction Log</h1>
 
+* Wein Win: 0/1
+* H24  Win: 0/0
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
