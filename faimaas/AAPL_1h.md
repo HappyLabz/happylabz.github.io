@@ -12,7 +12,6 @@
       <th>actual_direction</th>
       <th>end_date</th>
       <th>end_price</th>
-      <th>confidence</th>
       <th>difference</th>
       <th>model_type</th>
     </tr>
@@ -26,7 +25,6 @@
       <td>Long</td>
       <td>2023-06-28 12:00:00</td>
       <td>189.25</td>
-      <td>72.727273</td>
       <td>1.09</td>
       <td>Wein</td>
     </tr>
@@ -38,7 +36,6 @@
       <td>Long</td>
       <td>2023-06-28 12:00:00</td>
       <td>189.25</td>
-      <td>64.516129</td>
       <td>1.09</td>
       <td>H24</td>
     </tr>
@@ -50,7 +47,6 @@
       <td>Short</td>
       <td>2023-06-29 08:00:00</td>
       <td>189.59</td>
-      <td>64.516129</td>
       <td>-0.09</td>
       <td>H24</td>
     </tr>
@@ -62,7 +58,6 @@
       <td>Short</td>
       <td>2023-06-29 08:00:00</td>
       <td>189.59</td>
-      <td>69.696970</td>
       <td>-0.09</td>
       <td>Wein</td>
     </tr>
@@ -74,7 +69,6 @@
       <td>Long</td>
       <td>2023-06-30 07:00:00</td>
       <td>193.97</td>
-      <td>68.750000</td>
       <td>1.48</td>
       <td>Wein</td>
     </tr>
@@ -86,7 +80,6 @@
       <td>Long</td>
       <td>2023-06-30 07:00:00</td>
       <td>193.97</td>
-      <td>67.741935</td>
       <td>1.48</td>
       <td>H24</td>
     </tr>
@@ -98,7 +91,6 @@
       <td>Short</td>
       <td>2023-07-03 06:30:00</td>
       <td>192.96</td>
-      <td>67.741935</td>
       <td>0.00</td>
       <td>H24</td>
     </tr>
@@ -110,7 +102,6 @@
       <td>Short</td>
       <td>2023-07-03 06:30:00</td>
       <td>192.96</td>
-      <td>62.500000</td>
       <td>0.00</td>
       <td>Wein</td>
     </tr>

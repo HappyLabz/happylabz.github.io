@@ -1,7 +1,7 @@
 <h1>TSM 1H Prediction Log</h1>
 
-* Wein Win: 0/1
-* H24  Win: 0/0
+* Wein Win: 3/4
+* H24  Win: 2/4
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12,7 +12,6 @@
       <th>actual_direction</th>
       <th>end_date</th>
       <th>end_price</th>
-      <th>confidence</th>
       <th>difference</th>
       <th>model_type</th>
     </tr>
@@ -26,115 +25,83 @@
       <td>Long</td>
       <td>2023-06-28 12:00:00</td>
       <td>100.92</td>
-      <td>78.787879</td>
       <td>0.56</td>
-      <td>NaN</td>
+      <td>Wein</td>
     </tr>
     <tr>
       <th>1</th>
       <td>2023-06-28 06:30:00</td>
       <td>100.36</td>
       <td>Long</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>0.00</td>
-      <td>83.870968</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>2023-06-28 06:30:00</td>
-      <td>100.36</td>
-      <td>Long</td>
       <td>Long</td>
       <td>2023-06-28 12:00:00</td>
       <td>100.92</td>
-      <td>83.870968</td>
       <td>0.56</td>
-      <td>NaN</td>
+      <td>H24</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2023-06-29 06:30:00</td>
+      <td>100.40</td>
+      <td>Short</td>
+      <td>Long</td>
+      <td>2023-06-29 12:00:00</td>
+      <td>100.50</td>
+      <td>0.24</td>
+      <td>H24</td>
     </tr>
     <tr>
       <th>3</th>
       <td>2023-06-29 06:30:00</td>
       <td>100.40</td>
-      <td>Short</td>
       <td>Long</td>
-      <td>2023-06-29 08:00:00</td>
+      <td>Long</td>
+      <td>2023-06-29 12:00:00</td>
       <td>100.50</td>
-      <td>80.645161</td>
-      <td>0.10</td>
-      <td>NaN</td>
+      <td>0.24</td>
+      <td>Wein</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>2023-06-29 06:30:00</td>
-      <td>100.40</td>
-      <td>Long</td>
-      <td>Long</td>
-      <td>2023-06-29 08:00:00</td>
-      <td>100.50</td>
-      <td>81.818182</td>
-      <td>0.10</td>
-      <td>NaN</td>
+      <td>2023-06-30 06:30:00</td>
+      <td>101.43</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-06-30 12:00:00</td>
+      <td>100.92</td>
+      <td>-0.51</td>
+      <td>Wein</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>2023-06-29 06:30:00</td>
-      <td>100.40</td>
-      <td>Long</td>
-      <td>Long</td>
-      <td>2023-06-29 08:00:00</td>
-      <td>100.50</td>
-      <td>81.818182</td>
-      <td>0.10</td>
-      <td>NaN</td>
+      <td>2023-06-30 06:30:00</td>
+      <td>101.43</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-06-30 12:00:00</td>
+      <td>100.92</td>
+      <td>-0.51</td>
+      <td>H24</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>2023-06-30 06:30:00</td>
-      <td>101.43</td>
+      <td>2023-07-03 06:30:00</td>
+      <td>103.27</td>
+      <td>Long</td>
       <td>Short</td>
-      <td>Short</td>
-      <td>2023-06-30 07:00:00</td>
-      <td>101.43</td>
-      <td>81.250000</td>
+      <td>2023-07-03 06:30:00</td>
+      <td>100.00</td>
       <td>0.00</td>
-      <td>NaN</td>
+      <td>H24</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>2023-06-30 06:30:00</td>
-      <td>101.43</td>
-      <td>Short</td>
-      <td>Short</td>
-      <td>2023-06-30 07:00:00</td>
-      <td>101.43</td>
-      <td>80.645161</td>
-      <td>0.00</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>8</th>
       <td>2023-07-03 06:30:00</td>
       <td>103.27</td>
       <td>Long</td>
       <td>Short</td>
       <td>2023-07-03 06:30:00</td>
       <td>103.27</td>
-      <td>80.645161</td>
-      <td>0.00</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>2023-07-03 06:30:00</td>
-      <td>103.27</td>
-      <td>Long</td>
-      <td>Short</td>
-      <td>2023-07-03 06:30:00</td>
-      <td>103.27</td>
-      <td>81.250000</td>
       <td>0.00</td>
       <td>Wein</td>
     </tr>
