@@ -1,5 +1,6 @@
 <h1>TSM 1H Prediction Log</h1>
 
+* Timeframe: 4y training/1y testing
 * Wein Win: 3/4
 * H24  Win: 2/4
 <table border="1" class="dataframe">

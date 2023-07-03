@@ -1,5 +1,6 @@
 <h1>SPY 1H Prediction Log</h1>
 
+* Timeframe: 4y training/1y testing
 * Wein Win: 0/4
 * H24  Win: 0/4
 <table border="1" class="dataframe">

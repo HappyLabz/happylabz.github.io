@@ -1,5 +1,6 @@
 <h1>ORCL 1H Prediction Log</h1>
 
+* Timeframe: 4y training/1y testing
 * Wein Win: 2/4
 * H24  Win: 1/4
 <table border="1" class="dataframe">
