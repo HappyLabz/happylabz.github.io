@@ -12,6 +12,7 @@
       <th>end_price</th>
       <th>confidence</th>
       <th>difference</th>
+      <th>model_type</th>
     </tr>
   </thead>
   <tbody>
@@ -25,6 +26,7 @@
       <td>105.43</td>
       <td>84.848485</td>
       <td>2.05</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>1</th>
@@ -35,6 +37,7 @@
       <td>NaN</td>
       <td>0.00</td>
       <td>90.322581</td>
+      <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -47,6 +50,7 @@
       <td>105.43</td>
       <td>90.322581</td>
       <td>2.05</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>3</th>
@@ -58,6 +62,7 @@
       <td>105.43</td>
       <td>87.096774</td>
       <td>0.10</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>4</th>
@@ -69,6 +74,7 @@
       <td>105.43</td>
       <td>84.848485</td>
       <td>0.10</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>5</th>
@@ -80,6 +86,7 @@
       <td>105.43</td>
       <td>84.848485</td>
       <td>0.10</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>6</th>
@@ -91,6 +98,7 @@
       <td>107.42</td>
       <td>78.125000</td>
       <td>0.18</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>7</th>
@@ -102,6 +110,7 @@
       <td>107.42</td>
       <td>83.870968</td>
       <td>0.18</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>8</th>
@@ -113,6 +122,7 @@
       <td>107.59</td>
       <td>83.870968</td>
       <td>0.00</td>
+      <td>NaN</td>
     </tr>
   </tbody>
 </table>
