@@ -216,10 +216,22 @@
     approach and commitment to customer success set us apart, ensuring that
     financial professionals, brokerages, and hedge funds have the tools they
     need to make well-informed and intelligent trading decisions. We warmly
-    invite you to partner with us for precise technical timing of your
-    trades.
+    invite you to partner with us to time your trades.
   </p>
 </div>
+
+<div class="contactBox">
+  <div class="boxGrid">
+    <h1>Accounts@happylabz.tech</h1>
+    <!-- <li style="float: right"> -->
+    <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
+      <button>Contact Us</button>
+    </a>
+    <!-- </li> -->
+  </div>
+</div>
+
+
 <div class="normParagraphs">
   <p>
     *For more details on Mr. Musk’s trades see here.
