@@ -112,10 +112,19 @@
   <img class="exampGraph" src="images/comparativeResults.png" alt="boxGrid" />
   <!-- <img class="exampGraph" src="images/histIndChart.png" alt="boxGrid" /> -->
   <p class="textSpan">
-    At HappyLabz, our dedicated team is constantly innovating, crafting and
-    refining algorithms for an extensive range of stocks and ETFs. To gain
-    insights into how our technology could be of benefit to you, we invite
+    To gain insights into how our technology could be of benefit to you, we invite
     you to email us to arrange for a personalized demonstration tailored to
     the specific securities that pique your interest.
   </p>
+</div>
+
+<div class="contactBox">
+  <div class="boxGrid">
+    <h1>Accounts@happylabz.tech</h1>
+    <!-- <li style="float: right"> -->
+    <a href="mailto:accounts@happylabz.tech?subject=Let's Talk">
+      <button>Contact Us</button>
+    </a>
+    <!-- </li> -->
+  </div>
 </div>
