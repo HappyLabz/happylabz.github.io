@@ -2,7 +2,7 @@
 
 * Timeframe: 4y training/1y testing
 * Wein Win: 1/4
-* H24  Win: 2/4
+* H24  Win: 3/5
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -46,7 +46,7 @@
       <td>105.33</td>
       <td>Long</td>
       <td>Long</td>
-      <td>2023-06-29 08:00:00</td>
+      <td>2023-06-29 12:00:00</td>
       <td>105.43</td>
       <td>1.37</td>
       <td>H24</td>
@@ -57,7 +57,7 @@
       <td>105.33</td>
       <td>Long</td>
       <td>Long</td>
-      <td>2023-06-29 08:00:00</td>
+      <td>2023-06-29 12:00:00</td>
       <td>106.70</td>
       <td>1.37</td>
       <td>Wein</td>
@@ -68,7 +68,7 @@
       <td>107.24</td>
       <td>Short</td>
       <td>Long</td>
-      <td>2023-06-30 07:00:00</td>
+      <td>2023-06-30 12:00:00</td>
       <td>107.25</td>
       <td>0.01</td>
       <td>Wein</td>
@@ -79,7 +79,7 @@
       <td>107.24</td>
       <td>Short</td>
       <td>Long</td>
-      <td>2023-06-30 07:00:00</td>
+      <td>2023-06-30 12:00:00</td>
       <td>107.25</td>
       <td>0.01</td>
       <td>H24</td>
@@ -101,10 +101,21 @@
       <td>107.59</td>
       <td>Long</td>
       <td>Short</td>
-      <td>2023-07-03 09:00:00</td>
+      <td>2023-07-03 12:00:00</td>
       <td>107.48</td>
       <td>-0.11</td>
       <td>Wein</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2023-07-05 06:30:00</td>
+      <td>106.76</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-07-05 10:00:00</td>
+      <td>106.28</td>
+      <td>-0.48</td>
+      <td>H24</td>
     </tr>
   </tbody>
 </table>
