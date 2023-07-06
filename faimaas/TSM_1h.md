@@ -2,7 +2,7 @@
 
 * Timeframe: 4y training/1y testing
 * Wein Win: 3/4
-* H24  Win: 3/5
+* H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -115,6 +115,17 @@
       <td>2023-07-05 10:00:00</td>
       <td>101.49</td>
       <td>-0.58</td>
+      <td>H24</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>99.04</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 07:00:00</td>
+      <td>99.08</td>
+      <td>0.04</td>
       <td>H24</td>
     </tr>
   </tbody>
