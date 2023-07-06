@@ -1,7 +1,7 @@
 <h1>MSFT 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 3/4
+* Wein Win: 4/5
 * H24  Win: 2/6
 <table border="1" class="dataframe">
   <thead>
@@ -127,6 +127,17 @@
       <td>337.25</td>
       <td>-1.48</td>
       <td>H24</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>338.73</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>341.37</td>
+      <td>2.64</td>
+      <td>Wein</td>
     </tr>
   </tbody>
 </table>

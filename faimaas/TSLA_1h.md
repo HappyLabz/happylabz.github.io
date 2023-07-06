@@ -1,7 +1,7 @@
 <h1>TSLA 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 1/4
+* Wein Win: 6/9
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -127,6 +127,61 @@
       <td>274.28</td>
       <td>0.06</td>
       <td>H24</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>274.22</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 07:00:00</td>
+      <td>274.28</td>
+      <td>0.06</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>274.22</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 07:00:00</td>
+      <td>274.28</td>
+      <td>0.06</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>274.22</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 07:00:00</td>
+      <td>274.28</td>
+      <td>0.06</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>274.22</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>276.58</td>
+      <td>2.36</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>274.22</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>276.58</td>
+      <td>2.36</td>
+      <td>Wein</td>
     </tr>
   </tbody>
 </table>

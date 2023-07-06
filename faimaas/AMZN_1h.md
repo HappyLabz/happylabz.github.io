@@ -1,7 +1,7 @@
 <h1>AMZN 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 0/4
+* Wein Win: 1/5
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -127,6 +127,17 @@
       <td>127.53</td>
       <td>-0.38</td>
       <td>H24</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>127.91</td>
+      <td>Long</td>
+      <td>Long</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>128.37</td>
+      <td>0.46</td>
+      <td>Wein</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 <h1>ORCL 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 2/4
+* Wein Win: 2/5
 * H24  Win: 2/6
 <table border="1" class="dataframe">
   <thead>
@@ -127,6 +127,17 @@
       <td>114.86</td>
       <td>-0.14</td>
       <td>H24</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>115.00</td>
+      <td>Short</td>
+      <td>Long</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>115.49</td>
+      <td>0.49</td>
+      <td>Wein</td>
     </tr>
   </tbody>
 </table>

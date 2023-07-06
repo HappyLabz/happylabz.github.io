@@ -1,7 +1,7 @@
 <h1>TLT 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 2/4
+* Wein Win: 2/5
 * H24  Win: 3/6
 <table border="1" class="dataframe">
   <thead>
@@ -127,6 +127,17 @@
       <td>100.01</td>
       <td>-0.24</td>
       <td>H24</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2023-07-06 06:30:00</td>
+      <td>100.25</td>
+      <td>Long</td>
+      <td>Short</td>
+      <td>2023-07-06 12:00:00</td>
+      <td>99.68</td>
+      <td>-0.57</td>
+      <td>Wein</td>
     </tr>
   </tbody>
 </table>
