@@ -1,7 +1,7 @@
 <h1>SPY 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 1/5
+* Wein Win: 2/6
 * H24  Win: 1/6
 <table border="1" class="dataframe">
   <thead>
@@ -137,6 +137,17 @@
       <td>2023-07-06 12:00:00</td>
       <td>439.68</td>
       <td>1.17</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2023-07-07 06:30:00</td>
+      <td>440.16</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-07-07 07:00:00</td>
+      <td>439.94</td>
+      <td>-0.22</td>
       <td>Wein</td>
     </tr>
   </tbody>
