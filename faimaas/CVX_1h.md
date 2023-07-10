@@ -1,7 +1,7 @@
 <h1>CVX 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 3/6
+* Wein Win: 4/8
 * H24  Win: 3/6
 <table border="1" class="dataframe">
   <thead>
@@ -148,6 +148,28 @@
       <td>2023-07-07 07:00:00</td>
       <td>153.75</td>
       <td>0.03</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2023-07-10 06:30:00</td>
+      <td>155.48</td>
+      <td>Short</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.00</td>
+      <td>NaN</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2023-07-10 06:30:00</td>
+      <td>155.48</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-07-10 07:00:00</td>
+      <td>155.48</td>
+      <td>0.00</td>
       <td>Wein</td>
     </tr>
   </tbody>
