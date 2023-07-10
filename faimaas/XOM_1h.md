@@ -1,7 +1,7 @@
 <h1>XOM 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 3/7
+* Wein Win: 3/8
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -152,6 +152,17 @@
     </tr>
     <tr>
       <th>12</th>
+      <td>2023-07-10 06:30:00</td>
+      <td>104.32</td>
+      <td>Short</td>
+      <td>Long</td>
+      <td>2023-07-10 07:00:00</td>
+      <td>104.49</td>
+      <td>0.17</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>13</th>
       <td>2023-07-10 06:30:00</td>
       <td>104.32</td>
       <td>Short</td>
