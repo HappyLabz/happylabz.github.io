@@ -16,6 +16,7 @@
   distinct machine learning models for each publicly traded ticker and time period.
 </p>
 
+<!--
 <h3 class="header">HappyLabz Technologies Day Trading Model From 6/8/2022 - 6/22/2023</h3>
 
 <table class="hits">
@@ -85,7 +86,7 @@
 <p class="friendlyWording description">
     'Reinvested' refers to the profit acquired by selling at the close of each trading day and then reinvesting the entire balance each day until the end of the defined date range.
 </p>
-
+-->
 
 <h3 class="header">Unique Process, Extra-ordinary Results</h3>
 
