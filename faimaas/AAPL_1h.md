@@ -1,7 +1,7 @@
 <h1>AAPL 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 8/11
+* Wein Win: 8/12
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -203,6 +203,17 @@
       <td>2023-07-11 12:00:00</td>
       <td>187.23</td>
       <td>-0.58</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>2023-07-13 06:30:00</td>
+      <td>190.31</td>
+      <td>Short</td>
+      <td>Long</td>
+      <td>2023-07-13 12:00:00</td>
+      <td>190.99</td>
+      <td>0.68</td>
       <td>Wein</td>
     </tr>
   </tbody>
