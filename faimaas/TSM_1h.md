@@ -1,7 +1,7 @@
 <h1>TSM 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 10/12
+* Wein Win: 10/13
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -214,6 +214,17 @@
       <td>2023-07-14 12:00:00</td>
       <td>105.19</td>
       <td>-1.09</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>2023-07-18 06:30:00</td>
+      <td>102.41</td>
+      <td>Short</td>
+      <td>Long</td>
+      <td>2023-07-18 12:00:00</td>
+      <td>103.31</td>
+      <td>0.90</td>
       <td>Wein</td>
     </tr>
   </tbody>
