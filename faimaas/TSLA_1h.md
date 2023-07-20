@@ -1,7 +1,7 @@
 <h1>TSLA 1H Prediction Log</h1>
 
 * Timeframe: 4y training/1y testing
-* Wein Win: 12/18
+* Wein Win: 13/19
 * H24  Win: 4/6
 <table border="1" class="dataframe">
   <thead>
@@ -280,6 +280,17 @@
       <td>2023-07-18 12:00:00</td>
       <td>293.16</td>
       <td>4.35</td>
+      <td>Wein</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2023-07-19 06:30:00</td>
+      <td>296.50</td>
+      <td>Short</td>
+      <td>Short</td>
+      <td>2023-07-19 12:00:00</td>
+      <td>291.82</td>
+      <td>-4.68</td>
       <td>Wein</td>
     </tr>
   </tbody>
