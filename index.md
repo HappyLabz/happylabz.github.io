@@ -1,96 +1,96 @@
 
 <style>
     .container-data {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-            grid-template-rows: repeat(auto-fit, minmax(180px, 1fr));
-            grid-gap: 10px;
-        }
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        grid-template-rows: repeat(auto-fit, minmax(180px, 1fr));
+        grid-gap: 10px;
+    }
 
-        .box {
-            min-width: 250px;
-            max-width: 350px;
-            height: 230px;
-            border: 1px solid black;
-            margin: 2px;
-            width: 100%;
-        }
+    .box {
+        min-width: 250px;
+        max-width: 350px;
+        height: 265px;
+        border: 1px solid black;
+        margin: 2px;
+        width: 100%;
+    }
 
-        .box h2 {
-            padding: 10px;
-            padding-top: 34px;
-            margin-top: 0 !important;
-            width: 100%;
-        }
+    .box h2 {
+        padding: 10px;
+        padding-top: 34px;
+        margin-top: 0 !important;
+        width: 100%;
+    }
 
-        .box a:link, .box a:visited {
-            color: #ffffff;
-        }
+    .box a:link, .box a:visited {
+        color: #ffffff;
+    }
 
-        .box ul {
-            margin: 5px;
-        }
-        
-        .atUpperPriceLine h2 {
-            border-top: 5px solid yellow !important;
-            padding-top: 29px !important;
-        }
+    .box ul {
+        margin: 5px;
+    }
+    
+    .atUpperPriceLine h2 {
+        border-top: 5px solid yellow !important;
+        padding-top: 29px !important;
+    }
 
-        .atLowerPriceLine h2 {
-            border-bottom: 5px solid yellow !important;
-            margin-bottom: 11px !important;
-        }
+    .atLowerPriceLine h2 {
+        border-bottom: 5px solid yellow !important;
+        margin-bottom: 11px !important;
+    }
 
-        .gray {
-            background-color: #a2a2a2;
-            border: 5px solid #353535;
-        }
+    .gray {
+        background-color: #a2a2a2;
+        border: 5px solid #353535;
+    }
 
-        .gray h2 {
-            background-color: #525252;
-            border-bottom: 1px solid black;
-            color: #ffffff;
-        }
+    .gray h2 {
+        background-color: #525252;
+        border-bottom: 1px solid black;
+        color: #ffffff;
+    }
 
-        .red {
-            background-color: #faaaaa;
-            border: 5px solid #6e0000;
-        }
+    .red {
+        background-color: #faaaaa;
+        border: 5px solid #6e0000;
+    }
 
-        .red h2 {
-            background-color: #b80000;
-            border-bottom: 1px solid black;
-            color: #ffffff;
-        }
+    .red h2 {
+        background-color: #b80000;
+        border-bottom: 1px solid black;
+        color: #ffffff;
+    }
 
-        .green {
-            background-color: #92d98f;
-            border: 5px solid #015e01;
-        }
+    .green {
+        background-color: #92d98f;
+        border: 5px solid #015e01;
+    }
 
-        .green h2 {
-            background-color: #004225;
-            border-bottom: 1px solid black;
-            color: #ffffff;
-        }
+    .green h2 {
+        background-color: #004225;
+        border-bottom: 1px solid black;
+        color: #ffffff;
+    }
 
-        .my-data {
-            margin-right: auto !important;
-            margin-left: auto !important;
-            align-content: center;
-            width: 100% !important;
-            max-width: 1200px !important;
-            display: block !important;
-        }
-        
-        .header {
-          display: grid;
-          align-items: center;
-          justify-items: center;
-          row-gap: 1rem;
-          grid-template-columns: 1fr;
-          margin: 16px;
-        }
+    .my-data {
+        margin-right: auto !important;
+        margin-left: auto !important;
+        align-content: center;
+        width: 100% !important;
+        max-width: 1200px !important;
+        display: block !important;
+    }
+    
+    .header {
+      display: grid;
+      align-items: center;
+      justify-items: center;
+      row-gap: 1rem;
+      grid-template-columns: 1fr;
+      margin: 16px;
+    }
 </style>
     
 <h1 class="header"> Current Live Indicators</h1>
@@ -101,35 +101,40 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #167816;">Long</span></b> at 145.91 as of close <br>Mar 02 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">48.61 (33.32%)</span></b> as of close<br>Jul 26 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">50.20 (34.40%)</span></b> as of close<br>Jul 27 2023</li>
+            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 190.68 as of close <br>Jul 07 2023</li>
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 128.36 as of close <br>Jul 06 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-0.21 (-0.16%)</span></b> as of close<br>Jul 26 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">3.26 (2.54%)</span></b> as of close<br>Jul 27 2023</li>
+            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 147.75 as of close <br>Sep 18 2020</li>
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 338.05 as of close <br>Jun 20 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-0.28 (-0.08%)</span></b> as of close<br>Jul 26 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-2.09 (-0.62%)</span></b> as of close<br>Jul 27 2023</li>
+            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 204.03 as of close <br>Sep 11 2020</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link TSLA.md %}';">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 256.60 as of close <br>Jun 23 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">7.86 (3.06%)</span></b> as of close<br>Jul 26 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">10.61 (4.13%)</span></b> as of close<br>Jul 27 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 455.20 as of close <br>Jul 19 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">0.31 (0.07%)</span></b> as of close<br>Jul 26 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">2.77 (0.61%)</span></b> as of close<br>Jul 27 2023</li>
+            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 383.63 as of close <br>Mar 05 2021</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
