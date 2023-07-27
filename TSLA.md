@@ -48,41 +48,65 @@
         <td>2</td>
         <td>Long</td>
         <td>Oct 26 2018 Close</td>
-        <td>-35.05 %</td>
-        <td>-7.78 %</td>
-        <td>-17.34 %</td>
+        <td>0.90 %</td>
+        <td>28.17 %</td>
+        <td>28.41 %</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Long</td>
-        <td>Jun 14 2019 Close</td>
-        <td>1667.24 %</td>
-        <td>1659.46 %</td>
-        <td>1360.83 %</td>
+        <td>Short</td>
+        <td>Dec 28 2018 Close</td>
+        <td>-35.63 %</td>
+        <td>63.79 %</td>
+        <td>74.16 %</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
-        <td>May 27 2022 Close</td>
-        <td>-51.66 %</td>
-        <td>1607.80 %</td>
-        <td>606.16 %</td>
+        <td>Jun 14 2019 Close</td>
+        <td>2304.20 %</td>
+        <td>2367.99 %</td>
+        <td>4087.19 %</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Long</td>
-        <td>Jan 13 2023 Close</td>
-        <td>45.34 %</td>
-        <td>1653.14 %</td>
-        <td>926.35 %</td>
+        <td>Short</td>
+        <td>Nov 12 2021 Close</td>
+        <td>-26.49 %</td>
+        <td>2394.48 %</td>
+        <td>5196.53 %</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Long</td>
+        <td>May 27 2022 Close</td>
+        <td>4.75 %</td>
+        <td>2399.24 %</td>
+        <td>5448.38 %</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Short</td>
+        <td>Sep 30 2022 Close</td>
+        <td>-53.85 %</td>
+        <td>2453.09 %</td>
+        <td>8436.45 %</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Long</td>
+        <td>Jan 13 2023 Close</td>
+        <td>45.34 %</td>
+        <td>2498.44 %</td>
+        <td>12307.14 %</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Long</td>
         <td>Jan 27 2023 Close</td>
-        <td>49.48 %</td>
-        <td>1702.62 %</td>
-        <td>1434.21 %</td>
+        <td>43.75 %</td>
+        <td>2542.19 %</td>
+        <td>17735.18 %</td>
     </tr>
     
 </table>
@@ -99,17 +123,17 @@
         <tr>
             <td>TSLA (Buy and Hold)</td>
             <td>2018-10-19 Close <b>-</b> 2023-07-26 Close</td>
-            <td>1434.21 %</td>
+            <td>1375.37 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
             <td>2018-10-19 Close <b>-</b> 2023-07-26 Close</td>
-            <td>1702.62 %</td>
+            <td>2542.19 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
             <td>2018-10-19 Close <b>-</b> 2023-07-26 Close</td>
-            <td>1434.21 %</td>
+            <td>17735.18 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>

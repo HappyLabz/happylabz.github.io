@@ -2,13 +2,13 @@
 <style>
     .container-data {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(295px, 1fr));
         grid-template-rows: repeat(auto-fit, minmax(180px, 1fr));
         grid-gap: 10px;
     }
 
     .box {
-        min-width: 250px;
+        min-width: 290px;
         max-width: 350px;
         height: 265px;
         border: 1px solid black;
@@ -100,31 +100,31 @@
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #167816;">Long</span></b> at 145.91 as of close <br>Mar 02 2023</li>
+            <li>DAY: <b><span style="color: #167816;">Long</span></b> at 145.91 as of close <br>Mar 02 2023</li>
             <li>DELTA: <b><span style="color: #167816;">50.20 (34.40%)</span></b> as of close<br>Jul 27 2023</li>
-            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 190.68 as of close <br>Jul 07 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 128.36 as of close <br>Jul 06 2023</li>
+            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 128.36 as of close <br>Jul 06 2023</li>
             <li>DELTA: <b><span style="color: #167816;">3.26 (2.54%)</span></b> as of close<br>Jul 27 2023</li>
-            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 147.75 as of close <br>Sep 18 2020</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>
         </ul>
     </div>
     <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 338.05 as of close <br>Jun 20 2023</li>
+            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 338.05 as of close <br>Jun 20 2023</li>
             <li>DELTA: <b><span style="color: #b91c1c;">-2.09 (-0.62%)</span></b> as of close<br>Jul 27 2023</li>
-            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 204.03 as of close <br>Sep 11 2020</li>
+            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 330.72 as of close <br>Jul 27 2023</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link TSLA.md %}';">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 256.60 as of close <br>Jun 23 2023</li>
+            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 256.60 as of close <br>Jun 23 2023</li>
             <li>DELTA: <b><span style="color: #167816;">10.61 (4.13%)</span></b> as of close<br>Jul 27 2023</li>
             <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>
         </ul>
@@ -132,9 +132,9 @@
     <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
-            <li>LAST: <b><span style="color: #b91c1c;">Short</span></b> at 455.20 as of close <br>Jul 19 2023</li>
+            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 455.20 as of close <br>Jul 19 2023</li>
             <li>DELTA: <b><span style="color: #167816;">2.77 (0.61%)</span></b> as of close<br>Jul 27 2023</li>
-            <li>WEEK: <b><span style="color: #b91c1c;">Short</span></b> at 383.63 as of close <br>Mar 05 2021</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
