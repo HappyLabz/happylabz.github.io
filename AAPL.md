@@ -90,7 +90,7 @@
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
             <td>2018-09-21 Close <b>-</b> 2023-07-27 Close</td>
-            <td>56.84 %</td>
+            <td>54.97 %</td>
         </tr>
     </tbody>
 </table>
