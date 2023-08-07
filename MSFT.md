@@ -88,9 +88,9 @@
         <td>7</td>
         <td>Long</td>
         <td>Nov 18 2022 Close</td>
-        <td>35.77 %</td>
-        <td>-0.63 %</td>
-        <td>-17.97 %</td>
+        <td>43.12 %</td>
+        <td>6.73 %</td>
+        <td>-13.52 %</td>
     </tr>
     
 </table>
@@ -106,23 +106,23 @@
     <tbody>
         <tr>
             <td>MSFT (Buy and Hold)</td>
-            <td>2021-02-26 Close <b>-</b> 2023-08-02 Close</td>
-            <td>40.93 %</td>
+            <td>2021-02-26 Close <b>-</b> 2023-07-14 Close</td>
+            <td>48.57 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
-            <td>2021-02-26 Close <b>-</b> 2023-08-02 Close</td>
-            <td>-0.63 %</td>
+            <td>2021-02-26 Close <b>-</b> 2023-07-14 Close</td>
+            <td>6.73 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Reinvested % Gain)</td>
-            <td>2021-02-26 Close <b>-</b> 2023-08-02 Close</td>
-            <td>-17.97 %</td>
+            <td>2021-02-26 Close <b>-</b> 2023-07-14 Close</td>
+            <td>-13.52 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2021-02-26 Close <b>-</b> 2023-08-02 Close</td>
-            <td>18.34 %</td>
+            <td>2021-02-26 Close <b>-</b> 2023-07-14 Close</td>
+            <td>18.12 %</td>
         </tr>
     </tbody>
 </table>
