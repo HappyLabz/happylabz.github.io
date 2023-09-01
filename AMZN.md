@@ -39,82 +39,74 @@
     <tr>
         <td>1</td>
         <td>Short</td>
-        <td>Sep 07 2018 Close</td>
-        <td>51.73 %</td>
-        <td>-51.73 %</td>
-        <td>-51.73 %</td>
+        <td>Aug 18 2022 Close</td>
+        <td>-40.97 %</td>
+        <td>40.97 %</td>
+        <td>40.97 %</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Short</td>
-        <td>Jul 17 2020 Close</td>
-        <td>-0.24 %</td>
-        <td>-51.50 %</td>
-        <td>-51.62 %</td>
+        <td>Long</td>
+        <td>Dec 30 2022 Close</td>
+        <td>21.64 %</td>
+        <td>62.61 %</td>
+        <td>71.48 %</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Short</td>
-        <td>Sep 18 2020 Close</td>
-        <td>20.94 %</td>
-        <td>-72.44 %</td>
-        <td>-61.75 %</td>
+        <td>Feb 06 2023 Close</td>
+        <td>-7.14 %</td>
+        <td>69.76 %</td>
+        <td>83.73 %</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Short</td>
-        <td>Jul 16 2021 Close</td>
-        <td>-1.93 %</td>
-        <td>-70.50 %</td>
-        <td>-61.01 %</td>
+        <td>Long</td>
+        <td>Mar 14 2023 Close</td>
+        <td>27.77 %</td>
+        <td>97.53 %</td>
+        <td>134.76 %</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Short</td>
-        <td>Nov 26 2021 Close</td>
-        <td>-30.18 %</td>
-        <td>-40.33 %</td>
-        <td>-49.25 %</td>
+        <td>Jun 07 2023 Close</td>
+        <td>2.49 %</td>
+        <td>95.04 %</td>
+        <td>128.91 %</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Long</td>
-        <td>Jun 03 2022 Close</td>
-        <td>-13.18 %</td>
-        <td>-53.51 %</td>
-        <td>-55.94 %</td>
+        <td>Short</td>
+        <td>Jun 08 2023 Close</td>
+        <td>3.31 %</td>
+        <td>91.73 %</td>
+        <td>121.34 %</td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Long</td>
-        <td>Jun 17 2022 Close</td>
-        <td>9.64 %</td>
-        <td>-43.87 %</td>
-        <td>-51.69 %</td>
+        <td>Short</td>
+        <td>Jul 06 2023 Close</td>
+        <td>5.23 %</td>
+        <td>86.50 %</td>
+        <td>109.77 %</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Long</td>
-        <td>Jun 24 2022 Close</td>
-        <td>-0.79 %</td>
-        <td>-44.66 %</td>
-        <td>-52.07 %</td>
+        <td>Short</td>
+        <td>Aug 16 2023 Close</td>
+        <td>-0.81 %</td>
+        <td>87.31 %</td>
+        <td>111.46 %</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Long</td>
-        <td>Jul 08 2022 Close</td>
-        <td>-15.08 %</td>
-        <td>-59.74 %</td>
-        <td>-59.30 %</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Long</td>
-        <td>Jan 13 2023 Close</td>
-        <td>35.81 %</td>
-        <td>-23.92 %</td>
-        <td>-44.72 %</td>
+        <td>Short</td>
+        <td>Aug 17 2023 Close</td>
+        <td>-0.54 %</td>
+        <td>87.85 %</td>
+        <td>112.59 %</td>
     </tr>
     
 </table>
@@ -130,23 +122,23 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-25 Close</td>
-            <td>36.53 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
+            <td>-6.35 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-25 Close</td>
-            <td>-23.92 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
+            <td>87.85 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-25 Close</td>
-            <td>-44.72 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
+            <td>112.59 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-25 Close</td>
-            <td>52.98 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
+            <td>2.82 %</td>
         </tr>
     </tbody>
 </table>
