@@ -102,27 +102,11 @@
     </tr>
     <tr>
         <td>9</td>
-<<<<<<< HEAD
-        <td>Long</td>
-        <td>Jul 08 2022 Close</td>
-        <td>-15.08 %</td>
-        <td>-59.74 %</td>
-        <td>-59.30 %</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Long</td>
-        <td>Jan 13 2023 Close</td>
-        <td>37.66 %</td>
-        <td>-22.08 %</td>
-        <td>-43.97 %</td>
-=======
         <td>Short</td>
         <td>Aug 17 2023 Close</td>
-        <td>-0.54 %</td>
-        <td>87.85 %</td>
-        <td>112.59 %</td>
->>>>>>> c680beecaa087a66c5b89f35dad86dfdb597dd33
+        <td>3.09 %</td>
+        <td>84.22 %</td>
+        <td>104.92 %</td>
     </tr>
     
 </table>
@@ -138,43 +122,23 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-<<<<<<< HEAD
-            <td>2018-09-07 Close <b>-</b> 2023-08-30 Close</td>
-            <td>38.39 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-01 Close</td>
+            <td>-2.94 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-30 Close</td>
-            <td>-22.08 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-01 Close</td>
+            <td>84.22 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-30 Close</td>
-            <td>-43.97 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-01 Close</td>
+            <td>104.92 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2018-09-07 Close <b>-</b> 2023-08-30 Close</td>
-            <td>56.82 %</td>
-=======
-            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
-            <td>-6.35 %</td>
-        </tr>
-        <tr>
-            <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
-            <td>87.85 %</td>
-        </tr>
-        <tr>
-            <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
-            <td>112.59 %</td>
-        </tr>
-        <tr>
-            <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-08-25 Close</td>
-            <td>2.82 %</td>
->>>>>>> c680beecaa087a66c5b89f35dad86dfdb597dd33
+            <td>2022-08-18 Close <b>-</b> 2023-09-01 Close</td>
+            <td>5.45 %</td>
         </tr>
     </tbody>
 </table>
