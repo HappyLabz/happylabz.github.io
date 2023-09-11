@@ -104,9 +104,9 @@
         <td>9</td>
         <td>Long</td>
         <td>Jan 27 2023 Close</td>
-        <td>41.37 %</td>
-        <td>2539.47 %</td>
-        <td>17441.26 %</td>
+        <td>53.78 %</td>
+        <td>2551.89 %</td>
+        <td>18982.03 %</td>
     </tr>
     
 </table>
@@ -122,23 +122,23 @@
     <tbody>
         <tr>
             <td>TSLA_1w (Buy and Hold)</td>
-            <td>2018-10-19 Close <b>-</b> 2023-09-07 Close</td>
-            <td>1351.18 %</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-11 Close</td>
+            <td>1478.65 %</td>
         </tr>
         <tr>
             <td>TSLA_1w (HLT Cumulative % Gain)</td>
-            <td>2018-10-19 Close <b>-</b> 2023-09-07 Close</td>
-            <td>2539.47 %</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-11 Close</td>
+            <td>2551.89 %</td>
         </tr>
         <tr>
             <td>TSLA_1w (HLT Reinvested % Gain)</td>
-            <td>2018-10-19 Close <b>-</b> 2023-09-07 Close</td>
-            <td>17441.26 %</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-11 Close</td>
+            <td>18982.03 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2018-10-19 Close <b>-</b> 2023-09-07 Close</td>
-            <td>61.04 %</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-11 Close</td>
+            <td>62.35 %</td>
         </tr>
     </tbody>
 </table>
