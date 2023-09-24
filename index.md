@@ -101,40 +101,40 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 177.56 as of close <br>Sep 07 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-3.62 (-2.04%)</span></b> as of close<br>Sep 21 2023</li>
-            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-3.62 (-2.04%)</span></b> as of close<br>Sep 24 2023</li>
+            <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
     <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 137.63 as of close <br>Sep 19 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-8.30 (-6.03%)</span></b> as of close<br>Sep 21 2023</li>
-            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-8.30 (-6.03%)</span></b> as of close<br>Sep 24 2023</li>
+            <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 338.05 as of close <br>Jun 20 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-18.52 (-5.48%)</span></b> as of close<br>Sep 21 2023</li>
-            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-18.52 (-5.48%)</span></b> as of close<br>Sep 24 2023</li>
+            <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
         </ul>
     </div>
     <div class="box gray atUpperPriceLine" onclick="location.href='{% link TSLA.md %}';">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
-            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 256.60 as of close <br>Jun 23 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-1.08 (-0.42%)</span></b> as of close<br>Sep 21 2023</li>
-            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>
+            <li>DAY: <b><span style="color: #167816;">Long</span></b> at 231.28 as of close <br>Aug 21 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">24.24 (10.48%)</span></b> as of close<br>Sep 24 2023</li>
+            <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
         </ul>
     </div>
     <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 452.49 as of close <br>Jul 27 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-21.08 (-4.66%)</span></b> as of close<br>Sep 21 2023</li>
-            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-21.08 (-4.66%)</span></b> as of close<br>Sep 24 2023</li>
+            <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
