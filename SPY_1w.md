@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>-5.06 %</td>
         <td>5.06 %</td>
         <td>5.06 %</td>
+        <td>Short HLT 405</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-3.48 %</td>
         <td>8.55 %</td>
         <td>8.72 %</td>
+        <td>Short HLT 242</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>27.47 %</td>
         <td>36.02 %</td>
         <td>38.59 %</td>
+        <td>Long Catalan 003</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>-21.23 %</td>
         <td>57.25 %</td>
         <td>68.02 %</td>
+        <td>Short HLT 237</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>11.66 %</td>
         <td>68.91 %</td>
         <td>87.61 %</td>
+        <td>Long HLT 700</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>55.99 %</td>
         <td>124.90 %</td>
         <td>192.66 %</td>
+        <td>Long HLT 304</td>
     </tr>
     <tr>
         <td>7</td>
@@ -91,6 +98,7 @@
         <td>5.59 %</td>
         <td>119.31 %</td>
         <td>176.29 %</td>
+        <td>Short HLT 242</td>
     </tr>
     <tr>
         <td>8</td>
@@ -99,6 +107,7 @@
         <td>-11.92 %</td>
         <td>131.23 %</td>
         <td>209.21 %</td>
+        <td>Short HLT 601</td>
     </tr>
     <tr>
         <td>9</td>
@@ -107,6 +116,7 @@
         <td>-7.14 %</td>
         <td>124.09 %</td>
         <td>187.15 %</td>
+        <td>Long Newfi 000</td>
     </tr>
     <tr>
         <td>10</td>
@@ -115,6 +125,7 @@
         <td>1.95 %</td>
         <td>126.04 %</td>
         <td>192.74 %</td>
+        <td>Long Newfi 000</td>
     </tr>
     <tr>
         <td>11</td>
@@ -123,6 +134,7 @@
         <td>-3.70 %</td>
         <td>122.34 %</td>
         <td>181.91 %</td>
+        <td>Long Catalan 003</td>
     </tr>
     <tr>
         <td>12</td>
@@ -131,6 +143,7 @@
         <td>15.26 %</td>
         <td>137.59 %</td>
         <td>224.92 %</td>
+        <td>Long HLT 508</td>
     </tr>
     
 </table>

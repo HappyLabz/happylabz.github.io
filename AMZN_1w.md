@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>51.74 %</td>
         <td>-51.74 %</td>
         <td>-51.74 %</td>
+        <td>Short HLT 646</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-0.24 %</td>
         <td>-51.51 %</td>
         <td>-51.63 %</td>
+        <td>Short HLT 646</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>20.93 %</td>
         <td>-72.44 %</td>
         <td>-61.75 %</td>
+        <td>Short HLT 304</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>-1.93 %</td>
         <td>-70.51 %</td>
         <td>-61.02 %</td>
+        <td>Short HLT 646</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>-30.18 %</td>
         <td>-40.33 %</td>
         <td>-49.25 %</td>
+        <td>Short HLT 613</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>-13.18 %</td>
         <td>-53.51 %</td>
         <td>-55.94 %</td>
+        <td>Long MMOCOC 001</td>
     </tr>
     <tr>
         <td>7</td>
@@ -91,6 +98,7 @@
         <td>9.64 %</td>
         <td>-43.87 %</td>
         <td>-51.69 %</td>
+        <td>Long Catalan 005</td>
     </tr>
     <tr>
         <td>8</td>
@@ -99,6 +107,7 @@
         <td>-0.79 %</td>
         <td>-44.66 %</td>
         <td>-52.08 %</td>
+        <td>Long Catalan 005</td>
     </tr>
     <tr>
         <td>9</td>
@@ -107,6 +116,7 @@
         <td>-15.08 %</td>
         <td>-59.74 %</td>
         <td>-59.30 %</td>
+        <td>Long Catalan 005</td>
     </tr>
     <tr>
         <td>10</td>
@@ -115,6 +125,7 @@
         <td>31.81 %</td>
         <td>-27.93 %</td>
         <td>-46.36 %</td>
+        <td>Long Newfi 000</td>
     </tr>
     
 </table>

@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>-21.47 %</td>
         <td>21.47 %</td>
         <td>21.47 %</td>
+        <td>Short HLT 505</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-1.29 %</td>
         <td>20.18 %</td>
         <td>19.90 %</td>
+        <td>Long HLT 502</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>13.50 %</td>
         <td>33.68 %</td>
         <td>36.09 %</td>
+        <td>Long HLT 510</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>26.67 %</td>
         <td>60.35 %</td>
         <td>72.38 %</td>
+        <td>Long HLT 510 GOOG</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>4.54 %</td>
         <td>55.81 %</td>
         <td>64.56 %</td>
+        <td>Short HLT 510 GOOG</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>-5.48 %</td>
         <td>61.29 %</td>
         <td>73.58 %</td>
+        <td>Short HLT 513 AAPL</td>
     </tr>
     
 </table>

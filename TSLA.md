@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>0.78 %</td>
         <td>-0.78 %</td>
         <td>-0.78 %</td>
+        <td>Short HLT 102</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-0.63 %</td>
         <td>-0.15 %</td>
         <td>-0.16 %</td>
+        <td>Short HLT 110</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>-57.79 %</td>
         <td>57.64 %</td>
         <td>57.54 %</td>
+        <td>Short HLT 104</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>1.12 %</td>
         <td>58.75 %</td>
         <td>59.30 %</td>
+        <td>Long HLT 123</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>64.02 %</td>
         <td>122.77 %</td>
         <td>161.29 %</td>
+        <td>Long HLT 105</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>-19.55 %</td>
         <td>142.32 %</td>
         <td>212.36 %</td>
+        <td>Short HLT 103</td>
     </tr>
     <tr>
         <td>7</td>
@@ -91,6 +98,7 @@
         <td>57.86 %</td>
         <td>200.18 %</td>
         <td>393.08 %</td>
+        <td>Long HLT 147</td>
     </tr>
     <tr>
         <td>8</td>
@@ -99,6 +107,7 @@
         <td>-9.87 %</td>
         <td>210.05 %</td>
         <td>441.74 %</td>
+        <td>Short HLT 106</td>
     </tr>
     <tr>
         <td>9</td>
@@ -107,6 +116,7 @@
         <td>10.48 %</td>
         <td>220.53 %</td>
         <td>498.52 %</td>
+        <td>Long HLT 123</td>
     </tr>
     
 </table>

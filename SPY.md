@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>-13.77 %</td>
         <td>13.77 %</td>
         <td>13.77 %</td>
+        <td>Short HLT 605</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-1.06 %</td>
         <td>12.71 %</td>
         <td>12.57 %</td>
+        <td>Long HLT 605 GOOG</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>3.10 %</td>
         <td>15.81 %</td>
         <td>16.05 %</td>
+        <td>Long HLT 603 TSLA</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>-3.17 %</td>
         <td>12.64 %</td>
         <td>12.37 %</td>
+        <td>Long HLT 601 AMZN</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>11.19 %</td>
         <td>23.82 %</td>
         <td>24.94 %</td>
+        <td>Long HLT 613</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>-5.08 %</td>
         <td>28.90 %</td>
         <td>31.29 %</td>
+        <td>Short HLT 604</td>
     </tr>
     <tr>
         <td>7</td>
@@ -91,6 +98,7 @@
         <td>-0.72 %</td>
         <td>28.18 %</td>
         <td>30.34 %</td>
+        <td>Long HLT 600</td>
     </tr>
     <tr>
         <td>8</td>
@@ -99,6 +107,7 @@
         <td>7.54 %</td>
         <td>35.72 %</td>
         <td>40.17 %</td>
+        <td>Long HLT 613</td>
     </tr>
     <tr>
         <td>9</td>
@@ -107,6 +116,7 @@
         <td>-0.41 %</td>
         <td>36.13 %</td>
         <td>40.75 %</td>
+        <td>Short HLT 650</td>
     </tr>
     <tr>
         <td>10</td>
@@ -115,6 +125,7 @@
         <td>-4.61 %</td>
         <td>40.74 %</td>
         <td>47.23 %</td>
+        <td>Short HLT 603 GOOG</td>
     </tr>
     <tr>
         <td>11</td>
@@ -123,6 +134,7 @@
         <td>12.18 %</td>
         <td>52.93 %</td>
         <td>65.17 %</td>
+        <td>Long HLT 600</td>
     </tr>
     <tr>
         <td>12</td>
@@ -131,6 +143,7 @@
         <td>3.58 %</td>
         <td>49.34 %</td>
         <td>59.26 %</td>
+        <td>Short HLT 646</td>
     </tr>
     <tr>
         <td>13</td>
@@ -139,6 +152,7 @@
         <td>-0.60 %</td>
         <td>49.94 %</td>
         <td>60.20 %</td>
+        <td>Short HLT 605</td>
     </tr>
     <tr>
         <td>14</td>
@@ -147,6 +161,7 @@
         <td>-4.66 %</td>
         <td>54.60 %</td>
         <td>67.67 %</td>
+        <td>Short HLT 613</td>
     </tr>
     
 </table>

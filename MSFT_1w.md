@@ -35,6 +35,7 @@
         <th>Move % Change</th>
         <th>Cumulative % Gain</th>
         <th>Reinvested % Gain</th>
+        <th>Indicator</th>
       </tr>
     <tr>
         <td>1</td>
@@ -43,6 +44,7 @@
         <td>41.87 %</td>
         <td>-41.87 %</td>
         <td>-41.87 %</td>
+        <td>Short HLT 213</td>
     </tr>
     <tr>
         <td>2</td>
@@ -51,6 +53,7 @@
         <td>-2.02 %</td>
         <td>-39.85 %</td>
         <td>-40.70 %</td>
+        <td>Short HLT 405</td>
     </tr>
     <tr>
         <td>3</td>
@@ -59,6 +62,7 @@
         <td>-15.41 %</td>
         <td>-24.44 %</td>
         <td>-31.56 %</td>
+        <td>Short HLT 236</td>
     </tr>
     <tr>
         <td>4</td>
@@ -67,6 +71,7 @@
         <td>-2.03 %</td>
         <td>-26.47 %</td>
         <td>-32.94 %</td>
+        <td>Long HLT 805</td>
     </tr>
     <tr>
         <td>5</td>
@@ -75,6 +80,7 @@
         <td>-9.56 %</td>
         <td>-36.02 %</td>
         <td>-39.35 %</td>
+        <td>Long Catalan 003</td>
     </tr>
     <tr>
         <td>6</td>
@@ -83,6 +89,7 @@
         <td>-0.37 %</td>
         <td>-36.39 %</td>
         <td>-39.58 %</td>
+        <td>Long HLT 508</td>
     </tr>
     <tr>
         <td>7</td>
@@ -91,6 +98,7 @@
         <td>32.46 %</td>
         <td>-3.93 %</td>
         <td>-19.96 %</td>
+        <td>Long HLT 111</td>
     </tr>
     
 </table>
