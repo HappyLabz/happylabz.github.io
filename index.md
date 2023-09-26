@@ -97,44 +97,70 @@
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
-    <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 177.56 as of close <br>Sep 07 2023</li>
+<<<<<<< HEAD
+            <li>DELTA: <b><span style="color: #b91c1c;">-1.47 (-0.83%)</span></b> as of close<br>Sep 25 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>
+=======
             <li>DELTA: <b><span style="color: #b91c1c;">-3.62 (-2.04%)</span></b> as of close<br>Sep 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
+>>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
         </ul>
     </div>
-    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 137.63 as of close <br>Sep 19 2023</li>
+<<<<<<< HEAD
+            <li>DELTA: <b><span style="color: #b91c1c;">-6.36 (-4.62%)</span></b> as of close<br>Sep 25 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>
+=======
             <li>DELTA: <b><span style="color: #b91c1c;">-8.30 (-6.03%)</span></b> as of close<br>Sep 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
+>>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 338.05 as of close <br>Jun 20 2023</li>
+<<<<<<< HEAD
+            <li>DELTA: <b><span style="color: #b91c1c;">-20.51 (-6.07%)</span></b> as of close<br>Sep 25 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>
+=======
             <li>DELTA: <b><span style="color: #b91c1c;">-18.52 (-5.48%)</span></b> as of close<br>Sep 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
+>>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine" onclick="location.href='{% link TSLA.md %}';">
+    <div class="box gray" onclick="location.href='{% link TSLA.md %}';">
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
+<<<<<<< HEAD
+            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 256.60 as of close <br>Jun 23 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-9.57 (-3.73%)</span></b> as of close<br>Sep 25 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>
+=======
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 266.50 as of close <br>Sep 19 2023</li>
             <li>DELTA: <b><span style="color: #b91c1c;">-10.98 (-4.12%)</span></b> as of close<br>Sep 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
+>>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
         </ul>
     </div>
     <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 452.49 as of close <br>Jul 27 2023</li>
+<<<<<<< HEAD
+            <li>DELTA: <b><span style="color: #b91c1c;">-20.26 (-4.48%)</span></b> as of close<br>Sep 25 2023</li>
+            <li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>
+=======
             <li>DELTA: <b><span style="color: #b91c1c;">-21.08 (-4.66%)</span></b> as of close<br>Sep 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
+>>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
         </ul>
     </div>
     <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
