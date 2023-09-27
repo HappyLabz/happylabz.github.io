@@ -104,11 +104,6 @@
         <td>8</td>
         <td>Short</td>
         <td>Jun 23 2023 Close</td>
-<<<<<<< HEAD
-        <td>-3.73 %</td>
-        <td>202.32 %</td>
-        <td>404.31 %</td>
-=======
         <td>-9.87 %</td>
         <td>210.05 %</td>
         <td>441.74 %</td>
@@ -127,11 +122,10 @@
         <td>10</td>
         <td>Short</td>
         <td>Sep 19 2023 Close</td>
-        <td>-4.12 %</td>
-        <td>229.39 %</td>
-        <td>549.95 %</td>
+        <td>-8.39 %</td>
+        <td>233.66 %</td>
+        <td>576.61 %</td>
         <td>Short HLT 201</td>
->>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
     </tr>
     
 </table>
@@ -147,33 +141,23 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-08-05 Close <b>-</b> 2023-09-25 Close</td>
-            <td>-14.28 %</td>
+            <td>2022-08-05 Close <b>-</b> 2023-09-26 Close</td>
+            <td>-15.28 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-<<<<<<< HEAD
-            <td>2022-08-05 Close <b>-</b> 2023-09-25 Close</td>
-            <td>202.32 %</td>
+            <td>2022-08-05 Close <b>-</b> 2023-09-26 Close</td>
+            <td>233.66 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-08-05 Close <b>-</b> 2023-09-25 Close</td>
-            <td>404.31 %</td>
-=======
-            <td>2022-08-05 Close <b>-</b> 2023-09-21 Close</td>
-            <td>229.39 %</td>
-        </tr>
-        <tr>
-            <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-08-05 Close <b>-</b> 2023-09-21 Close</td>
-            <td>549.95 %</td>
->>>>>>> 6624ecebaa711bcaa608d80811ff23f31e25e648
+            <td>2022-08-05 Close <b>-</b> 2023-09-26 Close</td>
+            <td>576.61 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-05 Close <b>-</b> 2023-09-25 Close</td>
-            <td>4.54 %</td>
+            <td>2022-08-05 Close <b>-</b> 2023-09-26 Close</td>
+            <td>2.99 %</td>
         </tr>
     </tbody>
 </table>
