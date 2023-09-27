@@ -86,9 +86,9 @@
         <td>6</td>
         <td>Short</td>
         <td>Jun 20 2023 Close</td>
-        <td>-7.66 %</td>
-        <td>63.48 %</td>
-        <td>77.18 %</td>
+        <td>-7.47 %</td>
+        <td>63.28 %</td>
+        <td>76.86 %</td>
         <td>Short HLT 513 AAPL</td>
     </tr>
     
@@ -105,23 +105,23 @@
     <tbody>
         <tr>
             <td>MSFT (Buy and Hold)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
-            <td>7.57 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
+            <td>7.80 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
-            <td>63.48 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
+            <td>63.28 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Reinvested % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
-            <td>77.18 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
+            <td>76.86 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
-            <td>-0.48 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
+            <td>-0.44 %</td>
         </tr>
     </tbody>
 </table>

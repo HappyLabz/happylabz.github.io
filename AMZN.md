@@ -132,23 +132,23 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
             <td>-11.47 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
             <td>106.29 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
             <td>150.17 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-18 Close <b>-</b> 2023-09-26 Close</td>
-            <td>-0.48 %</td>
+            <td>2022-08-18 Close <b>-</b> 2023-09-27 Close</td>
+            <td>-0.44 %</td>
         </tr>
     </tbody>
 </table>
