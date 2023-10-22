@@ -60,7 +60,7 @@
   <img class="exampGraph" src="images/DecFeb.png" alt="DecFeb" />
   
   <p class="textSpan">
-    The cumulative percentage gain from these directional signals amounts to
+    The reinvested percentage gain from these directional signals amounts to
     an impressive 157.76% in just under five months. If a professional
     investor had started with an initial investment of $1,000,000, they
     could have made a staggering profit of approximately $1,577,607,
@@ -71,7 +71,7 @@
 
 <div class="paragraphLeft">
   <p>
-    To understand the cumulative percentage gain, further the calculations
+    To understand the reinvested percentage gain, further the calculations
     are provide below.
   </p>
 </div>
