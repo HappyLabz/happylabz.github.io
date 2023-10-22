@@ -40,6 +40,7 @@ ul {
   row-gap: 1rem;
   grid-template-columns: 1fr;
   margin: 16px;
+  border: 0px solid black !important;
 }
 
 .navBar {
