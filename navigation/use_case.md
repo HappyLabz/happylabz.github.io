@@ -2,6 +2,8 @@
 
 <h1 class="header">Use Case: TESLA Stock (TSLA)</h1>
 
+<h3 class="header">157.76% in 5 months</h3>
+
 <div class="normParagraphs">
   <p>
     HappyLabz Technologies is a fintech start-up that harnesses 
