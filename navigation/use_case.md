@@ -159,7 +159,7 @@
     improved the financial outcome of the sales.
   </p>
 </div>
-<div class="sectionTitle"><header class="header">Possibilities</header></div>
+<div class="sectionTitle"><h1 class="header">Possibilities</h1></div>
 <div class="normParagraphs">
   <p>
     It is important to note that Musk's broker is a fiduciary and acted in
