@@ -101,15 +101,15 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 177.56 as of close <br>Sep 07 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-4.56 (-2.57%)</span></b> as of close<br>Oct 23 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-4.12 (-2.32%)</span></b> as of close<br>Oct 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
-    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 137.63 as of close <br>Sep 19 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-11.07 (-8.04%)</span></b> as of close<br>Oct 23 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-9.07 (-6.59%)</span></b> as of close<br>Oct 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
@@ -117,7 +117,7 @@
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 315.75 as of close <br>Sep 29 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">13.57 (4.30%)</span></b> as of close<br>Oct 23 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">14.78 (4.68%)</span></b> as of close<br>Oct 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
         </ul>
     </div>
@@ -125,7 +125,7 @@
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 266.50 as of close <br>Sep 19 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-54.42 (-20.42%)</span></b> as of close<br>Oct 23 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-49.98 (-18.75%)</span></b> as of close<br>Oct 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
         </ul>
     </div>
@@ -133,7 +133,7 @@
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 452.49 as of close <br>Jul 27 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-32.03 (-7.08%)</span></b> as of close<br>Oct 23 2023</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-28.86 (-6.38%)</span></b> as of close<br>Oct 24 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
         </ul>
     </div>
