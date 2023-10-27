@@ -39,128 +39,119 @@
       </tr>
     <tr>
         <td>1</td>
-        <td>Short</td>
-        <td>Aug 16 2022 Close</td>
-        <td>-13.77 %</td>
-        <td>13.77 %</td>
-        <td>13.77 %</td>
-        <td>Short HLT 605</td>
+        <td>Long</td>
+        <td>Sep 28 2022 Close</td>
+        <td>-1.06 %</td>
+        <td>-1.06 %</td>
+        <td>-1.06 %</td>
+        <td>Long HLT 605 GOOG</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Sep 28 2022 Close</td>
-        <td>-1.06 %</td>
-        <td>12.71 %</td>
-        <td>12.57 %</td>
-        <td>Long HLT 605 GOOG</td>
+        <td>Oct 03 2022 Close</td>
+        <td>3.10 %</td>
+        <td>2.04 %</td>
+        <td>2.01 %</td>
+        <td>Long HLT 603 TSLA</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
-        <td>Oct 03 2022 Close</td>
-        <td>3.10 %</td>
-        <td>15.81 %</td>
-        <td>16.05 %</td>
-        <td>Long HLT 603 TSLA</td>
+        <td>Oct 04 2022 Close</td>
+        <td>-3.17 %</td>
+        <td>-1.13 %</td>
+        <td>-1.23 %</td>
+        <td>Long HLT 601 AMZN</td>
     </tr>
     <tr>
         <td>4</td>
         <td>Long</td>
-        <td>Oct 04 2022 Close</td>
-        <td>-3.17 %</td>
-        <td>12.64 %</td>
-        <td>12.37 %</td>
-        <td>Long HLT 601 AMZN</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Long</td>
         <td>Oct 13 2022 Close</td>
         <td>11.19 %</td>
-        <td>23.82 %</td>
-        <td>24.94 %</td>
+        <td>10.05 %</td>
+        <td>9.82 %</td>
         <td>Long HLT 613</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Short</td>
         <td>Dec 02 2022 Close</td>
         <td>-5.08 %</td>
-        <td>28.90 %</td>
-        <td>31.29 %</td>
+        <td>15.13 %</td>
+        <td>15.40 %</td>
         <td>Short HLT 604</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Long</td>
+        <td>Dec 21 2022 Close</td>
+        <td>-0.72 %</td>
+        <td>14.41 %</td>
+        <td>14.57 %</td>
+        <td>Long HLT 600</td>
     </tr>
     <tr>
         <td>7</td>
         <td>Long</td>
-        <td>Dec 21 2022 Close</td>
-        <td>-0.72 %</td>
-        <td>28.18 %</td>
-        <td>30.34 %</td>
-        <td>Long HLT 600</td>
+        <td>Dec 29 2022 Close</td>
+        <td>7.54 %</td>
+        <td>21.95 %</td>
+        <td>23.20 %</td>
+        <td>Long HLT 613</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Long</td>
-        <td>Dec 29 2022 Close</td>
-        <td>7.54 %</td>
-        <td>35.72 %</td>
-        <td>40.17 %</td>
-        <td>Long HLT 613</td>
+        <td>Short</td>
+        <td>Feb 03 2023 Close</td>
+        <td>-0.41 %</td>
+        <td>22.36 %</td>
+        <td>23.71 %</td>
+        <td>Short HLT 650</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Short</td>
-        <td>Feb 03 2023 Close</td>
-        <td>-0.41 %</td>
-        <td>36.13 %</td>
-        <td>40.75 %</td>
-        <td>Short HLT 650</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Short</td>
         <td>Feb 08 2023 Close</td>
         <td>-4.61 %</td>
-        <td>40.74 %</td>
-        <td>47.23 %</td>
+        <td>26.97 %</td>
+        <td>29.41 %</td>
         <td>Short HLT 603 GOOG</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td>Long</td>
         <td>Mar 14 2023 Close</td>
         <td>12.18 %</td>
-        <td>52.93 %</td>
-        <td>65.17 %</td>
+        <td>39.16 %</td>
+        <td>45.18 %</td>
         <td>Long HLT 600</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Short</td>
+        <td>Jun 16 2023 Close</td>
+        <td>3.58 %</td>
+        <td>35.57 %</td>
+        <td>39.98 %</td>
+        <td>Short HLT 646</td>
     </tr>
     <tr>
         <td>12</td>
         <td>Short</td>
-        <td>Jun 16 2023 Close</td>
-        <td>3.58 %</td>
-        <td>49.34 %</td>
-        <td>59.26 %</td>
-        <td>Short HLT 646</td>
+        <td>Jul 19 2023 Close</td>
+        <td>-0.60 %</td>
+        <td>36.17 %</td>
+        <td>40.81 %</td>
+        <td>Short HLT 605</td>
     </tr>
     <tr>
         <td>13</td>
         <td>Short</td>
-        <td>Jul 19 2023 Close</td>
-        <td>-0.60 %</td>
-        <td>49.94 %</td>
-        <td>60.20 %</td>
-        <td>Short HLT 605</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>Short</td>
         <td>Jul 27 2023 Close</td>
-        <td>-8.83 %</td>
-        <td>58.77 %</td>
-        <td>74.34 %</td>
+        <td>-9.24 %</td>
+        <td>45.41 %</td>
+        <td>53.82 %</td>
         <td>Short HLT 613</td>
     </tr>
     
@@ -177,23 +168,23 @@
     <tbody>
         <tr>
             <td>SPY (Buy and Hold)</td>
-            <td>2022-08-16 Close <b>-</b> 2023-10-26 Close</td>
-            <td>-3.99 %</td>
+            <td>2022-09-28 Close <b>-</b> 2023-10-27 Close</td>
+            <td>10.84 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
-            <td>2022-08-16 Close <b>-</b> 2023-10-26 Close</td>
-            <td>58.77 %</td>
+            <td>2022-09-28 Close <b>-</b> 2023-10-27 Close</td>
+            <td>45.41 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Reinvested % Gain)</td>
-            <td>2022-08-16 Close <b>-</b> 2023-10-26 Close</td>
-            <td>74.34 %</td>
+            <td>2022-09-28 Close <b>-</b> 2023-10-27 Close</td>
+            <td>53.82 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-16 Close <b>-</b> 2023-10-26 Close</td>
-            <td>-3.99 %</td>
+            <td>2022-09-28 Close <b>-</b> 2023-10-27 Close</td>
+            <td>10.84 %</td>
         </tr>
     </tbody>
 </table>
