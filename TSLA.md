@@ -44,7 +44,7 @@
         <td>-57.79 %</td>
         <td>57.79 %</td>
         <td>57.79 %</td>
-        <td>Short HLT 101</td>
+        <td>Short HLT 104</td>
     </tr>
     <tr>
         <td>2</td>
@@ -62,7 +62,7 @@
         <td>64.02 %</td>
         <td>122.92 %</td>
         <td>161.69 %</td>
-        <td>Long HLT 105</td>
+        <td>Long HLT 106</td>
     </tr>
     <tr>
         <td>4</td>
@@ -80,7 +80,7 @@
         <td>57.86 %</td>
         <td>200.33 %</td>
         <td>393.85 %</td>
-        <td>Long HLT 647</td>
+        <td>Long HLT 147</td>
     </tr>
     <tr>
         <td>6</td>
@@ -113,10 +113,19 @@
         <td>9</td>
         <td>Long</td>
         <td>Oct 23 2023 Close</td>
-        <td>-3.03 %</td>
-        <td>242.82 %</td>
-        <td>630.09 %</td>
+        <td>3.03 %</td>
+        <td>248.88 %</td>
+        <td>675.70 %</td>
         <td>Long HLT 647</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Long</td>
+        <td>Nov 02 2023 Close</td>
+        <td>0.00 %</td>
+        <td>248.88 %</td>
+        <td>675.70 %</td>
+        <td>Long HLT 105</td>
     </tr>
     
 </table>
@@ -132,23 +141,23 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>-28.74 %</td>
+            <td>2022-09-22 Close <b>-</b> 2023-11-02 Close</td>
+            <td>-24.28 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>242.82 %</td>
+            <td>2022-09-22 Close <b>-</b> 2023-11-02 Close</td>
+            <td>248.88 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>630.09 %</td>
+            <td>2022-09-22 Close <b>-</b> 2023-11-02 Close</td>
+            <td>675.70 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>12.94 %</td>
+            <td>2022-09-22 Close <b>-</b> 2023-11-02 Close</td>
+            <td>15.11 %</td>
         </tr>
     </tbody>
 </table>

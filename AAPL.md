@@ -39,65 +39,56 @@
       </tr>
     <tr>
         <td>1</td>
-        <td>Short</td>
-        <td>Aug 22 2022 Close</td>
-        <td>-22.65 %</td>
-        <td>22.65 %</td>
-        <td>22.65 %</td>
-        <td>Short HLT 217</td>
+        <td>Long</td>
+        <td>Jan 06 2023 Close</td>
+        <td>0.41 %</td>
+        <td>0.41 %</td>
+        <td>0.41 %</td>
+        <td>Long HLT 210</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Jan 06 2023 Close</td>
-        <td>0.41 %</td>
-        <td>23.06 %</td>
-        <td>23.15 %</td>
-        <td>Long HLT 210</td>
+        <td>Jan 09 2023 Close</td>
+        <td>12.11 %</td>
+        <td>12.52 %</td>
+        <td>12.57 %</td>
+        <td>Long HLT 217</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Long</td>
-        <td>Jan 09 2023 Close</td>
-        <td>12.11 %</td>
-        <td>35.17 %</td>
-        <td>38.06 %</td>
-        <td>Long HLT 217</td>
+        <td>Mar 02 2023 Close</td>
+        <td>31.13 %</td>
+        <td>43.65 %</td>
+        <td>47.61 %</td>
+        <td>Long HLT 218</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Long</td>
-        <td>Mar 02 2023 Close</td>
-        <td>31.13 %</td>
-        <td>66.29 %</td>
-        <td>81.04 %</td>
-        <td>Long HLT 218</td>
+        <td>Short</td>
+        <td>Jul 05 2023 Close</td>
+        <td>-7.20 %</td>
+        <td>50.84 %</td>
+        <td>58.23 %</td>
+        <td>Short HLT 307</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Short</td>
-        <td>Jul 05 2023 Close</td>
-        <td>-7.20 %</td>
-        <td>73.49 %</td>
-        <td>94.07 %</td>
-        <td>Short HLT 307</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>Short</td>
         <td>Sep 07 2023 Close</td>
         <td>-4.09 %</td>
-        <td>77.59 %</td>
-        <td>102.01 %</td>
+        <td>54.94 %</td>
+        <td>64.71 %</td>
         <td>Short HLT 210</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Long</td>
         <td>Oct 30 2023 Close</td>
-        <td>2.16 %</td>
-        <td>79.75 %</td>
-        <td>106.38 %</td>
+        <td>4.28 %</td>
+        <td>59.21 %</td>
+        <td>71.75 %</td>
         <td>Long HLT 213</td>
     </tr>
     
@@ -114,23 +105,23 @@
     <tbody>
         <tr>
             <td>AAPL (Buy and Hold)</td>
-            <td>2022-08-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>3.82 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-02 Close</td>
+            <td>36.99 %</td>
         </tr>
         <tr>
             <td>AAPL (HLT Cumulative % Gain)</td>
-            <td>2022-08-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>79.75 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-02 Close</td>
+            <td>59.21 %</td>
         </tr>
         <tr>
             <td>AAPL (HLT Reinvested % Gain)</td>
-            <td>2022-08-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>106.38 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-02 Close</td>
+            <td>71.75 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-08-22 Close <b>-</b> 2023-11-01 Close</td>
-            <td>2.25 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-02 Close</td>
+            <td>11.00 %</td>
         </tr>
     </tbody>
 </table>
