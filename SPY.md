@@ -62,7 +62,7 @@
         <td>-3.17 %</td>
         <td>-1.13 %</td>
         <td>-1.23 %</td>
-        <td>Long HLT 601 AMZN</td>
+        <td>Long HLT 108</td>
     </tr>
     <tr>
         <td>4</td>
@@ -122,37 +122,37 @@
         <td>10</td>
         <td>Long</td>
         <td>Mar 14 2023 Close</td>
-        <td>12.18 %</td>
-        <td>39.16 %</td>
-        <td>45.18 %</td>
+        <td>16.20 %</td>
+        <td>43.17 %</td>
+        <td>50.38 %</td>
         <td>Long HLT 600</td>
     </tr>
     <tr>
         <td>11</td>
         <td>Short</td>
-        <td>Jun 16 2023 Close</td>
-        <td>3.58 %</td>
-        <td>35.57 %</td>
-        <td>39.98 %</td>
-        <td>Short HLT 646</td>
+        <td>Jul 19 2023 Close</td>
+        <td>-0.60 %</td>
+        <td>43.77 %</td>
+        <td>51.27 %</td>
+        <td>Short HLT 605</td>
     </tr>
     <tr>
         <td>12</td>
         <td>Short</td>
-        <td>Jul 19 2023 Close</td>
-        <td>-0.60 %</td>
-        <td>36.17 %</td>
-        <td>40.81 %</td>
-        <td>Short HLT 605</td>
+        <td>Jul 27 2023 Close</td>
+        <td>-7.58 %</td>
+        <td>51.35 %</td>
+        <td>62.74 %</td>
+        <td>Short HLT 613</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Short</td>
-        <td>Jul 27 2023 Close</td>
-        <td>-4.80 %</td>
-        <td>40.97 %</td>
-        <td>47.58 %</td>
-        <td>Short HLT 613</td>
+        <td>Long</td>
+        <td>Oct 31 2023 Close</td>
+        <td>2.00 %</td>
+        <td>53.35 %</td>
+        <td>65.99 %</td>
+        <td>Long HLT 108</td>
     </tr>
     
 </table>
@@ -174,12 +174,12 @@
         <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
             <td>2022-09-28 Close <b>-</b> 2023-11-02 Close</td>
-            <td>40.97 %</td>
+            <td>53.35 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Reinvested % Gain)</td>
             <td>2022-09-28 Close <b>-</b> 2023-11-02 Close</td>
-            <td>47.58 %</td>
+            <td>65.99 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>

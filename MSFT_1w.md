@@ -95,9 +95,9 @@
         <td>7</td>
         <td>Long</td>
         <td>Nov 18 2022 Close</td>
-        <td>30.02 %</td>
-        <td>-6.37 %</td>
-        <td>-21.44 %</td>
+        <td>28.29 %</td>
+        <td>-8.11 %</td>
+        <td>-22.49 %</td>
         <td>Long HLT 111</td>
     </tr>
     
@@ -120,12 +120,12 @@
         <tr>
             <td>MSFT_1w (HLT Cumulative % Gain)</td>
             <td>2021-02-26 Close <b>-</b> 2023-09-28 Close</td>
-            <td>-6.37 %</td>
+            <td>-8.11 %</td>
         </tr>
         <tr>
             <td>MSFT_1w (HLT Reinvested % Gain)</td>
             <td>2021-02-26 Close <b>-</b> 2023-09-28 Close</td>
-            <td>-21.44 %</td>
+            <td>-22.49 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>

@@ -122,9 +122,9 @@
         <td>10</td>
         <td>Long</td>
         <td>Jan 13 2023 Close</td>
-        <td>28.39 %</td>
-        <td>-31.35 %</td>
-        <td>-47.75 %</td>
+        <td>25.40 %</td>
+        <td>-34.34 %</td>
+        <td>-48.96 %</td>
         <td>Long Newfi 000</td>
     </tr>
     
@@ -147,12 +147,12 @@
         <tr>
             <td>AMZN_1w (HLT Cumulative % Gain)</td>
             <td>2018-09-07 Close <b>-</b> 2023-09-28 Close</td>
-            <td>-31.35 %</td>
+            <td>-34.34 %</td>
         </tr>
         <tr>
             <td>AMZN_1w (HLT Reinvested % Gain)</td>
             <td>2018-09-07 Close <b>-</b> 2023-09-28 Close</td>
-            <td>-47.75 %</td>
+            <td>-48.96 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
