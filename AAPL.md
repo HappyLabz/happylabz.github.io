@@ -86,9 +86,9 @@
         <td>6</td>
         <td>Long</td>
         <td>Oct 30 2023 Close</td>
-        <td>10.07 %</td>
-        <td>57.17 %</td>
-        <td>67.62 %</td>
+        <td>10.41 %</td>
+        <td>57.51 %</td>
+        <td>68.13 %</td>
         <td>Long HLT 213</td>
     </tr>
     
@@ -105,23 +105,23 @@
     <tbody>
         <tr>
             <td>AAPL (Buy and Hold)</td>
-            <td>2023-01-06 Close <b>-</b> 2023-11-14 Close</td>
-            <td>44.61 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-15 Close</td>
+            <td>45.05 %</td>
         </tr>
         <tr>
             <td>AAPL (HLT Cumulative % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2023-11-14 Close</td>
-            <td>57.17 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-15 Close</td>
+            <td>57.51 %</td>
         </tr>
         <tr>
             <td>AAPL (HLT Reinvested % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2023-11-14 Close</td>
-            <td>67.62 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-15 Close</td>
+            <td>68.13 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2023-01-06 Close <b>-</b> 2023-11-14 Close</td>
-            <td>15.63 %</td>
+            <td>2023-01-06 Close <b>-</b> 2023-11-15 Close</td>
+            <td>15.87 %</td>
         </tr>
     </tbody>
 </table>
