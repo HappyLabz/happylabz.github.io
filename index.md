@@ -97,19 +97,11 @@
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
-<<<<<<< HEAD
     <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 189.79 as of close <br>Nov 27 2023</li>
             <li>DELTA: <b><span style="color: #b91c1c;">-0.42 (-0.22%)</span></b> as of close<br>Nov 29 2023</li>
-=======
-    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
-        <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
-        <ul>
-            <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 189.79 as of close <br>Nov 27 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">0.61 (0.32%)</span></b> as of close<br>Nov 29 2023</li>
->>>>>>> 51639913abbce955c278324b5bd5aaee3d48fcda
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
@@ -117,11 +109,7 @@
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 127.74 as of close <br>Oct 27 2023</li>
-<<<<<<< HEAD
             <li>DELTA: <b><span style="color: #167816;">18.58 (14.55%)</span></b> as of close<br>Nov 29 2023</li>
-=======
-            <li>DELTA: <b><span style="color: #167816;">19.29 (15.10%)</span></b> as of close<br>Nov 29 2023</li>
->>>>>>> 51639913abbce955c278324b5bd5aaee3d48fcda
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
@@ -129,11 +117,7 @@
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 315.75 as of close <br>Sep 29 2023</li>
-<<<<<<< HEAD
             <li>DELTA: <b><span style="color: #167816;">63.10 (19.98%)</span></b> as of close<br>Nov 29 2023</li>
-=======
-            <li>DELTA: <b><span style="color: #167816;">66.95 (21.20%)</span></b> as of close<br>Nov 29 2023</li>
->>>>>>> 51639913abbce955c278324b5bd5aaee3d48fcda
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
         </ul>
     </div>
@@ -141,24 +125,15 @@
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 218.51 as of close <br>Nov 02 2023</li>
-<<<<<<< HEAD
             <li>DELTA: <b><span style="color: #167816;">25.63 (11.73%)</span></b> as of close<br>Nov 29 2023</li>
-=======
-            <li>DELTA: <b><span style="color: #167816;">28.21 (12.91%)</span></b> as of close<br>Nov 29 2023</li>
->>>>>>> 51639913abbce955c278324b5bd5aaee3d48fcda
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
         </ul>
     </div>
     <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
-<<<<<<< HEAD
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 454.93 as of close <br>Nov 28 2023</li>
             <li>DELTA: <b><span style="color: #b91c1c;">-0.32 (-0.07%)</span></b> as of close<br>Nov 29 2023</li>
-=======
-            <li>DAY: <b><span style="color: #167816;">Long</span></b> at 418.20 as of close <br>Oct 31 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">36.73 (8.78%)</span></b> as of close<br>Nov 29 2023</li>
->>>>>>> 51639913abbce955c278324b5bd5aaee3d48fcda
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
         </ul>
     </div>
