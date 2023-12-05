@@ -39,92 +39,83 @@
       </tr>
     <tr>
         <td>1</td>
-        <td>Short</td>
-        <td>Sep 22 2022 Close</td>
-        <td>-57.79 %</td>
-        <td>57.79 %</td>
-        <td>57.79 %</td>
-        <td>Short HLT 104</td>
+        <td>Long</td>
+        <td>Dec 29 2022 Close</td>
+        <td>1.12 %</td>
+        <td>1.12 %</td>
+        <td>1.12 %</td>
+        <td>Long HLT 123</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Long</td>
-        <td>Dec 29 2022 Close</td>
-        <td>1.12 %</td>
-        <td>58.90 %</td>
-        <td>59.55 %</td>
-        <td>Long HLT 123</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Long</td>
         <td>Dec 30 2022 Close</td>
         <td>64.02 %</td>
-        <td>122.92 %</td>
-        <td>161.69 %</td>
+        <td>65.14 %</td>
+        <td>65.85 %</td>
         <td>Long HLT 105</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>3</td>
         <td>Short</td>
         <td>Feb 16 2023 Close</td>
         <td>-19.55 %</td>
-        <td>142.47 %</td>
-        <td>212.84 %</td>
+        <td>84.68 %</td>
+        <td>98.27 %</td>
         <td>Short HLT 103</td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>4</td>
         <td>Long</td>
         <td>Apr 24 2023 Close</td>
         <td>57.86 %</td>
-        <td>200.33 %</td>
-        <td>393.85 %</td>
+        <td>142.54 %</td>
+        <td>212.98 %</td>
         <td>Long HLT 147</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>5</td>
         <td>Short</td>
         <td>Jun 23 2023 Close</td>
         <td>-9.87 %</td>
-        <td>210.20 %</td>
-        <td>442.58 %</td>
+        <td>152.41 %</td>
+        <td>243.87 %</td>
         <td>Short HLT 106</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Long</td>
         <td>Aug 21 2023 Close</td>
         <td>15.23 %</td>
-        <td>225.42 %</td>
-        <td>525.21 %</td>
+        <td>167.64 %</td>
+        <td>296.23 %</td>
         <td>Long HLT 123</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>7</td>
         <td>Short</td>
         <td>Sep 19 2023 Close</td>
         <td>-20.42 %</td>
-        <td>245.85 %</td>
-        <td>652.88 %</td>
+        <td>188.06 %</td>
+        <td>377.14 %</td>
         <td>Short HLT 201</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Long</td>
+        <td>Oct 23 2023 Close</td>
+        <td>3.03 %</td>
+        <td>191.09 %</td>
+        <td>391.61 %</td>
+        <td>Long HLT 647</td>
     </tr>
     <tr>
         <td>9</td>
         <td>Long</td>
-        <td>Oct 23 2023 Close</td>
-        <td>3.03 %</td>
-        <td>248.88 %</td>
-        <td>675.70 %</td>
-        <td>Long HLT 647</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Long</td>
         <td>Nov 02 2023 Close</td>
-        <td>7.81 %</td>
-        <td>256.69 %</td>
-        <td>736.30 %</td>
+        <td>9.25 %</td>
+        <td>200.34 %</td>
+        <td>437.08 %</td>
         <td>Long HLT 108</td>
     </tr>
     
@@ -141,23 +132,23 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-12-04 Close</td>
-            <td>-18.37 %</td>
+            <td>2022-12-29 Close <b>-</b> 2023-12-05 Close</td>
+            <td>95.96 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-12-04 Close</td>
-            <td>256.69 %</td>
+            <td>2022-12-29 Close <b>-</b> 2023-12-05 Close</td>
+            <td>200.34 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-12-04 Close</td>
-            <td>736.30 %</td>
+            <td>2022-12-29 Close <b>-</b> 2023-12-05 Close</td>
+            <td>437.08 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-09-22 Close <b>-</b> 2023-12-04 Close</td>
-            <td>22.04 %</td>
+            <td>2022-12-29 Close <b>-</b> 2023-12-05 Close</td>
+            <td>19.08 %</td>
         </tr>
     </tbody>
 </table>
