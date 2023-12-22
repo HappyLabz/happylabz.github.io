@@ -101,15 +101,15 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 189.79 as of close <br>Nov 27 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">5.04 (2.66%)</span></b> as of close<br>Dec 20 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">3.81 (2.01%)</span></b> as of close<br>Dec 22 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 127.74 as of close <br>Oct 27 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">24.38 (19.09%)</span></b> as of close<br>Dec 20 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">25.68 (20.10%)</span></b> as of close<br>Dec 22 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
@@ -117,7 +117,7 @@
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 315.75 as of close <br>Sep 29 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">54.87 (17.38%)</span></b> as of close<br>Dec 20 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">58.83 (18.63%)</span></b> as of close<br>Dec 22 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
         </ul>
     </div>
@@ -125,15 +125,15 @@
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 218.51 as of close <br>Nov 02 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">28.63 (13.10%)</span></b> as of close<br>Dec 20 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">34.03 (15.57%)</span></b> as of close<br>Dec 22 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #167816;">Long</span></b> at 418.20 as of close <br>Oct 31 2023</li>
-            <li>DELTA: <b><span style="color: #167816;">50.06 (11.97%)</span></b> as of close<br>Dec 20 2023</li>
+            <li>DELTA: <b><span style="color: #167816;">55.45 (13.26%)</span></b> as of close<br>Dec 22 2023</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
         </ul>
     </div>
