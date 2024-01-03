@@ -95,6 +95,8 @@
     
 <h1 class="header"> Current Live Indicators</h1>
 
+<h3>Happy Five: <span style="color: #167816;">10.42 %</span></h3>
+
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
     <div class="box gray" onclick="location.href='{% link navigation/blocked.md %}';">
