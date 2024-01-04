@@ -163,6 +163,16 @@
             <td>55.57 %</td>
         </tr>
         <tr>
+            <td>SPY_1w (Long Only Cumulative % Gain)</td>
+            <td>2018-02-02 Close <b>-</b> 2023-09-28 Close</td>
+            <td>100.72 %</td>
+        </tr>
+        <tr>
+            <td>SPY_1w (Long Only Reinvested % Gain)</td>
+            <td>2018-02-02 Close <b>-</b> 2023-09-28 Close</td>
+            <td>131.75 %</td>
+        </tr>
+        <tr>
             <td>SPY_1w (HLT Cumulative % Gain)</td>
             <td>2018-02-02 Close <b>-</b> 2023-09-28 Close</td>
             <td>136.83 %</td>

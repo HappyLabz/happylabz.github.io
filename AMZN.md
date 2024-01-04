@@ -127,6 +127,16 @@
             <td>76.75 %</td>
         </tr>
         <tr>
+            <td>AMZN (Long Only Cumulative % Gain)</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-03 Close</td>
+            <td>80.23 %</td>
+        </tr>
+        <tr>
+            <td>AMZN (Long Only Reinvested % Gain)</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-03 Close</td>
+            <td>101.27 %</td>
+        </tr>
+        <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
             <td>2022-12-30 Close <b>-</b> 2024-01-03 Close</td>
             <td>92.57 %</td>

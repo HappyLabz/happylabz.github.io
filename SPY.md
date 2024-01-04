@@ -145,6 +145,16 @@
             <td>15.21 %</td>
         </tr>
         <tr>
+            <td>SPY (Long Only Cumulative % Gain)</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-03 Close</td>
+            <td>36.05 %</td>
+        </tr>
+        <tr>
+            <td>SPY (Long Only Reinvested % Gain)</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-03 Close</td>
+            <td>40.23 %</td>
+        </tr>
+        <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
             <td>2022-12-02 Close <b>-</b> 2024-01-03 Close</td>
             <td>54.65 %</td>

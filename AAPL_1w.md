@@ -82,6 +82,16 @@
             <td>213.65 %</td>
         </tr>
         <tr>
+            <td>AAPL_1w (Long Only Cumulative % Gain)</td>
+            <td>2018-09-21 Close <b>-</b> 2023-09-28 Close</td>
+            <td>21.79 %</td>
+        </tr>
+        <tr>
+            <td>AAPL_1w (Long Only Reinvested % Gain)</td>
+            <td>2018-09-21 Close <b>-</b> 2023-09-28 Close</td>
+            <td>20.49 %</td>
+        </tr>
+        <tr>
             <td>AAPL_1w (HLT Cumulative % Gain)</td>
             <td>2018-09-21 Close <b>-</b> 2023-09-28 Close</td>
             <td>-138.52 %</td>

@@ -136,6 +136,16 @@
             <td>95.74 %</td>
         </tr>
         <tr>
+            <td>TSLA (Long Only Cumulative % Gain)</td>
+            <td>2022-12-29 Close <b>-</b> 2024-01-03 Close</td>
+            <td>150.38 %</td>
+        </tr>
+        <tr>
+            <td>TSLA (Long Only Reinvested % Gain)</td>
+            <td>2022-12-29 Close <b>-</b> 2024-01-03 Close</td>
+            <td>239.19 %</td>
+        </tr>
+        <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
             <td>2022-12-29 Close <b>-</b> 2024-01-03 Close</td>
             <td>200.21 %</td>

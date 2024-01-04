@@ -118,6 +118,16 @@
             <td>34.97 %</td>
         </tr>
         <tr>
+            <td>MSFT_1w (Long Only Cumulative % Gain)</td>
+            <td>2021-02-26 Close <b>-</b> 2023-09-28 Close</td>
+            <td>18.07 %</td>
+        </tr>
+        <tr>
+            <td>MSFT_1w (Long Only Reinvested % Gain)</td>
+            <td>2021-02-26 Close <b>-</b> 2023-09-28 Close</td>
+            <td>14.79 %</td>
+        </tr>
+        <tr>
             <td>MSFT_1w (HLT Cumulative % Gain)</td>
             <td>2021-02-26 Close <b>-</b> 2023-09-28 Close</td>
             <td>-6.37 %</td>

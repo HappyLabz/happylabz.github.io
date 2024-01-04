@@ -109,6 +109,16 @@
             <td>62.64 %</td>
         </tr>
         <tr>
+            <td>MSFT (Long Only Cumulative % Gain)</td>
+            <td>2022-11-07 Close <b>-</b> 2024-01-03 Close</td>
+            <td>62.00 %</td>
+        </tr>
+        <tr>
+            <td>MSFT (Long Only Reinvested % Gain)</td>
+            <td>2022-11-07 Close <b>-</b> 2024-01-03 Close</td>
+            <td>74.12 %</td>
+        </tr>
+        <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
             <td>2022-11-07 Close <b>-</b> 2024-01-03 Close</td>
             <td>68.04 %</td>

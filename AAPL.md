@@ -127,6 +127,16 @@
             <td>42.15 %</td>
         </tr>
         <tr>
+            <td>AAPL (Long Only Cumulative % Gain)</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-03 Close</td>
+            <td>62.13 %</td>
+        </tr>
+        <tr>
+            <td>AAPL (Long Only Reinvested % Gain)</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-03 Close</td>
+            <td>76.09 %</td>
+        </tr>
+        <tr>
             <td>AAPL (HLT Cumulative % Gain)</td>
             <td>2023-01-06 Close <b>-</b> 2024-01-03 Close</td>
             <td>81.80 %</td>

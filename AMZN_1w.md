@@ -145,6 +145,16 @@
             <td>29.08 %</td>
         </tr>
         <tr>
+            <td>AMZN_1w (Long Only Cumulative % Gain)</td>
+            <td>2018-09-07 Close <b>-</b> 2023-09-28 Close</td>
+            <td>8.98 %</td>
+        </tr>
+        <tr>
+            <td>AMZN_1w (Long Only Reinvested % Gain)</td>
+            <td>2018-09-07 Close <b>-</b> 2023-09-28 Close</td>
+            <td>2.97 %</td>
+        </tr>
+        <tr>
             <td>AMZN_1w (HLT Cumulative % Gain)</td>
             <td>2018-09-07 Close <b>-</b> 2023-09-28 Close</td>
             <td>-31.35 %</td>

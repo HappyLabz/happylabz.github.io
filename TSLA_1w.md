@@ -136,6 +136,16 @@
             <td>1321.70 %</td>
         </tr>
         <tr>
+            <td>TSLA_1w (Long Only Cumulative % Gain)</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-28 Close</td>
+            <td>2420.63 %</td>
+        </tr>
+        <tr>
+            <td>TSLA_1w (Long Only Reinvested % Gain)</td>
+            <td>2018-10-19 Close <b>-</b> 2023-09-28 Close</td>
+            <td>6410.74 %</td>
+        </tr>
+        <tr>
             <td>TSLA_1w (HLT Cumulative % Gain)</td>
             <td>2018-10-19 Close <b>-</b> 2023-09-28 Close</td>
             <td>2536.60 %</td>
