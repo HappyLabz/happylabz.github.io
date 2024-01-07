@@ -95,8 +95,11 @@
     
 <h1 class="header"> Current Live Indicators</h1>
 
+
+<div style="display:none;">
 <h3 class="header">Happy 5:</h3>
 <h1 class="header"><span style="color: #167816;">8.03 %</span></h1>
+</div>
 
 <div class="my-data px-3 my-5 markdown-body">
     <div class="container-data">
