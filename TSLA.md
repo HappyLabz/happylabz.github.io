@@ -122,9 +122,9 @@
         <td>10</td>
         <td>Short</td>
         <td>Dec 29 2023 Close</td>
-        <td>-3.83 %</td>
-        <td>208.63 %</td>
-        <td>480.43 %</td>
+        <td>-5.44 %</td>
+        <td>210.25 %</td>
+        <td>489.46 %</td>
         <td>Short HLT 501</td>
     </tr>
     
@@ -157,12 +157,12 @@
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
             <td>2022-12-29 Close <b>-</b> 2024-01-09 Close</td>
-            <td>208.63 %</td>
+            <td>210.25 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
             <td>2022-12-29 Close <b>-</b> 2024-01-09 Close</td>
-            <td>480.43 %</td>
+            <td>489.46 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
