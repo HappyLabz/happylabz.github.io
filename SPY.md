@@ -122,9 +122,15 @@
         <td>10</td>
         <td>Short</td>
         <td>Dec 21 2023 Close</td>
+<<<<<<< HEAD
+        <td>1.00 %</td>
+        <td>53.32 %</td>
+        <td>65.82 %</td>
+=======
         <td>0.25 %</td>
         <td>54.08 %</td>
         <td>67.08 %</td>
+>>>>>>> 85979d19e8af3fe88c5f3048134a0b25e9cd59ee
         <td>Short HLT 648</td>
     </tr>
     
@@ -141,21 +147,30 @@
     <tbody>
         <tr>
             <td>SPY (Buy and Hold)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
-            <td>16.46 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
+            <td>17.12 %</td>
         </tr>
         <tr>
             <td>SPY (Long Only Cumulative % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
             <td>36.05 %</td>
         </tr>
         <tr>
             <td>SPY (Long Only Reinvested % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
             <td>40.23 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
+<<<<<<< HEAD
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
+            <td>53.32 %</td>
+        </tr>
+        <tr>
+            <td>SPY (HLT Reinvested % Gain)</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
+            <td>65.82 %</td>
+=======
             <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
             <td>54.08 %</td>
         </tr>
@@ -163,11 +178,12 @@
             <td>SPY (HLT Reinvested % Gain)</td>
             <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
             <td>67.08 %</td>
+>>>>>>> 85979d19e8af3fe88c5f3048134a0b25e9cd59ee
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-01-09 Close</td>
-            <td>16.46 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-01-10 Close</td>
+            <td>17.12 %</td>
         </tr>
     </tbody>
 </table>

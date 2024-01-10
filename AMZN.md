@@ -104,9 +104,9 @@
         <td>8</td>
         <td>Long</td>
         <td>Oct 27 2023 Close</td>
-        <td>18.50 %</td>
-        <td>94.84 %</td>
-        <td>130.74 %</td>
+        <td>20.35 %</td>
+        <td>96.69 %</td>
+        <td>134.33 %</td>
         <td>Long HLT 361</td>
     </tr>
     
@@ -123,33 +123,33 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>80.20 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>83.01 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>82.50 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>84.35 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>105.20 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>108.40 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>94.84 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>96.69 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>130.74 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>134.33 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-09 Close</td>
-            <td>23.91 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-10 Close</td>
+            <td>24.61 %</td>
         </tr>
     </tbody>
 </table>
