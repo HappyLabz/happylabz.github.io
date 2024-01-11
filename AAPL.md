@@ -104,15 +104,9 @@
         <td>8</td>
         <td>Short</td>
         <td>Nov 27 2023 Close</td>
-<<<<<<< HEAD
-        <td>-1.79 %</td>
-        <td>81.52 %</td>
-        <td>112.13 %</td>
-=======
-        <td>-2.45 %</td>
-        <td>82.19 %</td>
-        <td>113.51 %</td>
->>>>>>> 85979d19e8af3fe88c5f3048134a0b25e9cd59ee
+        <td>-1.90 %</td>
+        <td>81.63 %</td>
+        <td>112.36 %</td>
         <td>Short HLT 217</td>
     </tr>
     
@@ -144,23 +138,13 @@
         </tr>
         <tr>
             <td>AAPL (HLT Cumulative % Gain)</td>
-<<<<<<< HEAD
             <td>2023-01-06 Close <b>-</b> 2024-01-10 Close</td>
-            <td>81.52 %</td>
+            <td>81.63 %</td>
         </tr>
         <tr>
             <td>AAPL (HLT Reinvested % Gain)</td>
             <td>2023-01-06 Close <b>-</b> 2024-01-10 Close</td>
-            <td>112.13 %</td>
-=======
-            <td>2023-01-06 Close <b>-</b> 2024-01-09 Close</td>
-            <td>82.19 %</td>
-        </tr>
-        <tr>
-            <td>AAPL (HLT Reinvested % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-09 Close</td>
-            <td>113.51 %</td>
->>>>>>> 85979d19e8af3fe88c5f3048134a0b25e9cd59ee
+            <td>112.36 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
