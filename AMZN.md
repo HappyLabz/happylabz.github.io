@@ -44,7 +44,7 @@
         <td>21.64 %</td>
         <td>21.64 %</td>
         <td>21.64 %</td>
-        <td>Long HLT 344</td>
+        <td>Long HLT 345</td>
     </tr>
     <tr>
         <td>2</td>
@@ -104,9 +104,9 @@
         <td>8</td>
         <td>Long</td>
         <td>Oct 27 2023 Close</td>
-        <td>21.48 %</td>
-        <td>97.82 %</td>
-        <td>136.54 %</td>
+        <td>21.04 %</td>
+        <td>97.38 %</td>
+        <td>135.69 %</td>
         <td>Long HLT 361</td>
     </tr>
     
@@ -123,33 +123,33 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>84.74 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>84.07 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>85.48 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>85.04 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>110.37 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>109.61 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>97.82 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>97.38 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>136.54 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>135.69 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-11 Close</td>
-            <td>24.56 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-12 Close</td>
+            <td>24.65 %</td>
         </tr>
     </tbody>
 </table>
