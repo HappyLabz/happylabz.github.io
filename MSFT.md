@@ -77,9 +77,9 @@
         <td>5</td>
         <td>Long</td>
         <td>Sep 29 2023 Close</td>
-        <td>27.49 %</td>
-        <td>79.45 %</td>
-        <td>102.11 %</td>
+        <td>28.22 %</td>
+        <td>80.18 %</td>
+        <td>103.27 %</td>
         <td>Long HLT 508</td>
     </tr>
     
@@ -96,33 +96,33 @@
     <tbody>
         <tr>
             <td>MSFT (Buy and Hold)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>78.97 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>80.00 %</td>
         </tr>
         <tr>
             <td>MSFT (Long Only Cumulative % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>73.41 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>74.14 %</td>
         </tr>
         <tr>
             <td>MSFT (Long Only Reinvested % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>91.61 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>92.71 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Cumulative % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>79.45 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>80.18 %</td>
         </tr>
         <tr>
             <td>MSFT (HLT Reinvested % Gain)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>102.11 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>103.27 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2023-01-06 Close <b>-</b> 2024-01-24 Close</td>
-            <td>25.07 %</td>
+            <td>2023-01-06 Close <b>-</b> 2024-01-25 Close</td>
+            <td>25.75 %</td>
         </tr>
     </tbody>
 </table>
