@@ -44,7 +44,7 @@
         <td>21.64 %</td>
         <td>21.64 %</td>
         <td>21.64 %</td>
-        <td>Long HLT 345</td>
+        <td>Long HLT 344</td>
     </tr>
     <tr>
         <td>2</td>
@@ -104,10 +104,19 @@
         <td>8</td>
         <td>Long</td>
         <td>Oct 27 2023 Close</td>
-        <td>24.47 %</td>
-        <td>100.81 %</td>
-        <td>142.37 %</td>
+        <td>21.50 %</td>
+        <td>97.84 %</td>
+        <td>136.57 %</td>
         <td>Long HLT 361</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Short</td>
+        <td>Jan 31 2024 Close</td>
+        <td>0.00 %</td>
+        <td>97.84 %</td>
+        <td>136.57 %</td>
+        <td>Short HLT 310 AAPL</td>
     </tr>
     
 </table>
@@ -123,33 +132,33 @@
     <tbody>
         <tr>
             <td>AMZN (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>89.29 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>84.76 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>88.47 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>85.50 %</td>
         </tr>
         <tr>
             <td>AMZN (Long Only Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>115.55 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>110.40 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Cumulative % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>100.81 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>97.84 %</td>
         </tr>
         <tr>
             <td>AMZN (HLT Reinvested % Gain)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>142.37 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>136.57 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-30 Close <b>-</b> 2024-01-30 Close</td>
-            <td>28.36 %</td>
+            <td>2022-12-30 Close <b>-</b> 2024-01-31 Close</td>
+            <td>26.27 %</td>
         </tr>
     </tbody>
 </table>
