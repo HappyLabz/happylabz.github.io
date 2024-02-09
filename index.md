@@ -97,7 +97,7 @@
 
 <div style="display:none;">
 <h3 class="header">Happy 5:</h3>
-<h1 class="header"><span style="color: #167816;">2.13 %</span></h1>
+<h1 class="header"><span style="color: #167816;">0.72 %</span></h1>
 </div>
 
 <div class="my-data px-3 my-5 markdown-body">
@@ -106,15 +106,15 @@
         <h2 id="aapl"><a href="{% link navigation/blocked.md %}">AAPL</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 189.79 as of close <br>Nov 27 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-1.47 (-0.77%)</span></b> as of close<br>Feb 08 2024</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-0.94 (-0.50%)</span></b> as of close<br>Feb 09 2024</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 134.76 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
-    <div class="box gray atUpperPriceLine atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
+    <div class="box gray atLowerPriceLine" onclick="location.href='{% link navigation/blocked.md %}';">
         <h2 id="amzn"><a href="{% link navigation/blocked.md %}">AMZN</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 155.20 as of close <br>Jan 31 2024</li>
-            <li>DELTA: <b><span style="color: #167816;">14.64 (9.43%)</span></b> as of close<br>Feb 08 2024</li>
+            <li>DELTA: <b><span style="color: #167816;">19.25 (12.40%)</span></b> as of close<br>Feb 09 2024</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 98.12 as of close <br>Jan 13 2023</li>-->
         </ul>
     </div>
@@ -122,7 +122,7 @@
         <h2 id="msft"><a href="{% link navigation/blocked.md %}">MSFT</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 403.78 as of close <br>Feb 01 2024</li>
-            <li>DELTA: <b><span style="color: #167816;">10.33 (2.56%)</span></b> as of close<br>Feb 08 2024</li>
+            <li>DELTA: <b><span style="color: #167816;">16.77 (4.15%)</span></b> as of close<br>Feb 09 2024</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 241.22 as of close <br>Nov 18 2022</li>-->
         </ul>
     </div>
@@ -130,7 +130,7 @@
         <h2 id="tsla"><a href="{% link TSLA.md %}">TSLA <span style="color:#0369a1;">&bigstar;</span></a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 248.48 as of close <br>Dec 29 2023</li>
-            <li>DELTA: <b><span style="color: #b91c1c;">-58.92 (-23.71%)</span></b> as of close<br>Feb 08 2024</li>
+            <li>DELTA: <b><span style="color: #b91c1c;">-54.91 (-22.10%)</span></b> as of close<br>Feb 09 2024</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 177.90 as of close <br>Jan 27 2023</li>-->
         </ul>
     </div>
@@ -138,7 +138,7 @@
         <h2 id="spy"><a href="{% link navigation/blocked.md %}">SPY</a></h2>
         <ul>
             <li>DAY: <b><span style="color: #b91c1c;">Short</span></b> at 489.20 as of close <br>Feb 01 2024</li>
-            <li>DELTA: <b><span style="color: #167816;">9.12 (1.86%)</span></b> as of close<br>Feb 08 2024</li>
+            <li>DELTA: <b><span style="color: #167816;">12.00 (2.45%)</span></b> as of close<br>Feb 09 2024</li>
             <!--<li>WEEK: <b><span style="color: #167816;">Long</span></b> at 374.29 as of close <br>Oct 21 2022</li>-->
         </ul>
     </div>
