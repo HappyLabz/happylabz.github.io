@@ -131,10 +131,28 @@
         <td>11</td>
         <td>Short</td>
         <td>Feb 01 2024 Close</td>
-        <td>2.45 %</td>
-        <td>48.38 %</td>
-        <td>57.69 %</td>
+        <td>2.41 %</td>
+        <td>48.43 %</td>
+        <td>57.76 %</td>
         <td>Short HLT 648</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Short</td>
+        <td>Feb 12 2024 Close</td>
+        <td>-1.38 %</td>
+        <td>49.81 %</td>
+        <td>59.93 %</td>
+        <td>Short HLT 605</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Short</td>
+        <td>Feb 13 2024 Close</td>
+        <td>1.61 %</td>
+        <td>48.20 %</td>
+        <td>57.37 %</td>
+        <td>Short HLT 613</td>
     </tr>
     
 </table>
@@ -150,33 +168,33 @@
     <tbody>
         <tr>
             <td>SPY (Buy and Hold)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
-            <td>23.17 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
+            <td>23.37 %</td>
         </tr>
         <tr>
             <td>SPY (Long Only Cumulative % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
             <td>36.05 %</td>
         </tr>
         <tr>
             <td>SPY (Long Only Reinvested % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
             <td>40.23 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Cumulative % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
-            <td>48.38 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
+            <td>48.20 %</td>
         </tr>
         <tr>
             <td>SPY (HLT Reinvested % Gain)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
-            <td>57.69 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
+            <td>57.37 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-02 Close <b>-</b> 2024-02-09 Close</td>
-            <td>23.17 %</td>
+            <td>2022-12-02 Close <b>-</b> 2024-02-15 Close</td>
+            <td>23.37 %</td>
         </tr>
     </tbody>
 </table>

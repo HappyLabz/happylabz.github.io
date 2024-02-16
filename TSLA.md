@@ -71,7 +71,7 @@
         <td>57.86 %</td>
         <td>142.54 %</td>
         <td>212.98 %</td>
-        <td>Long HLT 147</td>
+        <td>Long HLT 647</td>
     </tr>
     <tr>
         <td>5</td>
@@ -116,16 +116,25 @@
         <td>13.72 %</td>
         <td>204.80 %</td>
         <td>459.04 %</td>
-        <td>Long HLT 105</td>
+        <td>Long HLT 108</td>
     </tr>
     <tr>
         <td>10</td>
         <td>Short</td>
         <td>Dec 29 2023 Close</td>
-        <td>-22.10 %</td>
-        <td>226.90 %</td>
-        <td>582.58 %</td>
+        <td>-22.90 %</td>
+        <td>227.70 %</td>
+        <td>587.03 %</td>
         <td>Short HLT 501</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Long</td>
+        <td>Jan 30 2024 Close</td>
+        <td>4.62 %</td>
+        <td>232.32 %</td>
+        <td>618.80 %</td>
+        <td>Long HLT 301</td>
     </tr>
     
 </table>
@@ -141,33 +150,33 @@
     <tbody>
         <tr>
             <td>TSLA (Buy and Hold)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>58.90 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>64.55 %</td>
         </tr>
         <tr>
             <td>TSLA (Long Only Cumulative % Gain)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>154.97 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>159.60 %</td>
         </tr>
         <tr>
             <td>TSLA (Long Only Reinvested % Gain)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>253.46 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>269.80 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Cumulative % Gain)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>226.90 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>232.32 %</td>
         </tr>
         <tr>
             <td>TSLA (HLT Reinvested % Gain)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>582.58 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>618.80 %</td>
         </tr>
         <tr>
             <td>S&P 500 (Buy and Hold)</td>
-            <td>2022-12-29 Close <b>-</b> 2024-02-09 Close</td>
-            <td>30.71 %</td>
+            <td>2022-12-29 Close <b>-</b> 2024-02-15 Close</td>
+            <td>30.92 %</td>
         </tr>
     </tbody>
 </table>
