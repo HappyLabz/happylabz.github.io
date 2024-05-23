@@ -170,10 +170,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -194,10 +194,10 @@ Total Points Downs: -1.80 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.57</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.91</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.60</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.57</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.26</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.60</code> <br />
 
 
 </details>
@@ -218,10 +218,10 @@ Total Points Downs: -1.89 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.57</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.91</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.69</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.57</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.35</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.69</code> <br />
 
 
 </details>
@@ -242,10 +242,10 @@ Total Points Downs: -2.25 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.91</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.25</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -2.05</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.91</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.71</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -2.05</code> <br />
 
 
 </details>
@@ -266,10 +266,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -290,10 +290,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -314,10 +314,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -338,10 +338,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -362,10 +362,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -386,10 +386,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -410,10 +410,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -434,10 +434,10 @@ Total Points Downs: -1.79 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: 0.20</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.45</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -0.79</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.59</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:54:00		Total Position Time: 14:00		Total Move Up: -0.65		Total to Date: -0.65</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:34:00		Total Position Time: 14:00		Total Move Up: 0.20		Total to Date: -0.45</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:49:00		Total Position Time: 14:00		Total Move Up: -0.80		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:59:00		Total Position Time: 14:00		Total Move Up: -0.34		Total to Date: -1.59</code> <br />
 
 
 </details>
@@ -458,10 +458,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -482,10 +482,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.53</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.06</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.75</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -0.53</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.22</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.75</code> <br />
 
 
 </details>
@@ -506,10 +506,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.53</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.33</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -2.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -0.53</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -2.11</code> <br />
 
 
 </details>
@@ -530,10 +530,10 @@ Total Points Downs: -2.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.87</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -0.87</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -1.05</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.12</code> <br />
 
 
 </details>
@@ -554,10 +554,10 @@ Total Points Downs: -2.65 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.31</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.23</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.41</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -1.31</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -1.49</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.41</code> <br />
 
 
 </details>
@@ -578,10 +578,10 @@ Total Points Downs: -2.65 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.31</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.23</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.41</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -1.31</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -1.49</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.41</code> <br />
 
 
 </details>
@@ -602,10 +602,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -626,10 +626,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -650,10 +650,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -674,10 +674,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -698,10 +698,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -722,10 +722,10 @@ Total Points Downs: -3.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: 0.24</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.02</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -2.94</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:49:00		Total Position Time: 29:00		Total Move Up: 0.24		Total to Date: -2.02</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:04:00		Total Position Time: 29:00		Total Move Up: -0.18		Total to Date: -2.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:14:00		Total Position Time: 29:00		Total Move Up: -0.92		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -746,10 +746,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -770,10 +770,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -794,10 +794,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -818,10 +818,10 @@ Total Points Downs: -3.10 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.72</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -1.65</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.72</code> <br />
 
 
 </details>
@@ -842,10 +842,10 @@ Total Points Downs: -3.76 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -3.38</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.09</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.38</code> <br />
 
 
 </details>
@@ -866,10 +866,10 @@ Total Points Downs: -3.76 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -3.38</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.09</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.38</code> <br />
 
 
 </details>
@@ -890,10 +890,10 @@ Total Points Downs: -4.47 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.17</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -4.09</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.80</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -4.09</code> <br />
 
 
 </details>
@@ -914,10 +914,10 @@ Total Points Downs: -4.47 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.17</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -4.09</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.80</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -4.09</code> <br />
 
 
 </details>
@@ -938,10 +938,10 @@ Total Points Downs: -4.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.23</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -4.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.86</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -4.15</code> <br />
 
 
 </details>
@@ -962,10 +962,10 @@ Total Points Downs: -3.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -0.76</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.05</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -1.14</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.76</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -1.68</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.97</code> <br />
 
 
 </details>
@@ -986,10 +986,10 @@ Total Points Downs: -3.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -0.76</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.05</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -1.14</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.76</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -1.68</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.97</code> <br />
 
 
 </details>
@@ -1010,10 +1010,10 @@ Total Points Downs: -3.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -0.76</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.05</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -2.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:24:00		Total Position Time: 44:00		Total Move Up: -1.14		Total to Date: -1.14</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.76</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:19:00		Total Position Time: 44:00		Total Move Up: -0.92		Total to Date: -1.68</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.97</code> <br />
 
 
 </details>
@@ -1034,10 +1034,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -1058,10 +1058,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -1082,10 +1082,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -1106,10 +1106,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -1130,10 +1130,10 @@ Total Points Downs: -3.69 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -3.31</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -2.02</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.31</code> <br />
 
 
 </details>
@@ -1154,10 +1154,10 @@ Total Points Downs: -3.50 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -2.27</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -3.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -2.02</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -3.12</code> <br />
 
 
 </details>
@@ -1178,10 +1178,10 @@ Total Points Downs: -4.21 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -2.98</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -3.83</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -2.73</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -3.83</code> <br />
 
 
 </details>
@@ -1202,10 +1202,10 @@ Total Points Downs: -4.21 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -2.98</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -3.83</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -2.73</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -3.83</code> <br />
 
 
 </details>
@@ -1226,10 +1226,10 @@ Total Points Downs: -4.27 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -3.04</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -3.89</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -2.79</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -3.89</code> <br />
 
 
 </details>
@@ -1250,10 +1250,10 @@ Total Points Downs: -2.27 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: 0.06</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.04</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -1.89</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: -0.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.06</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -0.79</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.89</code> <br />
 
 
 </details>
@@ -1274,10 +1274,10 @@ Total Points Downs: -2.27 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: 0.06</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.04</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -1.89</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: -0.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.06</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -0.79</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.89</code> <br />
 
 
 </details>
@@ -1298,10 +1298,10 @@ Total Points Downs: -2.27 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: 0.06</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.04</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -1.89</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:39:00		Total Position Time: 59:00		Total Move Up: -0.32		Total to Date: -0.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.06</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:34:00		Total Position Time: 59:00		Total Move Up: -0.85		Total to Date: -0.79</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:44:00		Total Position Time: 59:00		Total Move Up: -1.10		Total to Date: -1.89</code> <br />
 
 
 </details>
@@ -1322,10 +1322,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -1346,10 +1346,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -1370,10 +1370,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -1394,10 +1394,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -1418,10 +1418,10 @@ Total Points Downs: -2.92 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -2.54</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.54</code> <br />
 
 
 </details>
@@ -1442,10 +1442,10 @@ Total Points Downs: -3.13 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -2.75</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.25</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.75</code> <br />
 
 
 </details>
@@ -1466,10 +1466,10 @@ Total Points Downs: -4.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.96</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.85</code> <br />
 
 
 </details>
@@ -1490,10 +1490,10 @@ Total Points Downs: -4.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.96</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.85</code> <br />
 
 
 </details>
@@ -1514,10 +1514,10 @@ Total Points Downs: -4.29 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.83</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.91</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -2.02</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.91</code> <br />
 
 
 </details>
@@ -1538,10 +1538,10 @@ Total Points Downs: -3.47 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.12</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.01</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.09</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.50</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.12</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.09</code> <br />
 
 
 </details>
@@ -1562,10 +1562,10 @@ Total Points Downs: -3.47 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.12</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.01</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.09</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.50</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.12</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.09</code> <br />
 
 
 </details>
@@ -1586,10 +1586,10 @@ Total Points Downs: -3.47 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.12</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.01</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -3.09</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:54:00		Total Position Time: 74:00		Total Move Up: -1.50		Total to Date: -1.50</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.12</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:49:00		Total Position Time: 74:00		Total Move Up: -0.08		Total to Date: -1.20</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:59:00		Total Position Time: 74:00		Total Move Up: -1.89		Total to Date: -3.09</code> <br />
 
 
 </details>
@@ -1610,10 +1610,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -1634,10 +1634,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -1658,10 +1658,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -1682,10 +1682,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -1706,10 +1706,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -1730,10 +1730,10 @@ Total Points Downs: -4.33 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.95</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -3.95</code> <br />
 
 
 </details>
@@ -1754,10 +1754,10 @@ Total Points Downs: -5.43 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.05</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.16</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -5.05</code> <br />
 
 
 </details>
@@ -1778,10 +1778,10 @@ Total Points Downs: -5.61 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.23</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.16</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -5.23</code> <br />
 
 
 </details>
@@ -1802,10 +1802,10 @@ Total Points Downs: -5.84 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.46</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.22</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.46</code> <br />
 
 
 </details>
@@ -1826,10 +1826,10 @@ Total Points Downs: -6.28 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.62</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.90</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.66</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.90</code> <br />
 
 
 </details>
@@ -1850,10 +1850,10 @@ Total Points Downs: -6.30 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.64</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.92</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.68</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.92</code> <br />
 
 
 </details>
@@ -1874,10 +1874,10 @@ Total Points Downs: -6.36 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:09:00		Total Position Time: 89:00		Total Move Up: -2.84		Total to Date: -2.46</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.70</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -5.98</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:09:00		Total Position Time: 89:00		Total Move Up: -2.84		Total to Date: -2.84</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.46</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.98</code> <br />
 
 
 </details>
@@ -1898,10 +1898,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -1922,10 +1922,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -1946,10 +1946,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -1970,10 +1970,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -1994,10 +1994,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -2018,10 +2018,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -2042,10 +2042,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -3.26</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -2066,10 +2066,10 @@ Total Points Downs: -5.71 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -5.33</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -3.26</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -5.33</code> <br />
 
 
 </details>
@@ -2090,10 +2090,10 @@ Total Points Downs: -5.94 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -5.56</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -3.32</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.56</code> <br />
 
 
 </details>
@@ -2114,10 +2114,10 @@ Total Points Downs: -6.48 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -4.72</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -6.10</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -3.76</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -6.10</code> <br />
 
 
 </details>
@@ -2138,10 +2138,10 @@ Total Points Downs: -6.50 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -4.74</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -6.12</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -6.12</code> <br />
 
 
 </details>
@@ -2162,10 +2162,10 @@ Total Points Downs: -6.95 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -5.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -6.57</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:19:00		Total Position Time: 104:00		Total Move Up: -1.38		Total to Date: -4.23</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:29:00		Total Position Time: 104:00		Total Move Up: -2.34		Total to Date: -6.57</code> <br />
 
 
 </details>
@@ -2186,10 +2186,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -2210,10 +2210,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -2234,10 +2234,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -2258,10 +2258,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -2282,10 +2282,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -2306,10 +2306,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -2330,10 +2330,10 @@ Total Points Downs: -5.08 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.70</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -4.70</code> <br />
 
 
 </details>
@@ -2354,10 +2354,10 @@ Total Points Downs: -5.26 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.88</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -4.88</code> <br />
 
 
 </details>
@@ -2378,10 +2378,10 @@ Total Points Downs: -5.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.87</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.11</code> <br />
 
 
 </details>
@@ -2402,10 +2402,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.22</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -2426,10 +2426,10 @@ Total Points Downs: -5.55 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.24</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.17</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.33</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.17</code> <br />
 
 
 </details>
@@ -2450,10 +2450,10 @@ Total Points Downs: -6.00 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.69</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.62</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.62</code> <br />
 
 
 </details>
@@ -2474,10 +2474,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -2498,10 +2498,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -2522,10 +2522,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -2546,10 +2546,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -2570,10 +2570,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -2594,10 +2594,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -2618,10 +2618,10 @@ Total Points Downs: -5.08 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.70</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -4.70</code> <br />
 
 
 </details>
@@ -2642,10 +2642,10 @@ Total Points Downs: -5.26 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.88</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -4.88</code> <br />
 
 
 </details>
@@ -2666,10 +2666,10 @@ Total Points Downs: -5.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.87</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.11</code> <br />
 
 
 </details>
@@ -2690,10 +2690,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.22</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -2714,10 +2714,10 @@ Total Points Downs: -5.55 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.24</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.17</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.33</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.17</code> <br />
 
 
 </details>
@@ -2738,10 +2738,10 @@ Total Points Downs: -6.00 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.69</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.62</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.62</code> <br />
 
 
 </details>
@@ -2762,10 +2762,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -2786,10 +2786,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -2810,10 +2810,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -2834,10 +2834,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -2858,10 +2858,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -2882,10 +2882,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -2906,10 +2906,10 @@ Total Points Downs: -5.08 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.70</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -4.70</code> <br />
 
 
 </details>
@@ -2930,10 +2930,10 @@ Total Points Downs: -5.26 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.88</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -4.88</code> <br />
 
 
 </details>
@@ -2954,10 +2954,10 @@ Total Points Downs: -5.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.87</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.11</code> <br />
 
 
 </details>
@@ -2978,10 +2978,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.22</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -3002,10 +3002,10 @@ Total Points Downs: -5.55 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.24</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.17</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.33</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.17</code> <br />
 
 
 </details>
@@ -3026,10 +3026,10 @@ Total Points Downs: -6.00 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.69</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.62</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.62</code> <br />
 
 
 </details>
@@ -3050,10 +3050,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -3074,10 +3074,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -3098,10 +3098,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -3122,10 +3122,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -3146,10 +3146,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -3170,10 +3170,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -3194,10 +3194,10 @@ Total Points Downs: -5.08 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.70</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -4.70</code> <br />
 
 
 </details>
@@ -3218,10 +3218,10 @@ Total Points Downs: -5.26 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.88</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -4.88</code> <br />
 
 
 </details>
@@ -3242,10 +3242,10 @@ Total Points Downs: -5.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.87</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.11</code> <br />
 
 
 </details>
@@ -3266,10 +3266,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.22</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -3290,10 +3290,10 @@ Total Points Downs: -5.55 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.24</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.17</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.33</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.17</code> <br />
 
 
 </details>
@@ -3314,10 +3314,10 @@ Total Points Downs: -6.00 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.69</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.62</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.62</code> <br />
 
 
 </details>
@@ -3338,10 +3338,10 @@ Total Points Downs: -1.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -0.43</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -1.20</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.49</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -1.24</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:22:00		Total Position Time: 02:00		Total Move Up: -0.43		Total to Date: -1.20</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:37:00		Total Position Time: 02:00		Total Move Up: 0.25		Total to Date: -0.95</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 09:55:00		Total Position Time: 10:00		Total Move Up: -0.29		Total to Date: -1.24</code> <br />
 
 
 </details>
@@ -3362,10 +3362,10 @@ Total Points Downs: -1.99 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -0.92</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.61</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:42:00		Total Position Time: 07:00		Total Move Up: -0.69		Total to Date: -1.08</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:01:00		Total Position Time: 16:00		Total Move Up: -0.53		Total to Date: -1.61</code> <br />
 
 
 </details>
@@ -3386,10 +3386,10 @@ Total Points Downs: -2.35 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.39</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.19</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.97</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:42:00		Total Position Time: 02:00		Total Move Up: -0.77		Total to Date: -0.77</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.39</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 08:43:00		Total Position Time: 08:00		Total Move Up: -0.78		Total to Date: -1.17</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:05:00		Total Position Time: 20:00		Total Move Up: -0.80		Total to Date: -1.97</code> <br />
 
 
 </details>
@@ -3410,10 +3410,10 @@ Total Points Downs: -3.23 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -0.73</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -1.80</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -2.85</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 09:45:00		Total Position Time: 05:00		Total Move Up: -1.11		Total to Date: -1.11</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -0.73</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 09:20:00		Total Position Time: 45:00		Total Move Up: -1.05		Total to Date: -1.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:10:00		Total Position Time: 25:00		Total Move Up: -1.07		Total to Date: -2.85</code> <br />
 
 
 </details>
@@ -3434,10 +3434,10 @@ Total Points Downs: -4.12 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -2.46</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -3.74</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:04:00		Total Position Time: 89:00		Total Move Up: -1.28		Total to Date: -2.45</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:29:00		Total Position Time: 44:00		Total Move Up: -1.29		Total to Date: -3.74</code> <br />
 
 
 </details>
@@ -3458,10 +3458,10 @@ Total Points Downs: -4.78 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.17</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -2.67</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -4.40</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:07:00		Total Position Time: 27:00		Total Move Up: -1.55		Total to Date: -1.55</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.17</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:07:00		Total Position Time: 92:00		Total Move Up: -1.73		Total to Date: -2.90</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:49:00		Total Position Time: 64:00		Total Move Up: -1.50		Total to Date: -4.40</code> <br />
 
 
 </details>
@@ -3482,10 +3482,10 @@ Total Points Downs: -5.08 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -3.77</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.70</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 10:54:00		Total Position Time: 69:00		Total Move Up: -1.89		Total to Date: -4.70</code> <br />
 
 
 </details>
@@ -3506,10 +3506,10 @@ Total Points Downs: -5.26 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -1.88</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -3.95</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -4.88</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:09:00		Total Position Time: 29:00		Total Move Up: -2.26		Total to Date: -2.26</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.88</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.81</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:01:00		Total Position Time: 76:00		Total Move Up: -2.07		Total to Date: -4.88</code> <br />
 
 
 </details>
@@ -3530,10 +3530,10 @@ Total Points Downs: -5.49 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -1.94</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -4.18</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.11</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 10:10:00		Total Position Time: 30:00		Total Move Up: -2.32		Total to Date: -2.32</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -1.94</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -2.87</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:14:00		Total Position Time: 89:00		Total Move Up: -2.24		Total to Date: -5.11</code> <br />
 
 
 </details>
@@ -3554,10 +3554,10 @@ Total Points Downs: -5.53 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.38</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.22</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.15</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:06:00		Total Position Time: 86:00		Total Move Up: -2.76		Total to Date: -2.76</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.38</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.31</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.15</code> <br />
 
 
 </details>
@@ -3578,10 +3578,10 @@ Total Points Downs: -5.55 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.40</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.24</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.17</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:08:00		Total Position Time: 88:00		Total Move Up: -2.78		Total to Date: -2.78</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.40</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.33</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.17</code> <br />
 
 
 </details>
@@ -3602,10 +3602,10 @@ Total Points Downs: -6.00 Count Downs: 3
 
 <details><summary>Trades</summary>
 
-<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: 0.38</code> <br />
-<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -2.85</code> <br />
-<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -4.69</code> <br />
-<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -5.62</code> <br />
+<code>In: 2024-04-29 09:40:00		Out: 2024-04-29 11:12:00		Total Position Time: 92:00		Total Move Up: -3.23		Total to Date: -3.23</code> <br />
+<code>In: 2024-01-19 12:20:00		Out: 2024-01-19 12:50:00		Total Position Time: 30:00		Total Move Up: 0.38		Total to Date: -2.85</code> <br />
+<code>In: 2024-03-18 08:35:00		Out: 2024-03-18 10:34:00		Total Position Time: 119:00		Total Move Up: -0.93		Total to Date: -3.78</code> <br />
+<code>In: 2024-05-17 09:45:00		Out: 2024-05-17 11:44:00		Total Position Time: 119:00		Total Move Up: -1.84		Total to Date: -5.62</code> <br />
 
 
 </details>
