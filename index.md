@@ -93,18 +93,11 @@
     }
 </style>
     
-<h1 class="header"> Current Live Indicators</h1>
+<h1 class="header"> HappyLabz Technologies</h1>
+
+This page under development.
 
 <div style="display:none;">
 <h3 class="header">Happy 5:</h3>
 <h1 class="header"><span style="color: #b91c1c;">-2.09 %</span></h1>
-</div>
-
-<div class="my-data px-3 my-5 markdown-body">
-    <div class="box gray" onclick="location.href='{% link NEXT.md %}';">
-        <h2 id="UNK"><a href="{% link NEXT.md %}">Pick a Ticker</a></h2>
-        <ul>
-            <li> Financial Professionals can request  <a href="{% link secret.md %}">HappyLabz</a> Technologies software for any Stock or ETF.</li>
-        </ul>
-    </div>
 </div>
